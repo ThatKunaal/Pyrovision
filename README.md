@@ -40,8 +40,8 @@
 
 # 👥 Team Blaze Core
 
-| Member | Role |
-|---|---|
+| Member | Role | Contribution | Email
+|---|---|---|---|
 | **Kunal Kumar Vishwakarma** | Team Leader | Backend, Frontend & PPT | kunalvishwa123@gmail.com
 | **Sanjeet** | Team Member | Dataset Researcher | codersanjeet07@gmail.com
 | **Harsh Goyal** | Team Member | Frontend | harshgoyal89200@gmail.com
