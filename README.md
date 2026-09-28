@@ -786,19 +786,6 @@ Pyrovision attempts to reduce these limitations through:
 
 ---
 
-# 👥 Team Blaze Core
-
-| Member | Role |
-|---|---|
-| **Kunal Kumar Vishwakarma** | Team Leader |
-| **Sanjeet** | Team Member |
-| **Harsh Goyal** | Team Member |
-| **Anjali Rout** | Team Member |
-| **Yash Kumar** | Team Member |
-| **Yashika Chandra** | Team Member |
-
----
-
 # 🙏 Credits
 
 ### Frontend Foundation
