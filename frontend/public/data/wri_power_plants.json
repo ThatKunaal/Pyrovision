@@ -1,0 +1,6029 @@
+[
+  {
+    "name": "ACME Solar Tower",
+    "capacity_mw": 2.5,
+    "latitude": 28.1839,
+    "longitude": 73.2407,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "ADITYA CEMENT WORKS",
+    "capacity_mw": 98,
+    "latitude": 24.7663,
+    "longitude": 74.609,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "AES Saurashtra Windfarms",
+    "capacity_mw": 39.2,
+    "latitude": 21.9038,
+    "longitude": 69.3732,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "AGARTALA GT",
+    "capacity_mw": 135,
+    "latitude": 23.8712,
+    "longitude": 91.3602,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "AKALTARA TPP",
+    "capacity_mw": 1800,
+    "latitude": 21.9603,
+    "longitude": 82.4091,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "AKRIMOTA LIG",
+    "capacity_mw": 250,
+    "latitude": 23.7689,
+    "longitude": 68.6447,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ALIYAR",
+    "capacity_mw": 60,
+    "latitude": 10.4547,
+    "longitude": 77.0078,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "ALLAIN DUHANGAN",
+    "capacity_mw": 192,
+    "latitude": 32.2258,
+    "longitude": 77.207,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "ALMATTI DAM",
+    "capacity_mw": 290,
+    "latitude": 16.33,
+    "longitude": 75.8863,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "AMAR KANTAK",
+    "capacity_mw": 210,
+    "latitude": 23.1642,
+    "longitude": 81.6373,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "AMARAVATI TPP",
+    "capacity_mw": 1350,
+    "latitude": 21.0782,
+    "longitude": 77.9009,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ANANDPUR SAHIB ST-I&II",
+    "capacity_mw": 134,
+    "latitude": 31.2717,
+    "longitude": 76.4938,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "ANAPARA \"C\"",
+    "capacity_mw": 1200,
+    "latitude": 24.2007,
+    "longitude": 82.8,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ANDHRA",
+    "capacity_mw": 16.95,
+    "latitude": 31.2412,
+    "longitude": 77.8769,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "ANPARA",
+    "capacity_mw": 2630,
+    "latitude": 24.201,
+    "longitude": 82.7891,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ANTA GT",
+    "capacity_mw": 419.33,
+    "latitude": 25.1797,
+    "longitude": 76.3188,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "ANUPPUR",
+    "capacity_mw": 600,
+    "latitude": 23.0666,
+    "longitude": 81.7841,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ANUPUR TPP",
+    "capacity_mw": 1200,
+    "latitude": 23.0655,
+    "longitude": 81.7865,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ARVINDNAGAR SUGAR",
+    "capacity_mw": 10,
+    "latitude": 18.0845,
+    "longitude": 76.1851,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "ASHOKNAGAR MILL",
+    "capacity_mw": 17,
+    "latitude": 19.5867,
+    "longitude": 74.7061,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "ATHANI SUGAR",
+    "capacity_mw": 24,
+    "latitude": 16.7708,
+    "longitude": 74.9191,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "AURAIYA GT",
+    "capacity_mw": 652,
+    "latitude": 26.6282,
+    "longitude": 79.5286,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "AVANTHA BHANDAR TPP",
+    "capacity_mw": 600,
+    "latitude": 21.7438,
+    "longitude": 83.2741,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "AWARPUR CEMENT PLANT",
+    "capacity_mw": 46,
+    "latitude": 19.7881,
+    "longitude": 79.1518,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Amarsar Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 28.3615,
+    "longitude": 74.2402,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Anabura Wind Farm",
+    "capacity_mw": 16.5,
+    "latitude": 14.5751,
+    "longitude": 76.3926,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Ananthapur - Meil Solar Power Plant",
+    "capacity_mw": 50,
+    "latitude": 14.9455,
+    "longitude": 77.687,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Andrha Lake Wind Farm",
+    "capacity_mw": 113.6,
+    "latitude": 18.858,
+    "longitude": 73.6396,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Anikkadavu Wind Farm",
+    "capacity_mw": 19.8,
+    "latitude": 10.7245,
+    "longitude": 77.1893,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Arasinagundi Wind Farm",
+    "capacity_mw": 13.2,
+    "latitude": 14.4791,
+    "longitude": 76.3482,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Askandra - DREPL Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3473,
+    "longitude": 71.6917,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Askandra - Electromech Maritech Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.36,
+    "longitude": 71.6918,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Askandra - Finehope Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3632,
+    "longitude": 71.6918,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Askandra - Khaya Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3661,
+    "longitude": 71.6916,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Askandra - Newton Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3537,
+    "longitude": 71.6917,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Askandra - Saidham Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3504,
+    "longitude": 71.6918,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Askandra - Vasavi Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3566,
+    "longitude": 71.6917,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "BADARPUR",
+    "capacity_mw": 705,
+    "latitude": 28.506,
+    "longitude": 77.3066,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BAGALKOT ICP",
+    "capacity_mw": 28,
+    "latitude": 16.2804,
+    "longitude": 75.225,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "BAGLIHAR HEP",
+    "capacity_mw": 450,
+    "latitude": 33.1815,
+    "longitude": 75.3155,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BAIRA SIUL",
+    "capacity_mw": 180,
+    "latitude": 32.8063,
+    "longitude": 76.1418,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BAKRESWAR",
+    "capacity_mw": 1050,
+    "latitude": 23.8285,
+    "longitude": 87.4513,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BALIMELA",
+    "capacity_mw": 510,
+    "latitude": 18.1396,
+    "longitude": 82.1221,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BALLARPUR BILT POWER",
+    "capacity_mw": 67.5,
+    "latitude": 19.8601,
+    "longitude": 79.3421,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BAMANIA CEMENT",
+    "capacity_mw": 10,
+    "latitude": 24.6929,
+    "longitude": 74.689,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BANDAKHAR TPP",
+    "capacity_mw": 300,
+    "latitude": 22.3421,
+    "longitude": 82.4305,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BANDEL",
+    "capacity_mw": 335,
+    "latitude": 22.9956,
+    "longitude": 88.4042,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BANER",
+    "capacity_mw": 12,
+    "latitude": 32.1686,
+    "longitude": 76.4695,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BANSAGAR (I)",
+    "capacity_mw": 315,
+    "latitude": 24.1917,
+    "longitude": 81.2875,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BANSAGAR (II)",
+    "capacity_mw": 30,
+    "latitude": 24.1917,
+    "longitude": 81.2875,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BANSAGAR (III)",
+    "capacity_mw": 60,
+    "latitude": 24.1917,
+    "longitude": 81.2875,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BANSAGAR (IV)",
+    "capacity_mw": 20,
+    "latitude": 24.223,
+    "longitude": 81.2747,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BANSWARA CEMENT",
+    "capacity_mw": 20,
+    "latitude": 23.6026,
+    "longitude": 74.2562,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BARADARHA TPP",
+    "capacity_mw": 1200,
+    "latitude": 21.9114,
+    "longitude": 83.1889,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BARAMURA",
+    "capacity_mw": 42,
+    "latitude": 23.807,
+    "longitude": 91.565,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "BARAUNI",
+    "capacity_mw": 720,
+    "latitude": 25.3999,
+    "longitude": 86.0218,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BARGI",
+    "capacity_mw": 90,
+    "latitude": 22.9417,
+    "longitude": 79.925,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BARH STPP II",
+    "capacity_mw": 1320,
+    "latitude": 25.4865,
+    "longitude": 85.7452,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BARKHERA TPP",
+    "capacity_mw": 90,
+    "latitude": 28.4723,
+    "longitude": 79.8066,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BARSINGAR LIGNITE",
+    "capacity_mw": 250,
+    "latitude": 27.8453,
+    "longitude": 73.2,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BASIN BRIDGE GT",
+    "capacity_mw": 120,
+    "latitude": 13.1021,
+    "longitude": 80.2682,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "BASPA",
+    "capacity_mw": 300,
+    "latitude": 31.4306,
+    "longitude": 78.241,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BASSI",
+    "capacity_mw": 66,
+    "latitude": 31.9546,
+    "longitude": 76.7986,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BEL Chikhalhol Wind Farm",
+    "capacity_mw": 20,
+    "latitude": 17.3816,
+    "longitude": 74.5345,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "BELA NAGPUR",
+    "capacity_mw": 270,
+    "latitude": 20.805,
+    "longitude": 79.0547,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BELGAUM UGAR",
+    "capacity_mw": 22.8,
+    "latitude": 16.6505,
+    "longitude": 74.8209,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "BELLAD-BAGEWADI",
+    "capacity_mw": 15,
+    "latitude": 16.2774,
+    "longitude": 74.7111,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "BELLARY HOTHUR",
+    "capacity_mw": 10,
+    "latitude": 15.1831,
+    "longitude": 76.7909,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BELLARY JANKI",
+    "capacity_mw": 18,
+    "latitude": 15.1777,
+    "longitude": 77.1036,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BELLARY TPS",
+    "capacity_mw": 1700,
+    "latitude": 15.1932,
+    "longitude": 76.7195,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BHADRA",
+    "capacity_mw": 26,
+    "latitude": 13.7008,
+    "longitude": 75.6373,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHADRAVATI MILL",
+    "capacity_mw": 41,
+    "latitude": 13.8274,
+    "longitude": 75.7131,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BHAKRA",
+    "capacity_mw": 1379,
+    "latitude": 31.4107,
+    "longitude": 76.4328,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHANDARA STEEL MILL",
+    "capacity_mw": 15,
+    "latitude": 21.232,
+    "longitude": 79.6311,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BHANDARA VARAM",
+    "capacity_mw": 10,
+    "latitude": 21.0813,
+    "longitude": 79.7708,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "BHANDARDHARA",
+    "capacity_mw": 34,
+    "latitude": 19.5555,
+    "longitude": 73.8087,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHATGARH",
+    "capacity_mw": 16,
+    "latitude": 18.1012,
+    "longitude": 73.7252,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHATSA",
+    "capacity_mw": 15,
+    "latitude": 19.5132,
+    "longitude": 73.4173,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHAVNAGAR TPP",
+    "capacity_mw": 500,
+    "latitude": 21.5837,
+    "longitude": 72.2222,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BHAWANI KATTALAI -II",
+    "capacity_mw": 30,
+    "latitude": 11.331,
+    "longitude": 77.758,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHAWANI KATTALAI -III",
+    "capacity_mw": 30,
+    "latitude": 11.2428,
+    "longitude": 77.8659,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHAWANI KATTALAI BARRAGE",
+    "capacity_mw": 30,
+    "latitude": 11.3842,
+    "longitude": 77.7145,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHIGWAN MILL",
+    "capacity_mw": 30,
+    "latitude": 18.2416,
+    "longitude": 74.7529,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BHILAI TPP",
+    "capacity_mw": 500,
+    "latitude": 21.184,
+    "longitude": 81.4237,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BHIRA",
+    "capacity_mw": 300,
+    "latitude": 18.455,
+    "longitude": 73.3907,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHIRA TAIL RACE",
+    "capacity_mw": 80,
+    "latitude": 18.4426,
+    "longitude": 73.3498,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHIVPURI",
+    "capacity_mw": 75,
+    "latitude": 18.9368,
+    "longitude": 73.4527,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BHUSAWAL",
+    "capacity_mw": 1210,
+    "latitude": 21.0483,
+    "longitude": 75.8425,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BILIYAKALAN PLANT",
+    "capacity_mw": 10,
+    "latitude": 25.2267,
+    "longitude": 74.6216,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "BINA REFINERY",
+    "capacity_mw": 99,
+    "latitude": 24.2508,
+    "longitude": 78.1606,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BINA TPP",
+    "capacity_mw": 500,
+    "latitude": 23.3172,
+    "longitude": 78.1336,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BINANI CEMENT PLANT",
+    "capacity_mw": 69.6,
+    "latitude": 24.8263,
+    "longitude": 73.0901,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BINJKOTE",
+    "capacity_mw": 600,
+    "latitude": 22.0103,
+    "longitude": 83.2058,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BINWA",
+    "capacity_mw": 6,
+    "latitude": 32.1121,
+    "longitude": 76.6537,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BIRSINGHPUR",
+    "capacity_mw": 20,
+    "latitude": 23.3256,
+    "longitude": 81.0333,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BOKARO A ''EXP''",
+    "capacity_mw": 500,
+    "latitude": 23.6783,
+    "longitude": 86.0888,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BOKARO B",
+    "capacity_mw": 210,
+    "latitude": 23.785,
+    "longitude": 85.88,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BONGAIGAON TPP",
+    "capacity_mw": 750,
+    "latitude": 26.5145,
+    "longitude": 90.5287,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BP Brahmanvel Wind Farm",
+    "capacity_mw": 40,
+    "latitude": 21.2083,
+    "longitude": 74.1543,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "BRAMHAPURAM DG",
+    "capacity_mw": 60,
+    "latitude": 9.9975,
+    "longitude": 76.3744,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "BSES Kerala CCGT",
+    "capacity_mw": 165,
+    "latitude": 10.074,
+    "longitude": 76.3188,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "BUDGE BUDGE",
+    "capacity_mw": 750,
+    "latitude": 22.4673,
+    "longitude": 88.14,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "BUDHIL",
+    "capacity_mw": 70,
+    "latitude": 32.4584,
+    "longitude": 76.532,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "BUTIBORI PLANT",
+    "capacity_mw": 81.5,
+    "latitude": 20.9225,
+    "longitude": 78.9535,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "BUTIBORI TPP -II",
+    "capacity_mw": 600,
+    "latitude": 20.9286,
+    "longitude": 78.9333,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Bamani Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 18.0791,
+    "longitude": 76.1807,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bamanwali Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 28.3683,
+    "longitude": 73.5286,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bannari Amman Spinning Mills Wind Power Project",
+    "capacity_mw": 11.2,
+    "latitude": 10.7389,
+    "longitude": 77.416,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Bap - GIS 1-2 Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 27.3827,
+    "longitude": 72.3188,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bap - GIS 3 Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 27.3893,
+    "longitude": 72.3134,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bap - OPG Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3525,
+    "longitude": 72.3554,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bap - Punj Lloyd Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.3851,
+    "longitude": 72.3042,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bapodar - Hiraco Solar Power Plant",
+    "capacity_mw": 20,
+    "latitude": 21.5967,
+    "longitude": 69.843,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bapodar - MBEDL Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 21.6024,
+    "longitude": 69.8441,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bavadi Barsingha - Giriraj Solar Power Plant",
+    "capacity_mw": 36.3,
+    "latitude": 27.4387,
+    "longitude": 72.3245,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bavadi Barsingha - LEPL Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 27.4523,
+    "longitude": 72.3388,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Belagau Wind Farm",
+    "capacity_mw": 1,
+    "latitude": 26.7272,
+    "longitude": 70.8304,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Belagwi Wind Turbines",
+    "capacity_mw": 1.7,
+    "latitude": 16.4961,
+    "longitude": 74.5417,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Belgaum Gadag Wind Farm",
+    "capacity_mw": 24.8,
+    "latitude": 15.4038,
+    "longitude": 75.5625,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Belgaum Wind farm",
+    "capacity_mw": 50.4,
+    "latitude": 15.9349,
+    "longitude": 74.7007,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Bera Wind Farm",
+    "capacity_mw": 150,
+    "latitude": 23.0544,
+    "longitude": 68.8782,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Bhadrada Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.6688,
+    "longitude": 71.5782,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bhat Khedi Wind Farm",
+    "capacity_mw": 98.7,
+    "latitude": 23.6756,
+    "longitude": 75.0565,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Bhatkota Solar Power Plant",
+    "capacity_mw": 3,
+    "latitude": 23.5594,
+    "longitude": 73.286,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bitta Solar Power Plant",
+    "capacity_mw": 40,
+    "latitude": 23.2579,
+    "longitude": 69.0255,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Boha Solar Power Plant",
+    "capacity_mw": 4.2,
+    "latitude": 29.8504,
+    "longitude": 75.49,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Bonada Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 26.5249,
+    "longitude": 71.5212,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "CHAKABURA TPP",
+    "capacity_mw": 60,
+    "latitude": 22.3932,
+    "longitude": 82.5532,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHAMERA II",
+    "capacity_mw": 300,
+    "latitude": 32.4734,
+    "longitude": 76.2552,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHAMERA-I",
+    "capacity_mw": 540,
+    "latitude": 32.5966,
+    "longitude": 75.9857,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHAMERA-III",
+    "capacity_mw": 231,
+    "latitude": 32.4733,
+    "longitude": 76.44,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHANDA CEMENT WORKS",
+    "capacity_mw": 40,
+    "latitude": 19.9213,
+    "longitude": 79.1133,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANDERIA CEMENT WORKS",
+    "capacity_mw": 35,
+    "latitude": 24.9293,
+    "longitude": 74.6367,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANDERIA SMELTER",
+    "capacity_mw": 234,
+    "latitude": 24.9637,
+    "longitude": 74.6656,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANDRAPUR GUPTA",
+    "capacity_mw": 120,
+    "latitude": 19.93,
+    "longitude": 79.1346,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANDRAPUR MANIKGHAR",
+    "capacity_mw": 10,
+    "latitude": 19.7218,
+    "longitude": 79.1757,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANDRAPURA",
+    "capacity_mw": 630,
+    "latitude": 23.7376,
+    "longitude": 86.1273,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANDRAPUR_Coal",
+    "capacity_mw": 2920,
+    "latitude": 20.0063,
+    "longitude": 79.29,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHANJU-I",
+    "capacity_mw": 36,
+    "latitude": 32.7369,
+    "longitude": 76.2477,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHEMBUKADAVU-II",
+    "capacity_mw": 3.75,
+    "latitude": 11.4645,
+    "longitude": 76.0376,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHENANI I to III",
+    "capacity_mw": 32.8,
+    "latitude": 32.9578,
+    "longitude": 75.1705,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHHABRA TPS",
+    "capacity_mw": 2320,
+    "latitude": 24.6217,
+    "longitude": 77.0357,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "CHIBRO (YAMUNA)",
+    "capacity_mw": 240,
+    "latitude": 30.5559,
+    "longitude": 77.7915,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHILLA",
+    "capacity_mw": 144,
+    "latitude": 29.976,
+    "longitude": 78.2203,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHUTAK",
+    "capacity_mw": 44,
+    "latitude": 34.4903,
+    "longitude": 76.1137,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CHUZACHEN",
+    "capacity_mw": 110,
+    "latitude": 27.2093,
+    "longitude": 88.6659,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "CORE GREEN SUGAR",
+    "capacity_mw": 24,
+    "latitude": 16.5471,
+    "longitude": 77.0825,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "Chandrapur Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 20.0209,
+    "longitude": 79.2712,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Charanka Solar Power Plant",
+    "capacity_mw": 221,
+    "latitude": 23.907,
+    "longitude": 71.1881,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Chhadavada Wind Farm",
+    "capacity_mw": 21,
+    "latitude": 23.2443,
+    "longitude": 70.4603,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Chingerbandh Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 20.6729,
+    "longitude": 83.1107,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "D.P.L.",
+    "capacity_mw": 660,
+    "latitude": 23.5211,
+    "longitude": 87.3023,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DADRI (NCTPP)",
+    "capacity_mw": 1820,
+    "latitude": 28.603,
+    "longitude": 77.6078,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DADRI GT",
+    "capacity_mw": 829.78,
+    "latitude": 28.5932,
+    "longitude": 77.6101,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "DAE RAJASTHAN",
+    "capacity_mw": 100,
+    "latitude": 24.8747,
+    "longitude": 75.6189,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "DAHANU FRESNEL",
+    "capacity_mw": 100,
+    "latitude": 26.7803,
+    "longitude": 72.0091,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DAMODARAM SANJEEVAIAH",
+    "capacity_mw": 1600,
+    "latitude": 14.3444,
+    "longitude": 80.1264,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DANAPUR BMM",
+    "capacity_mw": 25,
+    "latitude": 15.1707,
+    "longitude": 76.377,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DAUND SUGAR",
+    "capacity_mw": 30,
+    "latitude": 18.4271,
+    "longitude": 74.6338,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "DAVANGERE MILL",
+    "capacity_mw": 24,
+    "latitude": 14.3277,
+    "longitude": 75.8808,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "DEHAR",
+    "capacity_mw": 990,
+    "latitude": 31.4133,
+    "longitude": 76.8686,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DERANG",
+    "capacity_mw": 1200,
+    "latitude": 21.1238,
+    "longitude": 84.9843,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DGEN MEGA CCCP",
+    "capacity_mw": 1200,
+    "latitude": 21.6923,
+    "longitude": 72.6215,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "DHAKRANI",
+    "capacity_mw": 33.75,
+    "latitude": 30.4561,
+    "longitude": 77.7368,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DHALIPUR",
+    "capacity_mw": 51,
+    "latitude": 30.4354,
+    "longitude": 77.6821,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DHANU",
+    "capacity_mw": 500,
+    "latitude": 19.9545,
+    "longitude": 72.7478,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DHARIWAL INF TPP",
+    "capacity_mw": 600,
+    "latitude": 20.0102,
+    "longitude": 79.2033,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DHAULI GANGA",
+    "capacity_mw": 280,
+    "latitude": 29.8783,
+    "longitude": 80.5727,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DHOLPUR",
+    "capacity_mw": 330,
+    "latitude": 26.7024,
+    "longitude": 77.8492,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "DHUVARAN CCPP",
+    "capacity_mw": 595.2,
+    "latitude": 22.2396,
+    "longitude": 72.752,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "DIGHE WORKS",
+    "capacity_mw": 22,
+    "latitude": 19.1896,
+    "longitude": 73.004,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "DIKCHU",
+    "capacity_mw": 96,
+    "latitude": 27.4028,
+    "longitude": 88.5247,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DLF",
+    "capacity_mw": 15.5,
+    "latitude": 24.8271,
+    "longitude": 92.9737,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "DNYANESHWAR MILL",
+    "capacity_mw": 12.96,
+    "latitude": 19.4496,
+    "longitude": 75.0382,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "DOLVI ISPAT",
+    "capacity_mw": 67.6,
+    "latitude": 18.69,
+    "longitude": 73.039,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "DONKARAYI",
+    "capacity_mw": 25,
+    "latitude": 17.8994,
+    "longitude": 81.8296,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DOYANG",
+    "capacity_mw": 75,
+    "latitude": 26.2325,
+    "longitude": 94.2612,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DUDH GANGA",
+    "capacity_mw": 24,
+    "latitude": 16.3537,
+    "longitude": 74.0095,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DUGGAVATHI MILL",
+    "capacity_mw": 22,
+    "latitude": 14.6284,
+    "longitude": 75.8448,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "DULHASTI",
+    "capacity_mw": 390,
+    "latitude": 33.3691,
+    "longitude": 75.7985,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "DURG SPONGE IRON",
+    "capacity_mw": 12.8,
+    "latitude": 21.1878,
+    "longitude": 81.2099,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DURGAPUR",
+    "capacity_mw": 210,
+    "latitude": 23.531,
+    "longitude": 87.25,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "DURGAPUR STEEL TPS",
+    "capacity_mw": 1000,
+    "latitude": 23.58,
+    "longitude": 87.2043,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Dadri Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 28.5787,
+    "longitude": 77.6314,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Dandeli Mill",
+    "capacity_mw": 20,
+    "latitude": 15.2529,
+    "longitude": 74.6283,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "Deh Solar Power Plant",
+    "capacity_mw": 2,
+    "latitude": 27.9253,
+    "longitude": 72.8899,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Devgarh Wind Farm",
+    "capacity_mw": 37.5,
+    "latitude": 23.964,
+    "longitude": 74.6215,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Dhabla Sondhya Solar Power Plant",
+    "capacity_mw": 28.2,
+    "latitude": 23.8267,
+    "longitude": 75.8988,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Dhanera Solar Power Plant",
+    "capacity_mw": 25,
+    "latitude": 24.5216,
+    "longitude": 72.1999,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Dhank - Aravali Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 21.7766,
+    "longitude": 70.0773,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Dhursar",
+    "capacity_mw": 125,
+    "latitude": 26.7846,
+    "longitude": 72.0083,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Diwakar",
+    "capacity_mw": 100,
+    "latitude": 27.7355,
+    "longitude": 71.6917,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Dugar Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 26.2776,
+    "longitude": 72.651,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "ELDARI",
+    "capacity_mw": 22.5,
+    "latitude": 19.7197,
+    "longitude": 76.733,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "EMCO Sonurle Wind Farm",
+    "capacity_mw": 9,
+    "latitude": 16.8265,
+    "longitude": 73.9269,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "ESSAR GT IMP.",
+    "capacity_mw": 515,
+    "latitude": 21.111,
+    "longitude": 72.655,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "Enercon Babarzar Wind Farm",
+    "capacity_mw": 11.2,
+    "latitude": 22.1421,
+    "longitude": 69.8442,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Enercon Chitradurga Wind Farm",
+    "capacity_mw": 68.8,
+    "latitude": 13.7276,
+    "longitude": 76.5137,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Enercon Sonoshi Wind Farm",
+    "capacity_mw": 20,
+    "latitude": 19.6274,
+    "longitude": 73.7839,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "FARAKKA STPS",
+    "capacity_mw": 2100,
+    "latitude": 24.772,
+    "longitude": 87.894,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "F_BAD CCGT",
+    "capacity_mw": 431.586,
+    "latitude": 28.3452,
+    "longitude": 77.3615,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "Frost International Palankottai Wind Farm",
+    "capacity_mw": 4.25,
+    "latitude": 9.1269,
+    "longitude": 77.6458,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "G.I.P.C.L. GT",
+    "capacity_mw": 310,
+    "latitude": 22.3758,
+    "longitude": 73.1017,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GACL Kutch Wind Farm",
+    "capacity_mw": 39,
+    "latitude": 23.0272,
+    "longitude": 69.9494,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "GADARWARA",
+    "capacity_mw": 800,
+    "latitude": 22.8618,
+    "longitude": 78.8648,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GADEPAN WORKS",
+    "capacity_mw": 35,
+    "latitude": 25.1521,
+    "longitude": 76.182,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GAJ",
+    "capacity_mw": 10.5,
+    "latitude": 32.2417,
+    "longitude": 76.2787,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GAMA CCPP  Module - 1",
+    "capacity_mw": 225,
+    "latitude": 29.1411,
+    "longitude": 78.9632,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GANDHAR GT",
+    "capacity_mw": 648,
+    "latitude": 21.8242,
+    "longitude": 73.1136,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GANDHARBAL",
+    "capacity_mw": 15,
+    "latitude": 34.2236,
+    "longitude": 74.7781,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GANDHI NAGAR",
+    "capacity_mw": 630,
+    "latitude": 25.2502,
+    "longitude": 72.6765,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GANDHI SAGAR",
+    "capacity_mw": 115,
+    "latitude": 24.6997,
+    "longitude": 75.5529,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GANGUWAL",
+    "capacity_mw": 77.65,
+    "latitude": 31.268,
+    "longitude": 76.492,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GAUTAMI CCCP",
+    "capacity_mw": 468.57,
+    "latitude": 17.0386,
+    "longitude": 82.1286,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GEPL",
+    "capacity_mw": 120,
+    "latitude": 19.9324,
+    "longitude": 79.104,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GFL Gudhepanchgani",
+    "capacity_mw": 23.1,
+    "latitude": 17.1309,
+    "longitude": 73.9765,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "GHANVI",
+    "capacity_mw": 22.5,
+    "latitude": 31.5425,
+    "longitude": 77.7786,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GHAT PRABHA",
+    "capacity_mw": 32,
+    "latitude": 16.1424,
+    "longitude": 74.6447,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GHATGHAR PSS",
+    "capacity_mw": 250,
+    "latitude": 19.5334,
+    "longitude": 73.6509,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GHTP (LEH.MOH.)",
+    "capacity_mw": 920,
+    "latitude": 30.2666,
+    "longitude": 75.1661,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GHUGUS LMEL",
+    "capacity_mw": 30,
+    "latitude": 19.9306,
+    "longitude": 79.12,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GIRI BATA",
+    "capacity_mw": 60,
+    "latitude": 30.5307,
+    "longitude": 77.4968,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "GIWPP Telagi",
+    "capacity_mw": 23.1,
+    "latitude": 14.6534,
+    "longitude": 75.8613,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "GMR WARORA TPP",
+    "capacity_mw": 600,
+    "latitude": 20.2723,
+    "longitude": 78.9793,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GODAVARI GT",
+    "capacity_mw": 205.24,
+    "latitude": 17.0587,
+    "longitude": 82.3097,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GOINDWAL SAHIB TPP",
+    "capacity_mw": 540,
+    "latitude": 31.3841,
+    "longitude": 75.1464,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GRACE INDUSTRIES",
+    "capacity_mw": 25,
+    "latitude": 20.0058,
+    "longitude": 79.1845,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GREL CCPP (RAJAMUNDRY)",
+    "capacity_mw": 768,
+    "latitude": 16.9248,
+    "longitude": 81.8111,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "GULBARGA CEMENT",
+    "capacity_mw": 55,
+    "latitude": 17.1084,
+    "longitude": 77.1325,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "GUMTI",
+    "capacity_mw": 15,
+    "latitude": 23.4263,
+    "longitude": 91.8223,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "Gadag Wind Farm",
+    "capacity_mw": 25.6,
+    "latitude": 15.3418,
+    "longitude": 75.5868,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Gadna 1 Solar Power Plant",
+    "capacity_mw": 3,
+    "latitude": 27.4269,
+    "longitude": 72.3896,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Gadna 2 Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.4296,
+    "longitude": 72.3969,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Gandhinagar Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 23.1534,
+    "longitude": 72.669,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Garacharma Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 11.6117,
+    "longitude": 92.7109,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Godawari",
+    "capacity_mw": 50,
+    "latitude": 27.6003,
+    "longitude": 72.2241,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Godelai Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 26.6532,
+    "longitude": 72.5377,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Gondri Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 18.3055,
+    "longitude": 76.6551,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Gorsar Wind Farm",
+    "capacity_mw": 7.5,
+    "latitude": 21.3131,
+    "longitude": 69.9187,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Grewal Solar Power Plant",
+    "capacity_mw": 1.8,
+    "latitude": 30.4613,
+    "longitude": 74.6188,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Gulabpura Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 25.86,
+    "longitude": 74.6567,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Gwal Pahari Solar Power Plant",
+    "capacity_mw": 3,
+    "latitude": 28.4272,
+    "longitude": 77.1596,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "HALDIA",
+    "capacity_mw": 600,
+    "latitude": 22.1042,
+    "longitude": 88.1764,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "HAMPI",
+    "capacity_mw": 36,
+    "latitude": 15.2615,
+    "longitude": 76.3379,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "HAPURI MILL",
+    "capacity_mw": 24,
+    "latitude": 16.6038,
+    "longitude": 74.4045,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "HASDEOBANGO",
+    "capacity_mw": 120,
+    "latitude": 22.604,
+    "longitude": 82.5977,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "HAVALGA SUGAR",
+    "capacity_mw": 25.5,
+    "latitude": 17.1202,
+    "longitude": 76.4004,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "HAZIRA CCCP",
+    "capacity_mw": 156.1,
+    "latitude": 22.3256,
+    "longitude": 69.7399,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "HAZIRA-GSECL",
+    "capacity_mw": 351.43,
+    "latitude": 21.1652,
+    "longitude": 72.6613,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "HINGOLI MILL",
+    "capacity_mw": 18.9,
+    "latitude": 19.2829,
+    "longitude": 77.1384,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "HIRAKUD I&II",
+    "capacity_mw": 347.5,
+    "latitude": 21.5337,
+    "longitude": 83.8754,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "HIRIYUR BIOMASS",
+    "capacity_mw": 25,
+    "latitude": 13.9808,
+    "longitude": 76.6279,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "HZL Gadag Wind Farm",
+    "capacity_mw": 34.4,
+    "latitude": 15.3654,
+    "longitude": 75.5639,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "HZL Nandurbar Maharashtra",
+    "capacity_mw": 25.5,
+    "latitude": 21.3027,
+    "longitude": 74.3091,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "HZL Palladum Wind Farm",
+    "capacity_mw": 21,
+    "latitude": 10.8674,
+    "longitude": 77.4588,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "HZL Parewar Wind Farm",
+    "capacity_mw": 27.3,
+    "latitude": 27.2492,
+    "longitude": 70.6722,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "HZL Samana Wind Farm",
+    "capacity_mw": 88.8,
+    "latitude": 22.0335,
+    "longitude": 70.2313,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "H_GANJ B",
+    "capacity_mw": 605,
+    "latitude": 28.0179,
+    "longitude": 78.1326,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Hirewaddatti Wind Farm",
+    "capacity_mw": 49,
+    "latitude": 15.1997,
+    "longitude": 75.762,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Horti Solar Power Plant",
+    "capacity_mw": 20,
+    "latitude": 17.9054,
+    "longitude": 76.3224,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "I.B.VALLEY",
+    "capacity_mw": 420,
+    "latitude": 21.6872,
+    "longitude": 83.86,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "I.P.GT",
+    "capacity_mw": 270,
+    "latitude": 28.6194,
+    "longitude": 77.2504,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "IDAMALAYAR",
+    "capacity_mw": 75,
+    "latitude": 10.207,
+    "longitude": 76.7137,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "IDUKKI",
+    "capacity_mw": 780,
+    "latitude": 9.8503,
+    "longitude": 77.0555,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "IEPL  BELA TPP",
+    "capacity_mw": 270,
+    "latitude": 20.8102,
+    "longitude": 79.0556,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "IL&FS Kaladeh Wind Farm",
+    "capacity_mw": 24,
+    "latitude": 22.8396,
+    "longitude": 76.1906,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "IND BARATH TPP",
+    "capacity_mw": 350,
+    "latitude": 21.658,
+    "longitude": 83.92,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "INDIA POWER TPP(HALDIA  HIRANMAYE )",
+    "capacity_mw": 300,
+    "latitude": 22.0774,
+    "longitude": 88.0995,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "INDIRA SAGAR",
+    "capacity_mw": 1000,
+    "latitude": 22.2791,
+    "longitude": 76.4728,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "INDRA GANDHI STPP",
+    "capacity_mw": 1500,
+    "latitude": 28.4849,
+    "longitude": 76.3754,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ITPCL TPP",
+    "capacity_mw": 1200,
+    "latitude": 11.5214,
+    "longitude": 79.7515,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Ingaleshwar Wind Farm",
+    "capacity_mw": 100.8,
+    "latitude": 16.6208,
+    "longitude": 76.0223,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Isanpur Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 22.4809,
+    "longitude": 72.5235,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Itnal Solar Power Plant",
+    "capacity_mw": 3,
+    "latitude": 16.4018,
+    "longitude": 74.6641,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "J.SAGAR",
+    "capacity_mw": 99,
+    "latitude": 25.0369,
+    "longitude": 75.6778,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "JAISALMER GODAWARI",
+    "capacity_mw": 50,
+    "latitude": 27.601,
+    "longitude": 72.2242,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "JALDHAKA I&II",
+    "capacity_mw": 36,
+    "latitude": 27.0297,
+    "longitude": 88.8747,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "JALLIPPA KAPURDI TPP",
+    "capacity_mw": 1080,
+    "latitude": 25.8888,
+    "longitude": 71.3236,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "JAYKAYPURAM PLANT",
+    "capacity_mw": 66,
+    "latitude": 24.6963,
+    "longitude": 73.0017,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "JAYPEE BELA CEMENT",
+    "capacity_mw": 63.5,
+    "latitude": 24.5286,
+    "longitude": 81.1698,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "JAYPEE REWA CEMENT",
+    "capacity_mw": 54.5,
+    "latitude": 24.565,
+    "longitude": 81.1748,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "JAYPEE SIDHI CEMENT",
+    "capacity_mw": 155,
+    "latitude": 24.3272,
+    "longitude": 81.3293,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "JEGURUPADU GT",
+    "capacity_mw": 445.674,
+    "latitude": 16.9312,
+    "longitude": 81.86,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "JOG",
+    "capacity_mw": 139.2,
+    "latitude": 14.2273,
+    "longitude": 74.7994,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "JOJBERA",
+    "capacity_mw": 427.5,
+    "latitude": 22.7554,
+    "longitude": 86.2491,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "JORETHANG LOOP",
+    "capacity_mw": 96,
+    "latitude": 27.1598,
+    "longitude": 88.2924,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "JSW RATNAGIRI TPP",
+    "capacity_mw": 1200,
+    "latitude": 17.297,
+    "longitude": 73.212,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Jafrabad Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 20.8772,
+    "longitude": 71.2801,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Jamuria Solar Power Plant",
+    "capacity_mw": 2,
+    "latitude": 23.7162,
+    "longitude": 87.0695,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Jangi Wind Farm",
+    "capacity_mw": 91.8,
+    "latitude": 23.2409,
+    "longitude": 70.509,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Jangi village wind farm",
+    "capacity_mw": 10.5,
+    "latitude": 23.208,
+    "longitude": 70.5465,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Jeloo Wind Farm",
+    "capacity_mw": 29.6,
+    "latitude": 26.5255,
+    "longitude": 72.7629,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Jodiya Wind Farm",
+    "capacity_mw": 33,
+    "latitude": 22.7532,
+    "longitude": 70.3961,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "K.N. Ram Kaltek Wind Farm",
+    "capacity_mw": 10.25,
+    "latitude": 21.2261,
+    "longitude": 74.2393,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "KADAMPARI",
+    "capacity_mw": 400,
+    "latitude": 10.4104,
+    "longitude": 77.0435,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KADANA",
+    "capacity_mw": 240,
+    "latitude": 23.3045,
+    "longitude": 73.8254,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KADRA",
+    "capacity_mw": 150,
+    "latitude": 14.8901,
+    "longitude": 74.3916,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KAHALGAON",
+    "capacity_mw": 2340,
+    "latitude": 25.2349,
+    "longitude": 87.2635,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KAIGA",
+    "capacity_mw": 880,
+    "latitude": 14.865,
+    "longitude": 74.4385,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "KAKATIYA TPP",
+    "capacity_mw": 1100,
+    "latitude": 18.3835,
+    "longitude": 79.8265,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KAKKAD",
+    "capacity_mw": 50,
+    "latitude": 9.3275,
+    "longitude": 76.9717,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KAKRAPARA",
+    "capacity_mw": 440,
+    "latitude": 21.2384,
+    "longitude": 73.3489,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "KALINADI",
+    "capacity_mw": 855,
+    "latitude": 15.2761,
+    "longitude": 74.5268,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KALINADI SUPA",
+    "capacity_mw": 100,
+    "latitude": 15.2761,
+    "longitude": 74.5268,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KALISINDH",
+    "capacity_mw": 1200,
+    "latitude": 24.5295,
+    "longitude": 76.0986,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KALLADA",
+    "capacity_mw": 15,
+    "latitude": 8.9553,
+    "longitude": 77.0697,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KALLUR GRINDING",
+    "capacity_mw": 30,
+    "latitude": 17.3821,
+    "longitude": 77.4389,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KAMAL SPONGE",
+    "capacity_mw": 12,
+    "latitude": 24.6266,
+    "longitude": 80.831,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KAMALANGA",
+    "capacity_mw": 1050,
+    "latitude": 20.87,
+    "longitude": 85.2671,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KANHER",
+    "capacity_mw": 4,
+    "latitude": 17.7384,
+    "longitude": 73.917,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KARAD MILL",
+    "capacity_mw": 16,
+    "latitude": 17.1657,
+    "longitude": 74.2459,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KARAIKAL",
+    "capacity_mw": 32.5,
+    "latitude": 10.9325,
+    "longitude": 79.8216,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KARBI LANGPI",
+    "capacity_mw": 100,
+    "latitude": 25.9552,
+    "longitude": 92.5171,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KARCHAM WANGTOO",
+    "capacity_mw": 1000,
+    "latitude": 31.5156,
+    "longitude": 78.1073,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KARGIL",
+    "capacity_mw": 3.75,
+    "latitude": 34.5605,
+    "longitude": 76.1299,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KARUPPUR GT",
+    "capacity_mw": 119.8,
+    "latitude": 11.1208,
+    "longitude": 79.5287,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KASAIPALLI",
+    "capacity_mw": 270,
+    "latitude": 22.389,
+    "longitude": 82.5549,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KASARGODE DG",
+    "capacity_mw": 21.84,
+    "latitude": 12.4837,
+    "longitude": 74.9929,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "KASRAWAD FACTORY",
+    "capacity_mw": 10,
+    "latitude": 22.1335,
+    "longitude": 75.4568,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KATHALGURI GT",
+    "capacity_mw": 291,
+    "latitude": 27.341,
+    "longitude": 95.408,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KAWAI TPP",
+    "capacity_mw": 1320,
+    "latitude": 24.7773,
+    "longitude": 76.737,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KAWAS GT",
+    "capacity_mw": 645,
+    "latitude": 21.175,
+    "longitude": 72.6879,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KAYAM KULAM GT",
+    "capacity_mw": 350,
+    "latitude": 9.2404,
+    "longitude": 76.4283,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KCSF SANGUR",
+    "capacity_mw": 18,
+    "latitude": 14.7753,
+    "longitude": 75.3131,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KHADAVASLA I&II",
+    "capacity_mw": 16,
+    "latitude": 18.3803,
+    "longitude": 73.6116,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KHAMBERKHERA IPP",
+    "capacity_mw": 90,
+    "latitude": 28.017,
+    "longitude": 80.8307,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KHANDONG",
+    "capacity_mw": 50,
+    "latitude": 25.5177,
+    "longitude": 92.6679,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KHARA",
+    "capacity_mw": 72,
+    "latitude": 30.3508,
+    "longitude": 77.6017,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KHATIMA",
+    "capacity_mw": 41.4,
+    "latitude": 28.9232,
+    "longitude": 80.0243,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KHODRI",
+    "capacity_mw": 120,
+    "latitude": 30.5085,
+    "longitude": 77.8001,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KHOPOLI",
+    "capacity_mw": 72,
+    "latitude": 18.7817,
+    "longitude": 73.3558,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KHOPOLI WORKS",
+    "capacity_mw": 60,
+    "latitude": 18.7712,
+    "longitude": 73.259,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KISHENGANGA",
+    "capacity_mw": 330,
+    "latitude": 34.649,
+    "longitude": 74.7514,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KM DODDI SUGAR",
+    "capacity_mw": 26,
+    "latitude": 12.4806,
+    "longitude": 77.0411,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KODASALI",
+    "capacity_mw": 120,
+    "latitude": 14.955,
+    "longitude": 74.5904,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KODAYAR-I&II",
+    "capacity_mw": 100,
+    "latitude": 8.5319,
+    "longitude": 77.3125,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KODERMA",
+    "capacity_mw": 1000,
+    "latitude": 24.3858,
+    "longitude": 85.5517,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KOJIKODE DG",
+    "capacity_mw": 96,
+    "latitude": 11.2054,
+    "longitude": 75.8067,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "KOLAGHAT",
+    "capacity_mw": 1260,
+    "latitude": 22.4157,
+    "longitude": 87.8713,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KOLDAM",
+    "capacity_mw": 800,
+    "latitude": 31.382,
+    "longitude": 76.8761,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KOLHAPUR HEMARUS",
+    "capacity_mw": 20,
+    "latitude": 16.0327,
+    "longitude": 74.4583,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KOLHAPUR KAGAL",
+    "capacity_mw": 20,
+    "latitude": 16.589,
+    "longitude": 74.2993,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KOLHAPUR KUMBHI",
+    "capacity_mw": 17.5,
+    "latitude": 16.689,
+    "longitude": 74.1201,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KOLLEGAL SUGAR",
+    "capacity_mw": 16,
+    "latitude": 12.1056,
+    "longitude": 76.7606,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KONASEEMA CCCP",
+    "capacity_mw": 445,
+    "latitude": 16.7346,
+    "longitude": 81.8622,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KONDAPALLI GT",
+    "capacity_mw": 1458,
+    "latitude": 16.64,
+    "longitude": 80.5504,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KOPILI",
+    "capacity_mw": 200,
+    "latitude": 25.5177,
+    "longitude": 92.6679,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KOPPA SUGAR",
+    "capacity_mw": 26,
+    "latitude": 12.702,
+    "longitude": 76.9787,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KOPPAL HKMP",
+    "capacity_mw": 12,
+    "latitude": 15.316,
+    "longitude": 76.2507,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KORADI",
+    "capacity_mw": 2400,
+    "latitude": 21.2414,
+    "longitude": 79.096,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KORBA STPS",
+    "capacity_mw": 2600,
+    "latitude": 22.3881,
+    "longitude": 82.6858,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KORBA-EAST",
+    "capacity_mw": 890,
+    "latitude": 22.3828,
+    "longitude": 82.7188,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KORBA-WEST",
+    "capacity_mw": 1340,
+    "latitude": 22.4118,
+    "longitude": 82.6888,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KOSI",
+    "capacity_mw": 20,
+    "latitude": 26.497,
+    "longitude": 86.9549,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KOTA",
+    "capacity_mw": 1240,
+    "latitude": 25.1712,
+    "longitude": 75.8171,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KOTA COMPLEX",
+    "capacity_mw": 125,
+    "latitude": 25.1386,
+    "longitude": 75.8883,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KOTESHWAR",
+    "capacity_mw": 400,
+    "latitude": 30.2594,
+    "longitude": 78.4971,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KOTLA",
+    "capacity_mw": 77.65,
+    "latitude": 31.268,
+    "longitude": 76.492,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KOVILKALAPPAL",
+    "capacity_mw": 107.88,
+    "latitude": 10.5415,
+    "longitude": 79.4507,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KOYNA COMPLEX",
+    "capacity_mw": 1956,
+    "latitude": 17.4599,
+    "longitude": 73.684,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KS Oils Chinnakuyili Wind Farm",
+    "capacity_mw": 12,
+    "latitude": 10.9328,
+    "longitude": 77.0912,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "KUDGI",
+    "capacity_mw": 2400,
+    "latitude": 16.4994,
+    "longitude": 75.8349,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KULHAL",
+    "capacity_mw": 30,
+    "latitude": 30.4289,
+    "longitude": 77.6296,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KUNDAH I-V",
+    "capacity_mw": 555,
+    "latitude": 11.2861,
+    "longitude": 76.6511,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KUNDANKULAM",
+    "capacity_mw": 2000,
+    "latitude": 8.1691,
+    "longitude": 77.1327,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "KUNDARGI MILL",
+    "capacity_mw": 16.5,
+    "latitude": 16.2651,
+    "longitude": 75.5302,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "KUNDARKI TPP",
+    "capacity_mw": 90,
+    "latitude": 27.0786,
+    "longitude": 82.0841,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KUTCH LIG.",
+    "capacity_mw": 290,
+    "latitude": 23.6626,
+    "longitude": 68.7843,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KUTHUNGAL",
+    "capacity_mw": 21,
+    "latitude": 9.9356,
+    "longitude": 77.1068,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KUTTALAM GT",
+    "capacity_mw": 101,
+    "latitude": 11.076,
+    "longitude": 79.57,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "KUTTIADI",
+    "capacity_mw": 125,
+    "latitude": 11.5484,
+    "longitude": 75.8988,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KUTTIYADI Add ext",
+    "capacity_mw": 100,
+    "latitude": 11.5484,
+    "longitude": 75.8988,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "KYMORE",
+    "capacity_mw": 50,
+    "latitude": 24.0529,
+    "longitude": 80.6144,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "KYREDEMKULAI",
+    "capacity_mw": 60,
+    "latitude": 25.7848,
+    "longitude": 91.7895,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "K_GUDEM",
+    "capacity_mw": 720,
+    "latitude": 17.6219,
+    "longitude": 80.6936,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "K_GUDEM NEW",
+    "capacity_mw": 1800,
+    "latitude": 17.6219,
+    "longitude": 80.6936,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "K_KHEDA II",
+    "capacity_mw": 1340,
+    "latitude": 21.2818,
+    "longitude": 79.116,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Kaladonger Wind Farm",
+    "capacity_mw": 75.6,
+    "latitude": 27.0931,
+    "longitude": 70.9996,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Kamuthi Solar Power Plant",
+    "capacity_mw": 648,
+    "latitude": 9.3381,
+    "longitude": 78.3917,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Karmaria Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 23.35,
+    "longitude": 70.388,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Karur Textile Park Wind Farm",
+    "capacity_mw": 6,
+    "latitude": 8.3091,
+    "longitude": 77.6191,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Kathauti 1 Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.224,
+    "longitude": 74.2524,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Kathauti 2 Solar Power Plant",
+    "capacity_mw": 40,
+    "latitude": 27.2089,
+    "longitude": 74.2553,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Katol - Citra Solar Power Plant",
+    "capacity_mw": 2,
+    "latitude": 21.317,
+    "longitude": 78.6025,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Katol - Sepset Solar Power Plant",
+    "capacity_mw": 2,
+    "latitude": 21.3174,
+    "longitude": 78.6001,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khadoda Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 23.443,
+    "longitude": 73.2014,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khandala Solar Power Plant",
+    "capacity_mw": 5.2,
+    "latitude": 18.6051,
+    "longitude": 75.0381,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khetusar - Northern Solar Power Plant",
+    "capacity_mw": 20,
+    "latitude": 27.3225,
+    "longitude": 71.9951,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khetusar - Suryauday Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 27.3247,
+    "longitude": 71.991,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khilchipur Solar Power Plant",
+    "capacity_mw": 25,
+    "latitude": 24.0682,
+    "longitude": 76.589,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khirsara - Unity Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.3578,
+    "longitude": 70.0548,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khirsara - Welspun Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 23.3618,
+    "longitude": 70.0536,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khirwa Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 27.301,
+    "longitude": 72.3236,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Khori Wind Farm",
+    "capacity_mw": 20.8,
+    "latitude": 21.167,
+    "longitude": 74.3272,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Kohinoor Wind Farm",
+    "capacity_mw": 24,
+    "latitude": 26.6797,
+    "longitude": 71.026,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Komal West Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 11.0118,
+    "longitude": 79.5898,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Kosa Wind Farm",
+    "capacity_mw": 33,
+    "latitude": 23.3183,
+    "longitude": 68.6988,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Kottamangalam Wind Farm",
+    "capacity_mw": 56.25,
+    "latitude": 10.6558,
+    "longitude": 77.2471,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Kottathara Village Wind Farm",
+    "capacity_mw": 3,
+    "latitude": 11.0951,
+    "longitude": 76.6709,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Kudankulam",
+    "capacity_mw": 2000,
+    "latitude": 8.1689,
+    "longitude": 77.7126,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "LAKHERI CEMENT PLANT",
+    "capacity_mw": 25,
+    "latitude": 25.6732,
+    "longitude": 76.1901,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "LAKWA GT",
+    "capacity_mw": 211.955,
+    "latitude": 27.0221,
+    "longitude": 94.8833,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "LALITPUR TPP",
+    "capacity_mw": 1980,
+    "latitude": 24.7971,
+    "longitude": 78.6463,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "LARA",
+    "capacity_mw": 800,
+    "latitude": 21.757,
+    "longitude": 83.4573,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "LARGI",
+    "capacity_mw": 126,
+    "latitude": 31.7196,
+    "longitude": 77.212,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LIGANAMAKKI",
+    "capacity_mw": 55,
+    "latitude": 14.1704,
+    "longitude": 74.8388,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LITL Uthumalai",
+    "capacity_mw": 10,
+    "latitude": 8.9969,
+    "longitude": 77.537,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "LNJP Bahla Basti Wind Farm",
+    "capacity_mw": 20,
+    "latitude": 26.5114,
+    "longitude": 71.4974,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "LODHIVALI",
+    "capacity_mw": 40,
+    "latitude": 18.9002,
+    "longitude": 73.2032,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "LOKMANGAL SUGAR ETHANOL",
+    "capacity_mw": 31.5,
+    "latitude": 17.4462,
+    "longitude": 75.7161,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "LOKTAK",
+    "capacity_mw": 105,
+    "latitude": 24.587,
+    "longitude": 93.6696,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LOWER JHELUM",
+    "capacity_mw": 105,
+    "latitude": 34.2189,
+    "longitude": 74.5281,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LOWER JURALA",
+    "capacity_mw": 240,
+    "latitude": 16.3125,
+    "longitude": 77.7773,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LOWER METTUR",
+    "capacity_mw": 120,
+    "latitude": 11.6425,
+    "longitude": 77.7583,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LOWER PERIYAR",
+    "capacity_mw": 180,
+    "latitude": 9.9624,
+    "longitude": 76.957,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LOWER SILERU",
+    "capacity_mw": 460,
+    "latitude": 17.8608,
+    "longitude": 81.6814,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "LTML Wind Energy Project in Tamil Nadu",
+    "capacity_mw": 9.7,
+    "latitude": 9.087,
+    "longitude": 77.6055,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Lakhewali Solar Power Plant",
+    "capacity_mw": 2.1,
+    "latitude": 30.4368,
+    "longitude": 74.3316,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Lakhmirwala Solar Power Plant",
+    "capacity_mw": 20,
+    "latitude": 29.8509,
+    "longitude": 75.4023,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Lallian Kalan Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 31.2496,
+    "longitude": 75.4826,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Lalpur Wind Farm",
+    "capacity_mw": 50.4,
+    "latitude": 22.1694,
+    "longitude": 69.827,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Lathi Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 27.0321,
+    "longitude": 71.5322,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Liberty Oil Satara Wind Farm",
+    "capacity_mw": 2.4,
+    "latitude": 17.8613,
+    "longitude": 74.0733,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "M.A.P.P.",
+    "capacity_mw": 440,
+    "latitude": 12.5571,
+    "longitude": 80.1754,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "MACHKUND",
+    "capacity_mw": 114.75,
+    "latitude": 18.5323,
+    "longitude": 82.4645,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MADHAVAMANTRI",
+    "capacity_mw": 4.5,
+    "latitude": 12.2135,
+    "longitude": 77.0225,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MADHIKHEDA",
+    "capacity_mw": 60,
+    "latitude": 25.5623,
+    "longitude": 77.8348,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MAHADEV PRASAD STPP",
+    "capacity_mw": 540,
+    "latitude": 22.8395,
+    "longitude": 86.0613,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MAHAN TPP",
+    "capacity_mw": 1200,
+    "latitude": 24.0077,
+    "longitude": 82.4172,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MAHATMA GANDHI TPP",
+    "capacity_mw": 1320,
+    "latitude": 28.49,
+    "longitude": 76.351,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MAHATMA SUGAR",
+    "capacity_mw": 15,
+    "latitude": 20.8558,
+    "longitude": 78.5814,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "MAHI BAJAJ I&II",
+    "capacity_mw": 140,
+    "latitude": 23.5443,
+    "longitude": 74.5062,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MAHUL REFINERY",
+    "capacity_mw": 22,
+    "latitude": 19.0162,
+    "longitude": 72.8963,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "MAIHAR CEMENT PLANT",
+    "capacity_mw": 31.4,
+    "latitude": 24.2021,
+    "longitude": 80.7997,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MAITHON",
+    "capacity_mw": 63.2,
+    "latitude": 23.7872,
+    "longitude": 86.8284,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MAITHON RB TPP",
+    "capacity_mw": 1050,
+    "latitude": 23.8209,
+    "longitude": 86.76,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MALANA",
+    "capacity_mw": 186,
+    "latitude": 32.0041,
+    "longitude": 77.2494,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MALLARPUR",
+    "capacity_mw": 9,
+    "latitude": 15.3773,
+    "longitude": 76.4591,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MANERI BHALI",
+    "capacity_mw": 394,
+    "latitude": 30.7294,
+    "longitude": 78.4238,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MANGALORE REFINERY",
+    "capacity_mw": 166.5,
+    "latitude": 12.9821,
+    "longitude": 74.8496,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "MANGAON CCPP",
+    "capacity_mw": 388,
+    "latitude": 18.3879,
+    "longitude": 73.3529,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "MANGLAM CEMENT",
+    "capacity_mw": 25,
+    "latitude": 24.7176,
+    "longitude": 75.9522,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MANI DPH",
+    "capacity_mw": 9,
+    "latitude": 13.6763,
+    "longitude": 75.0462,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MANIKDOH",
+    "capacity_mw": 6,
+    "latitude": 19.2345,
+    "longitude": 73.8144,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MANIKGARH CEMENT",
+    "capacity_mw": 50,
+    "latitude": 19.7235,
+    "longitude": 79.1761,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MANIYAR",
+    "capacity_mw": 12,
+    "latitude": 9.3294,
+    "longitude": 76.8798,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MARATHA CEMENT PLANT",
+    "capacity_mw": 45,
+    "latitude": 19.703,
+    "longitude": 79.2206,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MARWA TPP",
+    "capacity_mw": 1000,
+    "latitude": 22.0708,
+    "longitude": 82.6022,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MATATILLA",
+    "capacity_mw": 30.6,
+    "latitude": 25.1001,
+    "longitude": 78.3717,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MEJA STPP",
+    "capacity_mw": 660,
+    "latitude": 25.1447,
+    "longitude": 81.9415,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MEJIA",
+    "capacity_mw": 1340,
+    "latitude": 23.4639,
+    "longitude": 87.1311,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MEJIA TPS EXT",
+    "capacity_mw": 1000,
+    "latitude": 23.4639,
+    "longitude": 87.1311,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MELAMARUTHUR (MUTHIARA)",
+    "capacity_mw": 1200,
+    "latitude": 8.9159,
+    "longitude": 78.1374,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "METTUR",
+    "capacity_mw": 840,
+    "latitude": 11.7696,
+    "longitude": 77.8138,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "METTUR DAM",
+    "capacity_mw": 250,
+    "latitude": 11.8014,
+    "longitude": 77.8085,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "METTUR TPS EXT",
+    "capacity_mw": 600,
+    "latitude": 11.7696,
+    "longitude": 77.8138,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MIHAN TPP",
+    "capacity_mw": 246,
+    "latitude": 21.0377,
+    "longitude": 78.9334,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MONARCHAK CCPP",
+    "capacity_mw": 101,
+    "latitude": 23.438,
+    "longitude": 91.274,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "MORDI PLANT",
+    "capacity_mw": 46,
+    "latitude": 23.5496,
+    "longitude": 74.4072,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MOUDA STPS",
+    "capacity_mw": 2320,
+    "latitude": 21.1797,
+    "longitude": 79.3978,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MOYAR",
+    "capacity_mw": 36,
+    "latitude": 11.6137,
+    "longitude": 76.6919,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MRMPL Mudari Wind Farm",
+    "capacity_mw": 20,
+    "latitude": 26.8051,
+    "longitude": 70.7381,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "MSPL Wind Farm",
+    "capacity_mw": 78.9,
+    "latitude": 15.1579,
+    "longitude": 75.7965,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "MUDHOL CEMENT",
+    "capacity_mw": 50,
+    "latitude": 16.2017,
+    "longitude": 75.3005,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MUKERIAN I -IV",
+    "capacity_mw": 207,
+    "latitude": 31.9553,
+    "longitude": 75.836,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MUL GRETA",
+    "capacity_mw": 15,
+    "latitude": 20.0805,
+    "longitude": 79.7148,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MUMBAI BPCL",
+    "capacity_mw": 31.2,
+    "latitude": 19.016,
+    "longitude": 72.8948,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "MUMBAI JINDAL",
+    "capacity_mw": 25.2,
+    "latitude": 18.5309,
+    "longitude": 72.9465,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "MUMBAI ONGC",
+    "capacity_mw": 75,
+    "latitude": 18.9988,
+    "longitude": 72.8997,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "MUNDRA TPP",
+    "capacity_mw": 4620,
+    "latitude": 22.823,
+    "longitude": 69.5532,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MUNDRA UMPP",
+    "capacity_mw": 4000,
+    "latitude": 22.8158,
+    "longitude": 69.5281,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MUNIRABAD",
+    "capacity_mw": 28.3,
+    "latitude": 15.2666,
+    "longitude": 76.3288,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "MUNOLI DISTILLERY",
+    "capacity_mw": 11.2,
+    "latitude": 15.8555,
+    "longitude": 75.1002,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "MURBAD PLANT",
+    "capacity_mw": 15,
+    "latitude": 19.261,
+    "longitude": 73.3638,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MUZAFFARPUR",
+    "capacity_mw": 610,
+    "latitude": 26.1953,
+    "longitude": 85.3017,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "MYNTDU",
+    "capacity_mw": 126,
+    "latitude": 25.2354,
+    "longitude": 92.2279,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "Maloshi Wind Farm",
+    "capacity_mw": 14.65,
+    "latitude": 17.5727,
+    "longitude": 73.9032,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Mandrup - Giriraj Solar Power Plant",
+    "capacity_mw": 6.6,
+    "latitude": 17.4999,
+    "longitude": 75.781,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Mirpur Kalan - Alianz Eco Solar Power Plant",
+    "capacity_mw": 2.1,
+    "latitude": 29.7303,
+    "longitude": 75.3099,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Mirpur Kalan - Nexgen Solux Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 29.7311,
+    "longitude": 75.308,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Mithapur Solar Power Plant",
+    "capacity_mw": 17,
+    "latitude": 22.4077,
+    "longitude": 68.9925,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Mokal Wind Farm",
+    "capacity_mw": 31.5,
+    "latitude": 27.1657,
+    "longitude": 70.7455,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Mokla Wind farm",
+    "capacity_mw": 52.5,
+    "latitude": 27.1611,
+    "longitude": 70.681,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Mulshi Solar Power Plant",
+    "capacity_mw": 3,
+    "latitude": 18.4921,
+    "longitude": 73.5081,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Muradwala Dal Singh Solar Power Plant",
+    "capacity_mw": 21,
+    "latitude": 29.7303,
+    "longitude": 75.3099,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "N.A.P.S",
+    "capacity_mw": 440,
+    "latitude": 28.156,
+    "longitude": 78.4089,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "NABI NAGAR TPP",
+    "capacity_mw": 750,
+    "latitude": 24.7754,
+    "longitude": 84.1588,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NAGARJUNA SAGAR",
+    "capacity_mw": 815.6,
+    "latitude": 16.5678,
+    "longitude": 79.3442,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NAGARJUNA SAGAR   TPD",
+    "capacity_mw": 50,
+    "latitude": 16.626,
+    "longitude": 79.4909,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NAGDA GRASIM",
+    "capacity_mw": 45.5,
+    "latitude": 23.4469,
+    "longitude": 75.408,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NAGOTHANE COMPLEX",
+    "capacity_mw": 78.9,
+    "latitude": 18.8829,
+    "longitude": 73.1862,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "NAGPUR GMT",
+    "capacity_mw": 10,
+    "latitude": 21.0582,
+    "longitude": 79.485,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "NAGPUR MILL",
+    "capacity_mw": 18.9,
+    "latitude": 20.8062,
+    "longitude": 79.0548,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "NAGPUR SPONGE IRON",
+    "capacity_mw": 65,
+    "latitude": 20.9276,
+    "longitude": 79.2455,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NAMRUP GT",
+    "capacity_mw": 161.75,
+    "latitude": 27.1858,
+    "longitude": 95.376,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "NARASINGPUR",
+    "capacity_mw": 10,
+    "latitude": 22.9649,
+    "longitude": 78.8132,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "NARAYANPUR",
+    "capacity_mw": 11.6,
+    "latitude": 16.2365,
+    "longitude": 76.3369,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NARIMANGLAM",
+    "capacity_mw": 45,
+    "latitude": 9.9533,
+    "longitude": 76.9792,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NASIK",
+    "capacity_mw": 630,
+    "latitude": 19.9817,
+    "longitude": 73.8896,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NASIK SINNAR",
+    "capacity_mw": 270,
+    "latitude": 19.8658,
+    "longitude": 74.0835,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NASIK TPP  PH 1",
+    "capacity_mw": 1350,
+    "latitude": 19.9817,
+    "longitude": 73.8896,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NATHPA JHAKRI",
+    "capacity_mw": 1500,
+    "latitude": 31.564,
+    "longitude": 77.98,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NAWAPARA",
+    "capacity_mw": 600,
+    "latitude": 21.92,
+    "longitude": 83.2788,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NEPANAGAR MILL",
+    "capacity_mw": 12.27,
+    "latitude": 21.4504,
+    "longitude": 76.4014,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NEW UMTRU",
+    "capacity_mw": 40,
+    "latitude": 26.0132,
+    "longitude": 91.8239,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NEYVELI FST EXT",
+    "capacity_mw": 420,
+    "latitude": 11.5887,
+    "longitude": 79.4611,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NEYVELI ST I",
+    "capacity_mw": 600,
+    "latitude": 11.5893,
+    "longitude": 79.4704,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NEYVELI ST II",
+    "capacity_mw": 1470,
+    "latitude": 11.5576,
+    "longitude": 79.4417,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NEYVELI TPS EXP -II",
+    "capacity_mw": 500,
+    "latitude": 11.5534,
+    "longitude": 79.4408,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NEYVELI TPS(Z)",
+    "capacity_mw": 250,
+    "latitude": 11.5401,
+    "longitude": 79.4159,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NIGRI",
+    "capacity_mw": 1320,
+    "latitude": 24.15,
+    "longitude": 81.9045,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NIMBAHERA JK CEMENT",
+    "capacity_mw": 33.2,
+    "latitude": 24.6428,
+    "longitude": 74.6843,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NIMOO BAZGO",
+    "capacity_mw": 45,
+    "latitude": 34.2154,
+    "longitude": 77.1842,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NITIN PLANT",
+    "capacity_mw": 10.5,
+    "latitude": 25.2042,
+    "longitude": 74.6092,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NIZAM SAGAR",
+    "capacity_mw": 10,
+    "latitude": 18.2172,
+    "longitude": 77.9576,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "NMDC Anehalu Wind Farm",
+    "capacity_mw": 10.5,
+    "latitude": 14.098,
+    "longitude": 76.3154,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "NORTH CHENNAI",
+    "capacity_mw": 630,
+    "latitude": 13.245,
+    "longitude": 80.3257,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NORTH CHENNAI EXTENSION",
+    "capacity_mw": 1200,
+    "latitude": 13.245,
+    "longitude": 80.3257,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "NURANANG",
+    "capacity_mw": 6,
+    "latitude": 27.5882,
+    "longitude": 91.981,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "N_SAGAR LBC",
+    "capacity_mw": 60,
+    "latitude": 16.5697,
+    "longitude": 79.3389,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "N_SAGAR RBC",
+    "capacity_mw": 90,
+    "latitude": 16.5697,
+    "longitude": 79.3389,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "Nagda Hills Wind Energy project",
+    "capacity_mw": 6.25,
+    "latitude": 22.8985,
+    "longitude": 76.0718,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Nagercoli Wind Farm",
+    "capacity_mw": 37.6,
+    "latitude": 8.1784,
+    "longitude": 77.6873,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Naini Solar Power Plant",
+    "capacity_mw": 5.8,
+    "latitude": 25.3723,
+    "longitude": 81.8717,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Nallakonda Wind Farm",
+    "capacity_mw": 50.4,
+    "latitude": 14.1651,
+    "longitude": 77.5713,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Nargund Wind Farm",
+    "capacity_mw": 7.2,
+    "latitude": 15.7319,
+    "longitude": 75.3789,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Nokh - GGEL Solar Power Plant",
+    "capacity_mw": 50,
+    "latitude": 27.6007,
+    "longitude": 72.2242,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Nokh - Precision Technik Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.5728,
+    "longitude": 72.206,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Nokha Daiya Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 28.1371,
+    "longitude": 72.9661,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "NuPower Tirunelveli Wind Farm",
+    "capacity_mw": 150,
+    "latitude": 9.0737,
+    "longitude": 77.4753,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "OBRA",
+    "capacity_mw": 99,
+    "latitude": 24.4375,
+    "longitude": 82.9655,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "OBRA-A",
+    "capacity_mw": 1094,
+    "latitude": 24.4448,
+    "longitude": 82.9803,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "OMKARESHWAR",
+    "capacity_mw": 520,
+    "latitude": 22.2418,
+    "longitude": 76.1619,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "ONGC Jerat Wind Farm",
+    "capacity_mw": 102,
+    "latitude": 26.818,
+    "longitude": 71.0643,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "ONGC Kutch Wind Farm",
+    "capacity_mw": 51,
+    "latitude": 23.1689,
+    "longitude": 68.6975,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "P.NALLUR CCGT",
+    "capacity_mw": 330.5,
+    "latitude": 11.0749,
+    "longitude": 79.834,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PAGUTHAN",
+    "capacity_mw": 655,
+    "latitude": 21.78,
+    "longitude": 72.979,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PAINAMPURAM",
+    "capacity_mw": 1320,
+    "latitude": 14.3512,
+    "longitude": 80.1431,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PAITHON",
+    "capacity_mw": 12,
+    "latitude": 19.4834,
+    "longitude": 75.3696,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PALATANA CCPP",
+    "capacity_mw": 726.6,
+    "latitude": 23.4987,
+    "longitude": 91.4385,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PALLIVASAL",
+    "capacity_mw": 37.5,
+    "latitude": 10.0314,
+    "longitude": 77.0548,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PAMPORE GT",
+    "capacity_mw": 175,
+    "latitude": 34.004,
+    "longitude": 74.9175,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "PANCHET",
+    "capacity_mw": 80,
+    "latitude": 23.6815,
+    "longitude": 86.7473,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PANIPAT",
+    "capacity_mw": 920,
+    "latitude": 29.3975,
+    "longitude": 76.8763,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PANNIAR",
+    "capacity_mw": 30,
+    "latitude": 9.9731,
+    "longitude": 77.0281,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PAPANASAM",
+    "capacity_mw": 32,
+    "latitude": 8.7065,
+    "longitude": 77.3627,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PARAS",
+    "capacity_mw": 500,
+    "latitude": 20.7147,
+    "longitude": 76.7948,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PARBATI-III",
+    "capacity_mw": 520,
+    "latitude": 31.7398,
+    "longitude": 77.2576,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PARBHANI GANGAKHED",
+    "capacity_mw": 30,
+    "latitude": 18.9057,
+    "longitude": 76.7282,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "PARE",
+    "capacity_mw": 110,
+    "latitude": 27.2387,
+    "longitude": 93.8107,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PARICHA",
+    "capacity_mw": 1140,
+    "latitude": 25.5124,
+    "longitude": 78.7588,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PARLI",
+    "capacity_mw": 1170,
+    "latitude": 18.8685,
+    "longitude": 76.5254,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PARSEN_S VALLE",
+    "capacity_mw": 30,
+    "latitude": 11.3646,
+    "longitude": 76.6045,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PATALGANGA",
+    "capacity_mw": 66,
+    "latitude": 18.8834,
+    "longitude": 73.1814,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PATHADI TPS PH -I",
+    "capacity_mw": 600,
+    "latitude": 22.2454,
+    "longitude": 82.7246,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PATHRI",
+    "capacity_mw": 20.4,
+    "latitude": 29.9274,
+    "longitude": 78.0415,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PAWANA",
+    "capacity_mw": 10,
+    "latitude": 18.6814,
+    "longitude": 73.4948,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PEDDAPURAM CCGT(Samalkot)",
+    "capacity_mw": 220,
+    "latitude": 17.0853,
+    "longitude": 82.1283,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PENCH",
+    "capacity_mw": 160,
+    "latitude": 21.4813,
+    "longitude": 79.2086,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PENNA AHOBELAM",
+    "capacity_mw": 20,
+    "latitude": 14.6859,
+    "longitude": 77.7147,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PERIYAR",
+    "capacity_mw": 161,
+    "latitude": 9.6266,
+    "longitude": 77.1905,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PIPAVAV CCCP",
+    "capacity_mw": 702.86,
+    "latitude": 20.8986,
+    "longitude": 71.4693,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "POCHAMPAD",
+    "capacity_mw": 36,
+    "latitude": 18.9766,
+    "longitude": 78.2563,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PONG",
+    "capacity_mw": 396,
+    "latitude": 31.9667,
+    "longitude": 75.9469,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PORINGALKUTTU",
+    "capacity_mw": 32,
+    "latitude": 10.3118,
+    "longitude": 76.617,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PORINGALKUTTU L",
+    "capacity_mw": 16,
+    "latitude": 10.3118,
+    "longitude": 76.617,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PRAGATI CCCP -III",
+    "capacity_mw": 1371.2,
+    "latitude": 28.7962,
+    "longitude": 77.0706,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PRAGATI CCGT",
+    "capacity_mw": 330,
+    "latitude": 28.6146,
+    "longitude": 77.2528,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "PRIYADARSHNI JURALA",
+    "capacity_mw": 234,
+    "latitude": 16.3328,
+    "longitude": 77.7036,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PRYAGRAJ (BARA) TPP",
+    "capacity_mw": 1980,
+    "latitude": 25.196,
+    "longitude": 81.6594,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PULICHINTALA",
+    "capacity_mw": 120,
+    "latitude": 16.7739,
+    "longitude": 80.0525,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PUNE MILL",
+    "capacity_mw": 30,
+    "latitude": 18.2417,
+    "longitude": 74.7531,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "PURULIA PSS",
+    "capacity_mw": 900,
+    "latitude": 23.1975,
+    "longitude": 86.097,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PYKARA",
+    "capacity_mw": 59.2,
+    "latitude": 11.5336,
+    "longitude": 76.6011,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "PYKARA ALIMATE",
+    "capacity_mw": 150,
+    "latitude": 11.5336,
+    "longitude": 76.6011,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "Panandhro Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.6788,
+    "longitude": 68.7653,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Patan Taluka Wind Farm",
+    "capacity_mw": 65.6,
+    "latitude": 17.2684,
+    "longitude": 73.8368,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Patnaik Hatti Wind Farm",
+    "capacity_mw": 15,
+    "latitude": 21.1902,
+    "longitude": 74.3795,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Patnaik Jamnagar Wind Farm",
+    "capacity_mw": 35.2,
+    "latitude": 22.0983,
+    "longitude": 70.2729,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Patodi Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 26.0748,
+    "longitude": 72.2677,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Phagi Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 26.5653,
+    "longitude": 75.5622,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Pokhran FVE Solar Power Plant",
+    "capacity_mw": 40,
+    "latitude": 26.8022,
+    "longitude": 72.0078,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Pokhran THE Solar Power Plant",
+    "capacity_mw": 100,
+    "latitude": 26.7874,
+    "longitude": 72.0099,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Powerica Jangi Vandjiya",
+    "capacity_mw": 21.8,
+    "latitude": 23.2478,
+    "longitude": 70.5948,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Powerica Kutch Wind Farm",
+    "capacity_mw": 14.85,
+    "latitude": 23.1897,
+    "longitude": 70.6216,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Powerica Theni Wind Farm",
+    "capacity_mw": 9.9,
+    "latitude": 9.9855,
+    "longitude": 77.5777,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Powerica Tirunelveli Wind Farm",
+    "capacity_mw": 16.5,
+    "latitude": 9.0198,
+    "longitude": 77.4501,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Pratapgarh Solar Power Plant",
+    "capacity_mw": 9,
+    "latitude": 23.3682,
+    "longitude": 70.7432,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Precious Solar Power Plant",
+    "capacity_mw": 15.2,
+    "latitude": 23.9151,
+    "longitude": 71.9424,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Punjawa - Sikh Wala Solar Power Plant",
+    "capacity_mw": 19,
+    "latitude": 30.0208,
+    "longitude": 74.546,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "R.A.P.S.",
+    "capacity_mw": 1080,
+    "latitude": 24.8747,
+    "longitude": 75.6189,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "R.P.SAGAR",
+    "capacity_mw": 172,
+    "latitude": 24.9174,
+    "longitude": 75.5794,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RABRIYAWAS CEMENT",
+    "capacity_mw": 18.7,
+    "latitude": 26.2984,
+    "longitude": 74.1234,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RADHANAGRI",
+    "capacity_mw": 4.8,
+    "latitude": 16.4072,
+    "longitude": 73.9616,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RAGHUNATHPUR TPP PH-I",
+    "capacity_mw": 1200,
+    "latitude": 23.622,
+    "longitude": 86.661,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAICHUR",
+    "capacity_mw": 1720,
+    "latitude": 16.3532,
+    "longitude": 77.3422,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAICHUR STEEL",
+    "capacity_mw": 35,
+    "latitude": 16.3027,
+    "longitude": 77.3608,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAIGARH TPP",
+    "capacity_mw": 1000,
+    "latitude": 21.9846,
+    "longitude": 83.2331,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAIKHEDA",
+    "capacity_mw": 1370,
+    "latitude": 21.4499,
+    "longitude": 81.8525,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAJASHREE CEMENT",
+    "capacity_mw": 38.5,
+    "latitude": 17.1427,
+    "longitude": 77.1749,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAJGHAT",
+    "capacity_mw": 135,
+    "latitude": 28.6361,
+    "longitude": 77.2542,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAJGHAT (MP)",
+    "capacity_mw": 45,
+    "latitude": 24.7635,
+    "longitude": 78.2322,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RAJIV GANDHI  TPS HISAR",
+    "capacity_mw": 1200,
+    "latitude": 29.356,
+    "longitude": 75.869,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAJPURA DARIBA MINE",
+    "capacity_mw": 160,
+    "latitude": 24.9643,
+    "longitude": 74.1197,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAJPURA TPP",
+    "capacity_mw": 1400,
+    "latitude": 30.557,
+    "longitude": 76.577,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RAMANAGARAM MILL",
+    "capacity_mw": 11,
+    "latitude": 12.7145,
+    "longitude": 77.4524,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "RAMGANGA",
+    "capacity_mw": 198,
+    "latitude": 29.5169,
+    "longitude": 78.7574,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RAMGARH GT",
+    "capacity_mw": 270.5,
+    "latitude": 27.336,
+    "longitude": 70.538,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "RAMMAM",
+    "capacity_mw": 50,
+    "latitude": 27.114,
+    "longitude": 88.1376,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RAMPUR",
+    "capacity_mw": 412.02,
+    "latitude": 31.4,
+    "longitude": 77.5927,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RANGANADI",
+    "capacity_mw": 405,
+    "latitude": 27.3426,
+    "longitude": 93.8168,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RANGIT-III",
+    "capacity_mw": 60,
+    "latitude": 27.2949,
+    "longitude": 88.2921,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RANJANI MILL",
+    "capacity_mw": 12.5,
+    "latitude": 18.5354,
+    "longitude": 76.245,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "RANJIT SAGAR",
+    "capacity_mw": 600,
+    "latitude": 32.4404,
+    "longitude": 75.7305,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RAS CEMENT PLANT",
+    "capacity_mw": 36,
+    "latitude": 26.263,
+    "longitude": 74.1878,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RATIJA TPP",
+    "capacity_mw": 100,
+    "latitude": 22.3404,
+    "longitude": 82.493,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RATNAGIRI GAS",
+    "capacity_mw": 1967.08,
+    "latitude": 17.5587,
+    "longitude": 73.167,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "RAYAL SEEMA",
+    "capacity_mw": 1650,
+    "latitude": 14.704,
+    "longitude": 78.4577,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RELIANCE ENERGY",
+    "capacity_mw": 48,
+    "latitude": 15.3771,
+    "longitude": 73.877,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "RENGALI",
+    "capacity_mw": 250,
+    "latitude": 21.2759,
+    "longitude": 85.0355,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RIHAND",
+    "capacity_mw": 3000,
+    "latitude": 24.027,
+    "longitude": 82.7915,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "RIHAND_Hydro",
+    "capacity_mw": 300,
+    "latitude": 24.1778,
+    "longitude": 83.0361,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "RITHALA CCCP",
+    "capacity_mw": 94.8,
+    "latitude": 28.7327,
+    "longitude": 77.1016,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "RMC MANGROL",
+    "capacity_mw": 6,
+    "latitude": 25.1732,
+    "longitude": 75.832,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "ROKHIA GT",
+    "capacity_mw": 63,
+    "latitude": 23.626,
+    "longitude": 91.1948,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "ROPAR",
+    "capacity_mw": 840,
+    "latitude": 31.0417,
+    "longitude": 76.5847,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "ROSA TPP PH - 1",
+    "capacity_mw": 1200,
+    "latitude": 27.818,
+    "longitude": 79.936,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "R_GUNDEM - B",
+    "capacity_mw": 62.5,
+    "latitude": 18.7695,
+    "longitude": 79.4494,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "R_GUNDEM STPS",
+    "capacity_mw": 2600,
+    "latitude": 18.7572,
+    "longitude": 79.456,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Rajgarh - NTPC Solar Power Plant",
+    "capacity_mw": 50,
+    "latitude": 23.9637,
+    "longitude": 76.719,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Rajgarh - Ujaas Solar Power Plant",
+    "capacity_mw": 16.5,
+    "latitude": 23.9796,
+    "longitude": 76.7329,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Raksa Solar Power Plant",
+    "capacity_mw": 2,
+    "latitude": 25.4106,
+    "longitude": 78.4805,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Ram Tirath Jaga Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 29.9619,
+    "longitude": 75.1631,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Ramagundam Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 18.764,
+    "longitude": 79.4873,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Rapar Khokhara Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.2592,
+    "longitude": 70.0097,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Rasulpur Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 27.9363,
+    "longitude": 75.679,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Ratedi Mondri Wind Farm",
+    "capacity_mw": 26.4,
+    "latitude": 26.8026,
+    "longitude": 70.7736,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Ravra - IOC Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.4108,
+    "longitude": 72.2164,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Ravra - NWEPL Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.4118,
+    "longitude": 72.2127,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Ravra - SEI Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 27.4092,
+    "longitude": 72.2193,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Ravra - Welspun Solar Power Plant",
+    "capacity_mw": 50,
+    "latitude": 27.4137,
+    "longitude": 72.1577,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Relaxo Footwear Kui Inda Wind Farm",
+    "capacity_mw": 6,
+    "latitude": 26.4586,
+    "longitude": 72.4706,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Roaring 40s Wind Farms (Khandke) Private Limited - Phase II",
+    "capacity_mw": 50.4,
+    "latitude": 19.1474,
+    "longitude": 74.8763,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Rojhani Solar Power Plant",
+    "capacity_mw": 30.5,
+    "latitude": 23.7025,
+    "longitude": 75.9246,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Rucha Soya Wind Farm",
+    "capacity_mw": 35.1,
+    "latitude": 23.0562,
+    "longitude": 70.6004,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "S.SAROVAR CHPH",
+    "capacity_mw": 250,
+    "latitude": 21.8376,
+    "longitude": 73.7559,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "S.SAROVAR RBPH",
+    "capacity_mw": 1200,
+    "latitude": 21.8301,
+    "longitude": 73.7501,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SABARIGIRI",
+    "capacity_mw": 300,
+    "latitude": 9.3098,
+    "longitude": 77.0727,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SAGARDIGHI TPP",
+    "capacity_mw": 1600,
+    "latitude": 24.3696,
+    "longitude": 88.1046,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SAHAKAR SHIROMANI",
+    "capacity_mw": 18,
+    "latitude": 17.708,
+    "longitude": 75.1361,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SALAL I & II",
+    "capacity_mw": 690,
+    "latitude": 33.142,
+    "longitude": 74.8097,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SALAYA TPP",
+    "capacity_mw": 1200,
+    "latitude": 22.3049,
+    "longitude": 69.7101,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SALORA",
+    "capacity_mw": 135,
+    "latitude": 22.49,
+    "longitude": 82.6062,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SAMALPATTI DG",
+    "capacity_mw": 105.7,
+    "latitude": 12.2995,
+    "longitude": 78.4038,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "SAMAYANALLUR DG",
+    "capacity_mw": 106,
+    "latitude": 9.9751,
+    "longitude": 78.0445,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "SAMEERWADI MILL",
+    "capacity_mw": 24,
+    "latitude": 16.3918,
+    "longitude": 75.0411,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SANGLI KRANTI",
+    "capacity_mw": 19.7,
+    "latitude": 17.1354,
+    "longitude": 74.4272,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SANGLI MIRAJ BIOMASS",
+    "capacity_mw": 10,
+    "latitude": 16.9171,
+    "longitude": 74.4821,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SANGLI VASANTDADA",
+    "capacity_mw": 12.5,
+    "latitude": 16.881,
+    "longitude": 74.5898,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SANJAY BHABA",
+    "capacity_mw": 120,
+    "latitude": 31.2642,
+    "longitude": 78.4835,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SANJAY GANDHI",
+    "capacity_mw": 1340,
+    "latitude": 23.3026,
+    "longitude": 81.0668,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SANKESHWAR MILL",
+    "capacity_mw": 26,
+    "latitude": 16.2478,
+    "longitude": 74.5003,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SANTALDIH",
+    "capacity_mw": 500,
+    "latitude": 23.6013,
+    "longitude": 86.4666,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SARKARPATHY",
+    "capacity_mw": 30,
+    "latitude": 10.4558,
+    "longitude": 76.8302,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SASAN UMPP",
+    "capacity_mw": 3960,
+    "latitude": 23.9784,
+    "longitude": 82.6275,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SATNA CEMENT PLANT",
+    "capacity_mw": 29,
+    "latitude": 24.5959,
+    "longitude": 80.858,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SATPURA",
+    "capacity_mw": 1330,
+    "latitude": 22.11,
+    "longitude": 78.173,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SBT SUGAR",
+    "capacity_mw": 16,
+    "latitude": 19.6125,
+    "longitude": 74.1924,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SEIONI TPP",
+    "capacity_mw": 600,
+    "latitude": 22.7355,
+    "longitude": 79.9123,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SEMBCORP GAYATRI",
+    "capacity_mw": 1320,
+    "latitude": 14.351,
+    "longitude": 80.1443,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SENGULAM",
+    "capacity_mw": 48,
+    "latitude": 9.976,
+    "longitude": 77.0309,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SERVALAR",
+    "capacity_mw": 20,
+    "latitude": 8.6895,
+    "longitude": 77.3048,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SEWA-II",
+    "capacity_mw": 120,
+    "latitude": 32.6762,
+    "longitude": 75.8215,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SEWA-III",
+    "capacity_mw": 9,
+    "latitude": 32.6029,
+    "longitude": 75.9006,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHANAN",
+    "capacity_mw": 110,
+    "latitude": 31.9894,
+    "longitude": 76.8072,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHARAVATHY",
+    "capacity_mw": 1035,
+    "latitude": 14.2352,
+    "longitude": 74.7673,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHARAVATHY TAIL RACE (Gerusupa)",
+    "capacity_mw": 240,
+    "latitude": 14.2352,
+    "longitude": 74.7673,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHIMSAPURA",
+    "capacity_mw": 17.2,
+    "latitude": 12.3409,
+    "longitude": 77.1906,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHIROL MILL",
+    "capacity_mw": 36,
+    "latitude": 16.7493,
+    "longitude": 74.5854,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SHOLAYAR",
+    "capacity_mw": 54,
+    "latitude": 10.3046,
+    "longitude": 76.7305,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHOLAYAR I&II",
+    "capacity_mw": 70,
+    "latitude": 10.3575,
+    "longitude": 76.879,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SHREE MEGA POWER",
+    "capacity_mw": 300,
+    "latitude": 26.0743,
+    "longitude": 74.3858,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SHRI MALAPRABHA",
+    "capacity_mw": 22,
+    "latitude": 15.6933,
+    "longitude": 74.7162,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SHRI SHANKAR",
+    "capacity_mw": 20,
+    "latitude": 17.8676,
+    "longitude": 74.8405,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SHRIRAM RAYONS PLANT",
+    "capacity_mw": 40,
+    "latitude": 25.1296,
+    "longitude": 75.8832,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SIIL Jaibhim Wind Farm",
+    "capacity_mw": 33.6,
+    "latitude": 21.127,
+    "longitude": 74.2673,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "SIKKA REP.",
+    "capacity_mw": 500,
+    "latitude": 22.4208,
+    "longitude": 69.8276,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SIMHADRI",
+    "capacity_mw": 2000,
+    "latitude": 17.591,
+    "longitude": 83.0917,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SIMHAPURI TPP",
+    "capacity_mw": 600,
+    "latitude": 14.2133,
+    "longitude": 80.0838,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SINGARENI TPP",
+    "capacity_mw": 1200,
+    "latitude": 18.8372,
+    "longitude": 79.5748,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SINGRAULI STPS",
+    "capacity_mw": 2000,
+    "latitude": 24.1033,
+    "longitude": 82.7068,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SINGUR",
+    "capacity_mw": 15,
+    "latitude": 18.6609,
+    "longitude": 78.0876,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SIPAT STPS",
+    "capacity_mw": 2980,
+    "latitude": 22.13,
+    "longitude": 82.293,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SITAPURAM POWER LIMITED",
+    "capacity_mw": 43,
+    "latitude": 16.8301,
+    "longitude": 80.0407,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SIVASAMUNDRUM",
+    "capacity_mw": 42,
+    "latitude": 12.3082,
+    "longitude": 77.165,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SOLAPUR STPP",
+    "capacity_mw": 1320,
+    "latitude": 31.7537,
+    "longitude": 77.246,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SONAI MILL",
+    "capacity_mw": 16,
+    "latitude": 19.3804,
+    "longitude": 74.8397,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "SOUTHERN REPL.",
+    "capacity_mw": 135,
+    "latitude": 22.5488,
+    "longitude": 88.2926,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SRINAGAR",
+    "capacity_mw": 330,
+    "latitude": 30.2313,
+    "longitude": 78.7924,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SRISAILAM",
+    "capacity_mw": 770,
+    "latitude": 16.0869,
+    "longitude": 78.9007,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SRISAILAM LBPH",
+    "capacity_mw": 900,
+    "latitude": 16.0929,
+    "longitude": 78.9118,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "STAKNA",
+    "capacity_mw": 4,
+    "latitude": 33.9594,
+    "longitude": 77.7142,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "STERLITE TPP",
+    "capacity_mw": 600,
+    "latitude": 21.8144,
+    "longitude": 84.0404,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SUBERNREKHA I&II",
+    "capacity_mw": 130,
+    "latitude": 23.457,
+    "longitude": 85.555,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SUGEN CCCP",
+    "capacity_mw": 1147.5,
+    "latitude": 21.3395,
+    "longitude": 72.9889,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "SURAT LIG.",
+    "capacity_mw": 500,
+    "latitude": 21.397,
+    "longitude": 73.106,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SURATGARH",
+    "capacity_mw": 1500,
+    "latitude": 29.179,
+    "longitude": 74.0202,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SURULIYAR",
+    "capacity_mw": 35,
+    "latitude": 9.62,
+    "longitude": 77.2726,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SURYA",
+    "capacity_mw": 6,
+    "latitude": 19.9214,
+    "longitude": 73.0575,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "SVPL",
+    "capacity_mw": 63,
+    "latitude": 22.2915,
+    "longitude": 82.5257,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SWASTIK KORBA",
+    "capacity_mw": 25,
+    "latitude": 22.3005,
+    "longitude": 82.7047,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "SWPPL Madhavakurichi",
+    "capacity_mw": 10.5,
+    "latitude": 8.823,
+    "longitude": 77.6271,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "SWPPL Manurpalayam",
+    "capacity_mw": 21,
+    "latitude": 10.8166,
+    "longitude": 77.3199,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "SWPPL Vadakkupanavadali",
+    "capacity_mw": 10.5,
+    "latitude": 9.0782,
+    "longitude": 77.591,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Sadeipali - ASPL Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 20.731,
+    "longitude": 83.4538,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Sadeipali - REHPL Solar Power Plant",
+    "capacity_mw": 1,
+    "latitude": 20.7325,
+    "longitude": 83.4632,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Sai Sulphonates Wind Mill",
+    "capacity_mw": 1.5,
+    "latitude": 10.9262,
+    "longitude": 77.3841,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Sakri 1A Solar Power Plant",
+    "capacity_mw": 100,
+    "latitude": 21.0726,
+    "longitude": 74.3862,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Sakri 1B Solar Power Plant",
+    "capacity_mw": 25,
+    "latitude": 21.0864,
+    "longitude": 74.3529,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Sangatpura Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 29.9611,
+    "longitude": 75.7767,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Satara Wind Farm",
+    "capacity_mw": 100,
+    "latitude": 17.2387,
+    "longitude": 73.9096,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Shiloj Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 20.8183,
+    "longitude": 71.0063,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Shirsoli Solar Power Plant",
+    "capacity_mw": 8.5,
+    "latitude": 17.4999,
+    "longitude": 75.781,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Shivasamundra Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 12.3003,
+    "longitude": 77.1638,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Shivlakha - Backbone Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.3585,
+    "longitude": 70.6206,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Shivlakha - CPEC Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.383,
+    "longitude": 70.6146,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Shivlakha - Konark Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 23.3654,
+    "longitude": 70.6268,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Shree Nashik Wind Farm",
+    "capacity_mw": 10.5,
+    "latitude": 19.845,
+    "longitude": 73.9074,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Shree Sangli Wind Farm",
+    "capacity_mw": 16.5,
+    "latitude": 17.3031,
+    "longitude": 74.631,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Shree Southern Wind Farm",
+    "capacity_mw": 2.25,
+    "latitude": 17.5724,
+    "longitude": 74.3386,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Shri Singaji MALWA TPP",
+    "capacity_mw": 2520,
+    "latitude": 22.0971,
+    "longitude": 76.5317,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Singrauli Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 24.1185,
+    "longitude": 82.6415,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Sivaganga Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 9.8043,
+    "longitude": 78.4487,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Solitaire Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 23.9116,
+    "longitude": 71.9324,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Sonu Wind Farm",
+    "capacity_mw": 8.4,
+    "latitude": 27.2081,
+    "longitude": 70.6958,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Sumilon Shikarpur Wind Farm",
+    "capacity_mw": 3.6,
+    "latitude": 23.2414,
+    "longitude": 70.7262,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Sumilon Vershamedi Wind Farm",
+    "capacity_mw": 3.6,
+    "latitude": 22.972,
+    "longitude": 70.5443,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Supe Solar Power Plant",
+    "capacity_mw": 2,
+    "latitude": 18.3198,
+    "longitude": 74.3686,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Surajbari Creek Wind Farm",
+    "capacity_mw": 30,
+    "latitude": 23.3232,
+    "longitude": 70.6417,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "T.B. DAM",
+    "capacity_mw": 36,
+    "latitude": 15.2615,
+    "longitude": 76.3379,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TADALI",
+    "capacity_mw": 600,
+    "latitude": 20.0116,
+    "longitude": 79.2036,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TADALI SPONGE IRON",
+    "capacity_mw": 33,
+    "latitude": 20.0123,
+    "longitude": 79.1863,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TALCHER",
+    "capacity_mw": 460,
+    "latitude": 20.9099,
+    "longitude": 85.2072,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TALCHER STPS",
+    "capacity_mw": 3000,
+    "latitude": 21.0966,
+    "longitude": 85.074,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TALWANDI SABO",
+    "capacity_mw": 1980,
+    "latitude": 29.924,
+    "longitude": 75.2372,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TAMNAR TPP",
+    "capacity_mw": 2400,
+    "latitude": 22.0987,
+    "longitude": 83.4513,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TANAKPUR",
+    "capacity_mw": 94.2,
+    "latitude": 29.0057,
+    "longitude": 80.0946,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TANDA",
+    "capacity_mw": 440,
+    "latitude": 26.586,
+    "longitude": 82.602,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TANIR BAVI",
+    "capacity_mw": 220,
+    "latitude": 12.9019,
+    "longitude": 74.816,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "TARAPUR",
+    "capacity_mw": 1400,
+    "latitude": 19.8294,
+    "longitude": 72.6617,
+    "primary_fuel": "Nuclear"
+  },
+  {
+    "name": "TASHIDING",
+    "capacity_mw": 97,
+    "latitude": 27.3403,
+    "longitude": 88.2332,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TAWA",
+    "capacity_mw": 13.5,
+    "latitude": 22.5616,
+    "longitude": 77.9635,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TEESTA  I-III",
+    "capacity_mw": 67.5,
+    "latitude": 26.4875,
+    "longitude": 88.3155,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TEESTA -V",
+    "capacity_mw": 510,
+    "latitude": 27.2517,
+    "longitude": 88.4604,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TEESTA LOW DAM -IV",
+    "capacity_mw": 160,
+    "latitude": 26.9279,
+    "longitude": 88.4562,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TEESTA LOW DAM-III",
+    "capacity_mw": 132,
+    "latitude": 27.0017,
+    "longitude": 88.443,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TEESTA-III",
+    "capacity_mw": 1200,
+    "latitude": 27.5981,
+    "longitude": 88.6505,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TEHRI ST -1",
+    "capacity_mw": 1000,
+    "latitude": 30.3787,
+    "longitude": 78.4795,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TENUGHAT",
+    "capacity_mw": 420,
+    "latitude": 23.7573,
+    "longitude": 85.8936,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "THAL WORKS",
+    "capacity_mw": 30,
+    "latitude": 18.7026,
+    "longitude": 72.8709,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "THAMMINAPATNAM TPP",
+    "capacity_mw": 300,
+    "latitude": 14.2133,
+    "longitude": 80.0838,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "THANE PLANT",
+    "capacity_mw": 22.5,
+    "latitude": 19.0875,
+    "longitude": 73.0258,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "THIROT",
+    "capacity_mw": 4.5,
+    "latitude": 32.659,
+    "longitude": 76.7817,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TILLARI",
+    "capacity_mw": 60,
+    "latitude": 15.8094,
+    "longitude": 74.1588,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TILLAYA",
+    "capacity_mw": 4,
+    "latitude": 24.3249,
+    "longitude": 85.5198,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TIRORA TPP",
+    "capacity_mw": 3300,
+    "latitude": 21.4129,
+    "longitude": 79.9671,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TITAGARH",
+    "capacity_mw": 240,
+    "latitude": 22.7318,
+    "longitude": 88.371,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TORANGALLU EXT",
+    "capacity_mw": 600,
+    "latitude": 15.1839,
+    "longitude": 76.6622,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TORANGALLU IMP",
+    "capacity_mw": 260,
+    "latitude": 15.1839,
+    "longitude": 76.6622,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TORR POWER SAB.",
+    "capacity_mw": 422,
+    "latitude": 23.0701,
+    "longitude": 72.5933,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TROMBAY",
+    "capacity_mw": 500,
+    "latitude": 19.0004,
+    "longitude": 72.8983,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "TROMBAY GT",
+    "capacity_mw": 180,
+    "latitude": 19.0018,
+    "longitude": 72.8967,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "TROMBAY WORKS",
+    "capacity_mw": 18,
+    "latitude": 19.0366,
+    "longitude": 72.8892,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "TROMBAY_Coal",
+    "capacity_mw": 750,
+    "latitude": 19.0004,
+    "longitude": 72.8983,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TROMBAY_Oil",
+    "capacity_mw": 150,
+    "latitude": 19.0004,
+    "longitude": 72.8983,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "TUIRIAL",
+    "capacity_mw": 60,
+    "latitude": 24.3588,
+    "longitude": 92.8837,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "TUNGABHADRA SUGAR",
+    "capacity_mw": 28,
+    "latitude": 15.6609,
+    "longitude": 76.8756,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "TUTICORIN",
+    "capacity_mw": 1050,
+    "latitude": 8.7635,
+    "longitude": 78.1753,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TUTICORIN JV",
+    "capacity_mw": 1000,
+    "latitude": 8.7603,
+    "longitude": 78.1699,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TUTICORIN- IND BARATH",
+    "capacity_mw": 300,
+    "latitude": 8.7635,
+    "longitude": 78.1753,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "TVS Kunnur Wind Farm",
+    "capacity_mw": 9.35,
+    "latitude": 9.9438,
+    "longitude": 77.5077,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "TVS Tirunelveli Wind Farm",
+    "capacity_mw": 14.4,
+    "latitude": 8.9165,
+    "longitude": 77.659,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "TVS Virali Wind Farm",
+    "capacity_mw": 25.5,
+    "latitude": 17.501,
+    "longitude": 74.7001,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Tadas wind farm",
+    "capacity_mw": 100,
+    "latitude": 15.1069,
+    "longitude": 75.1661,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Talcher Kaniha Solar Power Plant",
+    "capacity_mw": 10,
+    "latitude": 21.0866,
+    "longitude": 85.0987,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Tata BP - Electronics City Solar Panel Plant",
+    "capacity_mw": 0,
+    "latitude": 12.8491,
+    "longitude": 77.6752,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Tata Power Gadag Plains Wind Farm",
+    "capacity_mw": 50.4,
+    "latitude": 15.3302,
+    "longitude": 75.5767,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Tata Wind Farm",
+    "capacity_mw": 50.4,
+    "latitude": 19.1757,
+    "longitude": 74.8441,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Teona Pujarian Solar Power Plant",
+    "capacity_mw": 22,
+    "latitude": 27.4137,
+    "longitude": 72.1577,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Theni Wind Farm",
+    "capacity_mw": 24,
+    "latitude": 9.9621,
+    "longitude": 77.3709,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Thimmapuram Wind Farm",
+    "capacity_mw": 200,
+    "latitude": 14.7053,
+    "longitude": 77.3355,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Tinwari - MB Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 26.5182,
+    "longitude": 72.8536,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Tiruppur",
+    "capacity_mw": 1.5,
+    "latitude": 10.8139,
+    "longitude": 77.3785,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Tiruppur 2",
+    "capacity_mw": 1.5,
+    "latitude": 10.79,
+    "longitude": 77.33,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Torrent Gujurat Wind Farm",
+    "capacity_mw": 49.6,
+    "latitude": 22.104,
+    "longitude": 69.8323,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "U.B.D.C. ST.-I& II",
+    "capacity_mw": 91.35,
+    "latitude": 32.3367,
+    "longitude": 75.5819,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "U.ROGNICHU",
+    "capacity_mw": 8,
+    "latitude": 27.2614,
+    "longitude": 88.5572,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UCHPINDA TPP",
+    "capacity_mw": 1440,
+    "latitude": 21.8858,
+    "longitude": 83.1215,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "UDUPI TPP",
+    "capacity_mw": 1200,
+    "latitude": 13.1596,
+    "longitude": 74.8002,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "UJJAINI",
+    "capacity_mw": 12,
+    "latitude": 18.0723,
+    "longitude": 75.1197,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UKAI LBC",
+    "capacity_mw": 5,
+    "latitude": 21.2323,
+    "longitude": 73.5917,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UKAI_Coal",
+    "capacity_mw": 1110,
+    "latitude": 21.2093,
+    "longitude": 73.5574,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "UKAI_Hydro",
+    "capacity_mw": 300,
+    "latitude": 21.2478,
+    "longitude": 73.5866,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UMIAM I II &IV",
+    "capacity_mw": 96,
+    "latitude": 25.6593,
+    "longitude": 91.9003,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UMTRU (NEW)",
+    "capacity_mw": 11.2,
+    "latitude": 26.0069,
+    "longitude": 91.8114,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UNCHAHAR",
+    "capacity_mw": 1550,
+    "latitude": 25.9131,
+    "longitude": 81.3274,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "UNO SUGEN",
+    "capacity_mw": 382.5,
+    "latitude": 21.3411,
+    "longitude": 72.9895,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "UPL Dharapuram Wind Farm",
+    "capacity_mw": 1.7,
+    "latitude": 10.838,
+    "longitude": 77.5123,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "UPPAR INDRAVATI",
+    "capacity_mw": 600,
+    "latitude": 19.4269,
+    "longitude": 82.8594,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UPPER KOLAB",
+    "capacity_mw": 320,
+    "latitude": 18.8315,
+    "longitude": 82.5934,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UPPER SILERU I&II",
+    "capacity_mw": 240,
+    "latitude": 18.0313,
+    "longitude": 82.0179,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UPPER SINDH I& II",
+    "capacity_mw": 105,
+    "latitude": 34.198,
+    "longitude": 75.1245,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "URAN GT",
+    "capacity_mw": 672,
+    "latitude": 18.88,
+    "longitude": 72.9715,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "URAN ONGC",
+    "capacity_mw": 62.6,
+    "latitude": 18.8681,
+    "longitude": 72.9293,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "URI",
+    "capacity_mw": 480,
+    "latitude": 34.1442,
+    "longitude": 74.1857,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "URI -II",
+    "capacity_mw": 240,
+    "latitude": 34.0921,
+    "longitude": 74.0318,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "URUMI",
+    "capacity_mw": 3.75,
+    "latitude": 11.3727,
+    "longitude": 76.0584,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "UTRAN CCCP EXT",
+    "capacity_mw": 374.571,
+    "latitude": 21.2285,
+    "longitude": 72.8705,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "UTRAULA TPP",
+    "capacity_mw": 90,
+    "latitude": 27.3455,
+    "longitude": 82.3166,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Udumalpet Wind Farm",
+    "capacity_mw": 25.7,
+    "latitude": 10.6143,
+    "longitude": 77.237,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "VAIGAI DAM",
+    "capacity_mw": 13.5,
+    "latitude": 10.0537,
+    "longitude": 77.5905,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "VAITARNA",
+    "capacity_mw": 60,
+    "latitude": 19.7674,
+    "longitude": 73.502,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "VALANTHARVI GT",
+    "capacity_mw": 52.8,
+    "latitude": 9.3279,
+    "longitude": 78.9215,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "VALLUR ntpc/ntecl",
+    "capacity_mw": 1500,
+    "latitude": 13.2371,
+    "longitude": 80.3023,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VALUTHUR GT",
+    "capacity_mw": 187.2,
+    "latitude": 9.3484,
+    "longitude": 78.9235,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "VARAHI",
+    "capacity_mw": 460,
+    "latitude": 13.6576,
+    "longitude": 74.9484,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "VARDHAM BUDNI",
+    "capacity_mw": 25.8,
+    "latitude": 22.7808,
+    "longitude": 77.6515,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VARDHAM SATLAPUR",
+    "capacity_mw": 30.75,
+    "latitude": 23.0752,
+    "longitude": 77.5526,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VASAVADATTA CEMENT",
+    "capacity_mw": 50.7,
+    "latitude": 17.1605,
+    "longitude": 77.293,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VEMAGIRI CCCP",
+    "capacity_mw": 388.5,
+    "latitude": 16.9238,
+    "longitude": 81.8141,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "VENUNAGAR SUGAR",
+    "capacity_mw": 19.8,
+    "latitude": 17.7382,
+    "longitude": 75.3218,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "VIJAIPUR WORKS",
+    "capacity_mw": 75,
+    "latitude": 24.4978,
+    "longitude": 77.1513,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "VIJAYWADA",
+    "capacity_mw": 1260,
+    "latitude": 16.5984,
+    "longitude": 80.537,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VIJAYWADA TPP-IV",
+    "capacity_mw": 500,
+    "latitude": 16.5973,
+    "longitude": 80.5382,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VIJESWARAM GT",
+    "capacity_mw": 272.3,
+    "latitude": 16.9345,
+    "longitude": 81.7245,
+    "primary_fuel": "Gas"
+  },
+  {
+    "name": "VIKRAM CEMENT",
+    "capacity_mw": 46,
+    "latitude": 24.5753,
+    "longitude": 74.8012,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VINDH_CHAL STPS",
+    "capacity_mw": 4760,
+    "latitude": 24.0983,
+    "longitude": 82.6719,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "VIR",
+    "capacity_mw": 9,
+    "latitude": 18.121,
+    "longitude": 74.0968,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "VISHNU PRAYAG",
+    "capacity_mw": 400,
+    "latitude": 30.5669,
+    "longitude": 79.5468,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "VIZAG TPP",
+    "capacity_mw": 1040,
+    "latitude": 17.5635,
+    "longitude": 83.1382,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Vaayu Ashti Wind Farm",
+    "capacity_mw": 50.4,
+    "latitude": 19.108,
+    "longitude": 74.9885,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Vastan Solar Power Plant",
+    "capacity_mw": 5,
+    "latitude": 21.4239,
+    "longitude": 73.1273,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "WADI CEMENT PLANT",
+    "capacity_mw": 75,
+    "latitude": 17.0552,
+    "longitude": 76.9775,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "WANAKBORI",
+    "capacity_mw": 1470,
+    "latitude": 22.8725,
+    "longitude": 73.3588,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "WARDHA WARORA(Sai Wardha Power)",
+    "capacity_mw": 540,
+    "latitude": 20.2727,
+    "longitude": 78.9792,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "WARDHA WORKS",
+    "capacity_mw": 80,
+    "latitude": 20.6964,
+    "longitude": 78.6385,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "WARNA",
+    "capacity_mw": 16,
+    "latitude": 17.1401,
+    "longitude": 73.866,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "WY.CANAL A -D",
+    "capacity_mw": 62.4,
+    "latitude": 30.3033,
+    "longitude": 77.5684,
+    "primary_fuel": "Hydro"
+  },
+  {
+    "name": "Wadgam Solar Power Plant",
+    "capacity_mw": 15,
+    "latitude": 22.3172,
+    "longitude": 72.4397,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Warora Solar Power Plant",
+    "capacity_mw": 25,
+    "latitude": 20.301,
+    "longitude": 79.0237,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Weizzmann Forex Idukki Wind Farm",
+    "capacity_mw": 3.6,
+    "latitude": 9.8881,
+    "longitude": 77.2216,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Wind power project by Riddhi Siddhi Gluco Biols Limited (RSGBL)",
+    "capacity_mw": 34.65,
+    "latitude": 8.8709,
+    "longitude": 77.4466,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "Wind power project in Rajasthan",
+    "capacity_mw": 42,
+    "latitude": 27.1715,
+    "longitude": 70.6877,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "YAMUNANAGAR TPP",
+    "capacity_mw": 600,
+    "latitude": 30.1081,
+    "longitude": 77.3257,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "YASHWANTRAO MOHITE",
+    "capacity_mw": 16,
+    "latitude": 17.1653,
+    "longitude": 74.2456,
+    "primary_fuel": "Biomass"
+  },
+  {
+    "name": "YELHANKA (DG)",
+    "capacity_mw": 106.6,
+    "latitude": 13.1156,
+    "longitude": 77.5838,
+    "primary_fuel": "Oil"
+  },
+  {
+    "name": "YERMARUS TPP",
+    "capacity_mw": 1600,
+    "latitude": 16.2949,
+    "longitude": 77.3568,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "Yelesandra Solar Power Plant",
+    "capacity_mw": 3,
+    "latitude": 12.8932,
+    "longitude": 78.1654,
+    "primary_fuel": "Solar"
+  },
+  {
+    "name": "Yelisirur wind power project",
+    "capacity_mw": 25.5,
+    "latitude": 15.2758,
+    "longitude": 75.5811,
+    "primary_fuel": "Wind"
+  },
+  {
+    "name": "ZAWAR MINES",
+    "capacity_mw": 80,
+    "latitude": 24.35,
+    "longitude": 73.7477,
+    "primary_fuel": "Coal"
+  },
+  {
+    "name": "iEnergy Theni Wind Farm",
+    "capacity_mw": 16.5,
+    "latitude": 9.9344,
+    "longitude": 77.4768,
+    "primary_fuel": "Wind"
+  }
+]
