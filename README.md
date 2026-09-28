@@ -40,14 +40,14 @@
 
 # 👥 Team Blaze Core
 
-| Member | Role | Contribution | Email
+| Member | Role | Contribution | Email |
 |---|---|---|---|
-| **Kunal Kumar Vishwakarma** | Team Leader | Backend, Frontend & PPT | kunalvishwa123@gmail.com
+| **Kunal Kumar Vishwakarma** | Team Leader | Backend & UI/UX | kunalvishwa123@gmail.com
 | **Sanjeet** | Team Member | Dataset Researcher | codersanjeet07@gmail.com
-| **Harsh Goyal** | Team Member | Frontend | harshgoyal89200@gmail.com
-| **Anjali Rout** | Team Member | Context Research & PPT | anjalirout782@gmail.com
-| **Yash Kumar** | Team Member | Technical Contributor | kumaryash8731@gmail.com
-| **Yashika Chandra** | Team Member | Context Research |	yashikachandra06@gmail.com
+| **Harsh Goyal** | Team Member | Frontend Development | harshgoyal89200@gmail.com
+| **Anjali Rout** | Team Member | Technical Research & Presentation | anjalirout782@gmail.com
+| **Yash Kumar** | Team Member | Product Context Verifier  | kumaryash8731@gmail.com
+| **Yashika Chandra** | Team Member | Research & Context Analysis |	yashikachandra06@gmail.com
 
 
 ---
