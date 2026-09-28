@@ -1,0 +1,966 @@
+lat_rounded,long_rounded,days_active,total_detections,has_facility,facility_name,nearest_facility_name,nearest_facility_distance_km,land_cover_code,land_cover_class
+8.01,80.6,1,1,False,,Ihalagama Buiscut Factory,7.35116700875049,10.0,Tree Cover
+8.01,81.3,1,1,False,,Unnamed Facility,8.016496242689497,30.0,Grassland
+8.02,80.31,1,1,False,,Unnamed Facility,2.639721642811227,30.0,Grassland
+8.02,80.36,1,1,False,,Unnamed Facility,5.009708435341985,40.0,Cropland
+8.02,80.62,1,2,False,,Ihalagama Buiscut Factory,8.451496067526357,40.0,Cropland
+8.02,80.63,1,1,False,,Muslim Vidyalaya,9.347144584410213,40.0,Cropland
+8.02,81.31,1,1,False,,New Rathna Rice (Pvt) Ltd,8.724464062706026,10.0,Tree Cover
+8.02,81.42,1,1,True,Children community sentre,Children community sentre,1.4626128227801278,30.0,Grassland
+8.02,81.43,1,2,False,,Children community sentre,2.5725734199397627,40.0,Cropland
+8.03,80.62,1,1,False,,Muslim Vidyalaya,7.935245301225994,10.0,Tree Cover
+8.03,80.63,1,1,False,,Muslim Vidyalaya,8.319276675365831,10.0,Tree Cover
+8.03,81.17,1,2,False,,Unnamed Facility,7.783318412588776,40.0,Cropland
+8.03,81.41,1,1,True,Children community sentre,Children community sentre,1.0544129621562364,40.0,Cropland
+8.04,80.35,1,1,False,,Unnamed Facility,6.469416258836036,40.0,Cropland
+8.04,80.61,1,1,False,,Ihalagama Buiscut Factory,6.543246370041095,40.0,Cropland
+8.05,80.1,1,1,False,,Giribawa Divisional Secretariat Office,13.03826372517896,10.0,Tree Cover
+8.05,80.25,1,1,False,,Unnamed Facility,3.363191772426647,40.0,Cropland
+8.05,81.32,1,1,False,,Milk kalaking centre,8.795480395932069,40.0,Cropland
+8.06,79.87,1,1,False,,Unnamed Facility,8.013799915146953,30.0,Grassland
+8.06,80.1,1,1,False,,Giribawa Divisional Secretariat Office,12.450333324920074,10.0,Tree Cover
+8.06,80.25,1,1,False,,Unnamed Facility,4.088798008343548,10.0,Tree Cover
+8.06,80.64,1,1,False,,Muslim Vidyalaya,6.187600889381802,30.0,Grassland
+8.06,80.65,1,1,False,,Unnamed Facility,6.391681063018108,40.0,Cropland
+8.07,80.61,1,1,False,,Muslim Vidyalaya,3.36041179364918,10.0,Tree Cover
+8.07,80.64,1,1,False,,Muslim Vidyalaya,5.478969488406174,10.0,Tree Cover
+8.08,80.18,1,1,False,,Giribawa Divisional Secretariat Office,4.3957837011260645,30.0,Grassland
+8.08,80.78,1,1,False,,Unnamed Facility,8.257711191187536,30.0,Grassland
+8.09,79.93,1,1,False,,Unnamed Facility,13.302120844198376,10.0,Tree Cover
+8.09,80.78,1,1,False,,Unnamed Facility,8.551518645479485,10.0,Tree Cover
+8.09,81.37,1,2,False,,Milk kalaking centre,6.677097029079121,40.0,Cropland
+8.09,81.39,1,1,False,,Milk kalaking centre,5.973210451599454,10.0,Tree Cover
+8.1,81.1,1,1,False,,Unnamed Facility,15.471963128834911,40.0,Cropland
+8.11,80.6,1,1,True,Muslim Vidyalaya,Muslim Vidyalaya,1.2865755610272882,10.0,Tree Cover
+8.11,80.81,1,2,False,,Unnamed Facility,12.470527502736005,10.0,Tree Cover
+8.12,80.15,1,1,False,,Giribawa Divisional Secretariat Office,5.269883404512957,10.0,Tree Cover
+8.12,80.52,1,1,False,,Ihalagama Buiscut Factory,7.9245339335181795,30.0,Grassland
+8.12,80.56,1,1,False,,Muslim Vidyalaya,5.029396265261805,40.0,Cropland
+8.12,80.8,1,1,False,,Unnamed Facility,11.987573145445946,10.0,Tree Cover
+8.12,80.81,2,6,False,,Unnamed Facility,12.956516516807564,10.0,Tree Cover
+8.12,80.82,1,1,False,,Unnamed Facility,13.946813002456691,10.0,Tree Cover
+8.13,80.03,1,1,False,,Giribawa Divisional Secretariat Office,18.659342770859464,30.0,Grassland
+8.13,80.1,1,1,False,,Giribawa Divisional Secretariat Office,10.92484773468484,30.0,Grassland
+8.13,80.55,2,2,False,,Muslim Vidyalaya,6.552289120669463,10.0,Tree Cover
+8.13,80.81,1,1,False,,Unnamed Facility,13.516709904648469,10.0,Tree Cover
+8.13,80.82,1,1,False,,Unnamed Facility,14.468715192497562,10.0,Tree Cover
+8.15,80.06,1,1,False,,Giribawa Divisional Secretariat Office,15.726929997739866,10.0,Tree Cover
+8.15,81.14,1,1,False,,Unnamed Facility,14.413997655331304,30.0,Grassland
+8.16,80.46,1,1,False,,Unnamed Facility,4.702012499760697,10.0,Tree Cover
+8.16,80.68,1,2,False,,Unnamed Facility,10.986807009325506,10.0,Tree Cover
+8.17,80.63,1,1,False,,Muslim Vidyalaya,8.63935446745704,10.0,Tree Cover
+8.17,81.08,1,1,False,,Unnamed Facility,14.011080883278003,10.0,Tree Cover
+8.17,81.31,1,1,False,,Ice factory,14.131208826252651,40.0,Cropland
+8.18,80.58,1,1,False,,Muslim Vidyalaya,9.33220363247126,10.0,Tree Cover
+8.19,80.1,1,1,False,,Giribawa Divisional Secretariat Office,13.609904452148088,10.0,Tree Cover
+8.21,80.58,1,1,False,,Muslim Vidyalaya,12.598800008466917,30.0,Grassland
+8.21,80.69,2,2,False,,Muslim Vidyalaya,15.956063359610733,10.0,Tree Cover
+8.22,80.98,2,2,False,,Unnamed Facility,8.880889499498503,10.0,Tree Cover
+8.22,81.08,1,1,False,,Unnamed Facility,11.436105624066911,10.0,Tree Cover
+8.23,80.33,1,2,False,,Unnamed Facility,4.206211889726049,10.0,Tree Cover
+8.23,80.6,1,1,False,,Muslim Vidyalaya,14.62970794195942,40.0,Cropland
+8.24,80.11,1,1,False,,Giribawa Divisional Secretariat Office,16.89183039956301,10.0,Tree Cover
+8.24,80.16,1,1,False,,Giribawa Divisional Secretariat Office,14.437525215930032,10.0,Tree Cover
+8.24,80.17,1,1,False,,Giribawa Divisional Secretariat Office,14.159179404545688,10.0,Tree Cover
+8.24,80.64,1,2,False,,Unnamed Facility,14.270102997427747,10.0,Tree Cover
+8.24,80.65,1,1,False,,Unnamed Facility,14.48404311717784,30.0,Grassland
+8.25,80.26,1,1,False,,Unnamed Facility,10.377807727929325,10.0,Tree Cover
+8.25,80.33,1,1,False,,Unnamed Facility,2.774642297187973,10.0,Tree Cover
+8.25,80.78,1,2,False,,Unnamed Facility,22.01530720908473,40.0,Cropland
+8.26,80.11,1,1,False,,Giribawa Divisional Secretariat Office,18.75645284870804,10.0,Tree Cover
+8.26,80.12,1,1,False,,Giribawa Divisional Secretariat Office,18.20660426339343,30.0,Grassland
+8.26,80.15,1,1,False,,Giribawa Divisional Secretariat Office,16.89216856628019,10.0,Tree Cover
+8.26,80.25,1,1,False,,Unnamed Facility,11.427536799706637,10.0,Tree Cover
+8.26,80.26,1,1,False,,Unnamed Facility,10.315590019933532,10.0,Tree Cover
+8.26,80.32,1,1,False,,Unnamed Facility,3.6439412113836553,40.0,Cropland
+8.27,80.15,1,1,False,,Giribawa Divisional Secretariat Office,17.952435684167604,10.0,Tree Cover
+8.27,80.33,1,1,False,,Unnamed Facility,2.7561768199096592,10.0,Tree Cover
+8.28,81.0,1,1,False,,Unnamed Facility,6.58561400038077,40.0,Cropland
+8.29,80.18,1,1,False,,Giribawa Divisional Secretariat Office,19.486364243097096,10.0,Tree Cover
+8.29,80.2,1,1,False,,Unnamed Facility,17.307288014235066,40.0,Cropland
+8.29,80.58,1,1,False,,Unnamed Facility,9.633545089742794,10.0,Tree Cover
+8.31,80.6,1,1,False,,Unnamed Facility,6.699012357403958,30.0,Grassland
+8.31,81.01,1,1,False,,Unnamed Facility,4.097048346203192,10.0,Tree Cover
+8.32,80.23,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,14.787172080815646,30.0,Grassland
+8.32,80.29,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,8.147893772184453,40.0,Cropland
+8.33,80.28,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,9.187969126896707,40.0,Cropland
+8.33,80.77,1,1,False,,Unnamed Facility,17.16015438420774,40.0,Cropland
+8.34,80.27,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,10.363160961571332,40.0,Cropland
+8.35,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,20.432289808664507,30.0,Grassland
+8.35,80.55,1,1,False,,Factory,5.125253170791052,10.0,Tree Cover
+8.35,80.74,1,3,False,,Unnamed Facility,13.459720426178093,10.0,Tree Cover
+8.35,80.75,1,1,False,,Unnamed Facility,14.561743124947366,30.0,Grassland
+8.36,80.59,1,1,False,,Unnamed Facility,3.433486540314985,40.0,Cropland
+8.36,80.75,1,1,False,,Unnamed Facility,14.461326734550893,10.0,Tree Cover
+8.37,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,20.79559073535908,10.0,Tree Cover
+8.37,80.21,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,17.55276718199653,10.0,Tree Cover
+8.37,80.22,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,16.480080127259416,10.0,Tree Cover
+8.38,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,21.063118267475225,10.0,Tree Cover
+8.39,80.21,1,2,False,,Design Studio Manufacturing (Pvt) Ltd,18.247443994210947,30.0,Grassland
+8.39,80.29,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,10.495551436218204,40.0,Cropland
+8.39,80.3,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,9.666069725810017,40.0,Cropland
+8.39,80.79,1,1,False,,Unnamed Facility,19.06498749550758,30.0,Grassland
+8.39,81.02,1,1,False,,Unnamed Facility,8.610050324267991,10.0,Tree Cover
+8.39,81.03,1,1,False,,Unnamed Facility,8.300750994608332,10.0,Tree Cover
+8.4,80.43,2,3,True,AgStar Grains (Pvt) Ltd,AgStar Grains (Pvt) Ltd,1.97257909785958,40.0,Cropland
+8.4,80.63,1,1,False,,Unnamed Facility,3.853112333104358,40.0,Cropland
+8.4,80.68,1,1,False,,Unnamed Facility,7.613745049470147,40.0,Cropland
+8.4,81.04,1,1,False,,Unnamed Facility,9.241429859950228,10.0,Tree Cover
+8.4,81.06,2,3,False,,Unnamed Facility,9.343839603931618,40.0,Cropland
+8.41,81.06,1,2,False,,Unnamed Facility,10.442193104794963,40.0,Cropland
+8.42,80.34,1,1,False,,Unnamed Facility,8.475611483382105,30.0,Grassland
+8.42,80.38,1,1,False,,Unnamed Facility,6.344999733923962,10.0,Tree Cover
+8.42,80.42,1,1,False,,AgStar Grains (Pvt) Ltd,4.33527268435842,10.0,Tree Cover
+8.42,80.45,1,1,False,,AgStar Grains (Pvt) Ltd,4.760132040624539,10.0,Tree Cover
+8.43,80.35,2,2,False,,Unnamed Facility,8.675714737407356,30.0,Grassland
+8.43,80.38,1,2,False,,Unnamed Facility,7.436033446872451,40.0,Cropland
+8.43,80.46,1,2,False,,industrial ground area,5.065170711941783,10.0,Tree Cover
+8.43,80.51,1,4,True,industrial ground area,industrial ground area,1.371627212392882,40.0,Cropland
+8.43,80.56,1,1,False,,open areas,6.1026715544223125,10.0,Tree Cover
+8.43,80.84,1,1,False,,Unnamed Facility,25.439551460097903,10.0,Tree Cover
+8.44,80.67,1,1,False,,Unnamed Facility,9.85067076061601,30.0,Grassland
+8.44,81.09,1,1,False,,Unnamed Facility,14.507728367038013,40.0,Cropland
+8.44,81.1,1,1,False,,Unnamed Facility,14.9182344550517,40.0,Cropland
+8.45,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,24.3163236644368,10.0,Tree Cover
+8.45,80.22,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,20.74656702980008,30.0,Grassland
+8.45,80.24,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,19.100404211950927,40.0,Cropland
+8.45,80.66,1,1,False,,Unnamed Facility,10.260589332662486,40.0,Cropland
+8.45,81.1,1,1,False,,Unnamed Facility,15.727511975204065,40.0,Cropland
+8.46,80.4,1,1,False,,AgStar Grains (Pvt) Ltd,9.257135965463048,30.0,Grassland
+8.46,80.5,2,2,True,open areas,open areas,1.9639888505563103,40.0,Cropland
+8.46,80.51,1,1,True,open areas,open areas,1.8431027628938497,40.0,Cropland
+8.46,80.63,1,1,False,,Unnamed Facility,10.422999979556408,30.0,Grassland
+8.46,80.79,1,1,False,,Unnamed Facility,21.5463050099512,30.0,Grassland
+8.46,80.81,1,1,False,,Unnamed Facility,23.520317241039574,40.0,Cropland
+8.46,81.1,1,1,False,,Unnamed Facility,14.937405948111824,40.0,Cropland
+8.46,81.11,1,2,False,,Unnamed Facility,14.155769238392825,40.0,Cropland
+8.46,81.12,1,1,False,,Unnamed Facility,13.420818579538976,40.0,Cropland
+8.47,80.49,1,2,False,,open areas,3.471523762599113,10.0,Tree Cover
+8.47,80.66,1,1,False,,Unnamed Facility,12.303699395497862,10.0,Tree Cover
+8.47,80.83,1,1,False,,Kebitigollewa Bus Depot,25.9430903602339,40.0,Cropland
+8.48,80.33,1,1,False,,Unnamed Facility,14.602011981331264,10.0,Tree Cover
+8.48,80.46,2,2,False,,industrial ground area,6.564099959492086,40.0,Cropland
+8.48,80.5,1,1,False,,open areas,4.105166391282812,40.0,Cropland
+8.48,80.76,1,1,False,,Unnamed Facility,20.009839626764077,10.0,Tree Cover
+8.48,80.79,1,1,False,,Kebitigollewa Bus Depot,22.3043945928612,30.0,Grassland
+8.48,80.8,1,1,False,,Kebitigollewa Bus Depot,22.960934363705757,40.0,Cropland
+8.48,80.83,2,3,False,,Kebitigollewa Bus Depot,25.123637216958468,30.0,Grassland
+8.49,80.47,1,1,False,,open areas,6.578533373513607,10.0,Tree Cover
+8.49,80.74,1,1,False,,Kebitigollewa Bus Depot,18.61753425400146,30.0,Grassland
+8.49,80.75,1,1,False,,Kebitigollewa Bus Depot,19.077912849361564,10.0,Tree Cover
+8.49,80.76,1,1,False,,Kebitigollewa Bus Depot,19.5906558853712,10.0,Tree Cover
+8.49,80.82,1,1,False,,Kebitigollewa Bus Depot,23.551775797048546,10.0,Tree Cover
+8.5,80.21,1,1,False,,Unnamed Facility,25.243556526393917,10.0,Tree Cover
+8.5,80.25,1,1,False,,Unnamed Facility,21.84196273021317,30.0,Grassland
+8.5,80.62,1,1,False,,open areas,14.050807842601618,10.0,Tree Cover
+8.5,80.66,1,1,False,,Unnamed Facility,15.462195006655485,10.0,Tree Cover
+8.5,80.74,1,1,False,,Kebitigollewa Bus Depot,17.598622558415947,10.0,Tree Cover
+8.51,80.16,1,2,False,,Design Studio Manufacturing (Pvt) Ltd,30.158465103361685,10.0,Tree Cover
+8.51,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,28.535312628758465,10.0,Tree Cover
+8.51,80.24,1,1,False,,Unnamed Facility,23.414140289166504,30.0,Grassland
+8.51,80.54,1,1,False,,open areas,8.239407953339766,30.0,Grassland
+8.51,80.55,1,1,False,,open areas,8.793126200631141,10.0,Tree Cover
+8.51,80.6,1,1,False,,open areas,12.710945216938978,10.0,Tree Cover
+8.51,80.76,1,1,False,,Kebitigollewa Bus Depot,17.676666226148832,30.0,Grassland
+8.51,80.77,1,1,False,,Kebitigollewa Bus Depot,18.29656881888412,10.0,Tree Cover
+8.51,80.79,1,1,False,,Kebitigollewa Bus Depot,19.66679488168,10.0,Tree Cover
+8.51,80.83,1,1,False,,Kebitigollewa Bus Depot,22.814336496452388,10.0,Tree Cover
+8.52,80.28,1,1,False,,Unnamed Facility,21.33124085174764,30.0,Grassland
+8.52,80.42,1,1,False,,industrial ground area,12.848162913648762,10.0,Tree Cover
+8.52,80.6,1,1,False,,open areas,13.386320566005692,10.0,Tree Cover
+8.52,80.82,1,1,False,,Kebitigollewa Bus Depot,21.24621220324585,40.0,Cropland
+8.53,80.43,1,3,False,,open areas,12.848231231801302,10.0,Tree Cover
+8.53,80.83,1,1,False,,Kebitigollewa Bus Depot,21.42559520746616,10.0,Tree Cover
+8.54,80.43,1,1,False,,open areas,13.698475114343063,30.0,Grassland
+8.54,80.52,1,1,False,,open areas,10.80457854437358,30.0,Grassland
+8.54,80.77,1,1,False,,Kebitigollewa Bus Depot,15.694489300033329,40.0,Cropland
+8.54,80.85,1,1,False,,Kebitigollewa Bus Depot,22.66581681959648,40.0,Cropland
+8.54,80.88,1,1,False,,Kebitigollewa Bus Depot,25.589545275149018,40.0,Cropland
+8.55,80.37,1,1,False,,industrial ground area,19.233727079476477,10.0,Tree Cover
+8.55,80.64,1,1,False,,Kebitigollewa Bus Depot,11.169815634057676,10.0,Tree Cover
+8.55,80.75,1,1,False,,Kebitigollewa Bus Depot,13.403480866936526,40.0,Cropland
+8.56,80.63,1,1,False,,Kebitigollewa Bus Depot,10.608873568088091,10.0,Tree Cover
+8.56,80.66,1,1,False,,Kebitigollewa Bus Depot,9.509198656113751,10.0,Tree Cover
+8.56,80.72,1,1,False,,Kebitigollewa Bus Depot,10.627580332276768,10.0,Tree Cover
+8.56,80.73,1,1,False,,Kebitigollewa Bus Depot,11.196156305772885,10.0,Tree Cover
+8.56,80.74,1,1,False,,Kebitigollewa Bus Depot,11.84209570430322,10.0,Tree Cover
+8.56,80.75,1,1,False,,Kebitigollewa Bus Depot,12.553461979023718,10.0,Tree Cover
+8.56,80.87,1,1,False,,Kebitigollewa Bus Depot,23.637317830600377,40.0,Cropland
+8.56,80.9,1,1,False,,Kebitigollewa Bus Depot,26.7328551331131,10.0,Tree Cover
+8.57,80.4,1,2,False,,open areas,18.394207648142395,10.0,Tree Cover
+8.57,80.59,1,1,False,,Kebitigollewa Bus Depot,12.53295765423804,10.0,Tree Cover
+8.57,80.78,1,1,False,,Kebitigollewa Bus Depot,14.314261536315009,10.0,Tree Cover
+8.57,80.84,1,1,False,,Kebitigollewa Bus Depot,20.136155954229714,10.0,Tree Cover
+8.57,80.9,1,1,False,,Kebitigollewa Bus Depot,26.363886553745623,30.0,Grassland
+8.58,80.36,1,1,False,,Vavunia Apparels,19.20115401719408,40.0,Cropland
+8.58,80.37,1,2,False,,Vavunia Apparels,18.720259561845484,30.0,Grassland
+8.58,80.78,1,1,False,,Kebitigollewa Bus Depot,13.70328122469506,40.0,Cropland
+8.59,80.52,1,1,False,,open areas,16.33057641414422,30.0,Grassland
+8.59,80.64,1,1,False,,Kebitigollewa Bus Depot,7.165639440166107,30.0,Grassland
+8.6,77.97,1,1,False,,Unnamed Facility,5.770938781372742,10.0,Tree Cover
+8.6,80.56,1,1,False,,Kebitigollewa Bus Depot,13.681833285765098,30.0,Grassland
+8.6,80.84,1,1,False,,Kebitigollewa Bus Depot,19.013912343837017,30.0,Grassland
+8.61,80.49,1,2,False,,Vavunia Apparels,14.886769197904552,10.0,Tree Cover
+8.61,80.83,1,1,False,,Kebitigollewa Bus Depot,17.66972961223342,10.0,Tree Cover
+8.61,80.97,1,1,False,,Eastern Salt Corporation,25.40078650748536,40.0,Cropland
+8.61,80.98,1,1,False,,Unnamed Facility,24.31186082822462,40.0,Cropland
+8.62,77.99,1,1,False,,Unnamed Facility,6.860050919883869,10.0,Tree Cover
+8.62,80.37,1,1,False,,Vavunia Apparels,14.772238322831656,30.0,Grassland
+8.62,80.41,1,1,False,,Vavunia Apparels,13.038514423543292,10.0,Tree Cover
+8.62,80.69,1,1,False,,Kebitigollewa Bus Depot,3.1786852469028664,40.0,Cropland
+8.62,80.7,1,1,False,,Kebitigollewa Bus Depot,3.885087537790143,10.0,Tree Cover
+8.63,80.37,1,1,False,,Vavunia Apparels,13.83271150834841,10.0,Tree Cover
+8.63,80.42,1,1,False,,Vavunia Apparels,11.715624403417472,10.0,Tree Cover
+8.63,80.51,1,1,False,,Vavunia Apparels,13.98884156056085,10.0,Tree Cover
+8.63,80.52,1,2,False,,Globe Mill,14.408001932606238,30.0,Grassland
+8.63,80.68,1,1,True,Kebitigollewa Bus Depot,Kebitigollewa Bus Depot,1.6832057712334292,10.0,Tree Cover
+8.63,80.8,1,1,False,,Kebitigollewa Bus Depot,14.00878765208791,10.0,Tree Cover
+8.63,80.99,1,1,False,,Eastern Salt Corporation,22.258832576962973,10.0,Tree Cover
+8.63,81.0,2,2,False,,Eastern Salt Corporation,21.449136488596945,10.0,Tree Cover
+8.63,81.01,2,4,False,,Eastern Salt Corporation,20.6675626735692,30.0,Grassland
+8.63,81.02,1,2,False,,Eastern Salt Corporation,19.917422021128605,40.0,Cropland
+8.64,78.06,1,2,False,,Unnamed Facility,4.024650900203379,10.0,Tree Cover
+8.64,80.64,1,1,False,,Kebitigollewa Bus Depot,3.900359008821096,40.0,Cropland
+8.64,80.65,1,1,False,,Kebitigollewa Bus Depot,2.799706049499345,10.0,Tree Cover
+8.64,81.0,1,2,False,,Eastern Salt Corporation,20.68821043399773,10.0,Tree Cover
+8.64,81.01,2,2,False,,Eastern Salt Corporation,19.876738709376408,40.0,Cropland
+8.65,80.33,1,1,False,,Vavunia Apparels,15.257595619354907,10.0,Tree Cover
+8.65,80.63,1,1,False,,Kebitigollewa Bus Depot,5.025134681101511,30.0,Grassland
+8.65,80.86,1,1,False,,Kebitigollewa Bus Depot,20.60092350618831,10.0,Tree Cover
+8.65,80.87,1,2,False,,Kebitigollewa Bus Depot,21.712359945532167,10.0,Tree Cover
+8.65,81.01,1,1,False,,Eastern Salt Corporation,19.117902576329527,10.0,Tree Cover
+8.65,81.06,1,1,False,,Eastern Salt Corporation,15.427267672856248,10.0,Tree Cover
+8.66,80.48,1,1,False,,Vavunia Apparels,9.389700278393224,10.0,Tree Cover
+8.66,80.5,1,1,False,,Vavunia Apparels,10.65437162939318,30.0,Grassland
+8.66,80.51,1,1,False,,Globe Mill,10.89595141549427,10.0,Tree Cover
+8.66,80.83,1,1,False,,Kebitigollewa Bus Depot,17.344001262789526,10.0,Tree Cover
+8.67,77.4,1,1,False,,Madura Coats,4.72821731829659,10.0,Tree Cover
+8.67,80.26,1,1,False,,Vavunia Apparels,21.09923371048648,10.0,Tree Cover
+8.67,80.84,1,3,False,,Kebitigollewa Bus Depot,18.58929562804908,40.0,Cropland
+8.68,80.7,1,1,False,,Kebitigollewa Bus Depot,4.864535798821688,10.0,Tree Cover
+8.68,80.81,1,1,False,,Kebitigollewa Bus Depot,15.548670077571098,40.0,Cropland
+8.69,80.35,1,1,False,,Vavunia Apparels,10.998571266396096,40.0,Cropland
+8.69,80.36,1,2,False,,Vavunia Apparels,10.0129670942511,10.0,Tree Cover
+8.69,80.38,1,1,False,,Vavunia Apparels,8.140023176537682,40.0,Cropland
+8.69,80.8,1,1,False,,Kebitigollewa Bus Depot,14.8206986642602,30.0,Grassland
+8.69,81.02,1,2,False,,Eastern Salt Corporation,15.53757394935467,40.0,Cropland
+8.7,77.8,1,1,False,,Unnamed Facility,7.326528085915746,40.0,Cropland
+8.7,80.29,1,1,False,,Vavunia Apparels,16.958418479375283,10.0,Tree Cover
+8.7,80.4,1,1,False,,Vavunia Apparels,5.708486048902047,10.0,Tree Cover
+8.7,80.86,2,3,False,,Kebitigollewa Bus Depot,21.504658364828348,30.0,Grassland
+8.7,80.87,1,1,False,,Kebitigollewa Bus Depot,22.571638320788978,30.0,Grassland
+8.7,81.02,1,2,False,,Eastern Salt Corporation,14.972974759224106,40.0,Cropland
+8.7,81.13,1,1,False,,Eastern Salt Corporation,7.246376463561468,10.0,Tree Cover
+8.72,80.77,1,1,False,,Kebitigollewa Bus Depot,13.527873452665164,10.0,Tree Cover
+8.73,77.86,1,1,False,,Unnamed Facility,11.507285766091517,40.0,Cropland
+8.73,80.96,1,1,False,,Eastern Salt Corporation,20.17691925057014,10.0,Tree Cover
+8.75,77.44,1,1,False,,Unnamed Facility,3.469391819715257,40.0,Cropland
+8.75,80.53,2,4,False,,Globe Mill,5.105608718905022,40.0,Cropland
+8.75,80.54,2,3,False,,Globe Mill,6.213037373373784,40.0,Cropland
+8.75,81.0,1,1,False,,Eastern Salt Corporation,15.443882573920035,10.0,Tree Cover
+8.76,78.1,1,1,True,Unnamed Facility,Unnamed Facility,1.811629196470076,20.0,Shrubland
+8.77,80.1,1,1,False,,SEPTAGE TREATMENT PLANT,25.343792320069586,10.0,Tree Cover
+8.79,80.33,1,1,False,,Vavunia Apparels,13.617388593361518,40.0,Cropland
+8.79,80.34,1,1,False,,Vavunia Apparels,12.64035155945352,30.0,Grassland
+8.79,80.56,1,1,False,,Unnamed Facility,4.462936288384465,10.0,Tree Cover
+8.79,80.59,1,1,False,,Unnamed Facility,6.820728488220951,10.0,Tree Cover
+8.8,80.39,1,2,False,,Vavunia Apparels,9.152105895726969,10.0,Tree Cover
+8.8,80.56,1,1,False,,Unnamed Facility,3.56022568107491,40.0,Cropland
+8.8,80.57,1,1,False,,Unnamed Facility,4.366981049860171,10.0,Tree Cover
+8.8,80.59,1,1,False,,Unnamed Facility,6.267355398893161,30.0,Grassland
+8.81,77.84,1,1,False,,Unnamed Facility,7.717142850001863,10.0,Tree Cover
+8.81,80.57,1,1,False,,Unnamed Facility,3.7816388534793206,40.0,Cropland
+8.81,80.58,1,1,False,,Unnamed Facility,4.813415767424872,40.0,Cropland
+8.81,80.85,1,1,False,,Kebitigollewa Bus Depot,26.818306720081573,10.0,Tree Cover
+8.81,81.0,1,3,False,,Eastern Salt Corporation,16.163913569009033,30.0,Grassland
+8.82,81.0,1,1,False,,Eastern Salt Corporation,16.544492101078927,10.0,Tree Cover
+8.83,80.47,1,1,False,,Unnamed Facility,7.713984496259495,40.0,Cropland
+8.83,80.86,1,1,False,,Kebitigollewa Bus Depot,29.166953197844343,10.0,Tree Cover
+8.83,80.99,1,1,False,,Eastern Salt Corporation,18.000871362910157,10.0,Tree Cover
+8.84,80.45,1,1,False,,Unnamed Facility,10.06448651311386,10.0,Tree Cover
+8.85,77.7,1,1,False,,Unnamed Facility,4.193739183972655,20.0,Shrubland
+8.85,80.33,1,1,False,,Vavunia Apparels,17.706141922830522,10.0,Tree Cover
+8.85,80.74,1,2,False,,Unnamed Facility,22.51707822853465,40.0,Cropland
+8.87,80.74,1,1,False,,Unnamed Facility,22.905912677119787,10.0,Tree Cover
+8.88,80.66,1,1,False,,Unnamed Facility,14.798292983005965,40.0,Cropland
+8.89,77.41,1,1,False,,Unnamed Facility,10.209281160122014,30.0,Grassland
+8.89,80.59,1,1,False,,Unnamed Facility,9.239870582075826,40.0,Cropland
+8.89,80.86,1,1,False,,Eastern Salt Corporation,33.92034874362798,30.0,Grassland
+8.9,80.88,1,2,False,,Eastern Salt Corporation,32.407085227168096,40.0,Cropland
+8.91,80.88,1,2,False,,Eastern Salt Corporation,32.93817012248691,30.0,Grassland
+8.92,80.45,1,1,False,,Unnamed Facility,14.54330707703598,10.0,Tree Cover
+8.92,80.54,1,1,False,,Unnamed Facility,10.643087074674252,10.0,Tree Cover
+8.92,80.69,1,1,False,,Unnamed Facility,19.866296257636822,30.0,Grassland
+8.92,80.79,1,1,False,,Unnamed Facility,29.855883889024824,10.0,Tree Cover
+8.92,80.88,1,1,False,,Eastern Salt Corporation,33.49775800642684,10.0,Tree Cover
+8.93,77.47,1,1,False,,Unnamed Facility,9.072395920926336,40.0,Cropland
+8.93,80.78,1,1,False,,Unnamed Facility,29.24859196116168,40.0,Cropland
+8.93,80.79,1,1,False,,Unnamed Facility,30.27009117645353,40.0,Cropland
+8.94,77.83,1,1,True,Unnamed Facility,Unnamed Facility,0.6693553636340105,40.0,Cropland
+8.94,80.38,1,1,False,,Unnamed Facility,21.87860157699144,10.0,Tree Cover
+8.94,80.78,1,3,False,,Unnamed Facility,29.71291993542045,10.0,Tree Cover
+8.94,80.89,2,3,False,,Eastern Salt Corporation,33.78283886848995,10.0,Tree Cover
+8.95,80.46,1,1,False,,Unnamed Facility,16.517688993799958,10.0,Tree Cover
+8.95,80.81,1,1,False,,Unnamed Facility,33.20423774455114,10.0,Tree Cover
+8.95,80.87,1,1,False,,Eastern Salt Corporation,36.24267797112895,10.0,Tree Cover
+8.96,80.58,1,1,False,,Unnamed Facility,15.759647405650258,10.0,Tree Cover
+8.96,80.59,1,1,False,,Unnamed Facility,16.115443761332365,40.0,Cropland
+8.96,80.77,1,1,False,,Unnamed Facility,29.77760452242687,40.0,Cropland
+8.96,80.88,1,1,False,,Eastern Salt Corporation,35.993546319265384,10.0,Tree Cover
+8.97,80.38,1,1,False,,Unnamed Facility,23.992557578404465,10.0,Tree Cover
+8.97,80.59,1,1,False,,Unnamed Facility,17.161107016440823,10.0,Tree Cover
+8.97,80.82,1,1,False,,Unnamed Facility,35.18319982337608,10.0,Tree Cover
+8.97,80.89,1,1,False,,Eastern Salt Corporation,35.81179654024181,10.0,Tree Cover
+8.98,80.59,1,2,False,,Unnamed Facility,18.214623871414588,10.0,Tree Cover
+8.98,80.79,1,1,False,,Unnamed Facility,32.83130274821085,40.0,Cropland
+8.98,80.83,1,2,False,,Unnamed Facility,36.68536787396811,40.0,Cropland
+9.0,80.66,1,1,False,,Unnamed Facility,23.714054942223424,,
+9.0,80.78,1,1,False,,Unnamed Facility,33.15196218244138,,
+9.0,80.81,1,1,False,,Unnamed Facility,35.90078060340074,,
+9.04,80.45,1,1,False,,Unnamed Facility,25.953267612367448,,
+9.08,80.41,1,1,False,,Unnamed Facility,26.188432798930048,,
+9.08,80.47,1,1,False,,Unnamed Facility,27.288026750400125,,
+9.1,77.46,1,2,False,,Unnamed Facility,11.319253713129326,40.0,Cropland
+9.1,80.49,1,1,False,,Unnamed Facility,25.934194372375533,,
+9.18,77.53,1,1,False,,Unnamed Facility,8.037602846893677,50.0,Built-up
+9.18,78.23,1,2,False,,Unnamed Facility,11.690352201698946,,
+9.2,77.64,1,1,False,,Unnamed Facility,9.016630118056488,40.0,Cropland
+9.21,80.63,1,1,False,,'Modern Rice Mill',18.818935413436183,,
+9.22,80.32,2,2,False,,Unnamed Facility,13.863817495934937,,
+9.22,80.67,1,1,False,,'Modern Rice Mill',19.847264397984627,,
+9.23,78.75,1,1,False,,Unnamed Facility,16.150909525314308,,
+9.24,77.46,1,1,False,,Unnamed Facility,6.916147695032019,10.0,Tree Cover
+9.26,80.72,1,1,False,,Unnamed Facility,19.85666257196097,,
+9.31,78.8,1,1,False,,Unnamed Facility,6.751410647013158,,
+9.33,77.7,1,1,False,,Unnamed Facility,5.452561603418725,40.0,Cropland
+9.34,76.6,1,1,False,,thappurackal chicken center,2.7455434482177665,50.0,Built-up
+9.34,77.67,1,1,False,,Unnamed Facility,3.9193453422983193,40.0,Cropland
+9.35,77.67,1,2,False,,Unnamed Facility,2.8548517937791287,40.0,Cropland
+9.35,78.82,1,1,False,,Unnamed Facility,3.970910501864625,,
+9.38,80.32,1,1,False,,Unnamed Facility,11.471089134449826,,
+9.38,80.43,1,1,False,,Unnamed Facility,7.034730559054858,,
+9.38,80.52,2,2,False,,Unnamed Facility,4.182196964279787,,
+9.39,78.89,1,1,False,,Unnamed Facility,2.7844663600053505,,
+9.39,80.47,1,1,False,,Unnamed Facility,4.144199975866307,,
+9.4,80.45,1,2,False,,Unnamed Facility,6.3884688327666845,,
+9.4,80.46,1,1,False,,Unnamed Facility,5.684331500745921,,
+9.41,80.43,1,1,False,,Unnamed Facility,8.764415914707934,,
+9.41,80.46,1,1,False,,Unnamed Facility,6.625229886464169,,
+9.41,80.58,1,2,False,,Unnamed Facility,3.1456066304630936,,
+9.42,80.46,1,2,False,,Unnamed Facility,7.612396457681611,,
+9.45,80.5,1,1,False,,Unnamed Facility,10.279857293730844,,
+9.46,80.48,1,1,False,,Unnamed Facility,11.37161407042759,,
+9.48,78.22,1,1,True,Unnamed Facility,Unnamed Facility,1.2416768318517335,,
+9.53,78.65,1,1,False,,Unnamed Facility,3.5697120165633365,,
+9.56,78.24,1,1,False,,Tiruchuli,4.43235296543055,,
+9.62,77.48,1,1,False,,Venniar Tea Factory,17.905643718105072,10.0,Tree Cover
+9.62,78.12,1,1,False,,Unnamed Facility,7.458711761068133,,
+9.63,80.33,1,1,False,,Tokyo Cement Batching Plant,9.070774192139815,,
+9.69,77.82,1,1,True,Unnamed Facility,Unnamed Facility,0.218848702432214,40.0,Cropland
+9.76,79.02,1,1,False,,Unnamed Facility,14.35317724585224,,
+9.76,80.19,1,1,False,,Unnamed Facility,4.781873286843659,,
+9.78,77.52,1,1,False,,Unnamed Facility,19.98970185892853,10.0,Tree Cover
+9.78,80.19,1,1,False,,Unnamed Facility,6.227952408865211,,
+9.84,77.44,1,2,False,,Unnamed Facility,11.62404709546903,10.0,Tree Cover
+9.94,77.49,1,1,False,,Unnamed Facility,4.800895417624865,40.0,Cropland
+9.95,77.49,1,1,False,,Unnamed Facility,4.818881923129244,40.0,Cropland
+9.96,79.1,1,1,False,,Unnamed Facility,29.405733799456307,,
+9.96,79.11,1,1,False,,Unnamed Facility,30.27526107185267,,
+10.13,79.13,1,1,False,,Unnamed Facility,22.98202961635054,,
+10.17,78.79,1,1,False,,Unnamed Facility,4.992653083629614,,
+10.17,78.8,1,1,False,,Unnamed Facility,5.7441050930875255,,
+10.27,77.25,1,3,False,,Unnamed Facility,17.235619086755342,10.0,Tree Cover
+10.27,77.26,1,2,False,,Unnamed Facility,16.736498163600473,10.0,Tree Cover
+10.28,78.88,1,1,False,,Unnamed Facility,9.78765955330781,,
+10.31,79.34,1,1,False,,Thasim Rice Mil,5.586421583858575,,
+10.42,79.25,1,2,False,,Thasim Rice Mil,17.295166518465553,,
+10.43,79.25,1,1,False,,Thasim Rice Mil,17.90876753412978,,
+10.44,77.51,1,1,True,Unnamed Facility,Unnamed Facility,1.479429189155644,40.0,Cropland
+10.54,79.22,1,1,False,,Unnamed Facility,9.507473095470251,,
+10.62,77.42,3,3,True,Unnamed Facility,Unnamed Facility,1.684370680824138,40.0,Cropland
+10.62,77.5,1,1,False,,Unnamed Facility,6.566793010433493,10.0,Tree Cover
+10.66,77.38,1,1,False,,Unnamed Facility,3.08920218051025,40.0,Cropland
+10.71,79.43,1,1,False,,Unnamed Facility,4.650371443091779,,
+10.76,79.56,1,1,False,,Unnamed Facility,3.853160706817489,,
+10.79,79.03,1,1,False,,Waste Water Treatment Plant,7.137362702350781,,
+10.83,78.83,1,1,False,,Unnamed Facility,4.142292041541675,,
+10.83,79.18,1,1,False,,Central Warehouse Corporation,10.217443669966942,,
+10.83,79.19,1,1,False,,Central Warehouse Corporation,10.983180283500731,,
+10.86,78.95,1,1,False,,Unnamed Facility,7.5815633790792,,
+10.88,79.25,1,1,False,,Welding Shop,9.005586440624809,,
+10.91,77.42,1,1,False,,Unnamed Facility,5.128644207783891,10.0,Tree Cover
+10.93,77.07,1,1,False,,Unnamed Facility,2.0169585499871245,40.0,Cropland
+10.99,78.22,1,1,False,,Unnamed Facility,5.073354223408787,,
+11.01,77.13,1,1,True,Unnamed Facility,Unnamed Facility,1.1974515675097486,30.0,Grassland
+11.17,79.59,1,1,False,,Lanco Tanjore Power Plant,8.665225510943756,,
+11.19,79.82,1,1,False,,Pillaiperumalnallur Gas Power Plant,12.91426841104438,,
+11.27,80.0,1,1,False,,Unnamed Facility,27.29523403831348,,
+11.42,77.48,1,1,False,,Coirmedia,4.900449060113612,30.0,Grassland
+11.45,79.55,1,1,True,Unnamed Facility,Unnamed Facility,0.2559279519554616,,
+11.48,77.62,1,2,False,,Unnamed Facility,5.304175255657665,10.0,Tree Cover
+11.49,78.88,1,1,True,Unnamed Facility,Unnamed Facility,0.3367774358554398,,
+11.56,77.71,1,1,False,,Lower Mettur Barrage III Power House,3.936667414709528,40.0,Cropland
+11.57,79.64,1,1,False,,Unnamed Facility,3.2778466869544998,,
+11.64,77.66,1,1,False,,Unnamed Facility,8.199090775503464,40.0,Cropland
+11.72,76.97,1,1,False,,Unnamed Facility,21.904672461197112,40.0,Cropland
+11.72,79.2,1,1,False,,IOCL Asanur,11.970135112247794,,
+11.72,79.21,1,1,False,,IOCL Asanur,12.144544213292546,,
+11.73,76.77,1,1,False,,Moyar Hydroelectric Power Station,15.525932237873027,40.0,Cropland
+11.77,76.94,1,2,False,,Unnamed Facility,16.106285616855118,40.0,Cropland
+11.81,79.63,1,1,False,,EID Parry & Company,6.000818414665663,,
+11.82,77.92,1,1,True,JSW Steel Plant,JSW Steel Plant,0.6449436455612516,10.0,Tree Cover
+11.86,78.73,1,1,False,,Chilling Plant,6.776129368412113,,
+11.89,78.72,1,1,False,,Chilling Plant,7.597731796288016,,
+11.91,78.92,1,1,False,,Kallakurichi Coop Sugar Mills,17.90459187868248,,
+11.96,78.8,1,2,False,,Chilling Plant,19.405793119481917,,
+12.05,78.37,1,1,False,,Unnamed Facility,14.433806623573398,30.0,Grassland
+12.06,77.02,1,1,False,,T.N.Pura,6.616010481398137,40.0,Cropland
+12.09,76.79,1,1,False,,Unnamed Facility,3.3168978608257764,10.0,Tree Cover
+12.09,76.8,1,1,False,,Unnamed Facility,3.455618798454877,30.0,Grassland
+12.09,79.03,1,1,False,,Kallakurichi Coop Sugar Mills,7.184672714121058,20.0,Shrubland
+12.1,76.79,1,1,False,,Bannari Amman,3.339437803258245,10.0,Tree Cover
+12.1,76.8,1,1,False,,Bannari Amman,4.439282759195401,30.0,Grassland
+12.1,77.06,1,1,False,,T.N.Pura,12.1681011090893,10.0,Tree Cover
+12.6,76.35,1,1,False,,Unnamed Facility,11.794715113721637,80.0,Water Bodies
+12.63,79.35,1,1,False,,Unnamed Facility,7.213733823945134,40.0,Cropland
+12.63,79.79,1,1,False,,Unnamed Facility,4.437705457902137,20.0,Shrubland
+12.69,79.23,1,1,False,,Unnamed Facility,7.852162154882681,50.0,Built-up
+12.74,77.62,2,2,True,Unnamed Facility,Unnamed Facility,0.6365627667449818,30.0,Grassland
+12.75,92.88,1,1,False,,Unnamed Facility,10.325851073461102,10.0,Tree Cover
+12.81,77.76,1,1,False,,Unnamed Facility,2.153573793384796,30.0,Grassland
+12.81,79.96,1,1,False,,Unnamed Facility,3.233080904333912,40.0,Cropland
+12.84,79.94,1,1,True,Renault Nissan,Renault Nissan,0.527196156921601,50.0,Built-up
+12.86,79.94,1,2,True,Unnamed Facility,Unnamed Facility,0.3228309811948297,40.0,Cropland
+12.87,80.07,1,1,True,Unnamed Facility,Unnamed Facility,0.9977624974255888,50.0,Built-up
+12.93,76.33,1,1,False,,Unnamed Facility,6.018699716783796,10.0,Tree Cover
+13.14,79.26,1,1,False,,Unnamed Facility,8.562697797016202,40.0,Cropland
+13.16,80.28,2,3,True,Unnamed Facility,Unnamed Facility,0.8378968505987712,50.0,Built-up
+13.16,80.29,1,2,True,Unnamed Facility,Unnamed Facility,0.4321982154379964,40.0,Cropland
+13.29,78.12,1,1,False,,Unnamed Facility,12.49303252909412,40.0,Cropland
+13.3,80.07,1,2,True,Unnamed Facility,Unnamed Facility,1.2021529306561891,40.0,Cropland
+13.34,77.91,1,1,False,,Unnamed Facility,2.337011803849985,20.0,Shrubland
+13.39,78.55,1,1,False,,"APSRTC Bus Depot , Punganur",3.1150136084004805,40.0,Cropland
+13.39,78.56,1,1,False,,"APSRTC Bus Depot , Punganur",2.748597471991255,40.0,Cropland
+13.39,80.08,1,1,True,Unnamed Facility,Unnamed Facility,0.501513256637879,10.0,Tree Cover
+13.39,80.1,1,1,True,Unnamed Facility,Unnamed Facility,0.9731554087224712,40.0,Cropland
+13.42,75.98,1,1,False,,Unnamed Facility,18.52037119340938,30.0,Grassland
+13.67,78.36,1,1,False,,Unnamed Facility,9.84204725672759,40.0,Cropland
+13.71,79.62,2,2,True,Unnamed Facility,Unnamed Facility,1.407101181962381,60.0,Bare/Sparse Vegetation
+13.77,76.63,1,1,False,,Unnamed Facility,9.368158692409551,40.0,Cropland
+13.87,79.33,1,1,False,,Sri Varsha Food Products India ltd. (Maaza Juice Factory),8.724759325470515,10.0,Tree Cover
+13.89,77.38,1,1,False,,Unnamed Facility,6.471775543191944,40.0,Cropland
+13.9,76.56,2,2,True,Unnamed Facility,Unnamed Facility,0.658447329230921,20.0,Shrubland
+13.91,78.07,1,1,False,,Unnamed Facility,12.393895474764609,20.0,Shrubland
+13.93,78.32,1,2,False,,Ahalia Arkha Solar Power Private Limited,15.616010018336794,20.0,Shrubland
+13.98,78.95,1,1,False,,Unnamed Facility,11.626577185234437,60.0,Bare/Sparse Vegetation
+13.99,78.45,1,1,False,,Unnamed Facility,3.89221699889111,20.0,Shrubland
+14.04,80.13,1,1,True,Unnamed Facility,Unnamed Facility,1.606900961435475,10.0,Tree Cover
+14.07,79.44,1,1,False,,Unnamed Facility,12.603660090857456,10.0,Tree Cover
+14.15,77.59,1,2,False,,Unnamed Facility,2.4540791987486874,20.0,Shrubland
+14.21,79.23,1,1,False,,"APSRTC Bus Depot , Rajampeta",8.481760804983361,10.0,Tree Cover
+14.28,76.64,1,1,False,,Unnamed Facility,9.05605579898903,20.0,Shrubland
+14.3,77.58,1,1,False,,Unnamed Facility,14.530067141671488,40.0,Cropland
+14.3,79.05,1,1,False,,"APSRTC Bus Depot , Rajampeta",16.159015762833402,20.0,Shrubland
+14.36,78.78,1,2,False,,Gas storage,11.682723937240816,20.0,Shrubland
+14.47,77.34,1,1,False,,Kambadur,17.515632268108988,20.0,Shrubland
+14.48,77.53,1,1,False,,Unnamed Facility,6.803539565820397,40.0,Cropland
+14.53,79.06,1,1,False,,Unnamed Facility,18.263555021836517,20.0,Shrubland
+14.55,77.49,1,1,False,,Unnamed Facility,6.631591258778252,50.0,Built-up
+14.57,79.94,1,3,False,,Unnamed Facility,3.836705840412377,40.0,Cropland
+14.59,76.57,1,1,False,,Unnamed Facility,5.890088371638015,20.0,Shrubland
+14.59,78.58,1,1,True,Unnamed Facility,Unnamed Facility,0.2926591333010713,50.0,Built-up
+14.61,78.52,1,1,True,Unnamed Facility,Unnamed Facility,0.5208596220862328,60.0,Bare/Sparse Vegetation
+14.65,75.44,1,1,False,,Unnamed Facility,8.494458039183355,20.0,Shrubland
+14.67,79.0,1,1,False,,"APSRTC Bus Depot , Badvel",10.134081431245225,40.0,Cropland
+14.67,79.77,1,1,False,,"APSRTC Bus Depot , Atmakur (N)",17.36631959740643,20.0,Shrubland
+14.69,79.74,1,2,False,,"APSRTC Bus Depot , Atmakur (N)",15.1347904919443,60.0,Bare/Sparse Vegetation
+14.77,77.05,1,1,False,,Veerapuram,11.002724405001317,10.0,Tree Cover
+14.78,79.66,1,1,False,,Unnamed Facility,16.650478068851147,30.0,Grassland
+14.78,79.8,1,1,False,,BMR shrimp processing plant,21.79643012599087,20.0,Shrubland
+14.87,78.05,1,1,True,Arjas Steel Plant,Arjas Steel Plant,0.7783367648849236,50.0,Built-up
+14.88,78.05,1,1,True,Arjas Steel Plant,Arjas Steel Plant,0.729056468875156,40.0,Cropland
+14.89,79.23,2,2,False,,"APSRTC Bus Depot, Udayagiri",7.727015340318778,20.0,Shrubland
+14.9,77.5,1,1,False,,Unnamed Facility,20.642264881403825,40.0,Cropland
+14.95,75.19,1,1,True,Jakkanakatti,Jakkanakatti,1.674810768729914,40.0,Cropland
+14.96,75.92,1,1,False,,KSRTC Depot,6.698995888516063,40.0,Cropland
+14.96,79.64,1,2,False,,Unnamed Facility,12.778047110675056,20.0,Shrubland
+15.02,78.01,1,1,True,Ultratech Cement Limited,Ultratech Cement Limited,0.5096075047960658,20.0,Shrubland
+15.02,78.02,1,1,True,Ultratech Cement Limited,Ultratech Cement Limited,0.6092831038038965,10.0,Tree Cover
+15.05,77.11,1,1,False,,Unnamed Facility,13.00397242670596,40.0,Cropland
+15.07,76.86,1,1,True,Unnamed Facility,Unnamed Facility,0.8046398741085554,20.0,Shrubland
+15.07,76.87,3,3,True,Unnamed Facility,Unnamed Facility,0.2377141591091587,60.0,Bare/Sparse Vegetation
+15.09,77.32,2,2,False,,"APSRTC Bus Depot , Guntakal",8.970509040038655,40.0,Cropland
+15.12,94.78,1,2,False,,Unnamed Facility,85.23064775528798,0.0,
+15.13,94.78,1,2,False,,Unnamed Facility,84.23655689331804,0.0,
+15.14,76.71,1,1,True,Metallurgical Products India Pvt Ltd,Metallurgical Products India Pvt Ltd,0.1685403614346211,60.0,Bare/Sparse Vegetation
+15.16,78.87,1,1,False,,"APSRTC Bus Depot, Giddalur",25.14944712942283,20.0,Shrubland
+15.17,76.38,3,6,True,Danapuram BMM Captive Power Plant 1,Danapuram BMM Captive Power Plant 1,0.3461334377772367,30.0,Grassland
+15.17,76.66,2,5,True,Jindal Steel Works,Jindal Steel Works,1.676723345369218,50.0,Built-up
+15.17,76.67,1,2,True,Jindal Steel Works,Jindal Steel Works,1.312290103263711,50.0,Built-up
+15.17,76.68,1,1,True,Unnamed Facility,Unnamed Facility,1.597388938616586,60.0,Bare/Sparse Vegetation
+15.17,76.69,2,2,False,,Unnamed Facility,2.2624806450149246,20.0,Shrubland
+15.17,76.79,1,1,True,Agarwal Sponge Iron,Agarwal Sponge Iron,0.617494287604707,30.0,Grassland
+15.18,76.64,1,1,False,,Vijayanagar Toranagallu Power Station,2.802759671687565,60.0,Bare/Sparse Vegetation
+15.18,76.65,2,2,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,1.7283266344459272,50.0,Built-up
+15.18,76.66,3,10,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,0.7691725916396359,50.0,Built-up
+15.18,76.67,3,8,True,Jindal Steel Works,Jindal Steel Works,0.2093987327496614,60.0,Bare/Sparse Vegetation
+15.18,76.68,2,3,True,Jindal Steel Works,Jindal Steel Works,1.1947444537622631,60.0,Bare/Sparse Vegetation
+15.18,77.1,4,5,True,Unnamed Facility,Unnamed Facility,0.5415408127744822,10.0,Tree Cover
+15.19,76.32,1,2,False,,Danapuram BMM Captive Power Plant 1,6.689915816752484,40.0,Cropland
+15.19,76.65,1,1,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,1.722069936758326,10.0,Tree Cover
+15.19,76.66,1,1,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,0.7550088658295835,10.0,Tree Cover
+15.23,76.76,2,3,True,Shatavahana Kudatini Steels,Shatavahana Kudatini Steels,0.7668000098419461,40.0,Cropland
+15.23,76.77,2,2,True,Shatavahana Kudatini Steels,Shatavahana Kudatini Steels,0.7878126469132357,40.0,Cropland
+15.3,76.22,2,2,True,Unnamed Facility,Unnamed Facility,0.3129912792341891,10.0,Tree Cover
+15.31,76.25,1,1,False,,Hospet Steels,2.863609755603092,40.0,Cropland
+15.33,76.29,3,3,True,Unnamed Facility,Unnamed Facility,1.064436550066134,60.0,Bare/Sparse Vegetation
+15.34,76.25,1,1,True,Hospet Steels,Hospet Steels,0.6626897029985552,10.0,Tree Cover
+15.34,76.29,1,1,True,Unnamed Facility,Unnamed Facility,0.9180199275494636,40.0,Cropland
+15.41,80.13,1,1,False,,Rise group of institutions,9.67678687480937,40.0,Cropland
+15.45,79.13,1,1,False,,"APSRTC Bus Depot, Giddalur",23.30207912157149,40.0,Cropland
+15.53,73.99,1,1,True,Unnamed Facility,Unnamed Facility,0.5819308764789861,40.0,Cropland
+15.55,78.13,1,1,False,,Unnamed Facility,10.532983229075906,40.0,Cropland
+15.57,78.94,1,1,False,,"APSRTC Bus Depot, Giddalur",21.465356922614767,40.0,Cropland
+15.6,79.62,1,1,True,"APSRTC Bus Depot , Podili","APSRTC Bus Depot , Podili",1.4052552099619269,10.0,Tree Cover
+15.66,73.99,2,3,True,Vedanta Limited,Vedanta Limited,0.0995746818128074,30.0,Grassland
+15.69,80.02,1,1,False,,Unnamed Facility,9.05188267692419,40.0,Cropland
+15.79,78.28,1,1,False,,Unnamed Facility,5.986842602785855,40.0,Cropland
+15.83,79.52,1,1,False,,"APSRTC Bus Depot , Podili",27.110349545153287,10.0,Tree Cover
+15.93,78.2,1,1,False,,"APSRTC Bus Depot , Nandikotkur",10.777969602671885,80.0,Water Bodies
+15.98,78.41,1,1,False,,Ice factory,15.789674680379209,30.0,Grassland
+16.12,79.98,1,1,False,,Unnamed Facility,10.637452250610956,10.0,Tree Cover
+16.18,75.15,1,1,False,,Unnamed Facility,3.029448154178368,40.0,Cropland
+16.27,78.4,1,1,False,,"TGSRTC Bus Depot , Kollapur",20.352139015646763,40.0,Cropland
+16.28,80.32,1,1,False,,KALLAM spinning mills,3.1661138012108445,20.0,Shrubland
+16.36,81.29,1,1,False,,Machilipatnam Port,18.42468807027949,40.0,Cropland
+16.43,79.46,1,1,False,,Cement Factory,5.117214448311777,40.0,Cropland
+16.46,79.6,1,1,False,,Unnamed Facility,13.294047306040811,40.0,Cropland
+16.49,79.95,1,1,False,,Unnamed Facility,4.33216808137342,20.0,Shrubland
+16.52,78.36,1,1,False,,Nagarkurnool Keerthi,2.5895825783516413,50.0,Built-up
+16.55,79.76,1,1,False,,Unnamed Facility,7.640150444626738,40.0,Cropland
+16.6,77.4,1,1,False,,Unnamed Facility,10.809786773163523,40.0,Cropland
+16.84,76.58,1,1,False,,Unnamed Facility,13.417620880433333,40.0,Cropland
+16.87,79.29,1,2,False,,"TGSRTC Bus Depot , Nalgonda",20.800898472978968,30.0,Grassland
+16.88,79.99,1,1,False,,UltraTech Cement Ltd Factory,3.527103644214531,40.0,Cropland
+16.88,80.85,1,1,False,,Unnamed Facility,10.037268868642922,10.0,Tree Cover
+16.91,79.91,1,1,False,,Unnamed Facility,10.1468198732705,30.0,Grassland
+17.01,79.93,1,1,True,Unnamed Facility,Unnamed Facility,1.2249153738589649,40.0,Cropland
+17.05,75.64,1,2,False,,Unnamed Facility,7.600938964878581,40.0,Cropland
+17.07,78.59,1,1,False,,Unnamed Facility,5.7767042039549485,40.0,Cropland
+17.14,77.18,1,1,True,Unnamed Facility,Unnamed Facility,0.7498900893986705,50.0,Built-up
+17.14,77.19,1,1,True,Unnamed Facility,Unnamed Facility,0.6261932635621024,10.0,Tree Cover
+17.25,78.81,1,1,False,,Unnamed Facility,3.719861698994648,30.0,Grassland
+17.32,82.25,1,1,False,,Unnamed Facility,14.711360914850694,40.0,Cropland
+17.42,82.34,1,2,False,,Unnamed Facility,5.658973324439259,10.0,Tree Cover
+17.46,80.65,1,1,False,,Unnamed Facility,7.819081184551264,10.0,Tree Cover
+17.59,80.32,1,1,True,"TGSRTC Bus Depot , Yallandu","TGSRTC Bus Depot , Yallandu",0.6849460431662053,50.0,Built-up
+17.6,83.19,1,1,True,Unnamed Facility,Unnamed Facility,0.2938092409540043,10.0,Tree Cover
+17.6,83.2,1,1,True,Unnamed Facility,Unnamed Facility,0.6972176389592005,50.0,Built-up
+17.61,83.2,4,5,True,Unnamed Facility,Unnamed Facility,0.5760629196241915,50.0,Built-up
+17.61,83.21,3,4,True,Unnamed Facility,Unnamed Facility,0.7780246357271924,10.0,Tree Cover
+17.63,82.57,1,1,False,,"APSRTC Bus Depot , Narsipatnam",6.194893020541986,10.0,Tree Cover
+17.69,83.24,1,1,True,Unnamed Facility,Unnamed Facility,0.0973222191642492,50.0,Built-up
+17.69,83.25,1,1,True,Hindustan Petroleum Corporation Limited,Hindustan Petroleum Corporation Limited,0.7614099273295722,50.0,Built-up
+17.76,75.82,1,1,True,Suresh Organics,Suresh Organics,0.0507921884152685,40.0,Cropland
+17.91,83.45,1,1,False,,Divi’s Laboratories Limited,4.644186759278005,40.0,Cropland
+17.96,80.79,4,7,False,,Unnamed Facility,4.1025659203991065,60.0,Bare/Sparse Vegetation
+17.96,80.8,2,2,False,,Unnamed Facility,2.9924129821588714,60.0,Bare/Sparse Vegetation
+17.97,83.15,1,1,True,Mahaamaaya Industries,Mahaamaaya Industries,0.4330708528222933,40.0,Cropland
+18.04,74.86,1,1,False,,Unnamed Facility,7.2241356425096015,40.0,Cropland
+18.27,74.2,1,1,True,Unnamed Facility,Unnamed Facility,0.238301115710073,10.0,Tree Cover
+18.31,82.38,1,1,False,,Machkund Hydro Electric (Joint) Scheme,23.080645601992856,10.0,Tree Cover
+18.49,74.2,1,1,True,Unnamed Facility,Unnamed Facility,1.716558683815255,40.0,Cropland
+18.68,73.04,1,1,True,Unnamed Facility,Unnamed Facility,0.769324103364858,50.0,Built-up
+18.69,73.04,2,3,True,JSW Ispat Steel Plant,JSW Ispat Steel Plant,0.0305928263834217,50.0,Built-up
+18.7,72.34,1,1,False,,Unnamed Facility,57.63864528780852,0.0,
+18.72,79.51,1,1,False,,"TGSRTC Bus Depot , Godavarikhani",4.708603798899131,10.0,Tree Cover
+18.72,79.54,4,7,False,,"TGSRTC Bus Depot , Godavarikhani",5.990373843390073,60.0,Bare/Sparse Vegetation
+19.02,72.89,1,1,True,Unnamed Facility,Unnamed Facility,0.5338442643245861,10.0,Tree Cover
+19.09,82.17,2,3,True,NMDC I&S Plant Nagarnar,NMDC I&S Plant Nagarnar,0.2026264554939469,30.0,Grassland
+19.1,82.16,2,2,True,Nagarnar Steel Plant,Nagarnar Steel Plant,1.1342953388255737,60.0,Bare/Sparse Vegetation
+19.1,82.17,5,16,True,Nagarnar Steel Plant,Nagarnar Steel Plant,1.0381322194230598,40.0,Cropland
+19.28,71.43,1,1,False,,Unnamed Facility,150.53482937897664,,
+19.33,83.43,1,1,True,Indian Metals & Ferro Alloys Limited,Indian Metals & Ferro Alloys Limited,0.3529856675572532,10.0,Tree Cover
+19.82,79.24,1,1,False,,Unnamed Facility,7.132385716910598,40.0,Cropland
+19.92,79.11,1,1,True,Acc company limited,Acc company limited,0.3756273524353444,50.0,Built-up
+19.93,79.12,2,2,True,Lloyd,Lloyd,0.076712654599254,10.0,Tree Cover
+19.94,73.71,2,2,True,Unnamed Facility,Unnamed Facility,0.0298853426823461,60.0,Bare/Sparse Vegetation
+19.96,79.34,1,1,True,Unnamed Facility,Unnamed Facility,0.9604749291889312,10.0,Tree Cover
+20.53,85.91,1,2,True,UMSL Odisha,UMSL Odisha,0.5641903170222358,10.0,Tree Cover
+20.66,78.5,1,1,True,Unnamed Facility,Unnamed Facility,0.2141585287377111,10.0,Tree Cover
+20.7,78.64,2,2,True,Unnamed Facility,Unnamed Facility,0.6772213307441398,40.0,Cropland
+20.76,85.29,4,6,False,,Unnamed Facility,5.301839133939346,30.0,Grassland
+20.76,85.3,2,4,False,,Unnamed Facility,5.390021004357733,30.0,Grassland
+20.79,85.25,3,4,True,Meramandali Power Station,Meramandali Power Station,1.8931472616821043,10.0,Tree Cover
+20.79,85.26,4,9,True,Tata Steel Meramandali,Tata Steel Meramandali,1.5645637961568355,50.0,Built-up
+20.79,85.27,1,1,True,Tata Steel Meramandali,Tata Steel Meramandali,1.8359486293921483,50.0,Built-up
+20.8,85.25,2,2,True,Meramandali Power Station,Meramandali Power Station,0.8401587962024436,10.0,Tree Cover
+20.8,85.26,1,3,True,Tata Steel Meramandali,Tata Steel Meramandali,0.4679952840407182,50.0,Built-up
+20.81,85.25,1,2,True,Meramandali Power Station,Meramandali Power Station,0.5482603337439153,10.0,Tree Cover
+20.81,85.26,3,4,True,Tata Steel Meramandali,Tata Steel Meramandali,0.6804716319014126,50.0,Built-up
+20.82,71.07,1,1,False,,Unnamed Facility,2.3494728293239597,40.0,Cropland
+20.86,84.98,1,1,True,Angul Steel Plant,Angul Steel Plant,1.8886200773877224,40.0,Cropland
+20.86,84.99,4,10,True,Angul Steel Plant,Angul Steel Plant,1.7359104293236156,10.0,Tree Cover
+20.86,85.0,1,1,False,,Angul Steel Plant,2.220978744350378,40.0,Cropland
+20.87,84.99,4,9,True,Angul Steel Plant,Angul Steel Plant,0.6709796894061658,50.0,Built-up
+20.87,85.0,1,3,True,Angul Steel Plant,Angul Steel Plant,1.5393424920456384,50.0,Built-up
+20.87,96.39,1,1,True,Unnamed Facility,Unnamed Facility,0.4961208111808032,30.0,Grassland
+20.88,84.98,1,2,True,Angul Steel Plant,Angul Steel Plant,0.955722548092538,10.0,Tree Cover
+20.89,84.98,4,8,True,Unnamed Facility,Unnamed Facility,0.7311517883791513,10.0,Tree Cover
+20.89,84.99,1,1,True,Angul Steel Power Plant,Angul Steel Power Plant,0.3540333916128562,50.0,Built-up
+20.91,71.46,3,4,True,Unnamed Facility,Unnamed Facility,0.2453765515457672,50.0,Built-up
+20.95,86.04,2,3,True,Unnamed Facility,Unnamed Facility,1.391774985036351,10.0,Tree Cover
+20.95,86.05,2,5,True,Unnamed Facility,Unnamed Facility,0.4052685477303879,50.0,Built-up
+20.96,85.01,3,4,False,,Angul Monnet Power Company Limited,4.495640107274856,60.0,Bare/Sparse Vegetation
+20.96,85.16,1,1,False,,Unnamed Facility,2.340559028684868,30.0,Grassland
+20.96,85.17,2,4,False,,Unnamed Facility,2.9482194497798084,80.0,Water Bodies
+20.96,85.18,3,6,False,,Unnamed Facility,3.41625525931961,80.0,Water Bodies
+20.96,85.19,3,8,False,,Unnamed Facility,2.304655901787566,60.0,Bare/Sparse Vegetation
+20.96,86.0,1,1,True,IEL Kalinganagar Tata Steel Power Station,IEL Kalinganagar Tata Steel Power Station,1.5087580713881494,10.0,Tree Cover
+20.96,86.01,4,5,True,TATA Steel,TATA Steel,1.2288347424230146,60.0,Bare/Sparse Vegetation
+20.96,86.05,1,1,True,Duburi Steel Power Plant,Duburi Steel Power Plant,0.1296192177242746,50.0,Built-up
+20.97,85.15,2,4,False,,Unnamed Facility,3.2846138961592963,30.0,Grassland
+20.97,85.16,1,1,False,,Unnamed Facility,3.395527567527905,80.0,Water Bodies
+20.97,85.17,3,16,False,,Unnamed Facility,3.839712075031627,60.0,Bare/Sparse Vegetation
+20.97,85.18,3,7,False,,Unnamed Facility,3.61438284555538,10.0,Tree Cover
+20.97,85.19,1,1,False,,Unnamed Facility,2.589286037320012,30.0,Grassland
+20.97,86.0,3,4,True,IEL Kalinganagar Tata Steel Power Station,IEL Kalinganagar Tata Steel Power Station,0.3968983210188774,10.0,Tree Cover
+20.97,86.01,4,11,True,TATA Steel,TATA Steel,0.1196830666703521,50.0,Built-up
+20.97,86.02,2,2,True,Unnamed Facility,Unnamed Facility,1.092199783760377,50.0,Built-up
+20.98,85.13,2,3,False,,Unnamed Facility,5.024907032087542,30.0,Grassland
+20.98,85.14,2,2,False,,Unnamed Facility,4.587470437128344,80.0,Water Bodies
+20.98,85.17,2,5,False,,Unnamed Facility,4.8236544296340265,30.0,Grassland
+21.0,86.01,1,2,True,Unnamed Facility,Unnamed Facility,1.0930259804452855,,
+21.0,86.03,1,1,True,Unnamed Facility,Unnamed Facility,1.144288927400835,,
+21.07,85.04,1,1,False,,Unnamed Facility,3.781876122131965,,
+21.07,85.05,1,1,False,,Unnamed Facility,2.984670896604661,,
+21.08,85.03,2,2,False,,Unnamed Facility,4.269925293087161,,
+21.08,85.04,2,5,False,,Unnamed Facility,3.2194833473920914,,
+21.1,72.63,2,2,True,Shell Energy India Private Limited,Shell Energy India Private Limited,0.9953267409835258,10.0,Tree Cover
+21.1,72.64,4,6,True,ArcelorMittal Nippon Steel India,ArcelorMittal Nippon Steel India,1.1725936516859103,60.0,Bare/Sparse Vegetation
+21.1,72.65,2,3,True,Hazira Power Plant,Hazira Power Plant,1.295100306726884,40.0,Cropland
+21.11,72.64,2,4,True,ArcelorMittal Nippon Steel India,ArcelorMittal Nippon Steel India,0.4154170033298988,60.0,Bare/Sparse Vegetation
+21.11,72.65,3,6,True,Hazira Power Plant,Hazira Power Plant,0.6531349153283484,50.0,Built-up
+21.18,81.38,2,2,True,Unnamed Facility,Unnamed Facility,1.054228164158486,50.0,Built-up
+21.18,81.39,3,4,True,Bhilai Steel Plant,Bhilai Steel Plant,0.4985286672082177,50.0,Built-up
+21.19,81.2,1,1,True,Unnamed Facility,Unnamed Facility,0.7732677167689798,60.0,Bare/Sparse Vegetation
+21.19,81.39,3,6,True,Bhilai Steel Plant,Bhilai Steel Plant,0.6340125711440744,50.0,Built-up
+21.19,81.4,1,1,True,Bhilai Steel Plant,Bhilai Steel Plant,1.1836942045052543,50.0,Built-up
+21.19,81.41,1,1,True,Bhilai 500 MW Expansion Power Project,Bhilai 500 MW Expansion Power Project,1.6052963683641843,10.0,Tree Cover
+21.19,81.42,1,1,True,Bhilai 500 MW Expansion Power Project,Bhilai 500 MW Expansion Power Project,0.5207738438676974,50.0,Built-up
+21.2,81.42,1,1,True,Bhilai 500 MW Expansion Power Project,Bhilai 500 MW Expansion Power Project,1.3972850777458603,40.0,Cropland
+21.23,79.63,1,1,True,Sunflag Steel,Sunflag Steel,0.198409343045406,50.0,Built-up
+21.24,79.22,1,1,False,,Unnamed Facility,2.475208795421276,40.0,Cropland
+21.24,94.85,1,2,True,Unnamed Facility,Unnamed Facility,1.8242163188546805,50.0,Built-up
+21.25,79.21,1,1,False,,Unnamed Facility,4.034696069052207,60.0,Bare/Sparse Vegetation
+21.25,81.77,1,1,True,Unnamed Facility,Unnamed Facility,0.6302270668937137,40.0,Cropland
+21.31,81.58,1,1,True,Unnamed Facility,Unnamed Facility,1.1407260344327466,10.0,Tree Cover
+21.31,81.59,1,1,True,Unnamed Facility,Unnamed Facility,0.0939447294549538,30.0,Grassland
+21.33,78.97,1,1,False,,Unnamed Facility,4.869762268470871,40.0,Cropland
+21.34,78.97,3,5,False,,Unnamed Facility,4.652341289053007,40.0,Cropland
+21.34,81.67,1,1,True,Jayaswal Neco,Jayaswal Neco,1.4254449750904838,10.0,Tree Cover
+21.35,81.67,1,1,True,Jayaswal Neco,Jayaswal Neco,0.3713201473082228,50.0,Built-up
+21.37,81.64,1,1,True,Unnamed Facility,Unnamed Facility,1.1186935663286168,60.0,Bare/Sparse Vegetation
+21.37,81.68,1,2,True,Unnamed Facility,Unnamed Facility,0.523070189042015,10.0,Tree Cover
+21.38,81.68,2,3,True,Unnamed Facility,Unnamed Facility,0.6113787308513992,50.0,Built-up
+21.43,72.98,1,1,True,Unnamed Facility,Unnamed Facility,1.8476529711097167,40.0,Cropland
+21.49,81.77,2,2,True,Unnamed Facility,Unnamed Facility,0.4402105195864244,40.0,Cropland
+21.54,81.95,1,1,True,Unnamed Facility,Unnamed Facility,0.4416664986245916,10.0,Tree Cover
+21.56,81.75,1,1,True,Unnamed Facility,Unnamed Facility,0.7355039783882791,10.0,Tree Cover
+21.58,82.02,2,2,True,Unnamed Facility,Unnamed Facility,0.4624995110115888,50.0,Built-up
+21.62,81.79,3,3,False,,Unnamed Facility,5.031375579225203,10.0,Tree Cover
+21.67,82.08,1,1,True,Unnamed Facility,Unnamed Facility,0.5598973729542064,30.0,Grassland
+21.68,82.08,1,1,True,Unnamed Facility,Unnamed Facility,0.962167232966286,80.0,Water Bodies
+21.68,84.04,3,8,True,Shyam Metallic & Energy,Shyam Metallic & Energy,0.5161449849171692,,
+21.73,82.22,1,1,True,Unnamed Facility,Unnamed Facility,0.7010512550791562,30.0,Grassland
+21.74,83.84,4,9,True,Unnamed Facility,Unnamed Facility,0.8350005091493488,80.0,Water Bodies
+21.75,83.84,4,14,True,Unnamed Facility,Unnamed Facility,0.6240818309970466,60.0,Bare/Sparse Vegetation
+21.75,83.85,3,5,True,Unnamed Facility,Unnamed Facility,1.2330453505389534,10.0,Tree Cover
+21.75,84.02,1,1,True,Bhushan Power & Steel,Bhushan Power & Steel,1.3914512049111865,,
+21.76,83.82,1,1,False,,Unnamed Facility,2.3318458635765498,80.0,Water Bodies
+21.76,83.84,4,8,True,Unnamed Facility,Unnamed Facility,0.8267158718883825,10.0,Tree Cover
+21.76,83.85,3,8,True,Unnamed Facility,Unnamed Facility,1.02342087322279,30.0,Grassland
+21.76,84.02,2,4,True,Bhushan Power & Steel,Bhushan Power & Steel,0.3312921905172805,,
+21.77,84.02,2,5,True,Rengali Bhushan Power Plant,Rengali Bhushan Power Plant,0.2099091928376094,,
+21.79,80.02,1,2,False,,Unnamed Facility,24.102419184417982,40.0,Cropland
+21.79,83.99,1,1,True,Unnamed Facility,Unnamed Facility,0.0632174452174221,30.0,Grassland
+21.8,82.04,2,2,False,,Nova Iron & Steel,9.74649394855492,40.0,Cropland
+21.8,83.88,1,1,True,Unnamed Facility,Unnamed Facility,1.743472129604703,30.0,Grassland
+21.8,83.89,2,3,True,Unnamed Facility,Unnamed Facility,1.6645988380020875,60.0,Bare/Sparse Vegetation
+21.82,83.99,1,1,True,Unnamed Facility,Unnamed Facility,0.6681560282182288,40.0,Cropland
+21.83,83.9,1,1,False,,Unnamed Facility,3.0916134124731505,10.0,Tree Cover
+21.86,83.97,2,2,True,MSP Steel,MSP Steel,0.5119592428109683,30.0,Grassland
+21.87,83.5,1,1,True,Unnamed Facility,Unnamed Facility,0.4356037935066171,10.0,Tree Cover
+21.88,83.5,2,2,True,Unnamed Facility,Unnamed Facility,0.4685600646994172,10.0,Tree Cover
+21.88,83.55,1,1,True,Unnamed Facility,Unnamed Facility,0.3608359592359863,10.0,Tree Cover
+21.88,83.56,3,3,True,Unnamed Facility,Unnamed Facility,0.5688253084655973,10.0,Tree Cover
+21.9,83.98,1,1,True,Unnamed Facility,Unnamed Facility,0.4865703234291682,40.0,Cropland
+21.92,83.34,1,1,True,Raigarh Jindal power station,Raigarh Jindal power station,0.8349083832630539,50.0,Built-up
+21.92,83.35,4,7,True,Raigarh Jindal power station,Raigarh Jindal power station,0.8303941876734718,50.0,Built-up
+21.92,85.22,2,2,True,Rungta Kamanda power station,Rungta Kamanda power station,1.0693894850879389,,
+21.93,85.22,1,2,True,Rungta Kamanda power station,Rungta Kamanda power station,0.4074275408412225,,
+21.94,81.98,1,1,False,,Unnamed Facility,7.734113440780026,40.0,Cropland
+21.97,83.77,1,1,False,,Hemgir Coal Washery,10.004377045486102,10.0,Tree Cover
+21.97,85.31,1,1,True,Unnamed Facility,Unnamed Facility,0.8019457168309654,,
+21.98,83.23,2,2,True,Unnamed Facility,Unnamed Facility,0.7318673796439852,40.0,Cropland
+21.99,83.23,1,1,True,Monnet Raigarh Power Plant,Monnet Raigarh Power Plant,0.3771884908244236,50.0,Built-up
+21.99,83.37,1,1,True,Unnamed Facility,Unnamed Facility,1.274610933323847,10.0,Tree Cover
+22.0,82.67,3,4,True,Prakash Champa Captive Power Station,Prakash Champa Captive Power Station,0.4080037770619083,60.0,Bare/Sparse Vegetation
+22.01,82.67,2,5,True,Prakash Industries Steel Plant,Prakash Industries Steel Plant,0.5893825490293447,10.0,Tree Cover
+22.01,83.75,1,1,False,,Hemgir Coal Washery,13.33176774112814,10.0,Tree Cover
+22.02,82.18,1,1,True,Silpahari Industrial Area,Silpahari Industrial Area,0.5199074217313883,10.0,Tree Cover
+22.02,83.75,2,3,False,,Hemgir Coal Washery,14.417829018749773,60.0,Bare/Sparse Vegetation
+22.03,83.36,1,1,False,,Unnamed Facility,2.417621220233222,10.0,Tree Cover
+22.03,83.37,1,1,True,Unnamed Facility,Unnamed Facility,1.4634402494862426,40.0,Cropland
+22.03,83.74,1,1,False,,Hemgir Coal Washery,15.333190606920825,10.0,Tree Cover
+22.04,83.35,2,3,False,,Unnamed Facility,2.4651219680942424,10.0,Tree Cover
+22.04,83.73,1,3,False,,Hemgir Coal Washery,16.34886538714636,10.0,Tree Cover
+22.05,88.12,1,1,True,Hindustan Fertilizer Corporation Limited,Hindustan Fertilizer Corporation Limited,0.458821183252702,10.0,Tree Cover
+22.06,85.46,1,1,False,,Unnamed Facility,3.613228732141396,,
+22.06,85.47,1,1,False,,Unnamed Facility,3.3148615026261083,,
+22.06,88.12,1,2,True,Unnamed Facility,Unnamed Facility,0.5034219750335249,10.0,Tree Cover
+22.06,88.13,1,1,True,Exide Industries Limited,Exide Industries Limited,0.5318218077455292,10.0,Tree Cover
+22.07,83.71,1,1,False,,Unnamed Facility,19.570132324041083,30.0,Grassland
+22.09,83.12,1,2,False,,Binjkote Power Station,12.650636193206443,10.0,Tree Cover
+22.11,83.12,1,1,False,,Binjkote Power Station,14.235865350577363,10.0,Tree Cover
+22.21,84.86,2,5,True,Unnamed Facility,Unnamed Facility,1.5188787616977324,,
+22.21,84.87,1,2,True,Rourkela Works II Power Plant,Rourkela Works II Power Plant,1.6276460119095335,,
+22.21,84.88,1,2,True,Rourkela Works II Power Plant,Rourkela Works II Power Plant,1.3172275877790558,,
+22.22,84.76,1,1,True,Unnamed Facility,Unnamed Facility,0.3979678511881944,,
+22.22,84.87,1,1,True,Rourkela Works II Power Plant,Rourkela Works II Power Plant,0.9869473806473824,,
+22.23,84.75,1,1,True,Unnamed Facility,Unnamed Facility,0.6511151210507933,,
+22.24,87.39,1,1,True,BEL,BEL,1.0149135991697802,40.0,Cropland
+22.32,82.54,1,1,False,,S V Power Private Limited Renki,3.069781785978188,30.0,Grassland
+22.32,82.55,1,1,False,,S V Power Private Limited Renki,3.7031718573316654,40.0,Cropland
+22.32,82.56,2,2,False,,South Eastern Coalfields Ltd. (SECL) - Junadih Rapid Coal Loading System (JRGR),3.5545814362590056,60.0,Bare/Sparse Vegetation
+22.32,82.57,2,2,False,,South Eastern Coalfields Ltd. (SECL) - Junadih Rapid Coal Loading System (JRGR),3.3725710656938177,60.0,Bare/Sparse Vegetation
+22.32,82.59,2,2,False,,South Eastern Coalfields Ltd. (SECL) - Junadih Rapid Coal Loading System (JRGR),4.033756987271716,30.0,Grassland
+22.33,82.53,1,1,False,,S V Power Private Limited Renki,3.866377422588799,60.0,Bare/Sparse Vegetation
+22.33,82.61,2,2,False,,Unnamed Facility,4.766766811631531,30.0,Grassland
+22.34,69.86,1,1,True,Unnamed Facility,Unnamed Facility,0.2524182425312064,50.0,Built-up
+22.34,69.87,1,1,True,Reliance Refinery,Reliance Refinery,0.5216263999685629,50.0,Built-up
+22.35,82.3,1,1,False,,Bhandhakhar Power Station,14.90351268028595,40.0,Cropland
+22.36,82.3,3,10,False,,Bhandhakhar Power Station,15.011735777291904,30.0,Grassland
+22.36,87.02,1,1,False,,RASHMI CEMENT LTD. (CEMENT DIVISION),3.582058266528033,10.0,Tree Cover
+22.36,87.29,1,1,True,Unnamed Facility,Unnamed Facility,0.5269739717315364,50.0,Built-up
+22.36,87.3,2,2,True,Unnamed Facility,Unnamed Facility,1.622630533287065,60.0,Bare/Sparse Vegetation
+22.37,87.02,1,2,False,,RASHMI CEMENT LTD. (CEMENT DIVISION),2.478365605619693,40.0,Cropland
+22.37,87.3,2,5,True,Unnamed Facility,Unnamed Facility,1.5848499337409043,40.0,Cropland
+22.38,87.28,2,7,True,Unnamed Facility,Unnamed Facility,0.3911238718234838,50.0,Built-up
+22.42,69.04,1,1,True,Unnamed Facility,Unnamed Facility,0.460128100026741,20.0,Shrubland
+22.57,85.89,2,3,True,Unnamed Facility,Unnamed Facility,0.278850419421272,,
+22.57,85.9,3,7,True,Unnamed Facility,Unnamed Facility,0.8604854483973527,,
+22.59,85.9,1,1,True,Unnamed Facility,Unnamed Facility,0.8267949245996695,,
+22.61,85.91,1,1,False,,Unnamed Facility,2.401237217842833,,
+22.69,92.16,1,1,False,,Unnamed Facility,14.048907531071176,10.0,Tree Cover
+22.79,86.2,2,4,True,Tata Steel,Tata Steel,0.5542914951500992,,
+22.79,86.21,1,1,True,Jojobera Tata Unit 6 Power Station,Jojobera Tata Unit 6 Power Station,0.5135024554097699,,
+22.8,86.09,1,1,True,Adityapur Works Power Station,Adityapur Works Power Station,0.4138260737242487,,
+22.8,86.21,1,2,True,Jojobera Tata Unit 6 Power Station,Jojobera Tata Unit 6 Power Station,0.5995281491351652,,
+22.83,69.53,1,1,True,Coastal Gujarat Power Ltd,Coastal Gujarat Power Ltd,1.6771821382223897,30.0,Grassland
+22.87,86.06,1,3,True,Unnamed Facility,Unnamed Facility,0.7156795177568923,,
+22.93,69.7,1,4,True,Unnamed Facility,Unnamed Facility,0.3208713118060967,40.0,Cropland
+22.93,69.82,1,1,True,Unnamed Facility,Unnamed Facility,0.4301568771209562,40.0,Cropland
+22.93,70.11,1,1,True,Tuna-Tekra Container Terminal,Tuna-Tekra Container Terminal,1.361036873363361,80.0,Water Bodies
+23.16,82.34,1,2,False,,JKD Mines,20.23646557151544,30.0,Grassland
+23.17,82.34,1,2,False,,JKD Mines,20.04143015950909,60.0,Bare/Sparse Vegetation
+23.27,70.26,1,1,True,Unnamed Facility,Unnamed Facility,0.6597272144120973,40.0,Cropland
+23.3,70.48,1,1,True,Unnamed Facility,Unnamed Facility,0.6055028466389729,40.0,Cropland
+23.31,70.2,1,1,False,,Unnamed Facility,4.901257416750066,20.0,Shrubland
+23.32,70.49,1,1,True,Unnamed Facility,Unnamed Facility,0.4472078030823525,40.0,Cropland
+23.41,72.42,1,1,True,Unnamed Facility,Unnamed Facility,0.4166727379210436,40.0,Cropland
+23.51,72.42,1,1,False,,Unnamed Facility,2.0405326821923384,40.0,Cropland
+23.51,94.01,1,1,False,,ရာဇဂြိုဟ်ရေအားလျှပ်စစ်စက်ရုံ,8.433489507163808,40.0,Cropland
+23.54,72.41,1,1,False,,Radhe industroal park,3.325140728177857,50.0,Built-up
+23.55,86.54,1,1,False,,Unnamed Facility,8.730765895922548,,
+23.55,87.24,1,1,True,Durgapur SAIL power station,Durgapur SAIL power station,0.9713803738063505,60.0,Bare/Sparse Vegetation
+23.56,87.24,1,1,True,Unnamed Facility,Unnamed Facility,0.955584499991176,50.0,Built-up
+23.58,86.73,1,1,False,,Unnamed Facility,9.201267368560082,,
+23.61,86.79,1,1,False,,Unnamed Facility,5.623480351967372,,
+23.63,70.44,1,1,False,,Unnamed Facility,3.2651173705687357,60.0,Bare/Sparse Vegetation
+23.63,96.6,1,1,False,,Gold Mines,39.43568745688837,10.0,Tree Cover
+23.65,85.44,1,2,True,Unnamed Facility,Unnamed Facility,0.6753301481903863,,
+23.66,85.51,1,2,True,Unnamed Facility,Unnamed Facility,0.4248684702805148,,
+23.66,87.15,1,1,True,Belbaid,Belbaid,0.7596988965632138,80.0,Water Bodies
+23.66,87.16,1,2,True,Parasea,Parasea,0.9688273211008266,30.0,Grassland
+23.67,85.0,1,4,True,Unnamed Facility,Unnamed Facility,1.3080680980999595,,
+23.67,85.32,1,1,True,Unnamed Facility,Unnamed Facility,1.902337564792972,,
+23.67,86.09,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.9255938959981656,,
+23.68,86.08,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.583269938500557,,
+23.68,86.09,2,8,True,Bokaro Works Power Plant,Bokaro Works Power Plant,0.8367464710093752,,
+23.68,86.1,1,1,True,Bokaro Steel Plant,Bokaro Steel Plant,0.6324943160198738,,
+23.68,86.39,2,4,False,,Unnamed Facility,2.5415928024033585,,
+23.68,86.4,3,9,False,,Unnamed Facility,2.413981956525809,,
+23.69,85.37,1,2,False,,Unnamed Facility,2.685384235953354,,
+23.69,86.08,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.4042217933421812,,
+23.69,86.39,2,2,True,Unnamed Facility,Unnamed Facility,1.5368036354932286,,
+23.69,86.44,1,1,False,,SAIL Chasnalla ADM Building,2.873701480270232,,
+23.69,87.12,1,2,True,Unnamed Facility,Unnamed Facility,0.3499572018828322,50.0,Built-up
+23.7,85.37,1,1,False,,Unnamed Facility,3.4588702947455627,,
+23.7,86.07,1,1,True,Unnamed Facility,Unnamed Facility,0.960397086830774,,
+23.7,86.08,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.977320493478918,,
+23.7,87.11,1,1,True,Unnamed Facility,Unnamed Facility,0.550407830796166,10.0,Tree Cover
+23.7,87.12,1,1,True,Unnamed Facility,Unnamed Facility,0.5349070109041728,10.0,Tree Cover
+23.71,86.42,1,1,False,,Unnamed Facility,2.6656944853335034,,
+23.71,86.45,3,5,False,,SAIL Chasnalla ADM Building,5.050956496854379,,
+23.72,86.42,1,1,False,,Unnamed Facility,3.2290223840766648,,
+23.74,86.43,3,5,False,,Unnamed Facility,4.976503018224265,,
+23.74,86.44,1,2,False,,Unnamed Facility,5.5199799203752535,,
+23.76,85.85,3,3,False,,Unnamed Facility,2.5338792567093997,,
+23.76,86.39,2,2,True,Unnamed Facility,Unnamed Facility,1.049803439248269,,
+23.76,86.4,3,9,True,Unnamed Facility,Unnamed Facility,1.8035020377300777,,
+23.76,86.41,1,1,False,,Unnamed Facility,2.001488817433184,,
+23.77,86.2,1,1,False,,Unnamed Facility,2.2279564416635065,,
+23.77,86.37,1,1,True,Unnamed Facility,Unnamed Facility,1.5460595621278466,,
+23.77,86.4,1,1,True,Unnamed Facility,Unnamed Facility,0.7366575314725422,,
+23.78,86.2,1,1,True,Unnamed Facility,Unnamed Facility,1.2614086854717868,,
+23.78,86.21,1,3,False,,Unnamed Facility,2.1554185825434105,,
+23.78,86.36,1,1,False,,Unnamed Facility,3.1159003812982573,,
+23.78,86.37,1,1,False,,Unnamed Facility,2.418203449858712,,
+23.78,86.39,1,1,True,Unnamed Facility,Unnamed Facility,1.4230586198864437,,
+23.79,85.55,2,5,True,West Bokaro Coal Mine,West Bokaro Coal Mine,0.6061327976446204,,
+23.79,86.35,1,1,False,,Unnamed Facility,3.916253129114851,,
+23.8,86.33,2,3,False,,Unnamed Facility,3.119628727040166,,
+23.8,86.35,1,1,False,,Unnamed Facility,2.8250690189210097,,
+23.82,85.5,1,1,True,Unnamed Facility,Unnamed Facility,1.1569839840622285,,
+23.83,84.57,1,1,False,,Unnamed Facility,15.060270201986253,,
+23.84,85.47,1,1,True,Unnamed Facility,Unnamed Facility,1.5906387468282095,,
+24.01,96.12,1,1,False,,နမ်းခမ်း  သစ်ကွင်း,25.09476906738259,10.0,Tree Cover
+24.07,72.25,1,1,False,,Unnamed Facility,7.170083003492823,40.0,Cropland
+24.14,82.59,1,1,False,,Unnamed Facility,4.252662491790473,60.0,Bare/Sparse Vegetation
+24.15,82.66,1,1,True,Field WorkShop,Field WorkShop,1.3362291787022282,10.0,Tree Cover
+24.16,82.56,2,2,False,,Unnamed Facility,4.745415581056109,60.0,Bare/Sparse Vegetation
+24.16,82.57,2,2,False,,Unnamed Facility,4.390957585021649,30.0,Grassland
+24.18,82.64,1,1,True,Unnamed Facility,Unnamed Facility,1.7012792854587442,40.0,Cropland
+24.18,82.66,2,2,True,Unnamed Facility,Unnamed Facility,1.2590936413199283,60.0,Bare/Sparse Vegetation
+24.2,82.71,2,3,True,Unnamed Facility,Unnamed Facility,0.4824605304080408,10.0,Tree Cover
+24.2,82.72,1,1,True,Unnamed Facility,Unnamed Facility,1.3157597912755257,30.0,Grassland
+24.21,82.71,2,2,True,Unnamed Facility,Unnamed Facility,1.584189434718247,60.0,Bare/Sparse Vegetation
+24.26,96.54,1,1,False,,Unnamed Facility,8.90459427404521,40.0,Cropland
+24.31,85.42,1,1,False,,Unnamed Facility,5.842048061687203,50.0,Built-up
+24.45,83.04,1,1,True,Cement Factory,Cement Factory,0.051894076615415,50.0,Built-up
+24.68,68.23,1,1,False,,Unnamed Facility,7.416404040830904,40.0,Cropland
+24.69,73.0,1,1,True,Unnamed Facility,Unnamed Facility,0.3822738946369916,50.0,Built-up
+24.72,96.31,1,1,False,,ကျောက်ခွဲစက်,11.390024571280456,40.0,Cropland
+24.76,74.61,2,3,True,TPP Aditya Cement Works UltraTech Cement Works,TPP Aditya Cement Works UltraTech Cement Works,0.5763622375834261,10.0,Tree Cover
+24.81,68.12,1,1,False,,Unnamed Facility,12.230734843986612,40.0,Cropland
+24.82,73.09,1,2,True,Binani Cement,Binani Cement,0.4253345330883749,50.0,Built-up
+24.89,68.01,1,1,False,,Unnamed Facility,16.855799131030047,60.0,Bare/Sparse Vegetation
+25.02,68.23,1,2,False,,Unnamed Facility,8.124296414990352,60.0,Bare/Sparse Vegetation
+25.3,68.12,1,1,False,,Unnamed Facility,5.019112026099984,20.0,Shrubland
+25.39,68.58,4,7,True,Kunnar LPG Plant & Oil Field,Kunnar LPG Plant & Oil Field,0.6293652211886176,40.0,Cropland
+25.52,68.55,1,1,False,,Kausar Gas,6.143241337531896,40.0,Cropland
+25.58,68.63,1,1,False,,Kausar Gas,10.93546441713204,40.0,Cropland
+25.71,73.58,1,1,False,,Unnamed Facility,26.704435697044563,40.0,Cropland
+25.98,73.42,1,1,False,,Pali Industrial Area Phase 2,22.32875217543217,40.0,Cropland
+25.98,93.57,1,1,False,,Unnamed Facility,13.711935686355629,10.0,Tree Cover
+26.1,68.88,1,1,False,,Unnamed Facility,10.727784661334145,40.0,Cropland
+26.11,68.95,1,2,False,,Unnamed Facility,7.229145191626961,40.0,Cropland
+26.15,68.6,1,1,False,,NawabShah Railway Station,23.417052988640208,40.0,Cropland
+26.62,68.16,1,1,False,,Pad Adan Railway Station,22.29397169073218,40.0,Cropland
+26.64,72.26,1,1,False,,Godelai,30.917550416426565,40.0,Cropland
+26.76,83.2,1,1,False,,Jute Mills,2.534496154717924,60.0,Bare/Sparse Vegetation
+26.77,94.51,1,1,False,,Unnamed Facility,7.477131188975223,40.0,Cropland
+27.14,72.44,1,1,False,,Unnamed Facility,2.0647025717448164,40.0,Cropland
+27.31,95.27,1,1,False,,Unnamed Facility,3.523472160993029,10.0,Tree Cover
+27.32,95.27,3,3,False,,Unnamed Facility,2.7988625000080214,10.0,Tree Cover
+27.32,95.28,1,1,True,Unnamed Facility,Unnamed Facility,1.954672471475396,10.0,Tree Cover
+27.38,95.33,1,2,True,Unnamed Facility,Unnamed Facility,0.4474985780569631,10.0,Tree Cover
+27.38,95.34,2,2,True,Unnamed Facility,Unnamed Facility,0.7357223817374602,40.0,Cropland
+27.46,95.48,1,1,False,,Unnamed Facility,4.485490572841189,40.0,Cropland
+27.6,95.4,1,1,False,,Unnamed Facility,10.670228096597,10.0,Tree Cover
+27.64,69.48,1,1,False,,Unnamed Facility,13.361521125667602,40.0,Cropland
+27.65,68.46,1,1,False,,Larkana Railway Station,30.121800110752144,10.0,Tree Cover
+27.86,95.18,1,2,False,,Unnamed Facility,35.08216262456433,10.0,Tree Cover
+27.87,96.93,1,1,False,,Khangkio Tea Factory,87.33956501274454,10.0,Tree Cover
+27.88,96.92,1,2,False,,Khangkio Tea Factory,86.35877343888956,10.0,Tree Cover
+27.88,96.93,1,1,False,,Khangkio Tea Factory,87.46295510358604,10.0,Tree Cover
+27.93,69.85,1,2,False,,Foundation Power Company,20.43633219610705,60.0,Bare/Sparse Vegetation
+27.94,69.72,1,1,False,,Foundation Power Company,6.871108658952429,60.0,Bare/Sparse Vegetation
+27.95,95.26,1,1,False,,Unnamed Facility,45.37320465729388,60.0,Bare/Sparse Vegetation
+27.96,96.95,1,1,False,,Khangkio Tea Factory,91.11872951626113,10.0,Tree Cover
+27.96,96.96,1,1,False,,Khangkio Tea Factory,92.20613982412806,30.0,Grassland
+27.97,68.93,1,1,False,,بکری پاکستان آئل ڈپو,12.073204220418232,40.0,Cropland
+28.04,69.67,2,2,True,Unnamed Facility,Unnamed Facility,0.362377186442947,60.0,Bare/Sparse Vegetation
+28.35,77.23,2,2,False,,Unnamed Facility,2.516710931211976,40.0,Cropland
+28.37,77.23,1,1,True,Unnamed Facility,Unnamed Facility,0.4851898334142303,60.0,Bare/Sparse Vegetation
+28.42,69.7,2,2,True,Guddu Thermal Power Station,Guddu Thermal Power Station,0.9998898199547962,10.0,Tree Cover
+28.43,69.7,1,1,True,Guddu Thermal Power Station,Guddu Thermal Power Station,0.2831459061976561,10.0,Tree Cover
+28.45,68.15,1,1,False,,Dera Murad Jamali Railway Station,13.45005143410666,30.0,Grassland
+28.57,96.95,1,2,False,,Unnamed Facility,115.76515330513568,10.0,Tree Cover
+28.66,77.57,1,1,True,Unnamed Facility,Unnamed Facility,0.5256488458932217,50.0,Built-up
+28.66,77.58,1,1,True,Unnamed Facility,Unnamed Facility,0.4047211352785953,50.0,Built-up
+28.85,77.15,1,1,False,,Unnamed Facility,2.3729092316072653,40.0,Cropland
+29.19,88.53,1,1,False,,Unnamed Facility,18.89849085371333,30.0,Grassland
+29.24,91.86,1,1,False,,Unnamed Facility,3.851648448115402,30.0,Grassland
+29.25,91.86,1,1,False,,Unnamed Facility,3.205053679481209,30.0,Grassland
+29.29,88.91,1,1,False,,Unnamed Facility,2.2802541698957253,60.0,Bare/Sparse Vegetation
+29.33,69.01,1,1,False,,Unnamed Facility,41.55223002786567,60.0,Bare/Sparse Vegetation
+29.34,69.02,1,1,False,,Unnamed Facility,42.53905261350817,60.0,Bare/Sparse Vegetation
+29.47,76.86,1,1,True,Unnamed Facility,Unnamed Facility,0.3892892077654025,10.0,Tree Cover
+29.48,76.86,2,3,True,Unnamed Facility,Unnamed Facility,1.4788370705478977,50.0,Built-up
+29.8,72.78,1,1,False,,Gulabka Cotton Factory,25.621101605214,60.0,Bare/Sparse Vegetation
+29.82,72.85,1,1,False,,Unnamed Facility,24.5332317814396,10.0,Tree Cover
+29.9,74.95,1,1,False,,Guru Gobind Singh Refinery,2.0356451966729487,40.0,Cropland
+29.91,74.94,1,1,True,Guru Gobind Singh Refinery,Guru Gobind Singh Refinery,1.636221696514197,40.0,Cropland
+29.91,74.95,3,10,True,Guru Gobind Singh Refinery,Guru Gobind Singh Refinery,0.9419079447711518,50.0,Built-up
+29.91,74.96,1,2,True,Guru Gobind Singh Refinery,Guru Gobind Singh Refinery,1.2530052094868138,60.0,Bare/Sparse Vegetation
+29.94,69.95,1,1,False,,Unnamed Facility,16.752253996940706,20.0,Shrubland
+30.07,96.98,1,1,False,,Unnamed Facility,21.48188631720289,60.0,Bare/Sparse Vegetation
+30.33,71.98,1,1,True,Unnamed Facility,Unnamed Facility,1.20067641954887,40.0,Cropland
+30.47,71.74,1,1,False,,Unnamed Facility,13.726485628000594,40.0,Cropland
+30.6,73.65,1,1,True,Unnamed Facility,Unnamed Facility,1.0129144051336665,40.0,Cropland
+30.68,73.86,1,1,False,,Unnamed Facility,5.641395729076919,40.0,Cropland
+30.84,72.17,1,1,False,,Unnamed Facility,8.250151609726965,40.0,Cropland
+31.2,72.16,1,1,False,,Trimmu Hydropower Project,6.340329338825303,40.0,Cropland
+31.21,73.73,1,3,False,,Unnamed Facility,12.02539537673995,60.0,Bare/Sparse Vegetation
+31.21,75.97,1,1,False,,Unnamed Facility,4.752176692363714,40.0,Cropland
+31.23,75.08,1,1,False,,Unnamed Facility,8.79359140638211,40.0,Cropland
+31.25,76.93,1,1,True,Ambuja Cements Limited,Ambuja Cements Limited,0.2905322058313584,50.0,Built-up
+31.26,74.14,1,1,True,Unnamed Facility,Unnamed Facility,0.6073920309244367,30.0,Grassland
+31.26,74.15,1,1,True,Unnamed Facility,Unnamed Facility,0.0644723814693427,50.0,Built-up
+31.26,76.93,1,2,True,Ambuja Cements Limited,Ambuja Cements Limited,0.8468267364266875,10.0,Tree Cover
+31.32,72.16,1,1,False,,Unnamed Facility,19.1016984260554,40.0,Cropland
+31.33,72.16,1,1,False,,Unnamed Facility,18.51747414873183,10.0,Tree Cover
+31.34,72.16,1,1,False,,Unnamed Facility,17.983094207622386,40.0,Cropland
+31.37,76.35,1,1,True,Unnamed Facility,Unnamed Facility,0.417116029231673,10.0,Tree Cover
+31.37,76.36,1,1,True,National Fertilizers Limited,National Fertilizers Limited,0.5047442557748497,10.0,Tree Cover
+31.46,72.14,1,1,False,,Unnamed Facility,14.697155970961978,30.0,Grassland
+31.58,72.38,1,1,False,,Shakarganj Limited (SML) II Bhone,25.50612923301337,40.0,Cropland
+31.68,72.21,1,1,False,,Shakarganj Limited (SML) II Bhone,12.182122587092357,40.0,Cropland
+31.73,74.49,1,1,False,,Unnamed Facility,11.681517047900671,40.0,Cropland
+32.09,74.16,1,1,True,Unnamed Facility,Unnamed Facility,1.883300817826011,50.0,Built-up
+32.1,74.18,1,1,True,Unnamed Facility,Unnamed Facility,1.4738829311405512,30.0,Grassland
+32.13,74.18,1,1,True,Unnamed Facility,Unnamed Facility,0.7117227308069759,50.0,Built-up
+32.25,73.93,1,1,False,,Unnamed Facility,6.161908092188842,40.0,Cropland
+32.29,70.74,2,2,True,Lucky Cement Pezu,Lucky Cement Pezu,0.2876006325717792,60.0,Bare/Sparse Vegetation
+32.3,74.32,1,1,True,Daska | Punjab Small Industries Corporation,Daska | Punjab Small Industries Corporation,1.1957619178365868,40.0,Cropland
+32.43,71.37,1,1,True,Chashma Barrage Hydro,Chashma Barrage Hydro,0.618810651296178,80.0,Water Bodies
+32.57,72.56,1,1,True,Zaman Cement Factory,Zaman Cement Factory,0.6127671941968548,20.0,Shrubland
+32.58,72.56,1,1,True,Zaman Cement Factory,Zaman Cement Factory,0.7717307708970519,20.0,Shrubland
+32.65,70.47,1,1,False,,Unnamed Facility,40.31949562942183,60.0,Bare/Sparse Vegetation
+32.65,70.48,2,2,False,,Unnamed Facility,39.95331008305525,60.0,Bare/Sparse Vegetation
+32.66,70.47,1,1,False,,Unnamed Facility,39.21255116144453,60.0,Bare/Sparse Vegetation
+32.72,72.93,2,2,True,بیسٹ وے سیمنٹ فیکٹری,بیسٹ وے سیمنٹ فیکٹری,0.3591842267483303,20.0,Shrubland
+33.2,70.48,1,1,True,KAITU WEIR PROJECT,KAITU WEIR PROJECT,0.936754426110329,60.0,Bare/Sparse Vegetation
+33.21,70.47,1,1,True,KAITU WEIR PROJECT,KAITU WEIR PROJECT,0.7876424496464007,20.0,Shrubland
+33.3,71.18,1,1,True,Banda Dawood Shah Oil Facility,Banda Dawood Shah Oil Facility,1.1266304078898004,20.0,Shrubland
+33.3,71.19,3,3,True,Banda Dawood Shah Oil Facility,Banda Dawood Shah Oil Facility,0.3156456685558036,60.0,Bare/Sparse Vegetation
+33.37,70.31,1,1,False,,Unnamed Facility,7.427004646385598,30.0,Grassland
+33.55,71.55,1,1,True,کوہاٹ سیمنٹ فیکٹری,کوہاٹ سیمنٹ فیکٹری,0.2285824670837415,60.0,Bare/Sparse Vegetation
+33.69,72.71,2,2,True,فوجی سیمنٹ,فوجی سیمنٹ,0.2825671878429174,30.0,Grassland
+33.8,72.1,1,1,True,Unnamed Facility,Unnamed Facility,0.5295362844520513,40.0,Cropland
+34.09,72.01,1,1,True,رسالپور ایکسپورٹ پراسیسنگ زون,رسالپور ایکسپورٹ پراسیسنگ زون,1.7194258793955886,60.0,Bare/Sparse Vegetation
+34.1,72.01,1,1,True,رسالپور ایکسپورٹ پراسیسنگ زون,رسالپور ایکسپورٹ پراسیسنگ زون,1.7433704222203832,10.0,Tree Cover
+35.82,68.37,1,1,False,,Unnamed Facility,28.366415972907998,30.0,Grassland
+35.83,68.37,1,1,False,,Unnamed Facility,29.46100631721104,40.0,Cropland
+35.97,68.68,1,1,True,Unnamed Facility,Unnamed Facility,0.8209862442934767,60.0,Bare/Sparse Vegetation
+35.97,68.69,1,3,True,Unnamed Facility,Unnamed Facility,0.4255907555999164,50.0,Built-up
+36.35,95.23,1,1,True,Unnamed Facility,Unnamed Facility,0.9352830179060676,60.0,Bare/Sparse Vegetation
+36.35,95.24,1,1,True,Unnamed Facility,Unnamed Facility,0.7570445025875842,60.0,Bare/Sparse Vegetation
+36.36,95.23,1,2,True,Unnamed Facility,Unnamed Facility,0.9345244177623164,60.0,Bare/Sparse Vegetation
+36.36,95.24,1,1,True,Unnamed Facility,Unnamed Facility,0.3928576602670657,60.0,Bare/Sparse Vegetation
+36.38,95.11,1,1,True,Unnamed Facility,Unnamed Facility,0.3166872757724107,60.0,Bare/Sparse Vegetation
+36.96,81.34,1,1,False,,Unnamed Facility,6.565715520132842,20.0,Shrubland
+36.96,81.35,1,1,False,,Unnamed Facility,7.040328705632777,80.0,Water Bodies
+36.97,81.35,1,3,False,,Unnamed Facility,8.02737438643575,60.0,Bare/Sparse Vegetation

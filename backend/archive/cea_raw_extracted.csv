@@ -1,0 +1,1756 @@
+0,1,2,3,4,5,6,7,8,9
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+1,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,1,30,1986
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,2,30,1986
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,3,30,1986
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,4,30,1986
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,5,30,1986
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,6,30,1986
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,7,30,1995
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,8,30,1995
+,NR,Delhi,State Sector,IPGCL,I.P.CCPP,GT-Gas,9,30,1996
+2,NR,Delhi,State Sector,PPCL,PRAGATI CCGT-III,GT-Gas,1,250,2010
+,NR,Delhi,State Sector,PPCL,PRAGATI CCGT-III,GT-Gas,2,250,2011
+,NR,Delhi,State Sector,PPCL,PRAGATI CCGT-III,GT-Gas,3,250,2012
+,NR,Delhi,State Sector,PPCL,PRAGATI CCGT-III,GT-Gas,4,250,2012
+,NR,Delhi,State Sector,PPCL,PRAGATI CCGT-III,GT-Gas,5,250,2013
+,NR,Delhi,State Sector,PPCL,PRAGATI CCGT-III,GT-Gas,6,250,2014
+3,NR,Delhi,State Sector,PPCL,PRAGATI CCPP,GT-Gas,1,104.6,2002
+,NR,Delhi,State Sector,PPCL,PRAGATI CCPP,GT-Gas,2,104.6,2002
+,NR,Delhi,State Sector,PPCL,PRAGATI CCPP,GT-Gas,3,121.2,2003
+4,NR,Delhi,Private Sector,TPDDL,RITHALA CCPP,GT-Gas,1,35.75,2010
+,NR,Delhi,Private Sector,TPDDL,RITHALA CCPP,GT-Gas,2,35.75,2010
+,NR,Delhi,Private Sector,TPDDL,RITHALA CCPP,GT-Gas,3,36.5,2011
+,NR,Delhi Total,,,,,,2208.4,
+5,NR,Haryana,State Sector,HPGCL,PANIPAT TPS,Steam,6,210,2001
+,NR,Haryana,State Sector,HPGCL,PANIPAT TPS,Steam,7,250,2004
+,NR,Haryana,State Sector,HPGCL,PANIPAT TPS,Steam,8,250,2005
+6,NR,Haryana,State Sector,HPGCL,RAJIV GANDHI TPS,Steam,1,600,2010
+,NR,Haryana,State Sector,HPGCL,RAJIV GANDHI TPS,Steam,2,600,2010
+7,NR,Haryana,State Sector,HPGCL,YAMUNA NAGAR TPS,Steam,1,300,2007
+,NR,Haryana,State Sector,HPGCL,YAMUNA NAGAR TPS,Steam,2,300,2008
+8,NR,Haryana,Private Sector,JhPL(HR),MAHATMA GANDHI TPS,Steam,1,660,2012
+,NR,Haryana,Private Sector,JhPL(HR),MAHATMA GANDHI TPS,Steam,2,660,2012
+9,NR,Haryana,Central Sector,APCPL,INDIRA GANDHI STPP,Steam,1,500,2010
+,NR,Haryana,Central Sector,APCPL,INDIRA GANDHI STPP,Steam,2,500,2011
+,NR,Haryana,Central Sector,APCPL,INDIRA GANDHI STPP,Steam,3,500,2012
+10,NR,Haryana,Central Sector,NTPC,FARIDABAD CCPP,GT-Gas,1,137.76,1999
+,NR,Haryana,Central Sector,NTPC,FARIDABAD CCPP,GT-Gas,2,137.76,1999
+,NR,Haryana,Central Sector,NTPC,FARIDABAD CCPP,GT-Gas,3,156.07,2000
+,NR,Haryana Total,,,,,,5761.59,
+11,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,1,25,1989
+,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,2,25,1989
+,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,3,25,1989
+,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,4,25,1994
+,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,5,25,1994
+,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,6,25,1994
+,NR,Jammu & K,aSsthatmei rSector,JKSPDC,PAMPORE GPS (Liq.),GT-Gas,7,25,1995
+,NR,Jammu & Kashmir Total,,,,,,175,
+12,NR,Punjab,State Sector,PSPCL,GH TPS (LEH.MOH.),Steam,1,210,1997
+,NR,Punjab,State Sector,PSPCL,GH TPS (LEH.MOH.),Steam,2,210,1998
+,NR,Punjab,State Sector,PSPCL,GH TPS (LEH.MOH.),Steam,3,250,2008
+,NR,Punjab,State Sector,PSPCL,GH TPS (LEH.MOH.),Steam,4,250,2008
+13,NR,Punjab,State Sector,PSPCL,GOINDWAL SAHIB TPP,Steam,1,270,2016
+,NR,Punjab,State Sector,PSPCL,GOINDWAL SAHIB TPP,Steam,2,270,2016
+14,NR,Punjab,State Sector,PSPCL,ROPAR TPS,Steam,3,210,1988
+,NR,Punjab,State Sector,PSPCL,ROPAR TPS,Steam,4,210,1989
+,NR,Punjab,State Sector,PSPCL,ROPAR TPS,Steam,5,210,1992
+,NR,Punjab,State Sector,PSPCL,ROPAR TPS,Steam,6,210,1993
+15,NR,Punjab,Private Sector,NPL,RAJPURA TPP,Steam,1,700,2014
+,NR,Punjab,Private Sector,NPL,RAJPURA TPP,Steam,2,700,2014
+16,NR,Punjab,Private Sector,TSPL,TALWANDI SABO TPP,Steam,1,660,2014
+,NR,Punjab,Private Sector,TSPL,TALWANDI SABO TPP,Steam,2,660,2015
+,NR,Punjab,Private Sector,TSPL,TALWANDI SABO TPP,Steam,3,660,2016
+,NR,Punjab Total,,,,,,5680,
+17,NR,Rajasthan,State Sector,RRVUNL,CHHABRA-I PH-1 TPP,Steam,1,250,2009
+,NR,Rajasthan,State Sector,RRVUNL,CHHABRA-I PH-1 TPP,Steam,2,250,2010
+18,NR,Rajasthan,State Sector,RRVUNL,CHHABRA-I PH-2 TPP,Steam,3,250,2013
+,NR,Rajasthan,State Sector,RRVUNL,CHHABRA-I PH-2 TPP,Steam,4,250,2014
+19,NR,Rajasthan,State Sector,RRVUNL,CHHABRA-II TPP,Steam,5,660,2017
+,NR,Rajasthan,State Sector,RRVUNL,CHHABRA-II TPP,Steam,6,660,2019
+20,NR,Rajasthan,State Sector,RRVUNL,DHOLPUR CCPP,GT-Gas,1,110,2007
+,NR,Rajasthan,State Sector,RRVUNL,DHOLPUR CCPP,GT-Gas,2,110,2007
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,NR,Rajasthan,State Sector,RRVUNL,DHOLPUR CCPP,GT-Gas,3,110,2007
+21,NR,Rajasthan,State Sector,RRVUNL,GIRAL TPS,Steam,1,125,2007
+,NR,Rajasthan,State Sector,RRVUNL,GIRAL TPS,Steam,2,125,2009
+22,NR,Rajasthan,State Sector,RRVUNL,KALISINDH TPS,Steam,1,600,2014
+,NR,Rajasthan,State Sector,RRVUNL,KALISINDH TPS,Steam,2,600,2015
+23,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,1,110,1983
+,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,2,110,1983
+,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,3,210,1988
+,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,4,210,1989
+,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,5,210,1994
+,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,6,195,2003
+,NR,Rajasthan,State Sector,RRVUNL,KOTA TPS,Steam,7,195,2009
+24,NR,Rajasthan,State Sector,RRVUNL,RAMGARH CCPP,GT-Gas,1,3,1994
+,NR,Rajasthan,State Sector,RRVUNL,RAMGARH CCPP,GT-Gas,2,35.5,1996
+,NR,Rajasthan,State Sector,RRVUNL,RAMGARH CCPP,GT-Gas,3,37.5,2002
+,NR,Rajasthan,State Sector,RRVUNL,RAMGARH CCPP,GT-Gas,4,37.5,2003
+,NR,Rajasthan,State Sector,RRVUNL,RAMGARH CCPP,GT-Gas,5,110,2013
+,NR,Rajasthan,State Sector,RRVUNL,RAMGARH CCPP,GT-Gas,6,50,2014
+25,NR,Rajasthan,State Sector,RRVUNL,SURATGARH STPS,Steam,7,660,2020
+,NR,Rajasthan,State Sector,RRVUNL,SURATGARH STPS,Steam,8,660,2021
+26,NR,Rajasthan,State Sector,RRVUNL,SURATGARH TPS,Steam,1,250,1998
+,NR,Rajasthan,State Sector,RRVUNL,SURATGARH TPS,Steam,2,250,2000
+,NR,Rajasthan,State Sector,RRVUNL,SURATGARH TPS,Steam,3,250,2001
+,NR,Rajasthan,State Sector,RRVUNL,SURATGARH TPS,Steam,4,250,2002
+,NR,Rajasthan,State Sector,RRVUNL,SURATGARH TPS,Steam,5,250,2003
+,NR,Rajasthan,State Sector,RRVUNL,SURATGARH TPS,Steam,6,250,2009
+27,NR,Rajasthan,Private Sector,APL,ADANI POWER LIMITED KAWA,I STtPePam,1,660,2013
+,NR,Rajasthan,Private Sector,APL,ADANI POWER LIMITED KAWA,I STtPePam,2,660,2013
+28,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,1,135,2009
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,2,135,2010
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,3,135,2011
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,4,135,2011
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,5,135,2013
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,6,135,2013
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,7,135,2013
+,NR,Rajasthan,Private Sector,JSWBL,JALIPA KAPURDI TPP,Steam,8,135,2013
+29,NR,Rajasthan,Private Sector,SCL,SHREE CEMENT LTD TPS,Steam,1,150,2011
+,NR,Rajasthan,Private Sector,SCL,SHREE CEMENT LTD TPS,Steam,2,150,2012
+30,NR,Rajasthan,Central Sector,NLC,BARSINGSAR LIGNITE,Steam,1,125,2010
+,NR,Rajasthan,Central Sector,NLC,BARSINGSAR LIGNITE,Steam,2,125,2011
+31,NR,Rajasthan,Central Sector,NTPC,ANTA CCPP,GT-Gas,1,88.71,1989
+,NR,Rajasthan,Central Sector,NTPC,ANTA CCPP,GT-Gas,2,88.71,1989
+,NR,Rajasthan,Central Sector,NTPC,ANTA CCPP,GT-Gas,3,88.71,1989
+,NR,Rajasthan,Central Sector,NTPC,ANTA CCPP,GT-Gas,4,153.2,1989
+,NR,Rajasthan Total,,,,,,11802.83,
+32,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,1,210,1986
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,2,210,1987
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,3,210,1988
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,4,500,1993
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,5,500,1994
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,6,500,2015
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,ANPARA TPS,Steam,7,500,2016
+33,NR,Uttar Prad,eSsthate Sector,UPRVUNL,HARDUAGANJ TPS,Steam,7,105,1978
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,HARDUAGANJ TPS,Steam,8,250,2011
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,HARDUAGANJ TPS,Steam,9,250,2012
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,HARDUAGANJ TPS,Steam,10,660,2022
+34,NR,Uttar Prad,eSsthate Sector,UPRVUNL,JAWAHARPUR STPP,Steam,1,660,2024
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,JAWAHARPUR STPP,Steam,2,660,2024
+35,NR,Uttar Prad,eSsthate Sector,UPRVUNL,OBRA TPS,Steam,9,200,1980
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,OBRA TPS,Steam,10,200,1979
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,OBRA TPS,Steam,11,200,1977
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,OBRA TPS,Steam,12,200,1981
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,OBRA TPS,Steam,13,200,1982
+36,NR,Uttar Prad,eSsthate Sector,UPRVUNL,OBRA-C STPP,Steam,1,660,2024
+37,NR,Uttar Prad,eSsthate Sector,UPRVUNL,PANKI TPS EXT,Steam,1,660,2025
+38,NR,Uttar Prad,eSsthate Sector,UPRVUNL,PARICHHA TPS,Steam,3,210,2006
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,PARICHHA TPS,Steam,4,210,2006
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,PARICHHA TPS,Steam,5,250,2012
+,NR,Uttar Prad,eSsthate Sector,UPRVUNL,PARICHHA TPS,Steam,6,250,2013
+39,NR,Uttar Prad,ePshrivate Sector,BEPL,BARKHERA TPS,Steam,1,45,2011
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,NR,Uttar Prad,ePshrivate Sector,BEPL,BARKHERA TPS,Steam,2,45,2012
+40,NR,Uttar Prad,ePshrivate Sector,BEPL,KHAMBARKHERA TPS,Steam,1,45,2011
+,NR,Uttar Prad,ePshrivate Sector,BEPL,KHAMBARKHERA TPS,Steam,2,45,2011
+41,NR,Uttar Prad,ePshrivate Sector,BEPL,KUNDARKI TPS,Steam,1,45,2012
+,NR,Uttar Prad,ePshrivate Sector,BEPL,KUNDARKI TPS,Steam,2,45,2012
+42,NR,Uttar Prad,ePshrivate Sector,BEPL,MAQSOODPUR TPS,Steam,1,45,2011
+,NR,Uttar Prad,ePshrivate Sector,BEPL,MAQSOODPUR TPS,Steam,2,45,2012
+43,NR,Uttar Prad,ePshrivate Sector,BEPL,UTRAULA TPS,Steam,1,45,2012
+,NR,Uttar Prad,ePshrivate Sector,BEPL,UTRAULA TPS,Steam,2,45,2012
+44,NR,Uttar Prad,ePshrivate Sector,LAPPL,ANPARA C TPS,Steam,1,600,2011
+,NR,Uttar Prad,ePshrivate Sector,LAPPL,ANPARA C TPS,Steam,2,600,2011
+45,NR,Uttar Prad,ePshrivate Sector,LPGCL,LALITPUR TPS,Steam,1,660,2016
+,NR,Uttar Prad,ePshrivate Sector,LPGCL,LALITPUR TPS,Steam,2,660,2016
+,NR,Uttar Prad,ePshrivate Sector,LPGCL,LALITPUR TPS,Steam,3,660,2016
+46,NR,Uttar Prad,ePshrivate Sector,PPGCL (Jaypee),PRAYAGRAJ TPP,Steam,1,660,2015
+,NR,Uttar Prad,ePshrivate Sector,PPGCL (Jaypee),PRAYAGRAJ TPP,Steam,2,660,2016
+,NR,Uttar Prad,ePshrivate Sector,PPGCL (Jaypee),PRAYAGRAJ TPP,Steam,3,660,2017
+47,NR,Uttar Prad,ePshrivate Sector,RPSCL,ROSA TPP Ph-I,Steam,1,300,2010
+,NR,Uttar Prad,ePshrivate Sector,RPSCL,ROSA TPP Ph-I,Steam,2,300,2010
+,NR,Uttar Prad,ePshrivate Sector,RPSCL,ROSA TPP Ph-I,Steam,3,300,2011
+,NR,Uttar Prad,ePshrivate Sector,RPSCL,ROSA TPP Ph-I,Steam,4,300,2012
+48,NR,Uttar Prad,eCshentral Sector,MUNPL,MEJA STPP,Steam,1,660,2018
+,NR,Uttar Prad,eCshentral Sector,MUNPL,MEJA STPP,Steam,2,660,2021
+49,NR,Uttar Prad,eCshentral Sector,NTPC,AURAIYA CCPP,GT-Gas,1,111.19,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,AURAIYA CCPP,GT-Gas,2,111.19,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,AURAIYA CCPP,GT-Gas,3,111.19,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,AURAIYA CCPP,GT-Gas,4,111.19,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,AURAIYA CCPP,GT-Gas,5,109.3,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,AURAIYA CCPP,GT-Gas,6,109.3,1990
+50,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI (NCTPP),Steam,1,210,1991
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI (NCTPP),Steam,2,210,1992
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI (NCTPP),Steam,3,210,1993
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI (NCTPP),Steam,4,210,1994
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI (NCTPP),Steam,5,490,2010
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI (NCTPP),Steam,6,490,2010
+51,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI CCPP,GT-Gas,1,130.19,1992
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI CCPP,GT-Gas,2,130.19,1992
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI CCPP,GT-Gas,3,130.19,1992
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI CCPP,GT-Gas,4,130.19,1992
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI CCPP,GT-Gas,5,154.51,1994
+,NR,Uttar Prad,eCshentral Sector,NTPC,DADRI CCPP,GT-Gas,6,154.51,1994
+52,NR,Uttar Prad,eCshentral Sector,NTPC,RIHAND STPS,Steam,1,500,1988
+,NR,Uttar Prad,eCshentral Sector,NTPC,RIHAND STPS,Steam,2,500,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,RIHAND STPS,Steam,3,500,2005
+,NR,Uttar Prad,eCshentral Sector,NTPC,RIHAND STPS,Steam,4,500,2005
+,NR,Uttar Prad,eCshentral Sector,NTPC,RIHAND STPS,Steam,5,500,2012
+,NR,Uttar Prad,eCshentral Sector,NTPC,RIHAND STPS,Steam,6,500,2013
+53,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,1,200,1982
+,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,2,200,1982
+,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,3,200,1983
+,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,4,200,1983
+,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,5,200,1984
+,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,6,500,1986
+,NR,Uttar Prad,eCshentral Sector,NTPC,SINGRAULI STPS,Steam,7,500,1987
+54,NR,Uttar Prad,eCshentral Sector,NTPC,TANDA TPS,Steam,1,110,1988
+,NR,Uttar Prad,eCshentral Sector,NTPC,TANDA TPS,Steam,2,110,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,TANDA TPS,Steam,3,110,1990
+,NR,Uttar Prad,eCshentral Sector,NTPC,TANDA TPS,Steam,4,110,1998
+,NR,Uttar Prad,eCshentral Sector,NTPC,TANDA TPS,Steam,5,660,2019
+,NR,Uttar Prad,eCshentral Sector,NTPC,TANDA TPS,Steam,6,660,2021
+55,NR,Uttar Prad,eCshentral Sector,NTPC,UNCHAHAR TPS,Steam,1,210,1988
+,NR,Uttar Prad,eCshentral Sector,NTPC,UNCHAHAR TPS,Steam,2,210,1989
+,NR,Uttar Prad,eCshentral Sector,NTPC,UNCHAHAR TPS,Steam,3,210,1999
+,NR,Uttar Prad,eCshentral Sector,NTPC,UNCHAHAR TPS,Steam,4,210,1999
+,NR,Uttar Prad,eCshentral Sector,NTPC,UNCHAHAR TPS,Steam,5,210,2006
+,NR,Uttar Prad,eCshentral Sector,NTPC,UNCHAHAR TPS,Steam,6,500,2017
+56,NR,Uttar Prad,eCshentral Sector,NUPPL,GHATAMPUR TPP,Steam,1,660,2024
+57,NR,Uttar Prad,eCshentral Sector,THDC,KHURJA STPP,Steam,1,660,2025
+,NR,Uttar Pradesh Total,,,,,,29528.14,
+58,NR,Uttarakhan,dPrivate Sector,GIPL,GAMA CCPP,GT-Gas,1,225,2016
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+59,NR,Uttarakhan,dPrivate Sector,SEPL,SRAVANTHI CCPP,GT-Gas,1,225,2016
+,NR,Uttarakhan,dPrivate Sector,SEPL,SRAVANTHI CCPP,GT-Gas,2,214,2023
+,NR,Uttarakhand Total,,,,,,664,
+,NR Total,,,,,,,55819.96,
+60,WR,Chhattisgar,hState Sector,CSPGCL,DSPM TPS,Steam,1,250,2007
+,WR,Chhattisgar,hState Sector,CSPGCL,DSPM TPS,Steam,2,250,2007
+61,WR,Chhattisgar,hState Sector,CSPGCL,KORBA-WEST TPS,Steam,1,210,1984
+,WR,Chhattisgar,hState Sector,CSPGCL,KORBA-WEST TPS,Steam,2,210,1983
+,WR,Chhattisgar,hState Sector,CSPGCL,KORBA-WEST TPS,Steam,3,210,1985
+,WR,Chhattisgar,hState Sector,CSPGCL,KORBA-WEST TPS,Steam,4,210,1986
+,WR,Chhattisgar,hState Sector,CSPGCL,KORBA-WEST TPS,Steam,5,500,2013
+62,WR,Chhattisgar,hState Sector,CSPGCL,MARWA TPS,Steam,1,500,2014
+,WR,Chhattisgar,hState Sector,CSPGCL,MARWA TPS,Steam,2,500,2016
+63,WR,Chhattisgar,hPrivate Sector,ACB,CHAKABURA TPP,Steam,2,30,2014
+64,WR,Chhattisgar,hPrivate Sector,ACB,KASAIPALLI TPP,Steam,1,135,2011
+,WR,Chhattisgar,hPrivate Sector,ACB,KASAIPALLI TPP,Steam,2,135,2012
+65,WR,Chhattisgar,hPrivate Sector,ACB,SWASTIK KORBA TPP,Steam,1,25,2015
+66,WR,Chhattisgar,hPrivate Sector,APL,ADANI POWER LIMITED RAIGA,RSHte TaPmP,1,600,2014
+67,WR,Chhattisgar,hPrivate Sector,APL,ADANI POWER LIMITED RAIPU,RS tTePaPm,1,685,2015
+,WR,Chhattisgar,hPrivate Sector,APL,ADANI POWER LIMITED RAIPU,RS tTePaPm,2,685,2016
+68,WR,Chhattisgar,hPrivate Sector,BALCO,BALCO TPS,Steam,1,300,2015
+,WR,Chhattisgar,hPrivate Sector,BALCO,BALCO TPS,Steam,2,300,2016
+69,WR,Chhattisgar,hPrivate Sector,DBPCL,BARADARHA TPS,Steam,1,600,2014
+,WR,Chhattisgar,hPrivate Sector,DBPCL,BARADARHA TPS,Steam,2,600,2015
+70,WR,Chhattisgar,hPrivate Sector,JPL,OP JINDAL TPS,Steam,1,250,2007
+,WR,Chhattisgar,hPrivate Sector,JPL,OP JINDAL TPS,Steam,2,250,2008
+,WR,Chhattisgar,hPrivate Sector,JPL,OP JINDAL TPS,Steam,3,250,2008
+,WR,Chhattisgar,hPrivate Sector,JPL,OP JINDAL TPS,Steam,4,250,2008
+71,WR,Chhattisgar,hPrivate Sector,JPL,TAMNAR TPP,Steam,1,600,2014
+,WR,Chhattisgar,hPrivate Sector,JPL,TAMNAR TPP,Steam,2,600,2014
+,WR,Chhattisgar,hPrivate Sector,JPL,TAMNAR TPP,Steam,3,600,2015
+,WR,Chhattisgar,hPrivate Sector,JPL,TAMNAR TPP,Steam,4,600,2015
+72,WR,Chhattisgar,hPrivate Sector,LANCO,PATHADI TPP,Steam,1,300,2009
+,WR,Chhattisgar,hPrivate Sector,LANCO,PATHADI TPP,Steam,2,300,2010
+73,WR,Chhattisgar,hPrivate Sector,MCCPL,BANDAKHAR TPP,Steam,1,300,2015
+74,WR,Chhattisgar,hPrivate Sector,RKMPPL,UCHPINDA TPP,Steam,1,360,2015
+,WR,Chhattisgar,hPrivate Sector,RKMPPL,UCHPINDA TPP,Steam,2,360,2016
+,WR,Chhattisgar,hPrivate Sector,RKMPPL,UCHPINDA TPP,Steam,3,360,2017
+,WR,Chhattisgar,hPrivate Sector,RKMPPL,UCHPINDA TPP,Steam,4,360,2019
+75,WR,Chhattisgar,hPrivate Sector,SCPL,RATIJA TPS,Steam,1,50,2013
+,WR,Chhattisgar,hPrivate Sector,SCPL,RATIJA TPS,Steam,2,50,2016
+76,WR,Chhattisgar,hPrivate Sector,SKS,BINJKOTE TPP,Steam,1,300,2018
+,WR,Chhattisgar,hPrivate Sector,SKS,BINJKOTE TPP,Steam,2,300,2017
+77,WR,Chhattisgar,hPrivate Sector,SVPPL,SVPL TPP,Steam,1,63,2011
+78,WR,Chhattisgar,hPrivate Sector,TRNE,NAWAPARA TPP,Steam,1,300,2016
+,WR,Chhattisgar,hPrivate Sector,TRNE,NAWAPARA TPP,Steam,2,300,2017
+79,WR,Chhattisgar,hPrivate Sector,VESPL,KATGHORA TPP,Steam,1,35,2012
+80,WR,Chhattisgar,hPrivate Sector,VVL,SALORA TPP,Steam,1,135,2014
+81,WR,Chhattisgar,hPrivate Sector,WPCL,AKALTARA TPS,Steam,2,600,2018
+,WR,Chhattisgar,hPrivate Sector,WPCL,AKALTARA TPS,Steam,3,600,2013
+,WR,Chhattisgar,hPrivate Sector,WPCL,AKALTARA TPS,Steam,4,600,2014
+82,WR,Chhattisgar,hCentral Sector,NSPCL,BHILAI TPS,Steam,1,250,2008
+,WR,Chhattisgar,hCentral Sector,NSPCL,BHILAI TPS,Steam,2,250,2009
+83,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,1,200,1983
+,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,2,200,1983
+,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,3,200,1984
+,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,4,500,1987
+,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,5,500,1988
+,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,6,500,1989
+,WR,Chhattisgar,hCentral Sector,NTPC,KORBA STPS,Steam,7,500,2010
+84,WR,Chhattisgar,hCentral Sector,NTPC,LARA TPP,Steam,1,800,2018
+,WR,Chhattisgar,hCentral Sector,NTPC,LARA TPP,Steam,2,800,2020
+85,WR,Chhattisgar,hCentral Sector,NTPC,SIPAT STPS,Steam,1,660,2011
+,WR,Chhattisgar,hCentral Sector,NTPC,SIPAT STPS,Steam,2,660,2011
+,WR,Chhattisgar,hCentral Sector,NTPC,SIPAT STPS,Steam,3,660,2012
+,WR,Chhattisgar,hCentral Sector,NTPC,SIPAT STPS,Steam,4,500,2007
+,WR,Chhattisgar,hCentral Sector,NTPC,SIPAT STPS,Steam,5,500,2008
+,WR,Chhattisgarh Total,,,,,,23688,
+86,WR,Goa,Private Sector,RELIANCE,GOA CCPP (Liq.),GT-Gas,1,48,1999
+,WR,Goa Total,,,,,,48,
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+87,WR,Gujarat,State Sector,GMDCL,AKRIMOTA LIG TPS,Steam,1,125,2005
+,WR,Gujarat,State Sector,GMDCL,AKRIMOTA LIG TPS,Steam,2,125,2005
+88,WR,Gujarat,State Sector,GPPCL,PIPAVAV CCPP,GT-Gas,1,351,2014
+,WR,Gujarat,State Sector,GPPCL,PIPAVAV CCPP,GT-Gas,2,351,2013
+89,WR,Gujarat,State Sector,GSECL,BHAVNAGAR CFBC TPP,Steam,1,250,2016
+,WR,Gujarat,State Sector,GSECL,BHAVNAGAR CFBC TPP,Steam,2,250,2017
+90,WR,Gujarat,State Sector,GSECL,DHUVARAN CCPP,GT-Gas,1,67.85,2003
+,WR,Gujarat,State Sector,GSECL,DHUVARAN CCPP,GT-Gas,2,38.77,2003
+,WR,Gujarat,State Sector,GSECL,DHUVARAN CCPP,GT-Gas,3,72,2006
+,WR,Gujarat,State Sector,GSECL,DHUVARAN CCPP,GT-Gas,4,40,2007
+,WR,Gujarat,State Sector,GSECL,DHUVARAN CCPP,GT-Gas,5,376.1,2014
+91,WR,Gujarat,State Sector,GSECL,GANDHI NAGAR TPS,Steam,3,210,1990
+,WR,Gujarat,State Sector,GSECL,GANDHI NAGAR TPS,Steam,4,210,1991
+,WR,Gujarat,State Sector,GSECL,GANDHI NAGAR TPS,Steam,5,210,1998
+92,WR,Gujarat,State Sector,GSECL,KUTCH LIG. TPS,Steam,3,75,1997
+,WR,Gujarat,State Sector,GSECL,KUTCH LIG. TPS,Steam,4,75,2009
+93,WR,Gujarat,State Sector,GSECL,SIKKA REP. TPS,Steam,3,250,2015
+,WR,Gujarat,State Sector,GSECL,SIKKA REP. TPS,Steam,4,250,2015
+94,WR,Gujarat,State Sector,GSECL,UKAI TPS,Steam,3,200,1979
+,WR,Gujarat,State Sector,GSECL,UKAI TPS,Steam,4,200,1979
+,WR,Gujarat,State Sector,GSECL,UKAI TPS,Steam,5,210,1985
+,WR,Gujarat,State Sector,GSECL,UKAI TPS,Steam,6,500,2013
+95,WR,Gujarat,State Sector,GSECL,UTRAN CCPP,GT-Gas,5,240,2009
+,WR,Gujarat,State Sector,GSECL,UTRAN CCPP,GT-Gas,6,134,2009
+96,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,1,210,1982
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,2,210,1983
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,3,210,1984
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,4,210,1986
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,5,210,1986
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,6,210,1987
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,7,210,1998
+,WR,Gujarat,State Sector,GSECL,WANAKBORI TPS,Steam,8,800,2019
+97,WR,Gujarat,State Sector,GSEGL,HAZIRA CCPP,GT-Gas,1,52,2001
+,WR,Gujarat,State Sector,GSEGL,HAZIRA CCPP,GT-Gas,2,52,2001
+,WR,Gujarat,State Sector,GSEGL,HAZIRA CCPP,GT-Gas,3,52.1,2002
+98,WR,Gujarat,State Sector,GSEGL,HAZIRA CCPP EXT,GT-Gas,1,351,2012
+99,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - I & II,1,330,2009
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - I & II,2,330,2010
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - I & II,3,330,2010
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - I & II,4,330,2010
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - I & II,5,660,2010
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - I & II,6,660,2011
+100,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - III,7,660,2011
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - III,8,660,2012
+,WR,Gujarat,Private Sector,APL,ADANI POWER LIMITED MUND,RStAe TaPmP - III,9,660,2012
+101,WR,Gujarat,Private Sector,CGPL,MUNDRA UMTPP,Steam,1,800,2012
+,WR,Gujarat,Private Sector,CGPL,MUNDRA UMTPP,Steam,2,800,2012
+,WR,Gujarat,Private Sector,CGPL,MUNDRA UMTPP,Steam,3,800,2012
+,WR,Gujarat,Private Sector,CGPL,MUNDRA UMTPP,Steam,4,800,2013
+,WR,Gujarat,Private Sector,CGPL,MUNDRA UMTPP,Steam,5,800,2013
+102,WR,Gujarat,Private Sector,EPGL,SALAYA TPP,Steam,1,600,2012
+,WR,Gujarat,Private Sector,EPGL,SALAYA TPP,Steam,2,600,2012
+103,WR,Gujarat,Private Sector,ESSAR,ESSAR CCPP,GT-Gas,1,110,1995
+,WR,Gujarat,Private Sector,ESSAR,ESSAR CCPP,GT-Gas,2,110,1995
+,WR,Gujarat,Private Sector,ESSAR,ESSAR CCPP,GT-Gas,3,110,1995
+,WR,Gujarat,Private Sector,ESSAR,ESSAR CCPP,GT-Gas,4,185,1997
+104,WR,Gujarat,Private Sector,GIPCL,BARODA CCPP,GT-Gas,5,106,1997
+,WR,Gujarat,Private Sector,GIPCL,BARODA CCPP,GT-Gas,6,54,1997
+105,WR,Gujarat,Private Sector,GIPCL,SURAT LIG. TPS,Steam,1,125,2000
+,WR,Gujarat,Private Sector,GIPCL,SURAT LIG. TPS,Steam,2,125,1999
+,WR,Gujarat,Private Sector,GIPCL,SURAT LIG. TPS,Steam,3,125,2010
+,WR,Gujarat,Private Sector,GIPCL,SURAT LIG. TPS,Steam,4,125,2010
+106,WR,Gujarat,Private Sector,TOR. POW. (SUGEN),SUGEN CCPP,GT-Gas,1,382.5,2009
+,WR,Gujarat,Private Sector,TOR. POW. (SUGEN),SUGEN CCPP,GT-Gas,2,382.5,2009
+,WR,Gujarat,Private Sector,TOR. POW. (SUGEN),SUGEN CCPP,GT-Gas,3,382.5,2009
+107,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),DGEN MEGA CCPP,GT-Gas,1,400,2014
+,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),DGEN MEGA CCPP,GT-Gas,2,400,2014
+,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),DGEN MEGA CCPP,GT-Gas,3,400,2014
+108,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),SABARMATI (D-F STATIONS),Steam,1,120,1978
+,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),SABARMATI (D-F STATIONS),Steam,2,121,1984
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),SABARMATI (D-F STATIONS),Steam,3,121,1988
+109,WR,Gujarat,Private Sector,TOR. POW. (UNOSUGEN),UNOSUGEN CCPP,GT-Gas,1,382.5,2013
+110,WR,Gujarat,Central Sector,NTPC,GANDHAR CCPP,GT-Gas,1,144.3,1994
+,WR,Gujarat,Central Sector,NTPC,GANDHAR CCPP,GT-Gas,2,144.3,1994
+,WR,Gujarat,Central Sector,NTPC,GANDHAR CCPP,GT-Gas,3,144.3,1994
+,WR,Gujarat,Central Sector,NTPC,GANDHAR CCPP,GT-Gas,4,224.49,1995
+111,WR,Gujarat,Central Sector,NTPC,KAWAS CCPP,GT-Gas,1,106,1992
+,WR,Gujarat,Central Sector,NTPC,KAWAS CCPP,GT-Gas,2,106,1992
+,WR,Gujarat,Central Sector,NTPC,KAWAS CCPP,GT-Gas,3,106,1992
+,WR,Gujarat,Central Sector,NTPC,KAWAS CCPP,GT-Gas,4,106,1992
+,WR,Gujarat,Central Sector,NTPC,KAWAS CCPP,GT-Gas,5,116.1,1993
+,WR,Gujarat,Central Sector,NTPC,KAWAS CCPP,GT-Gas,6,116.1,1993
+,WR,Gujarat Total,,,,,,22988.41,
+112,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,AMARKANTAK EXT TPS,Steam,3,210,2008
+113,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SANJAY GANDHI TPS,Steam,1,210,1993
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SANJAY GANDHI TPS,Steam,2,210,1994
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SANJAY GANDHI TPS,Steam,3,210,1999
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SANJAY GANDHI TPS,Steam,4,210,1999
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SANJAY GANDHI TPS,Steam,5,500,2007
+114,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SATPURA TPS,Steam,6,200,1979
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SATPURA TPS,Steam,7,210,1980
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SATPURA TPS,Steam,8,210,1983
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SATPURA TPS,Steam,9,210,1984
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SATPURA TPS,Steam,10,250,2013
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SATPURA TPS,Steam,11,250,2013
+115,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SHREE SINGAJI TPP,Steam,1,600,2013
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SHREE SINGAJI TPP,Steam,2,600,2014
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SHREE SINGAJI TPP,Steam,3,660,2018
+,WR,Madhya Pr,aSdteasthe Sector,MPPGCL,SHREE SINGAJI TPP,Steam,4,660,2019
+116,WR,Madhya Pr,aPdreivsahte Sector,BLAPPL,NIWARI TPP,Steam,1,45,2012
+,WR,Madhya Pr,aPdreivsahte Sector,BLAPPL,NIWARI TPP,Steam,2,45,2017
+117,WR,Madhya Pr,aPdreivsahte Sector,ESSARPMPL,MAHAN TPP,Steam,1,600,2013
+,WR,Madhya Pr,aPdreivsahte Sector,ESSARPMPL,MAHAN TPP,Steam,2,600,2018
+118,WR,Madhya Pr,aPdreivsahte Sector,JPPVL,BINA TPS,Steam,1,250,2012
+,WR,Madhya Pr,aPdreivsahte Sector,JPPVL,BINA TPS,Steam,2,250,2013
+119,WR,Madhya Pr,aPdreivsahte Sector,JPPVL,NIGRI TPP,Steam,1,660,2014
+,WR,Madhya Pr,aPdreivsahte Sector,JPPVL,NIGRI TPP,Steam,2,660,2015
+120,WR,Madhya Pr,aPdreivsahte Sector,MBPMPL,ANUPPUR TPP,Steam,1,625,2015
+,WR,Madhya Pr,aPdreivsahte Sector,MBPMPL,ANUPPUR TPP,Steam,2,625,2016
+121,WR,Madhya Pr,aPdreivsahte Sector,SPL,SASAN UMTPP,Steam,1,660,2013
+,WR,Madhya Pr,aPdreivsahte Sector,SPL,SASAN UMTPP,Steam,2,660,2013
+,WR,Madhya Pr,aPdreivsahte Sector,SPL,SASAN UMTPP,Steam,3,660,2014
+,WR,Madhya Pr,aPdreivsahte Sector,SPL,SASAN UMTPP,Steam,4,660,2014
+,WR,Madhya Pr,aPdreivsahte Sector,SPL,SASAN UMTPP,Steam,5,660,2014
+,WR,Madhya Pr,aPdreivsahte Sector,SPL,SASAN UMTPP,Steam,6,660,2015
+122,WR,Madhya Pr,aCdeensthral Sector,JHAPL,SEIONI TPP,Steam,1,600,2016
+123,WR,Madhya Pr,aCdeensthral Sector,NTPC,GADARWARA TPP,Steam,1,800,2019
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,GADARWARA TPP,Steam,2,800,2021
+124,WR,Madhya Pr,aCdeensthral Sector,NTPC,KHARGONE STPP,Steam,1,660,2019
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,KHARGONE STPP,Steam,2,660,2020
+125,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,1,210,1987
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,2,210,1988
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,3,210,1989
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,4,210,1989
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,5,210,1990
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,6,210,1991
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,7,500,1999
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,8,500,2000
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,9,500,2006
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,10,500,2007
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,11,500,2012
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,12,500,2013
+,WR,Madhya Pr,aCdeensthral Sector,NTPC,VINDHYACHAL STPS,Steam,13,500,2015
+,WR,Madhya Pradesh Total,,,,,,22000,
+126,WR,Maharasht,rSatate Sector,MAHAGENCO,BHUSAWAL TPS,Steam,3,210,1982
+,WR,Maharasht,rSatate Sector,MAHAGENCO,BHUSAWAL TPS,Steam,4,500,2012
+,WR,Maharasht,rSatate Sector,MAHAGENCO,BHUSAWAL TPS,Steam,5,500,2012
+,WR,Maharasht,rSatate Sector,MAHAGENCO,BHUSAWAL TPS,Steam,6,660,2025
+127,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,3,210,1985
+,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,4,210,1986
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,5,500,1991
+,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,6,500,1992
+,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,7,500,1997
+,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,8,500,2015
+,WR,Maharasht,rSatate Sector,MAHAGENCO,CHANDRAPUR(MAHARASHTRA,)S SteTaPmS,9,500,2016
+128,WR,Maharasht,rSatate Sector,MAHAGENCO,KHAPARKHEDA TPS,Steam,1,210,1989
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KHAPARKHEDA TPS,Steam,2,210,1990
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KHAPARKHEDA TPS,Steam,3,210,2000
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KHAPARKHEDA TPS,Steam,4,210,2001
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KHAPARKHEDA TPS,Steam,5,500,2011
+129,WR,Maharasht,rSatate Sector,MAHAGENCO,KORADI TPS,Steam,6,210,1982
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KORADI TPS,Steam,8,660,2015
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KORADI TPS,Steam,9,660,2016
+,WR,Maharasht,rSatate Sector,MAHAGENCO,KORADI TPS,Steam,10,660,2016
+130,WR,Maharasht,rSatate Sector,MAHAGENCO,NASIK TPS,Steam,3,210,1979
+,WR,Maharasht,rSatate Sector,MAHAGENCO,NASIK TPS,Steam,4,210,1980
+,WR,Maharasht,rSatate Sector,MAHAGENCO,NASIK TPS,Steam,5,210,1981
+131,WR,Maharasht,rSatate Sector,MAHAGENCO,PARAS TPS,Steam,1,250,2007
+,WR,Maharasht,rSatate Sector,MAHAGENCO,PARAS TPS,Steam,2,250,2010
+132,WR,Maharasht,rSatate Sector,MAHAGENCO,PARLI TPS,Steam,6,250,2007
+,WR,Maharasht,rSatate Sector,MAHAGENCO,PARLI TPS,Steam,7,250,2010
+,WR,Maharasht,rSatate Sector,MAHAGENCO,PARLI TPS,Steam,8,250,2016
+133,WR,Maharasht,rSatate Sector,MAHAGENCO,URAN CCPP,GT-Gas,5,108,1985
+,WR,Maharasht,rSatate Sector,MAHAGENCO,URAN CCPP,GT-Gas,6,108,1985
+,WR,Maharasht,rSatate Sector,MAHAGENCO,URAN CCPP,GT-Gas,7,108,1985
+,WR,Maharasht,rSatate Sector,MAHAGENCO,URAN CCPP,GT-Gas,8,108,1985
+,WR,Maharasht,rSatate Sector,MAHAGENCO,URAN CCPP,GT-Gas,9,120,1994
+,WR,Maharasht,rSatate Sector,MAHAGENCO,URAN CCPP,GT-Gas,10,120,1994
+134,WR,Maharasht,rParivate Sector,AEML,DAHANU TPS,Steam,1,250,1995
+,WR,Maharasht,rParivate Sector,AEML,DAHANU TPS,Steam,2,250,1995
+135,WR,Maharasht,rParivate Sector,APL,ADANI POWER LIMITED TIROD,AS tTePaPm,1,660,2012
+,WR,Maharasht,rParivate Sector,APL,ADANI POWER LIMITED TIROD,AS tTePaPm,2,660,2013
+,WR,Maharasht,rParivate Sector,APL,ADANI POWER LIMITED TIROD,AS tTePaPm,3,660,2013
+,WR,Maharasht,rParivate Sector,APL,ADANI POWER LIMITED TIROD,AS tTePaPm,4,660,2014
+,WR,Maharasht,rParivate Sector,APL,ADANI POWER LIMITED TIROD,AS tTePaPm,5,660,2014
+136,WR,Maharasht,rParivate Sector,DIL,DHARIWAL TPP,Steam,1,300,2014
+,WR,Maharasht,rParivate Sector,DIL,DHARIWAL TPP,Steam,2,300,2014
+137,WR,Maharasht,rParivate Sector,GEPL,GEPL TPP Ph-I,Steam,1,60,2012
+,WR,Maharasht,rParivate Sector,GEPL,GEPL TPP Ph-I,Steam,2,60,2012
+138,WR,Maharasht,rParivate Sector,GMR ENERG,GMR WARORA TPS,Steam,1,300,2013
+,WR,Maharasht,rParivate Sector,GMR ENERG,GMR WARORA TPS,Steam,2,300,2013
+139,WR,Maharasht,rParivate Sector,IEPL,BELA TPS,Steam,1,270,2013
+140,WR,Maharasht,rParivate Sector,JSWEL,JSW RATNAGIRI TPP,Steam,1,300,2010
+141,WR,Maharasht,rParivate Sector,PGPL,MANGAON CCPP,GT-Gas,1,388,2016
+142,WR,Maharasht,rParivate Sector,RATTANINDIA,AMRAVATI TPS,Steam,1,270,2013
+,WR,Maharasht,rParivate Sector,RATTANINDIA,AMRAVATI TPS,Steam,2,270,2014
+,WR,Maharasht,rParivate Sector,RATTANINDIA,AMRAVATI TPS,Steam,3,270,2015
+,WR,Maharasht,rParivate Sector,RATTANINDIA,AMRAVATI TPS,Steam,4,270,2015
+,WR,Maharasht,rParivate Sector,RATTANINDIA,AMRAVATI TPS,Steam,5,270,2015
+143,WR,Maharasht,rParivate Sector,RPGPL,MIHAN TPS,Steam,1,61.5,2012
+,WR,Maharasht,rParivate Sector,RPGPL,MIHAN TPS,Steam,2,61.5,2012
+,WR,Maharasht,rParivate Sector,RPGPL,MIHAN TPS,Steam,3,61.5,2012
+,WR,Maharasht,rParivate Sector,RPGPL,MIHAN TPS,Steam,4,61.5,2012
+144,WR,Maharasht,rParivate Sector,SPPL,SHIRPUR TPP,Steam,1,150,2017
+,WR,Maharasht,rParivate Sector,SPPL,SHIRPUR TPP,Steam,2,150,2023
+145,WR,Maharasht,rParivate Sector,STPL,NASIK (P) TPS,Steam,1,270,2014
+,WR,Maharasht,rParivate Sector,STPL,NASIK (P) TPS,Steam,2,270,2017
+,WR,Maharasht,rParivate Sector,STPL,NASIK (P) TPS,Steam,3,270,2017
+,WR,Maharasht,rParivate Sector,STPL,NASIK (P) TPS,Steam,4,270,2017
+,WR,Maharasht,rParivate Sector,STPL,NASIK (P) TPS,Steam,5,270,2017
+146,WR,Maharasht,rParivate Sector,TATA PCL,TROMBAY CCPP,GT-Gas,1,120,1993
+,WR,Maharasht,rParivate Sector,TATA PCL,TROMBAY CCPP,GT-Gas,2,60,1994
+147,WR,Maharasht,rParivate Sector,TATA PCL,TROMBAY TPS,Steam,5,500,1984
+,WR,Maharasht,rParivate Sector,TATA PCL,TROMBAY TPS,Steam,8,250,2009
+148,WR,Maharasht,rParivate Sector,VIP,BUTIBORI TPP,Steam,1,300,2014
+,WR,Maharasht,rParivate Sector,VIP,BUTIBORI TPP,Steam,2,300,2012
+149,WR,Maharasht,rParivate Sector,WPCL,WARDHA WARORA TPP,Steam,1,135,2010
+,WR,Maharasht,rParivate Sector,WPCL,WARDHA WARORA TPP,Steam,2,135,2010
+,WR,Maharasht,rParivate Sector,WPCL,WARDHA WARORA TPP,Steam,3,135,2011
+,WR,Maharasht,rParivate Sector,WPCL,WARDHA WARORA TPP,Steam,4,135,2011
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+150,WR,Maharasht,rCaentral Sector,NTPC,MAUDA TPS,Steam,1,500,2012
+,WR,Maharasht,rCaentral Sector,NTPC,MAUDA TPS,Steam,2,500,2013
+,WR,Maharasht,rCaentral Sector,NTPC,MAUDA TPS,Steam,3,660,2016
+,WR,Maharasht,rCaentral Sector,NTPC,MAUDA TPS,Steam,4,660,2017
+151,WR,Maharasht,rCaentral Sector,NTPC,SOLAPUR STPS,Steam,1,660,2017
+,WR,Maharasht,rCaentral Sector,NTPC,SOLAPUR STPS,Steam,2,660,2019
+152,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,1,205,1998
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,2,205,1998
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,3,230,1998
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,4,213,2006
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,5,213,2006
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,6,237.54,2006
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,7,213,2007
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,8,213,2007
+,WR,Maharasht,rCaentral Sector,RGPPL,RATNAGIRI CCPP,GT-Gas,9,237.54,2007
+,WR,Maharashtra Total,,,,,,27873.08,
+,WR Total,,,,,,,96597.49,
+153,SR,Andhra Pra,dSetashte Sector,APEPDCL,JEGURUPADU CCPP PH I,GT-Gas,1,52.8,1996
+,SR,Andhra Pra,dSetashte Sector,APEPDCL,JEGURUPADU CCPP PH I,GT-Gas,2,52.8,1996
+,SR,Andhra Pra,dSetashte Sector,APEPDCL,JEGURUPADU CCPP PH I,GT-Gas,3,52.8,1996
+,SR,Andhra Pra,dSetashte Sector,APEPDCL,JEGURUPADU CCPP PH I,GT-Gas,4,77,1997
+154,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,1,210,1979
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,2,210,1980
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,3,210,1989
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,4,210,1990
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,5,210,1994
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,6,210,1995
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,7,500,2009
+,SR,Andhra Pra,dSetashte Sector,APGENCO,Dr. N.TATA RAO TPS,Steam,8,800,2023
+155,SR,Andhra Pra,dSetashte Sector,APGENCO,RAYALASEEMA TPS,Steam,1,210,1994
+,SR,Andhra Pra,dSetashte Sector,APGENCO,RAYALASEEMA TPS,Steam,2,210,1995
+,SR,Andhra Pra,dSetashte Sector,APGENCO,RAYALASEEMA TPS,Steam,3,210,2007
+,SR,Andhra Pra,dSetashte Sector,APGENCO,RAYALASEEMA TPS,Steam,4,210,2007
+,SR,Andhra Pra,dSetashte Sector,APGENCO,RAYALASEEMA TPS,Steam,5,210,2010
+,SR,Andhra Pra,dSetashte Sector,APGENCO,RAYALASEEMA TPS,Steam,6,600,2018
+156,SR,Andhra Pra,dSetashte Sector,APPDCL,DAMODARAM SANJEEVAIAH T,PSSteam,1,800,2014
+,SR,Andhra Pra,dSetashte Sector,APPDCL,DAMODARAM SANJEEVAIAH T,PSSteam,2,800,2015
+,SR,Andhra Pra,dSetashte Sector,APPDCL,DAMODARAM SANJEEVAIAH T,PSSteam,3,800,2023
+157,SR,Andhra Pra,dPerisvhate Sector,APGPCL,VIJJESWARAM CCPP,GT-Gas,1,33,1990
+,SR,Andhra Pra,dPerisvhate Sector,APGPCL,VIJJESWARAM CCPP,GT-Gas,2,33,1991
+,SR,Andhra Pra,dPerisvhate Sector,APGPCL,VIJJESWARAM CCPP,GT-Gas,3,34,1992
+,SR,Andhra Pra,dPerisvhate Sector,APGPCL,VIJJESWARAM CCPP,GT-Gas,4,112,1997
+,SR,Andhra Pra,dPerisvhate Sector,APGPCL,VIJJESWARAM CCPP,GT-Gas,5,60,1997
+158,SR,Andhra Pra,dPerisvhate Sector,BSES AP,PEDDAPURAM CCPP,GT-Gas,1,142,2002
+,SR,Andhra Pra,dPerisvhate Sector,BSES AP,PEDDAPURAM CCPP,GT-Gas,2,78,2002
+159,SR,Andhra Pra,dPerisvhate Sector,GAUTAMI,GAUTAMI CCPP,GT-Gas,1,145,2009
+,SR,Andhra Pra,dPerisvhate Sector,GAUTAMI,GAUTAMI CCPP,GT-Gas,2,145,2009
+,SR,Andhra Pra,dPerisvhate Sector,GAUTAMI,GAUTAMI CCPP,GT-Gas,3,174,2009
+160,SR,Andhra Pra,dPerisvhate Sector,GREL,GREL CCPP (Rajahmundry),GT-Gas,1,384,2015
+,SR,Andhra Pra,dPerisvhate Sector,GREL,GREL CCPP (Rajahmundry),GT-Gas,2,384,2015
+161,SR,Andhra Pra,dPerisvhate Sector,GVKP&IL,JEGURUPADU CCPP PH II,GT-Gas,1,140,2005
+,SR,Andhra Pra,dPerisvhate Sector,GVKP&IL,JEGURUPADU CCPP PH II,GT-Gas,2,80,2005
+162,SR,Andhra Pra,dPerisvhate Sector,HNPC,VIZAG TPP,Steam,1,520,2015
+,SR,Andhra Pra,dPerisvhate Sector,HNPC,VIZAG TPP,Steam,2,520,2016
+163,SR,Andhra Pra,dPerisvhate Sector,KONA,KONASEEMA CCPP,GT-Gas,1,140,2009
+,SR,Andhra Pra,dPerisvhate Sector,KONA,KONASEEMA CCPP,GT-Gas,2,140,2009
+,SR,Andhra Pra,dPerisvhate Sector,KONA,KONASEEMA CCPP,GT-Gas,3,165,2010
+164,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI CCPP,GT-Gas,1,118.654,2000
+,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI CCPP,GT-Gas,2,121.285,2000
+,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI CCPP,GT-Gas,3,128.205,2000
+165,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI EXTN CCPP,GT-Gas,1,233,2009
+,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI EXTN CCPP,GT-Gas,2,133,2010
+166,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI ST-3 CCPP,GT-Gas,1,371,2015
+,SR,Andhra Pra,dPerisvhate Sector,KONDAPALI,KONDAPALLI ST-3 CCPP,GT-Gas,2,371,2015
+167,SR,Andhra Pra,dPerisvhate Sector,LVS POWER,LVS POWER DG,Diesel,1,18.4,2001
+,SR,Andhra Pra,dPerisvhate Sector,LVS POWER,LVS POWER DG,Diesel,2,18.4,2001
+168,SR,Andhra Pra,dPerisvhate Sector,MEL,THAMMINAPATNAM TPS,Steam,1,150,2012
+,SR,Andhra Pra,dPerisvhate Sector,MEL,THAMMINAPATNAM TPS,Steam,2,150,2013
+169,SR,Andhra Pra,dPerisvhate Sector,SEIL,PAINAMPURAM TPP,Steam,1,660,2015
+,SR,Andhra Pra,dPerisvhate Sector,SEIL,PAINAMPURAM TPP,Steam,2,660,2015
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+170,SR,Andhra Pra,dPerisvhate Sector,SEIL,SGPL TPP,Steam,1,660,2016
+,SR,Andhra Pra,dPerisvhate Sector,SEIL,SGPL TPP,Steam,2,660,2017
+171,SR,Andhra Pra,dPerisvhate Sector,SEPL,SIMHAPURI TPS,Steam,1,150,2012
+,SR,Andhra Pra,dPerisvhate Sector,SEPL,SIMHAPURI TPS,Steam,2,150,2012
+,SR,Andhra Pra,dPerisvhate Sector,SEPL,SIMHAPURI TPS,Steam,3,150,2014
+,SR,Andhra Pra,dPerisvhate Sector,SEPL,SIMHAPURI TPS,Steam,4,150,2015
+172,SR,Andhra Pra,dPerisvhate Sector,SPPL,GODAVARI CCPP,GT-Gas,1,47,1997
+,SR,Andhra Pra,dPerisvhate Sector,SPPL,GODAVARI CCPP,GT-Gas,2,47,1997
+,SR,Andhra Pra,dPerisvhate Sector,SPPL,GODAVARI CCPP,GT-Gas,3,47,1997
+,SR,Andhra Pra,dPerisvhate Sector,SPPL,GODAVARI CCPP,GT-Gas,4,67,1998
+173,SR,Andhra Pra,dPerisvhate Sector,VEMAGIRI,VEMAGIRI CCPP,GT-Gas,1,233,2006
+,SR,Andhra Pra,dPerisvhate Sector,VEMAGIRI,VEMAGIRI CCPP,GT-Gas,2,137,2006
+174,SR,Andhra Pra,dCeesnhtral Sector,NTPC,SIMHADRI,Steam,1,500,2002
+,SR,Andhra Pra,dCeesnhtral Sector,NTPC,SIMHADRI,Steam,2,500,2002
+,SR,Andhra Pra,dCeesnhtral Sector,NTPC,SIMHADRI,Steam,3,500,2011
+,SR,Andhra Pra,dCeesnhtral Sector,NTPC,SIMHADRI,Steam,4,500,2012
+,SR,Andhra Pradesh Total,,,,,,17905.344,
+175,SR,Karnataka,State Sector,KPCL,BELLARY TPS,Steam,1,500,2007
+,SR,Karnataka,State Sector,KPCL,BELLARY TPS,Steam,2,500,2012
+,SR,Karnataka,State Sector,KPCL,BELLARY TPS,Steam,3,700,2016
+176,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,1,210,1985
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,2,210,1986
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,3,210,1991
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,4,210,1994
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,5,210,1999
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,6,210,1999
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,7,210,2002
+,SR,Karnataka,State Sector,KPCL,RAICHUR TPS,Steam,8,250,2010
+177,SR,Karnataka,State Sector,KPCL,YELAHANKA CCPP,GT-Gas,1,236.825,2025
+,SR,Karnataka,State Sector,KPCL,YELAHANKA CCPP,GT-Gas,2,133.225,2025
+178,SR,Karnataka,State Sector,RPCL,YERMARUS TPP,Steam,1,800,2016
+,SR,Karnataka,State Sector,RPCL,YERMARUS TPP,Steam,2,800,2017
+179,SR,Karnataka,Private Sector,APL,ADANI POWER LIMITED UDUPI,STtPePam,1,600,2010
+,SR,Karnataka,Private Sector,APL,ADANI POWER LIMITED UDUPI,STtPePam,2,600,2011
+180,SR,Karnataka,Private Sector,BELLARY,BELLARY DG,Diesel,1,25.2,2000
+181,SR,Karnataka,Private Sector,JSWEL,TORANGALLU TPS(SBU-I),Steam,1,130,1999
+,SR,Karnataka,Private Sector,JSWEL,TORANGALLU TPS(SBU-I),Steam,2,130,1999
+182,SR,Karnataka,Private Sector,JSWEL,TORANGALLU TPS(SBU-II),Steam,1,300,2009
+,SR,Karnataka,Private Sector,JSWEL,TORANGALLU TPS(SBU-II),Steam,2,300,2009
+183,SR,Karnataka,Central Sector,NTPC,KUDGI STPP,Steam,1,800,2016
+,SR,Karnataka,Central Sector,NTPC,KUDGI STPP,Steam,2,800,2017
+,SR,Karnataka,Central Sector,NTPC,KUDGI STPP,Steam,3,800,2018
+,SR,Karnataka Total,,,,,,9875.25,
+184,SR,Kerala,State Sector,KSEB,BRAMHAPURAM DG,Diesel,1,21.32,1998
+,SR,Kerala,State Sector,KSEB,BRAMHAPURAM DG,Diesel,4,21.32,1998
+,SR,Kerala,State Sector,KSEB,BRAMHAPURAM DG,Diesel,5,21.32,1998
+185,SR,Kerala,State Sector,KSEB,KOZHIKODE DG,Diesel,2,16,1998
+,SR,Kerala,State Sector,KSEB,KOZHIKODE DG,Diesel,3,16,1999
+,SR,Kerala,State Sector,KSEB,KOZHIKODE DG,Diesel,5,16,1999
+,SR,Kerala,State Sector,KSEB,KOZHIKODE DG,Diesel,6,16,1999
+,SR,Kerala,State Sector,KSEB,KOZHIKODE DG,Diesel,7,16,1999
+,SR,Kerala,State Sector,KSEB,KOZHIKODE DG,Diesel,8,16,1999
+186,SR,Kerala,Private Sector,BSES(C),COCHIN CCPP (Liq.),GT-Gas,1,45,1999
+,SR,Kerala,Private Sector,BSES(C),COCHIN CCPP (Liq.),GT-Gas,2,45,1999
+,SR,Kerala,Private Sector,BSES(C),COCHIN CCPP (Liq.),GT-Gas,3,39,2000
+,SR,Kerala,Private Sector,BSES(C),COCHIN CCPP (Liq.),GT-Gas,4,45,1999
+187,SR,Kerala,Central Sector,NTPC,R. GANDHI CCPP (Liq.),GT-Gas,1,115.2,1998
+,SR,Kerala,Central Sector,NTPC,R. GANDHI CCPP (Liq.),GT-Gas,2,115.2,1999
+,SR,Kerala,Central Sector,NTPC,R. GANDHI CCPP (Liq.),GT-Gas,3,129.18,1999
+,SR,Kerala Total,,,,,,693.54,
+188,SR,Lakshadwe,eSptate Sector,"ED, UT of Lakshdweep",Lakshadweep DG,Diesel,1,26.83,2022
+,SR,Lakshadweep Total,,,,,,26.83,
+189,SR,Puducherry,State Sector,"P&ED, Pudu.",KARAIKAL CCPP,GT-Gas,1,32.5,1999
+,SR,Puducherry Total,,,,,,32.5,
+190,SR,Tamil Nadu,State Sector,TANGEDCO,BASIN BRIDGE GT (Liq.),GT-Gas,1,30,1996
+,SR,Tamil Nadu,State Sector,TANGEDCO,BASIN BRIDGE GT (Liq.),GT-Gas,2,30,1996
+,SR,Tamil Nadu,State Sector,TANGEDCO,BASIN BRIDGE GT (Liq.),GT-Gas,3,30,1996
+,SR,Tamil Nadu,State Sector,TANGEDCO,BASIN BRIDGE GT (Liq.),GT-Gas,4,30,1996
+191,SR,Tamil Nadu,State Sector,TANGEDCO,KOVIKALPAL CCPP,GT-Gas,1,69.65,2001
+,SR,Tamil Nadu,State Sector,TANGEDCO,KOVIKALPAL CCPP,GT-Gas,2,38.23,2001
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+192,SR,Tamil Nadu,State Sector,TANGEDCO,KUTTALAM CCPP,GT-Gas,1,63,2003
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUTTALAM CCPP,GT-Gas,2,37,2004
+193,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TPS,Steam,1,210,1987
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TPS,Steam,2,210,1987
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TPS,Steam,3,210,1989
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TPS,Steam,4,210,1990
+194,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TPS-II,Steam,1,600,2012
+195,SR,Tamil Nadu,State Sector,TANGEDCO,NARIMANAM GPS,GT-Gas,1,5,1992
+,SR,Tamil Nadu,State Sector,TANGEDCO,NARIMANAM GPS,GT-Gas,2,5,1992
+196,SR,Tamil Nadu,State Sector,TANGEDCO,NORTH CHENNAI TPS,Steam,1,210,1994
+,SR,Tamil Nadu,State Sector,TANGEDCO,NORTH CHENNAI TPS,Steam,2,210,1995
+,SR,Tamil Nadu,State Sector,TANGEDCO,NORTH CHENNAI TPS,Steam,3,210,1996
+,SR,Tamil Nadu,State Sector,TANGEDCO,NORTH CHENNAI TPS,Steam,4,600,2013
+,SR,Tamil Nadu,State Sector,TANGEDCO,NORTH CHENNAI TPS,Steam,5,600,2013
+197,SR,Tamil Nadu,State Sector,TANGEDCO,TUTICORIN TPS,Steam,1,210,1979
+,SR,Tamil Nadu,State Sector,TANGEDCO,TUTICORIN TPS,Steam,2,210,1980
+,SR,Tamil Nadu,State Sector,TANGEDCO,TUTICORIN TPS,Steam,3,210,1982
+,SR,Tamil Nadu,State Sector,TANGEDCO,TUTICORIN TPS,Steam,4,210,1992
+,SR,Tamil Nadu,State Sector,TANGEDCO,TUTICORIN TPS,Steam,5,210,1991
+198,SR,Tamil Nadu,State Sector,TANGEDCO,VALUTHUR CCPP,GT-Gas,1,60,2002
+,SR,Tamil Nadu,State Sector,TANGEDCO,VALUTHUR CCPP,GT-Gas,2,34,2003
+,SR,Tamil Nadu,State Sector,TANGEDCO,VALUTHUR CCPP,GT-Gas,3,59.8,2008
+,SR,Tamil Nadu,State Sector,TANGEDCO,VALUTHUR CCPP,GT-Gas,4,32.4,2008
+199,SR,Tamil Nadu,Private Sector,ABAN POWR,KARUPPUR CCPP,GT-Gas,1,70,2005
+,SR,Tamil Nadu,Private Sector,ABAN POWR,KARUPPUR CCPP,GT-Gas,2,49.8,2005
+200,SR,Tamil Nadu,Private Sector,CEPL,MUTHIARA TPP,Steam,1,600,2014
+,SR,Tamil Nadu,Private Sector,CEPL,MUTHIARA TPP,Steam,2,600,2016
+201,SR,Tamil Nadu,Private Sector,IBPIL,TUTICORIN (P) TPP,Steam,1,150,2013
+,SR,Tamil Nadu,Private Sector,IBPIL,TUTICORIN (P) TPP,Steam,2,150,2013
+202,SR,Tamil Nadu,Private Sector,ITPCL,ITPCL TPP,Steam,1,600,2015
+,SR,Tamil Nadu,Private Sector,ITPCL,ITPCL TPP,Steam,2,600,2016
+203,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,1,15.143,2001
+,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,2,15.143,2001
+,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,3,15.143,2001
+,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,4,15.143,2001
+,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,5,15.143,2001
+,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,6,15.143,2001
+,SR,Tamil Nadu,Private Sector,MADURAI P,SAMAYANALLUR DG,Diesel,7,15.143,2001
+204,SR,Tamil Nadu,Private Sector,OPG Power Generation P,rOivPaGte P Loiwmeitre Gdeneration Private,S Ltiemaimted,1,77,2010
+,SR,Tamil Nadu,Private Sector,OPG Power Generation P,rOivPaGte P Loiwmeitre Gdeneration Private,S Ltiemaimted,2,77,2012
+,SR,Tamil Nadu,Private Sector,OPG Power Generation P,rOivPaGte P Loiwmeitre Gdeneration Private,S Ltiemaimted,3,80,2013
+,SR,Tamil Nadu,Private Sector,OPG Power Generation P,rOivPaGte P Loiwmeitre Gdeneration Private,S Ltiemaimted,4,180,2015
+205,SR,Tamil Nadu,Private Sector,PENNA,VALANTARVY CCPP,GT-Gas,1,38,2005
+,SR,Tamil Nadu,Private Sector,PENNA,VALANTARVY CCPP,GT-Gas,2,14.8,2006
+206,SR,Tamil Nadu,Private Sector,PPNPGCL,P.NALLUR CCPP,GT-Gas,1,225,2001
+,SR,Tamil Nadu,Private Sector,PPNPGCL,P.NALLUR CCPP,GT-Gas,2,105.5,2001
+207,SR,Tamil Nadu,Private Sector,SAMALPATI,SAMALPATTI DG,Diesel,1,105.7,2000
+208,SR,Tamil Nadu,Private Sector,SPPL,TUTICORIN TPP ST-IV,Steam,1,525,2021
+209,SR,Tamil Nadu,Private Sector,ST-CMSECP,NEYVELI TPS(Z),Steam,1,250,2002
+210,SR,Tamil Nadu,Private Sector,TCP Limited,TCP Limited,Steam,1,63.5,1999
+211,SR,Tamil Nadu,Central Sector,NLC,NEYVELI ( EXT) TPS,Steam,1,210,2002
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI ( EXT) TPS,Steam,2,210,2003
+212,SR,Tamil Nadu,Central Sector,NLC,NEYVELI NEW TPP,Steam,1,500,2019
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI NEW TPP,Steam,2,500,2021
+213,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,1,210,1988
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,2,210,1987
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,3,210,1987
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,4,210,1991
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,5,210,1991
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,6,210,1992
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II,Steam,7,210,1993
+214,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II EXP,Steam,1,250,2012
+,SR,Tamil Nadu,Central Sector,NLC,NEYVELI TPS-II EXP,Steam,2,250,2015
+215,SR,Tamil Nadu,Central Sector,NTECL,VALLUR TPP,Steam,1,500,2012
+,SR,Tamil Nadu,Central Sector,NTECL,VALLUR TPP,Steam,2,500,2013
+,SR,Tamil Nadu,Central Sector,NTECL,VALLUR TPP,Steam,3,500,2014
+216,SR,Tamil Nadu,Central Sector,NTPL,NTPL TUTICORIN TPP,Steam,1,500,2015
+,SR,Tamil Nadu,Central Sector,NTPL,NTPL TUTICORIN TPP,Steam,2,500,2015
+,SR,Tamil Nadu Total,,,,,,15401.381,
+217,SR,Telangana,State Sector,SCCL,SINGARENI TPP,Steam,1,600,2016
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,SR,Telangana,State Sector,SCCL,SINGARENI TPP,Steam,2,600,2016
+218,SR,Telangana,State Sector,TSGENCO,BHADRADRI TPP,Steam,1,270,2020
+,SR,Telangana,State Sector,TSGENCO,BHADRADRI TPP,Steam,2,270,2020
+,SR,Telangana,State Sector,TSGENCO,BHADRADRI TPP,Steam,3,270,2021
+,SR,Telangana,State Sector,TSGENCO,BHADRADRI TPP,Steam,4,270,2022
+219,SR,Telangana,State Sector,TSGENCO,KAKATIYA TPS,Steam,1,500,2010
+,SR,Telangana,State Sector,TSGENCO,KAKATIYA TPS,Steam,2,600,2015
+220,SR,Telangana,State Sector,TSGENCO,KOTHAGUDEM TPS (NEW),Steam,9,250,1997
+,SR,Telangana,State Sector,TSGENCO,KOTHAGUDEM TPS (NEW),Steam,10,250,1998
+,SR,Telangana,State Sector,TSGENCO,KOTHAGUDEM TPS (NEW),Steam,11,500,2011
+221,SR,Telangana,State Sector,TSGENCO,KOTHAGUDEM TPS (STAGE-7),Steam,12,800,2018
+222,SR,Telangana,State Sector,TSGENCO,RAMAGUNDEM-B TPS,Steam,2,62.5,1971
+,SR,Telangana,State Sector,TSGENCO,YADADRI TPS,Steam,2,800,2025
+224,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,1,200,1983
+,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,2,200,1984
+,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,3,200,1984
+,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,4,500,1988
+,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,5,500,1989
+,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,6,500,1989
+,SR,Telangana,Central Sector,NTPC,RAMAGUNDEM STPS,Steam,7,500,2004
+225,SR,Telangana,Central Sector,NTPC,TELANGANA STPP PH-1,Steam,1,800,2023
+,SR,Telangana,Central Sector,NTPC,TELANGANA STPP PH-1,Steam,2,800,2024
+,SR,Telangana Total,,,,,,10242.5,
+,SR Total,,,,,,,54177.345,
+226,ER,Andaman &,S Ntaicteo bSaerctor,A&N ADM,AND. NICOBAR DG,Diesel,1,57.52,2022
+227,ER,Andaman &,P Nriivcaotbea Srector,A&N ADM,AND. NICOBAR Pvt. DG,Diesel,1,35.19,2022
+,ER,Andaman & Nicobar Total,,,,,,92.71,
+228,ER,Bihar,Central Sector,BRBCL,NABINAGAR TPP,Steam,1,250,2016
+,ER,Bihar,Central Sector,BRBCL,NABINAGAR TPP,Steam,2,250,2017
+,ER,Bihar,Central Sector,BRBCL,NABINAGAR TPP,Steam,3,250,2019
+,ER,Bihar,Central Sector,BRBCL,NABINAGAR TPP,Steam,4,250,2021
+229,ER,Bihar,Central Sector,K.B.U.N.L,MUZAFFARPUR TPS,Steam,3,195,2015
+,ER,Bihar,Central Sector,K.B.U.N.L,MUZAFFARPUR TPS,Steam,4,195,2017
+230,ER,Bihar,Central Sector,NPGCL,NABINAGAR STPP,Steam,1,660,2019
+,ER,Bihar,Central Sector,NPGCL,NABINAGAR STPP,Steam,2,660,2021
+,ER,Bihar,Central Sector,NPGCL,NABINAGAR STPP,Steam,3,660,2022
+231,ER,Bihar,Central Sector,NTPC,BARAUNI TPS,Steam,6,105,1983
+,ER,Bihar,Central Sector,NTPC,BARAUNI TPS,Steam,7,105,1985
+,ER,Bihar,Central Sector,NTPC,BARAUNI TPS,Steam,8,250,2018
+,ER,Bihar,Central Sector,NTPC,BARAUNI TPS,Steam,9,250,2018
+232,ER,Bihar,Central Sector,NTPC,BARH I,Steam,1,660,2021
+,ER,Bihar,Central Sector,NTPC,BARH I,Steam,2,660,2023
+233,ER,Bihar,Central Sector,NTPC,BARH II,Steam,4,660,2013
+,ER,Bihar,Central Sector,NTPC,BARH II,Steam,5,660,2015
+234,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,1,210,1992
+,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,2,210,1994
+,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,3,210,1995
+,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,4,210,1996
+,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,5,500,2007
+,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,6,500,2008
+,ER,Bihar,Central Sector,NTPC,KAHALGAON TPS,Steam,7,500,2009
+,ER,Bihar Total,,,,,,9060,
+235,ER,Jharkhand,State Sector,TVNL,TENUGHAT TPS,Steam,1,210,1994
+,ER,Jharkhand,State Sector,TVNL,TENUGHAT TPS,Steam,2,210,1996
+236,ER,Jharkhand,Private Sector,ADHUNIK,MAHADEV PRASAD STPP,Steam,1,270,2012
+,ER,Jharkhand,Private Sector,ADHUNIK,MAHADEV PRASAD STPP,Steam,2,270,2013
+237,ER,Jharkhand,Private Sector,MPL,MAITHON RB TPP,Steam,1,525,2011
+,ER,Jharkhand,Private Sector,MPL,MAITHON RB TPP,Steam,2,525,2012
+238,ER,Jharkhand,Private Sector,TATA PCL,JOJOBERA TPS,Steam,2,120,2001
+,ER,Jharkhand,Private Sector,TATA PCL,JOJOBERA TPS,Steam,3,120,2002
+239,ER,Jharkhand,Central Sector,DVC,BOKARO TPS `A` EXP,Steam,1,500,2016
+240,ER,Jharkhand,Central Sector,DVC,CHANDRAPURA(DVC) TPS,Steam,7,250,2009
+,ER,Jharkhand,Central Sector,DVC,CHANDRAPURA(DVC) TPS,Steam,8,250,2010
+241,ER,Jharkhand,Central Sector,DVC,KODARMA TPP,Steam,1,500,2011
+,ER,Jharkhand,Central Sector,DVC,KODARMA TPP,Steam,2,500,2013
+242,ER,Jharkhand,Central Sector,NTPC,NORTH KARANPURA STPP,Steam,1,660,2023
+,ER,Jharkhand,Central Sector,NTPC,NORTH KARANPURA STPP,Steam,2,660,2024
+,ER,Jharkhand Total,,,,,,5570,
+243,ER,Odisha,State Sector,OPGC,IB VALLEY TPS,Steam,1,210,1994
+,ER,Odisha,State Sector,OPGC,IB VALLEY TPS,Steam,2,210,1995
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,ER,Odisha,State Sector,OPGC,IB VALLEY TPS,Steam,3,660,2019
+,ER,Odisha,State Sector,OPGC,IB VALLEY TPS,Steam,4,660,2019
+244,ER,Odisha,Private Sector,GMR ENERG,KAMALANGA TPS,Steam,1,350,2013
+,ER,Odisha,Private Sector,GMR ENERG,KAMALANGA TPS,Steam,2,350,2013
+,ER,Odisha,Private Sector,GMR ENERG,KAMALANGA TPS,Steam,3,350,2014
+245,ER,Odisha,Private Sector,JIPL,DERANG TPP,Steam,1,600,2014
+,ER,Odisha,Private Sector,JIPL,DERANG TPP,Steam,2,600,2015
+246,ER,Odisha,Private Sector,JSWEL(Utkal),JSW Energy Utkal Limited,Steam,1,350,2016
+,ER,Odisha,Private Sector,MTPCL,Maadurga Thermal Power Com,Sptaenaym Ltd.,1,30,2024
+,ER,Odisha,Private Sector,MTPCL,Maadurga Thermal Power Com,Sptaenaym Ltd.,2,30,2024
+248,ER,Odisha,Private Sector,VEDANTA,VEDANTA TPP,Steam,2,600,2010
+249,ER,Odisha,Central Sector,NTPC,DARLIPALI STPS,Steam,1,800,2019
+,ER,Odisha,Central Sector,NTPC,DARLIPALI STPS,Steam,2,800,2021
+250,ER,Odisha,Central Sector,NTPC,TALCHER STPS,Steam,1,500,1995
+,ER,Odisha,Central Sector,NTPC,TALCHER STPS,Steam,2,500,1996
+,ER,Odisha,Central Sector,NTPC,TALCHER STPS,Steam,3,500,2003
+,ER,Odisha,Central Sector,NTPC,TALCHER STPS,Steam,4,500,2003
+,ER,Odisha,Central Sector,NTPC,TALCHER STPS,Steam,5,500,2004
+,ER,Odisha,Central Sector,NTPC,TALCHER STPS,Steam,6,500,2005
+,ER,Odisha Total,,,,,,9600,
+251,ER,West Beng,aSltate Sector,DPL,D.P.L. TPS,Steam,7,300,2007
+,ER,West Beng,aSltate Sector,DPL,D.P.L. TPS,Steam,8,250,2014
+252,ER,West Beng,aSltate Sector,WBPDC,BAKRESWAR TPS,Steam,1,210,2009
+,ER,West Beng,aSltate Sector,WBPDC,BAKRESWAR TPS,Steam,2,210,1999
+,ER,West Beng,aSltate Sector,WBPDC,BAKRESWAR TPS,Steam,3,210,2000
+,ER,West Beng,aSltate Sector,WBPDC,BAKRESWAR TPS,Steam,4,210,2001
+,ER,West Beng,aSltate Sector,WBPDC,BAKRESWAR TPS,Steam,5,210,2007
+253,ER,West Beng,aSltate Sector,WBPDC,BANDEL TPS,Steam,2,60,1965
+,ER,West Beng,aSltate Sector,WBPDC,BANDEL TPS,Steam,5,210,1982
+254,ER,West Beng,aSltate Sector,WBPDC,HALDIA GT (Liq.),GT-Gas,1,20,1979
+,ER,West Beng,aSltate Sector,WBPDC,HALDIA GT (Liq.),GT-Gas,2,20,1979
+255,ER,West Beng,aSltate Sector,WBPDC,KASBA GT (Liq.),GT-Gas,1,20,1979
+,ER,West Beng,aSltate Sector,WBPDC,KASBA GT (Liq.),GT-Gas,2,20,1979
+256,ER,West Beng,aSltate Sector,WBPDC,KOLAGHAT TPS,Steam,3,210,1985
+,ER,West Beng,aSltate Sector,WBPDC,KOLAGHAT TPS,Steam,4,210,1984
+,ER,West Beng,aSltate Sector,WBPDC,KOLAGHAT TPS,Steam,5,210,1993
+,ER,West Beng,aSltate Sector,WBPDC,KOLAGHAT TPS,Steam,6,210,1991
+257,ER,West Beng,aSltate Sector,WBPDC,SAGARDIGHI TPS,Steam,1,300,2008
+,ER,West Beng,aSltate Sector,WBPDC,SAGARDIGHI TPS,Steam,2,300,2007
+,ER,West Beng,aSltate Sector,WBPDC,SAGARDIGHI TPS,Steam,3,500,2015
+,ER,West Beng,aSltate Sector,WBPDC,SAGARDIGHI TPS,Steam,4,500,2016
+258,ER,West Beng,aSltate Sector,WBPDC,SANTALDIH TPS,Steam,5,250,2007
+,ER,West Beng,aSltate Sector,WBPDC,SANTALDIH TPS,Steam,6,250,2011
+259,ER,West Beng,aPlrivate Sector,CESC,BUDGE BUDGE TPS,Steam,1,250,1997
+,ER,West Beng,aPlrivate Sector,CESC,BUDGE BUDGE TPS,Steam,2,250,1999
+,ER,West Beng,aPlrivate Sector,CESC,BUDGE BUDGE TPS,Steam,3,250,2009
+260,ER,West Beng,aPlrivate Sector,CESC,SOUTHERN REPL. TPS,Steam,1,67.5,1991
+,ER,West Beng,aPlrivate Sector,CESC,SOUTHERN REPL. TPS,Steam,2,67.5,1990
+261,ER,West Beng,aPlrivate Sector,CESC,TITAGARH TPS,Steam,1,60,1985
+,ER,West Beng,aPlrivate Sector,CESC,TITAGARH TPS,Steam,2,60,1982
+,ER,West Beng,aPlrivate Sector,CESC,TITAGARH TPS,Steam,3,60,1983
+,ER,West Beng,aPlrivate Sector,CESC,TITAGARH TPS,Steam,4,60,1984
+262,ER,West Beng,aPlrivate Sector,DPSCLTD,DISHERGARH TPP,Steam,1,12,2019
+263,ER,West Beng,aPlrivate Sector,HEL,HALDIA TPP,Steam,1,300,2015
+,ER,West Beng,aPlrivate Sector,HEL,HALDIA TPP,Steam,2,300,2015
+264,ER,West Beng,aPlrivate Sector,HMEL,HIRANMAYE TPP,Steam,1,150,2017
+,ER,West Beng,aPlrivate Sector,HMEL,HIRANMAYE TPP,Steam,2,150,2017
+265,ER,West Beng,aClentral Sector,DVC,DURGAPUR STEEL TPS,Steam,1,500,2011
+,ER,West Beng,aClentral Sector,DVC,DURGAPUR STEEL TPS,Steam,2,500,2012
+266,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,1,210,1996
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,2,210,1997
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,3,210,1998
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,4,210,2004
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,5,250,2007
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,6,250,2011
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,7,500,2010
+,ER,West Beng,aClentral Sector,DVC,MEJIA TPS,Steam,8,500,2010
+267,ER,West Beng,aClentral Sector,DVC,RAGHUNATHPUR TPP,Steam,1,600,2014
+,ER,West Beng,aClentral Sector,DVC,RAGHUNATHPUR TPP,Steam,2,600,2016
+268,ER,West Beng,aClentral Sector,NTPC,FARAKKA STPS,Steam,1,200,1986
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,ER,West Beng,aClentral Sector,NTPC,FARAKKA STPS,Steam,2,200,1986
+,ER,West Beng,aClentral Sector,NTPC,FARAKKA STPS,Steam,3,200,1987
+,ER,West Beng,aClentral Sector,NTPC,FARAKKA STPS,Steam,4,500,1992
+,ER,West Beng,aClentral Sector,NTPC,FARAKKA STPS,Steam,5,500,1994
+,ER,West Beng,aClentral Sector,NTPC,FARAKKA STPS,Steam,6,500,2011
+,ER,West Bengal Total,,,,,,13567,
+,ER Total,,,,,,,37889.71,
+269,NER,Assam,State Sector,APGCL,LAKWA GT,GT-Gas,5,20,1994
+,NER,Assam,State Sector,APGCL,LAKWA GT,GT-Gas,6,20,1994
+,NER,Assam,State Sector,APGCL,LAKWA GT,GT-Gas,7,20,1995
+,NER,Assam,State Sector,APGCL,LAKWA GT,GT-Gas,8,37.2,2012
+270,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,1,9.965,2018
+,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,2,9.965,2018
+,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,3,9.965,2018
+,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,4,9.965,2018
+,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,5,9.965,2018
+,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,6,9.965,2018
+,NER,Assam,State Sector,APGCL,LAKWA REPLACEMENT POWER,GPTR-OGJaEsCT,7,9.965,2018
+271,NER,Assam,State Sector,APGCL,NAMRUP CCPP,GT-Gas,2,17,1965
+,NER,Assam,State Sector,APGCL,NAMRUP CCPP,GT-Gas,3,15,1965
+,NER,Assam,State Sector,APGCL,NAMRUP CCPP,GT-Gas,6,9,1985
+,NER,Assam,State Sector,APGCL,NAMRUP CCPP,GT-Gas,7,62.25,2017
+,NER,Assam,State Sector,APGCL,NAMRUP CCPP,GT-Gas,8,36.15,2020
+272,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,1,33.5,1995
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,2,33.5,1995
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,3,33.5,1995
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,4,33.5,1995
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,5,33.5,1996
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,6,33.5,1996
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,7,30,1998
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,8,30,1998
+,NER,Assam,Central Sector,NEEPCO.,KATHALGURI CCPP,GT-Gas,9,30,1998
+273,NER,Assam,Central Sector,NTPC,BONGAIGAON TPP,Steam,1,250,2015
+,NER,Assam,Central Sector,NTPC,BONGAIGAON TPP,Steam,2,250,2017
+,NER,Assam,Central Sector,NTPC,BONGAIGAON TPP,Steam,3,250,2019
+,NER,Assam Total,,,,,,1347.355,
+274,NER,Manipur,State Sector,"ED, Manipur",LEIMAKHONG DG,Diesel,1,6,2002
+,NER,Manipur,State Sector,"ED, Manipur",LEIMAKHONG DG,Diesel,2,6,2002
+,NER,Manipur,State Sector,"ED, Manipur",LEIMAKHONG DG,Diesel,3,6,2002
+,NER,Manipur,State Sector,"ED, Manipur",LEIMAKHONG DG,Diesel,4,6,2002
+,NER,Manipur,State Sector,"ED, Manipur",LEIMAKHONG DG,Diesel,5,6,2002
+,NER,Manipur,State Sector,"ED, Manipur",LEIMAKHONG DG,Diesel,6,6,2002
+,NER,Manipur Total,,,,,,36,
+275,NER,Tripura,State Sector,TSECL,BARAMURA GT,GT-Gas,4,21,2002
+,NER,Tripura,State Sector,TSECL,BARAMURA GT,GT-Gas,5,21,2010
+276,NER,Tripura,State Sector,TSECL,ROKHIA GT,GT-Gas,7,21,2002
+,NER,Tripura,State Sector,TSECL,ROKHIA GT,GT-Gas,8,21,2006
+,NER,Tripura,State Sector,TSECL,ROKHIA GT,GT-Gas,9,21,2013
+277,NER,Tripura,Central Sector,NEEPCO.,AGARTALA GT,GT-Gas,1,21,1998
+,NER,Tripura,Central Sector,NEEPCO.,AGARTALA GT,GT-Gas,2,21,1998
+,NER,Tripura,Central Sector,NEEPCO.,AGARTALA GT,GT-Gas,3,21,1998
+,NER,Tripura,Central Sector,NEEPCO.,AGARTALA GT,GT-Gas,4,21,1998
+,NER,Tripura,Central Sector,NEEPCO.,AGARTALA GT,GT-Gas,5,25.5,2015
+,NER,Tripura,Central Sector,NEEPCO.,AGARTALA GT,GT-Gas,6,25.5,2016
+278,NER,Tripura,Central Sector,NEEPCO.,MONARCHAK CCPP,GT-Gas,1,65.4,2015
+,NER,Tripura,Central Sector,NEEPCO.,MONARCHAK CCPP,GT-Gas,3,35.6,2016
+279,NER,Tripura,Central Sector,ONGC,TRIPURA CCPP,GT-Gas,1,363.3,2013
+,NER,Tripura,Central Sector,ONGC,TRIPURA CCPP,GT-Gas,2,363.3,2014
+,NER,Tripura Total,,,,,,1067.6,
+,NER Total,,,,,,,2450.955,
+,Thermal Total,,,,,,,246935.46,
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+1,NR,Himachal Pradesh,State Sector,BVPCL,UHL-III HPS,Hydro,1,33.33,2025
+,NR,Himachal Pradesh,State Sector,BVPCL,UHL-III HPS,Hydro,2,33.33,2025
+,NR,Himachal Pradesh,State Sector,BVPCL,UHL-III HPS,Hydro,3,33.33,2025
+2,NR,Himachal Pradesh,State Sector,HPPCL,KASHANG INTEGRATED HEP,Hydro,1,65,2016
+,NR,Himachal Pradesh,State Sector,HPPCL,KASHANG INTEGRATED HEP,Hydro,2,65,2016
+,NR,Himachal Pradesh,State Sector,HPPCL,KASHANG INTEGRATED HEP,Hydro,3,65,2017
+3,NR,Himachal Pradesh,State Sector,HPPCL,SAINJ HPS,Hydro,1,50,2017
+,NR,Himachal Pradesh,State Sector,HPPCL,SAINJ HPS,Hydro,2,50,2017
+4,NR,Himachal Pradesh,State Sector,HPPCL,SAWRA KUDDU HPS,Hydro,1,37,2020
+,NR,Himachal Pradesh,State Sector,HPPCL,SAWRA KUDDU HPS,Hydro,2,37,2020
+,NR,Himachal Pradesh,State Sector,HPPCL,SAWRA KUDDU HPS,Hydro,3,37,2020
+5,NR,Himachal Pradesh,State Sector,HPSEB,BASSI HPS,Hydro,1,16.5,1970
+,NR,Himachal Pradesh,State Sector,HPSEB,BASSI HPS,Hydro,2,16.5,1971
+,NR,Himachal Pradesh,State Sector,HPSEB,BASSI HPS,Hydro,3,16.5,1970
+,NR,Himachal Pradesh,State Sector,HPSEB,BASSI HPS,Hydro,4,16.5,1981
+6,NR,Himachal Pradesh,State Sector,HPSEB,GIRI BATA HPS,Hydro,1,30,1978
+,NR,Himachal Pradesh,State Sector,HPSEB,GIRI BATA HPS,Hydro,2,30,1978
+7,NR,Himachal Pradesh,State Sector,HPSEB,LARJI HPS,Hydro,1,42,2006
+,NR,Himachal Pradesh,State Sector,HPSEB,LARJI HPS,Hydro,2,42,2006
+,NR,Himachal Pradesh,State Sector,HPSEB,LARJI HPS,Hydro,3,42,2006
+8,NR,Himachal Pradesh,State Sector,HPSEB,SANJAY HPS,Hydro,1,40,1989
+,NR,Himachal Pradesh,State Sector,HPSEB,SANJAY HPS,Hydro,2,40,1989
+,NR,Himachal Pradesh,State Sector,HPSEB,SANJAY HPS,Hydro,3,40,1989
+9,NR,Himachal Pradesh,State Sector,PSPCL,SHANAN HPS,Hydro,1,15,1932
+,NR,Himachal Pradesh,State Sector,PSPCL,SHANAN HPS,Hydro,2,15,1932
+,NR,Himachal Pradesh,State Sector,PSPCL,SHANAN HPS,Hydro,3,15,1932
+,NR,Himachal Pradesh,State Sector,PSPCL,SHANAN HPS,Hydro,4,15,1932
+,NR,Himachal Pradesh,State Sector,PSPCL,SHANAN HPS,Hydro,5,50,1982
+10,NR,Himachal Pradesh,Private Sector,ADHPL,ALLAIN DUHANGAN HPS,Hydro,1,96,2010
+,NR,Himachal Pradesh,Private Sector,ADHPL,ALLAIN DUHANGAN HPS,Hydro,2,96,2010
+11,NR,Himachal Pradesh,Private Sector,E.P.P.L.,MALANA-II HPS,Hydro,1,50,2011
+,NR,Himachal Pradesh,Private Sector,E.P.P.L.,MALANA-II HPS,Hydro,2,50,2011
+12,NR,Himachal Pradesh,Private Sector,GBHHPPL,BAJOLI HOLI HPS,Hydro,1,60,2022
+,NR,Himachal Pradesh,Private Sector,GBHHPPL,BAJOLI HOLI HPS,Hydro,2,60,2022
+,NR,Himachal Pradesh,Private Sector,GBHHPPL,BAJOLI HOLI HPS,Hydro,3,60,2022
+13,NR,Himachal Pradesh,Private Sector,GBHPPL,BUDHIL HPS,Hydro,1,35,2012
+,NR,Himachal Pradesh,Private Sector,GBHPPL,BUDHIL HPS,Hydro,2,35,2012
+14,NR,Himachal Pradesh,Private Sector,HBPCL,BASPA HPS,Hydro,1,100,2003
+,NR,Himachal Pradesh,Private Sector,HBPCL,BASPA HPS,Hydro,2,100,2003
+,NR,Himachal Pradesh,Private Sector,HBPCL,BASPA HPS,Hydro,3,100,2003
+15,NR,Himachal Pradesh,Private Sector,HBPCL,KARCHAM WANGTOO HPS,Hydro,1,261.25,2011
+,NR,Himachal Pradesh,Private Sector,HBPCL,KARCHAM WANGTOO HPS,Hydro,2,261.25,2011
+,NR,Himachal Pradesh,Private Sector,HBPCL,KARCHAM WANGTOO HPS,Hydro,3,261.25,2011
+,NR,Himachal Pradesh,Private Sector,HBPCL,KARCHAM WANGTOO HPS,Hydro,4,261.25,2011
+16,NR,Himachal Pradesh,Private Sector,HSPCL,SORANG HPS,Hydro,1,50,2021
+,NR,Himachal Pradesh,Private Sector,HSPCL,SORANG HPS,Hydro,2,50,2021
+17,NR,Himachal Pradesh,Private Sector,IAEPL,CHANJU-I HPS,Hydro,1,12,2017
+,NR,Himachal Pradesh,Private Sector,IAEPL,CHANJU-I HPS,Hydro,2,12,2017
+,NR,Himachal Pradesh,Private Sector,IAEPL,CHANJU-I HPS,Hydro,3,12,2017
+18,NR,Himachal Pradesh,Private Sector,MPCL,MALANA HPS,Hydro,1,43,2001
+,NR,Himachal Pradesh,Private Sector,MPCL,MALANA HPS,Hydro,2,43,2001
+19,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA LEFT HPS,Hydro,1,126,1960
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA LEFT HPS,Hydro,2,126,1961
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA LEFT HPS,Hydro,3,126,1961
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA LEFT HPS,Hydro,4,126,1961
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA LEFT HPS,Hydro,5,126,1961
+20,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA RIGHT HPS,Hydro,6,157,1966
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA RIGHT HPS,Hydro,7,157,1966
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA RIGHT HPS,Hydro,8,157,1967
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA RIGHT HPS,Hydro,9,157,1967
+,NR,Himachal Pradesh,Central Sector,BBMB,BHAKRA RIGHT HPS,Hydro,10,157,1968
+21,NR,Himachal Pradesh,Central Sector,BBMB,DEHAR HPS,Hydro,1,165,1977
+,NR,Himachal Pradesh,Central Sector,BBMB,DEHAR HPS,Hydro,2,165,1978
+,NR,Himachal Pradesh,Central Sector,BBMB,DEHAR HPS,Hydro,3,165,1979
+,NR,Himachal Pradesh,Central Sector,BBMB,DEHAR HPS,Hydro,4,165,1979
+,NR,Himachal Pradesh,Central Sector,BBMB,DEHAR HPS,Hydro,5,165,1983
+,NR,Himachal Pradesh,Central Sector,BBMB,DEHAR HPS,Hydro,6,165,1983
+22,NR,Himachal Pradesh,Central Sector,BBMB,PONG HPS,Hydro,1,66,1978
+,NR,Himachal Pradesh,Central Sector,BBMB,PONG HPS,Hydro,2,66,1978
+,NR,Himachal Pradesh,Central Sector,BBMB,PONG HPS,Hydro,3,66,1978
+,NR,Himachal Pradesh,Central Sector,BBMB,PONG HPS,Hydro,4,66,1979
+,NR,Himachal Pradesh,Central Sector,BBMB,PONG HPS,Hydro,5,66,1982
+,NR,Himachal Pradesh,Central Sector,BBMB,PONG HPS,Hydro,6,66,1983
+23,NR,Himachal Pradesh,Central Sector,NHPC,BAIRA SIUL HPS,Hydro,1,60,1980
+,NR,Himachal Pradesh,Central Sector,NHPC,BAIRA SIUL HPS,Hydro,2,60,1980
+,NR,Himachal Pradesh,Central Sector,NHPC,BAIRA SIUL HPS,Hydro,3,60,1981
+24,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-I HPS,Hydro,1,180,1994
+,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-I HPS,Hydro,2,180,1994
+,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-I HPS,Hydro,3,180,1994
+25,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-II HPS,Hydro,1,100,2003
+,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-II HPS,Hydro,2,100,2003
+,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-II HPS,Hydro,3,100,2004
+26,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-III HPS,Hydro,1,77,2012
+,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-III HPS,Hydro,2,77,2012
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,NR,Himachal Pradesh,Central Sector,NHPC,CHAMERA-III HPS,Hydro,3,77,2012
+27,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-II HPS,Hydro,1,200,2025
+,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-II HPS,Hydro,2,200,2025
+,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-II HPS,Hydro,3,200,2025
+28,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-III HPS,Hydro,1,130,2014
+,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-III HPS,Hydro,2,130,2014
+,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-III HPS,Hydro,3,130,2014
+,NR,Himachal Pradesh,Central Sector,NHPC,PARBATI-III HPS,Hydro,4,130,2014
+29,NR,Himachal Pradesh,Central Sector,NTPC,KOLDAM,Hydro,1,200,2015
+,NR,Himachal Pradesh,Central Sector,NTPC,KOLDAM,Hydro,2,200,2015
+,NR,Himachal Pradesh,Central Sector,NTPC,KOLDAM,Hydro,3,200,2015
+,NR,Himachal Pradesh,Central Sector,NTPC,KOLDAM,Hydro,4,200,2015
+30,NR,Himachal Pradesh,Central Sector,SJVNL,NATHPA JHAKRI HPS,Hydro,1,250,2004
+,NR,Himachal Pradesh,Central Sector,SJVNL,NATHPA JHAKRI HPS,Hydro,2,250,2003
+,NR,Himachal Pradesh,Central Sector,SJVNL,NATHPA JHAKRI HPS,Hydro,3,250,2003
+,NR,Himachal Pradesh,Central Sector,SJVNL,NATHPA JHAKRI HPS,Hydro,4,250,2004
+,NR,Himachal Pradesh,Central Sector,SJVNL,NATHPA JHAKRI HPS,Hydro,5,250,2004
+,NR,Himachal Pradesh,Central Sector,SJVNL,NATHPA JHAKRI HPS,Hydro,6,250,2004
+31,NR,Himachal Pradesh,Central Sector,SJVNL,RAMPUR HPS,Hydro,1,68.67,2014
+,NR,Himachal Pradesh,Central Sector,SJVNL,RAMPUR HPS,Hydro,2,68.67,2014
+,NR,Himachal Pradesh,Central Sector,SJVNL,RAMPUR HPS,Hydro,3,68.67,2014
+,NR,Himachal Pradesh,Central Sector,SJVNL,RAMPUR HPS,Hydro,4,68.67,2014
+,NR,Himachal Pradesh,Central Sector,SJVNL,RAMPUR HPS,Hydro,5,68.67,2014
+,NR,Himachal Pradesh,Central Sector,SJVNL,RAMPUR HPS,Hydro,6,68.67,2014
+,NR,Himachal Pradesh Total,,,,,,10981.01,
+32,NR,Jammu & Kashmir,State Sector,JKSPDC,BAGLIHAR HPS,Hydro,1,150,2008
+,NR,Jammu & Kashmir,State Sector,JKSPDC,BAGLIHAR HPS,Hydro,2,150,2008
+,NR,Jammu & Kashmir,State Sector,JKSPDC,BAGLIHAR HPS,Hydro,3,150,2008
+33,NR,Jammu & Kashmir,State Sector,JKSPDC,BAGLIHAR II HPS,Hydro,1,150,2015
+,NR,Jammu & Kashmir,State Sector,JKSPDC,BAGLIHAR II HPS,Hydro,2,150,2015
+,NR,Jammu & Kashmir,State Sector,JKSPDC,BAGLIHAR II HPS,Hydro,3,150,2015
+34,NR,Jammu & Kashmir,State Sector,JKSPDC,LOWER JHELUM HPS,Hydro,1,35,1978
+,NR,Jammu & Kashmir,State Sector,JKSPDC,LOWER JHELUM HPS,Hydro,2,35,1979
+,NR,Jammu & Kashmir,State Sector,JKSPDC,LOWER JHELUM HPS,Hydro,3,35,1979
+35,NR,Jammu & Kashmir,State Sector,JKSPDC,UPPER SINDH-II HPS,Hydro,1,35,2001
+,NR,Jammu & Kashmir,State Sector,JKSPDC,UPPER SINDH-II HPS,Hydro,2,35,2001
+,NR,Jammu & Kashmir,State Sector,JKSPDC,UPPER SINDH-II HPS,Hydro,3,35,2002
+36,NR,Jammu & Kashmir,Central Sector,NHPC,CHUTAK HPS,Hydro,1,11,2012
+,NR,Jammu & Kashmir,Central Sector,NHPC,CHUTAK HPS,Hydro,2,11,2012
+,NR,Jammu & Kashmir,Central Sector,NHPC,CHUTAK HPS,Hydro,3,11,2012
+,NR,Jammu & Kashmir,Central Sector,NHPC,CHUTAK HPS,Hydro,4,11,2013
+37,NR,Jammu & Kashmir,Central Sector,NHPC,DULHASTI HPS,Hydro,1,130,2007
+,NR,Jammu & Kashmir,Central Sector,NHPC,DULHASTI HPS,Hydro,2,130,2007
+,NR,Jammu & Kashmir,Central Sector,NHPC,DULHASTI HPS,Hydro,3,130,2007
+38,NR,Jammu & Kashmir,Central Sector,NHPC,KISHANGANGA HPS,Hydro,1,110,2018
+,NR,Jammu & Kashmir,Central Sector,NHPC,KISHANGANGA HPS,Hydro,2,110,2018
+,NR,Jammu & Kashmir,Central Sector,NHPC,KISHANGANGA HPS,Hydro,3,110,2018
+39,NR,Jammu & Kashmir,Central Sector,NHPC,NIMMO BAZGO HPS,Hydro,1,15,2013
+,NR,Jammu & Kashmir,Central Sector,NHPC,NIMMO BAZGO HPS,Hydro,2,15,2013
+,NR,Jammu & Kashmir,Central Sector,NHPC,NIMMO BAZGO HPS,Hydro,3,15,2013
+40,NR,Jammu & Kashmir,Central Sector,NHPC,SALAL HPS,Hydro,1,115,1987
+,NR,Jammu & Kashmir,Central Sector,NHPC,SALAL HPS,Hydro,2,115,1987
+,NR,Jammu & Kashmir,Central Sector,NHPC,SALAL HPS,Hydro,3,115,1987
+,NR,Jammu & Kashmir,Central Sector,NHPC,SALAL HPS,Hydro,4,115,1993
+,NR,Jammu & Kashmir,Central Sector,NHPC,SALAL HPS,Hydro,5,115,1994
+,NR,Jammu & Kashmir,Central Sector,NHPC,SALAL HPS,Hydro,6,115,1995
+41,NR,Jammu & Kashmir,Central Sector,NHPC,SEWA-II HPS,Hydro,1,40,2010
+,NR,Jammu & Kashmir,Central Sector,NHPC,SEWA-II HPS,Hydro,2,40,2010
+,NR,Jammu & Kashmir,Central Sector,NHPC,SEWA-II HPS,Hydro,3,40,2010
+42,NR,Jammu & Kashmir,Central Sector,NHPC,URI-I HPS,Hydro,1,120,1997
+,NR,Jammu & Kashmir,Central Sector,NHPC,URI-I HPS,Hydro,2,120,1997
+,NR,Jammu & Kashmir,Central Sector,NHPC,URI-I HPS,Hydro,3,120,1997
+,NR,Jammu & Kashmir,Central Sector,NHPC,URI-I HPS,Hydro,4,120,1996
+43,NR,Jammu & Kashmir,Central Sector,NHPC,URI-II HPS,Hydro,1,60,2013
+,NR,Jammu & Kashmir,Central Sector,NHPC,URI-II HPS,Hydro,2,60,2013
+,NR,Jammu & Kashmir,Central Sector,NHPC,URI-II HPS,Hydro,3,60,2013
+,NR,Jammu & Kashmir,Central Sector,NHPC,URI-II HPS,Hydro,4,60,2014
+,NR,Jammu & Kashmir Total,,,,,,3449,
+44,NR,Punjab,State Sector,PSPCL,ANANDPUR SAHIB-I HPS,Hydro,1,33.5,1985
+,NR,Punjab,State Sector,PSPCL,ANANDPUR SAHIB-I HPS,Hydro,2,33.5,1985
+45,NR,Punjab,State Sector,PSPCL,ANANDPUR SAHIB-II HPS,Hydro,3,33.5,1985
+,NR,Punjab,State Sector,PSPCL,ANANDPUR SAHIB-II HPS,Hydro,4,33.5,1985
+46,NR,Punjab,State Sector,PSPCL,MUKERIAN-I HPS,Hydro,1,15,1983
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-I HPS,Hydro,2,15,1983
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-I HPS,Hydro,3,15,1983
+47,NR,Punjab,State Sector,PSPCL,MUKERIAN-II HPS,Hydro,4,15,1988
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-II HPS,Hydro,5,15,1988
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-II HPS,Hydro,6,15,1989
+48,NR,Punjab,State Sector,PSPCL,MUKERIAN-III HPS,Hydro,7,19.5,1989
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-III HPS,Hydro,8,19.5,1989
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-III HPS,Hydro,9,19.5,1989
+49,NR,Punjab,State Sector,PSPCL,MUKERIAN-IV HPS,Hydro,10,19.5,1989
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-IV HPS,Hydro,11,19.5,1989
+,NR,Punjab,State Sector,PSPCL,MUKERIAN-IV HPS,Hydro,12,19.5,1989
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+50,NR,Punjab,State Sector,PSPCL,RANJIT SAGAR HPS,Hydro,1,150,2000
+,NR,Punjab,State Sector,PSPCL,RANJIT SAGAR HPS,Hydro,2,150,2000
+,NR,Punjab,State Sector,PSPCL,RANJIT SAGAR HPS,Hydro,3,150,2000
+,NR,Punjab,State Sector,PSPCL,RANJIT SAGAR HPS,Hydro,4,150,2000
+51,NR,Punjab,Central Sector,BBMB,GANGUWAL HPS,Hydro,1,29.25,1962
+,NR,Punjab,Central Sector,BBMB,GANGUWAL HPS,Hydro,2,24.2,1955
+,NR,Punjab,Central Sector,BBMB,GANGUWAL HPS,Hydro,3,24.2,1955
+52,NR,Punjab,Central Sector,BBMB,KOTLA HPS,Hydro,1,29.25,1961
+,NR,Punjab,Central Sector,BBMB,KOTLA HPS,Hydro,2,24.2,1956
+,NR,Punjab,Central Sector,BBMB,KOTLA HPS,Hydro,3,24.2,1956
+,NR,Punjab Total,,,,,,1096.3,
+53,NR,Rajasthan,State Sector,RRVUNL,JAWAHAR SAGAR HPS,Hydro,1,33,1972
+,NR,Rajasthan,State Sector,RRVUNL,JAWAHAR SAGAR HPS,Hydro,2,33,1973
+,NR,Rajasthan,State Sector,RRVUNL,JAWAHAR SAGAR HPS,Hydro,3,33,1973
+54,NR,Rajasthan,State Sector,RRVUNL,MAHI BAJAJ-I HPS,Hydro,1,25,1986
+,NR,Rajasthan,State Sector,RRVUNL,MAHI BAJAJ-I HPS,Hydro,2,25,1986
+55,NR,Rajasthan,State Sector,RRVUNL,MAHI BAJAJ-II HPS,Hydro,3,45,1989
+,NR,Rajasthan,State Sector,RRVUNL,MAHI BAJAJ-II HPS,Hydro,4,45,1989
+56,NR,Rajasthan,State Sector,RRVUNL,R P SAGAR HPS,Hydro,1,43,1968
+,NR,Rajasthan,State Sector,RRVUNL,R P SAGAR HPS,Hydro,2,43,1968
+,NR,Rajasthan,State Sector,RRVUNL,R P SAGAR HPS,Hydro,3,43,1968
+,NR,Rajasthan,State Sector,RRVUNL,R P SAGAR HPS,Hydro,4,43,1968
+,NR,Rajasthan Total,,,,,,411,
+57,NR,Uttar Pradesh,State Sector,UPJVNL,KHARA HPS,Hydro,1,24,1992
+,NR,Uttar Pradesh,State Sector,UPJVNL,KHARA HPS,Hydro,2,24,1992
+,NR,Uttar Pradesh,State Sector,UPJVNL,KHARA HPS,Hydro,3,24,1992
+58,NR,Uttar Pradesh,State Sector,UPJVNL,MATATILA HPS,Hydro,1,10.2,1965
+,NR,Uttar Pradesh,State Sector,UPJVNL,MATATILA HPS,Hydro,2,10.2,1965
+,NR,Uttar Pradesh,State Sector,UPJVNL,MATATILA HPS,Hydro,3,10.2,1965
+59,NR,Uttar Pradesh,State Sector,UPJVNL,OBRA HPS,Hydro,1,33,1970
+,NR,Uttar Pradesh,State Sector,UPJVNL,OBRA HPS,Hydro,2,33,1970
+,NR,Uttar Pradesh,State Sector,UPJVNL,OBRA HPS,Hydro,3,33,1971
+60,NR,Uttar Pradesh,State Sector,UPJVNL,RIHAND HPS,Hydro,1,50,1961
+,NR,Uttar Pradesh,State Sector,UPJVNL,RIHAND HPS,Hydro,2,50,1961
+,NR,Uttar Pradesh,State Sector,UPJVNL,RIHAND HPS,Hydro,3,50,1961
+,NR,Uttar Pradesh,State Sector,UPJVNL,RIHAND HPS,Hydro,4,50,1961
+,NR,Uttar Pradesh,State Sector,UPJVNL,RIHAND HPS,Hydro,5,50,1961
+,NR,Uttar Pradesh,State Sector,UPJVNL,RIHAND HPS,Hydro,6,50,1965
+,NR,Uttar Pradesh Total,,,,,,501.6,
+61,NR,Uttarakhand,State Sector,UJVNL,CHIBRO (YAMUNA) HPS,Hydro,1,60,1975
+,NR,Uttarakhand,State Sector,UJVNL,CHIBRO (YAMUNA) HPS,Hydro,2,60,1975
+,NR,Uttarakhand,State Sector,UJVNL,CHIBRO (YAMUNA) HPS,Hydro,3,60,1975
+,NR,Uttarakhand,State Sector,UJVNL,CHIBRO (YAMUNA) HPS,Hydro,4,60,1976
+62,NR,Uttarakhand,State Sector,UJVNL,CHILLA HPS,Hydro,1,36,1980
+,NR,Uttarakhand,State Sector,UJVNL,CHILLA HPS,Hydro,2,36,1980
+,NR,Uttarakhand,State Sector,UJVNL,CHILLA HPS,Hydro,3,36,1980
+,NR,Uttarakhand,State Sector,UJVNL,CHILLA HPS,Hydro,4,36,1981
+63,NR,Uttarakhand,State Sector,UJVNL,DHAKRANI HPS,Hydro,1,11.25,1965
+,NR,Uttarakhand,State Sector,UJVNL,DHAKRANI HPS,Hydro,2,11.25,1966
+,NR,Uttarakhand,State Sector,UJVNL,DHAKRANI HPS,Hydro,3,11.25,1970
+64,NR,Uttarakhand,State Sector,UJVNL,DHALIPUR HPS,Hydro,1,17,1965
+,NR,Uttarakhand,State Sector,UJVNL,DHALIPUR HPS,Hydro,2,17,1966
+,NR,Uttarakhand,State Sector,UJVNL,DHALIPUR HPS,Hydro,3,17,1970
+65,NR,Uttarakhand,State Sector,UJVNL,KHATIMA HPS,Hydro,1,13.8,1955
+,NR,Uttarakhand,State Sector,UJVNL,KHATIMA HPS,Hydro,2,13.8,1956
+,NR,Uttarakhand,State Sector,UJVNL,KHATIMA HPS,Hydro,3,13.8,1956
+66,NR,Uttarakhand,State Sector,UJVNL,KHODRI HPS,Hydro,1,30,1984
+,NR,Uttarakhand,State Sector,UJVNL,KHODRI HPS,Hydro,2,30,1984
+,NR,Uttarakhand,State Sector,UJVNL,KHODRI HPS,Hydro,3,30,1984
+,NR,Uttarakhand,State Sector,UJVNL,KHODRI HPS,Hydro,4,30,1984
+67,NR,Uttarakhand,State Sector,UJVNL,KULHAL HPS,Hydro,1,10,1975
+,NR,Uttarakhand,State Sector,UJVNL,KULHAL HPS,Hydro,2,10,1975
+,NR,Uttarakhand,State Sector,UJVNL,KULHAL HPS,Hydro,3,10,1975
+68,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-I HPS,Hydro,1,30,1984
+,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-I HPS,Hydro,2,30,1984
+,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-I HPS,Hydro,3,30,1984
+69,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-II HPS,Hydro,1,76,2008
+,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-II HPS,Hydro,2,76,2008
+,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-II HPS,Hydro,3,76,2008
+,NR,Uttarakhand,State Sector,UJVNL,MANERI BHALI-II HPS,Hydro,4,76,2008
+70,NR,Uttarakhand,State Sector,UJVNL,RAMGANGA HPS,Hydro,1,66,1975
+,NR,Uttarakhand,State Sector,UJVNL,RAMGANGA HPS,Hydro,2,66,1976
+,NR,Uttarakhand,State Sector,UJVNL,RAMGANGA HPS,Hydro,3,66,1977
+71,NR,Uttarakhand,State Sector,UJVNL,VYASI HPS,Hydro,1,60,2022
+,NR,Uttarakhand,State Sector,UJVNL,VYASI HPS,Hydro,2,60,2022
+72,NR,Uttarakhand,Private Sector,AHPC (GVK),SHRINAGAR HPS,Hydro,1,82.5,2015
+,NR,Uttarakhand,Private Sector,AHPC (GVK),SHRINAGAR HPS,Hydro,2,82.5,2015
+,NR,Uttarakhand,Private Sector,AHPC (GVK),SHRINAGAR HPS,Hydro,3,82.5,2015
+,NR,Uttarakhand,Private Sector,AHPC (GVK),SHRINAGAR HPS,Hydro,4,82.5,2015
+73,NR,Uttarakhand,Private Sector,JPPVL,VISHNU PRAYAG HPS,Hydro,1,100,2006
+,NR,Uttarakhand,Private Sector,JPPVL,VISHNU PRAYAG HPS,Hydro,2,100,2006
+,NR,Uttarakhand,Private Sector,JPPVL,VISHNU PRAYAG HPS,Hydro,3,100,2006
+,NR,Uttarakhand,Private Sector,JPPVL,VISHNU PRAYAG HPS,Hydro,4,100,2006
+74,NR,Uttarakhand,Private Sector,L&T UHL,SINGOLI BHATWARI HPS,Hydro,1,33,2020
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,NR,Uttarakhand,Private Sector,L&T UHL,SINGOLI BHATWARI HPS,Hydro,2,33,2020
+,NR,Uttarakhand,Private Sector,L&T UHL,SINGOLI BHATWARI HPS,Hydro,3,33,2020
+75,NR,Uttarakhand,Central Sector,NHPC,DHAULI GANGA HPS,Hydro,1,70,2005
+,NR,Uttarakhand,Central Sector,NHPC,DHAULI GANGA HPS,Hydro,2,70,2005
+,NR,Uttarakhand,Central Sector,NHPC,DHAULI GANGA HPS,Hydro,3,70,2005
+,NR,Uttarakhand,Central Sector,NHPC,DHAULI GANGA HPS,Hydro,4,70,2005
+76,NR,Uttarakhand,Central Sector,NHPC,TANAKPUR HPS,Hydro,1,31.4,1992
+,NR,Uttarakhand,Central Sector,NHPC,TANAKPUR HPS,Hydro,2,31.4,1992
+,NR,Uttarakhand,Central Sector,NHPC,TANAKPUR HPS,Hydro,3,31.4,1992
+77,NR,Uttarakhand,Central Sector,SJVNL,NAITWAR MORI HEP,Hydro,1,30,2023
+,NR,Uttarakhand,Central Sector,SJVNL,NAITWAR MORI HEP,Hydro,2,30,2023
+78,NR,Uttarakhand,Central Sector,THDC,KOTESHWAR HPS,Hydro,1,100,2011
+,NR,Uttarakhand,Central Sector,THDC,KOTESHWAR HPS,Hydro,2,100,2011
+,NR,Uttarakhand,Central Sector,THDC,KOTESHWAR HPS,Hydro,3,100,2012
+,NR,Uttarakhand,Central Sector,THDC,KOTESHWAR HPS,Hydro,4,100,2012
+79,NR,Uttarakhand,Central Sector,THDC,TEHRI ST-1 HPS,Hydro,1,250,2007
+,NR,Uttarakhand,Central Sector,THDC,TEHRI ST-1 HPS,Hydro,2,250,2007
+,NR,Uttarakhand,Central Sector,THDC,TEHRI ST-1 HPS,Hydro,3,250,2006
+,NR,Uttarakhand,Central Sector,THDC,TEHRI ST-1 HPS,Hydro,4,250,2006
+,NR,Uttarakhand Total,,,,,,4035.35,
+,NR Total,,,,,,,20474.26,
+80,WR,Chhattisgarh,State Sector,CSPGCL,HASDEOBANGO HPS,Hydro,1,40,1994
+,WR,Chhattisgarh,State Sector,CSPGCL,HASDEOBANGO HPS,Hydro,2,40,1994
+,WR,Chhattisgarh,State Sector,CSPGCL,HASDEOBANGO HPS,Hydro,3,40,1995
+,WR,Chhattisgarh Total,,,,,,120,
+81,WR,Gujarat,State Sector,GSECL,KADANA HPS,Hydro,1,60,1990
+,WR,Gujarat,State Sector,GSECL,KADANA HPS,Hydro,2,60,1990
+,WR,Gujarat,State Sector,GSECL,KADANA HPS,Hydro,3,60,1997
+,WR,Gujarat,State Sector,GSECL,KADANA HPS,Hydro,4,60,1998
+82,WR,Gujarat,State Sector,GSECL,UKAI HPS,Hydro,1,75,1974
+,WR,Gujarat,State Sector,GSECL,UKAI HPS,Hydro,2,75,1974
+,WR,Gujarat,State Sector,GSECL,UKAI HPS,Hydro,3,75,1975
+,WR,Gujarat,State Sector,GSECL,UKAI HPS,Hydro,4,75,1976
+83,WR,Gujarat,State Sector,SSNNL,S SAROVAR CHPH HPS,Hydro,1,50,2004
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR CHPH HPS,Hydro,2,50,2004
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR CHPH HPS,Hydro,3,50,2004
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR CHPH HPS,Hydro,4,50,2004
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR CHPH HPS,Hydro,5,50,2004
+84,WR,Gujarat,State Sector,SSNNL,S SAROVAR RBPH HPS,Hydro,1,200,2005
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR RBPH HPS,Hydro,2,200,2005
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR RBPH HPS,Hydro,3,200,2005
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR RBPH HPS,Hydro,4,200,2005
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR RBPH HPS,Hydro,5,200,2006
+,WR,Gujarat,State Sector,SSNNL,S SAROVAR RBPH HPS,Hydro,6,200,2006
+,WR,Gujarat Total,,,,,,1990,
+85,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR TONS-I HPS,Hydro,1,105,1976
+,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR TONS-I HPS,Hydro,2,105,1970
+,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR TONS-I HPS,Hydro,3,105,1992
+86,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR-II HPS,Hydro,1,15,2002
+,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR-II HPS,Hydro,2,15,2002
+87,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR-III HPS,Hydro,1,20,2000
+,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR-III HPS,Hydro,2,20,2001
+,WR,Madhya Pradesh,State Sector,MPPGCL,BANSAGAR-III HPS,Hydro,3,20,2002
+88,WR,Madhya Pradesh,State Sector,MPPGCL,BARGI HPS,Hydro,1,45,1988
+,WR,Madhya Pradesh,State Sector,MPPGCL,BARGI HPS,Hydro,2,45,1988
+89,WR,Madhya Pradesh,State Sector,MPPGCL,GANDHI SAGAR HPS,Hydro,1,23,1960
+,WR,Madhya Pradesh,State Sector,MPPGCL,GANDHI SAGAR HPS,Hydro,2,23,1960
+,WR,Madhya Pradesh,State Sector,MPPGCL,GANDHI SAGAR HPS,Hydro,3,23,1960
+,WR,Madhya Pradesh,State Sector,MPPGCL,GANDHI SAGAR HPS,Hydro,4,23,1963
+,WR,Madhya Pradesh,State Sector,MPPGCL,GANDHI SAGAR HPS,Hydro,5,23,1966
+90,WR,Madhya Pradesh,State Sector,MPPGCL,MADHIKHERA HPS,Hydro,1,20,2006
+,WR,Madhya Pradesh,State Sector,MPPGCL,MADHIKHERA HPS,Hydro,2,20,2006
+,WR,Madhya Pradesh,State Sector,MPPGCL,MADHIKHERA HPS,Hydro,3,20,2006
+91,WR,Madhya Pradesh,State Sector,MPPGCL,RAJGHAT HPS,Hydro,1,15,1999
+,WR,Madhya Pradesh,State Sector,MPPGCL,RAJGHAT HPS,Hydro,2,15,1999
+,WR,Madhya Pradesh,State Sector,MPPGCL,RAJGHAT HPS,Hydro,3,15,1999
+92,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,1,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,2,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,3,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,4,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,5,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,6,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,7,125,2004
+,WR,Madhya Pradesh,Central Sector,NHDC,INDIRA SAGAR HPS,Hydro,8,125,2005
+93,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,1,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,2,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,3,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,4,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,5,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,6,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,7,65,2007
+,WR,Madhya Pradesh,Central Sector,NHDC,OMKARESHWAR HPS,Hydro,8,65,2007
+,WR,Madhya Pradesh Total,,,,,,2235,
+94,WR,Maharashtra,State Sector,MAHAGENCO,BHIRA TAIL RACE HPS,Hydro,1,40,1988
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,WR,Maharashtra,State Sector,MAHAGENCO,BHIRA TAIL RACE HPS,Hydro,2,40,1987
+95,WR,Maharashtra,State Sector,MAHAGENCO,GHATGHAR PSS HPS,Hydro,1,125,2008
+,WR,Maharashtra,State Sector,MAHAGENCO,GHATGHAR PSS HPS,Hydro,2,125,2008
+96,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA DPH HPS,Hydro,1,18,1980
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA DPH HPS,Hydro,2,18,1981
+97,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,1,70,1962
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,1,80,1967
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,2,70,1962
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,2,80,1966
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,3,70,1963
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,3,80,1967
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,4,70,1963
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-I&II HPS,Hydro,4,80,1966
+98,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-III HPS,Hydro,1,80,1975
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-III HPS,Hydro,2,80,1976
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-III HPS,Hydro,3,80,1977
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-III HPS,Hydro,4,80,1978
+99,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-IV HPS,Hydro,1,250,2000
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-IV HPS,Hydro,2,250,2000
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-IV HPS,Hydro,3,250,1999
+,WR,Maharashtra,State Sector,MAHAGENCO,KOYNA-IV HPS,Hydro,4,250,1999
+100,WR,Maharashtra,State Sector,MAHAGENCO,TILLARI HPS,Hydro,1,60,1986
+101,WR,Maharashtra,State Sector,MAHAGENCO,VAITARNA HPS,Hydro,1,60,1976
+102,WR,Maharashtra,State Sector,MPPGCL,PENCH HPS,Hydro,1,80,1986
+,WR,Maharashtra,State Sector,MPPGCL,PENCH HPS,Hydro,2,80,1987
+103,WR,Maharashtra,Private Sector,DLHP,BHANDARDHARA HPS ST-II,Hydro,1,34,1996
+104,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA HPS,Hydro,1,25,1949
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA HPS,Hydro,2,25,1927
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA HPS,Hydro,3,25,1927
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA HPS,Hydro,4,25,1927
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA HPS,Hydro,5,25,1927
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA HPS,Hydro,6,25,1927
+105,WR,Maharashtra,Private Sector,TATA MAH.,BHIRA PSS HPS,Hydro,1,150,1995
+106,WR,Maharashtra,Private Sector,TATA MAH.,BHIVPURI HPS,Hydro,1,24,1998
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIVPURI HPS,Hydro,2,24,1998
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIVPURI HPS,Hydro,3,24,1999
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIVPURI HPS,Hydro,4,1.5,1997
+,WR,Maharashtra,Private Sector,TATA MAH.,BHIVPURI HPS,Hydro,5,1.5,1997
+107,WR,Maharashtra,Private Sector,TATA MAH.,KHOPOLI HPS,Hydro,1,24,2002
+,WR,Maharashtra,Private Sector,TATA MAH.,KHOPOLI HPS,Hydro,2,24,2003
+,WR,Maharashtra,Private Sector,TATA MAH.,KHOPOLI HPS,Hydro,3,24,2001
+,WR,Maharashtra Total,,,,,,3047,
+,WR Total,,,,,,,7392,
+108,SR,Andhra Pradesh,State Sector,APGENCO,LOWER SILERU HPS,Hydro,1,115,1976
+,SR,Andhra Pradesh,State Sector,APGENCO,LOWER SILERU HPS,Hydro,2,115,1976
+,SR,Andhra Pradesh,State Sector,APGENCO,LOWER SILERU HPS,Hydro,3,115,1977
+,SR,Andhra Pradesh,State Sector,APGENCO,LOWER SILERU HPS,Hydro,4,115,1978
+109,SR,Andhra Pradesh,State Sector,APGENCO,NAGARJUN SGR RBC HPS,Hydro,1,30,1983
+,SR,Andhra Pradesh,State Sector,APGENCO,NAGARJUN SGR RBC HPS,Hydro,2,30,1990
+,SR,Andhra Pradesh,State Sector,APGENCO,NAGARJUN SGR RBC HPS,Hydro,3,30,1983
+110,SR,Andhra Pradesh,State Sector,APGENCO,NAGARJUN SGR TPD,Hydro,1,25,2017
+,SR,Andhra Pradesh,State Sector,APGENCO,NAGARJUN SGR TPD,Hydro,2,25,2017
+111,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,1,110,1982
+,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,2,110,1982
+,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,3,110,1983
+,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,4,110,1984
+,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,5,110,1986
+,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,6,110,1986
+,SR,Andhra Pradesh,State Sector,APGENCO,SRISAILAM HPS,Hydro,7,110,1987
+112,SR,Andhra Pradesh,State Sector,APGENCO,UPPER SILERU HPS,Hydro,1,60,1967
+,SR,Andhra Pradesh,State Sector,APGENCO,UPPER SILERU HPS,Hydro,2,60,1968
+,SR,Andhra Pradesh,State Sector,APGENCO,UPPER SILERU HPS,Hydro,3,60,1994
+,SR,Andhra Pradesh,State Sector,APGENCO,UPPER SILERU HPS,Hydro,4,60,1997
+,SR,Andhra Pradesh Total,,,,,,1610,
+113,SR,Karnataka,State Sector,APGENCO,HAMPI HPS,Hydro,1,9,1958
+,SR,Karnataka,State Sector,APGENCO,HAMPI HPS,Hydro,2,9,1958
+,SR,Karnataka,State Sector,APGENCO,HAMPI HPS,Hydro,3,9,1964
+,SR,Karnataka,State Sector,APGENCO,HAMPI HPS,Hydro,4,9,1964
+114,SR,Karnataka,State Sector,APGENCO,T B DAM HPS,Hydro,1,9,1957
+,SR,Karnataka,State Sector,APGENCO,T B DAM HPS,Hydro,2,9,1957
+,SR,Karnataka,State Sector,APGENCO,T B DAM HPS,Hydro,3,9,1964
+,SR,Karnataka,State Sector,APGENCO,T B DAM HPS,Hydro,4,9,1964
+115,SR,Karnataka,State Sector,KPCL,ALMATTI DPH HPS,Hydro,1,15,2004
+,SR,Karnataka,State Sector,KPCL,ALMATTI DPH HPS,Hydro,2,55,2004
+,SR,Karnataka,State Sector,KPCL,ALMATTI DPH HPS,Hydro,3,55,2005
+,SR,Karnataka,State Sector,KPCL,ALMATTI DPH HPS,Hydro,4,55,2004
+,SR,Karnataka,State Sector,KPCL,ALMATTI DPH HPS,Hydro,5,55,2005
+,SR,Karnataka,State Sector,KPCL,ALMATTI DPH HPS,Hydro,6,55,2005
+116,SR,Karnataka,State Sector,KPCL,BHADRA HPS,Hydro,1,2,1962
+,SR,Karnataka,State Sector,KPCL,BHADRA HPS,Hydro,2,12,1963
+,SR,Karnataka,State Sector,KPCL,BHADRA HPS,Hydro,3,12,1963
+117,SR,Karnataka,State Sector,KPCL,GERUSUPPA HPS,Hydro,1,60,2001
+,SR,Karnataka,State Sector,KPCL,GERUSUPPA HPS,Hydro,2,60,2001
+,SR,Karnataka,State Sector,KPCL,GERUSUPPA HPS,Hydro,3,60,2001
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,SR,Karnataka,State Sector,KPCL,GERUSUPPA HPS,Hydro,4,60,2002
+118,SR,Karnataka,State Sector,KPCL,GHAT PRABHA HPS,Hydro,1,16,1992
+,SR,Karnataka,State Sector,KPCL,GHAT PRABHA HPS,Hydro,2,16,1992
+119,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,1,13.2,2001
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,2,13.2,1949
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,3,13.2,1949
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,4,13.2,1950
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,5,21.6,1952
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,6,21.6,1952
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,7,21.6,1952
+,SR,Karnataka,State Sector,KPCL,JOG HPS,Hydro,8,21.6,2002
+120,SR,Karnataka,State Sector,KPCL,KADRA HPS,Hydro,1,50,1997
+,SR,Karnataka,State Sector,KPCL,KADRA HPS,Hydro,2,50,1999
+,SR,Karnataka,State Sector,KPCL,KADRA HPS,Hydro,3,50,1999
+121,SR,Karnataka,State Sector,KPCL,KALINADI HPS,Hydro,1,150,1979
+,SR,Karnataka,State Sector,KPCL,KALINADI HPS,Hydro,2,150,1980
+,SR,Karnataka,State Sector,KPCL,KALINADI HPS,Hydro,3,150,1981
+,SR,Karnataka,State Sector,KPCL,KALINADI HPS,Hydro,4,150,1982
+,SR,Karnataka,State Sector,KPCL,KALINADI HPS,Hydro,5,150,1983
+,SR,Karnataka,State Sector,KPCL,KALINADI HPS,Hydro,6,150,1984
+122,SR,Karnataka,State Sector,KPCL,KALINADI SUPA HPS,Hydro,1,50,1985
+,SR,Karnataka,State Sector,KPCL,KALINADI SUPA HPS,Hydro,2,50,1985
+123,SR,Karnataka,State Sector,KPCL,KODASALI HPS,Hydro,1,40,1998
+,SR,Karnataka,State Sector,KPCL,KODASALI HPS,Hydro,2,40,1999
+,SR,Karnataka,State Sector,KPCL,KODASALI HPS,Hydro,3,40,1999
+124,SR,Karnataka,State Sector,KPCL,LIGANAMAKKI HPS,Hydro,1,27.5,1979
+,SR,Karnataka,State Sector,KPCL,LIGANAMAKKI HPS,Hydro,2,27.5,1980
+125,SR,Karnataka,State Sector,KPCL,MUNIRABAD HPS,Hydro,1,9,1962
+,SR,Karnataka,State Sector,KPCL,MUNIRABAD HPS,Hydro,2,9,1962
+,SR,Karnataka,State Sector,KPCL,MUNIRABAD HPS,Hydro,3,10,1965
+126,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,1,103.5,1965
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,2,103.5,1965
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,3,103.5,1967
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,4,103.5,1967
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,5,103.5,1968
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,6,103.5,1968
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,7,103.5,1968
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,8,103.5,1971
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,9,103.5,1976
+,SR,Karnataka,State Sector,KPCL,SHARAVATHI HPS,Hydro,10,103.5,1977
+127,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,1,3,1922
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,2,3,1924
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,3,3,1924
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,4,3,1925
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,5,3,1923
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,6,3,1924
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,7,6,1928
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,8,6,1934
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,9,6,1928
+,SR,Karnataka,State Sector,KPCL,SIVASAMUNDRUM HPS,Hydro,10,6,1928
+128,SR,Karnataka,State Sector,KPCL,VARAHI HPS,Hydro,1,115,2009
+,SR,Karnataka,State Sector,KPCL,VARAHI HPS,Hydro,2,115,2009
+,SR,Karnataka,State Sector,KPCL,VARAHI HPS,Hydro,3,115,1989
+,SR,Karnataka,State Sector,KPCL,VARAHI HPS,Hydro,4,115,1990
+,SR,Karnataka Total,,,,,,3689.2,
+129,SR,Kerala,State Sector,KSEB,IDAMALAYAR HPS,Hydro,1,37.5,1987
+,SR,Kerala,State Sector,KSEB,IDAMALAYAR HPS,Hydro,2,37.5,1987
+130,SR,Kerala,State Sector,KSEB,IDUKKI HPS,Hydro,1,130,1976
+,SR,Kerala,State Sector,KSEB,IDUKKI HPS,Hydro,2,130,1976
+,SR,Kerala,State Sector,KSEB,IDUKKI HPS,Hydro,3,130,1976
+,SR,Kerala,State Sector,KSEB,IDUKKI HPS,Hydro,4,130,1985
+,SR,Kerala,State Sector,KSEB,IDUKKI HPS,Hydro,5,130,1986
+,SR,Kerala,State Sector,KSEB,IDUKKI HPS,Hydro,6,130,1986
+131,SR,Kerala,State Sector,KSEB,KAKKAD HPS,Hydro,1,25,1999
+,SR,Kerala,State Sector,KSEB,KAKKAD HPS,Hydro,2,25,1999
+132,SR,Kerala,State Sector,KSEB,KUTTIYADI ADDL EXTN,Hydro,1,50,2001
+,SR,Kerala,State Sector,KSEB,KUTTIYADI ADDL EXTN,Hydro,2,50,2010
+133,SR,Kerala,State Sector,KSEB,KUTTIYADI EXTN HPS,Hydro,4,50,2010
+134,SR,Kerala,State Sector,KSEB,KUTTIYADI HPS,Hydro,1,25,1972
+,SR,Kerala,State Sector,KSEB,KUTTIYADI HPS,Hydro,2,25,1972
+,SR,Kerala,State Sector,KSEB,KUTTIYADI HPS,Hydro,3,25,1972
+135,SR,Kerala,State Sector,KSEB,LOWER PERIYAR HPS,Hydro,1,60,1997
+,SR,Kerala,State Sector,KSEB,LOWER PERIYAR HPS,Hydro,2,60,1997
+,SR,Kerala,State Sector,KSEB,LOWER PERIYAR HPS,Hydro,3,60,1997
+136,SR,Kerala,State Sector,KSEB,NARIAMANGLAM HPS,Hydro,1,17.55,1961
+,SR,Kerala,State Sector,KSEB,NARIAMANGLAM HPS,Hydro,2,17.55,1961
+,SR,Kerala,State Sector,KSEB,NARIAMANGLAM HPS,Hydro,3,17.55,1963
+137,SR,Kerala,State Sector,KSEB,PALLIVASAL EXTN HPS,Hydro,1,30,2024
+,SR,Kerala,State Sector,KSEB,PALLIVASAL EXTN HPS,Hydro,2,30,2024
+138,SR,Kerala,State Sector,KSEB,PALLIVASAL HPS,Hydro,1,5,2001
+,SR,Kerala,State Sector,KSEB,PALLIVASAL HPS,Hydro,2,5,2001
+,SR,Kerala,State Sector,KSEB,PALLIVASAL HPS,Hydro,3,5,2001
+,SR,Kerala,State Sector,KSEB,PALLIVASAL HPS,Hydro,4,7.5,1948
+,SR,Kerala,State Sector,KSEB,PALLIVASAL HPS,Hydro,5,7.5,1949
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,SR,Kerala,State Sector,KSEB,PALLIVASAL HPS,Hydro,6,7.5,1951
+139,SR,Kerala,State Sector,KSEB,PANNIAR HPS,Hydro,1,15,1963
+,SR,Kerala,State Sector,KSEB,PANNIAR HPS,Hydro,2,15,2001
+140,SR,Kerala,State Sector,KSEB,PORINGALKUTTU HPS,Hydro,1,8,1957
+,SR,Kerala,State Sector,KSEB,PORINGALKUTTU HPS,Hydro,2,8,1958
+,SR,Kerala,State Sector,KSEB,PORINGALKUTTU HPS,Hydro,3,8,1959
+,SR,Kerala,State Sector,KSEB,PORINGALKUTTU HPS,Hydro,4,8,1960
+141,SR,Kerala,State Sector,KSEB,SABARIGIRI HPS,Hydro,1,50,1967
+,SR,Kerala,State Sector,KSEB,SABARIGIRI HPS,Hydro,2,50,1960
+,SR,Kerala,State Sector,KSEB,SABARIGIRI HPS,Hydro,3,50,1966
+,SR,Kerala,State Sector,KSEB,SABARIGIRI HPS,Hydro,4,50,1967
+,SR,Kerala,State Sector,KSEB,SABARIGIRI HPS,Hydro,5,50,1967
+,SR,Kerala,State Sector,KSEB,SABARIGIRI HPS,Hydro,6,50,1967
+142,SR,Kerala,State Sector,KSEB,SENGULAM HPS,Hydro,1,12,1954
+,SR,Kerala,State Sector,KSEB,SENGULAM HPS,Hydro,2,12,1954
+,SR,Kerala,State Sector,KSEB,SENGULAM HPS,Hydro,3,12,2001
+,SR,Kerala,State Sector,KSEB,SENGULAM HPS,Hydro,4,12,2001
+143,SR,Kerala,State Sector,KSEB,SHOLAYAR HPS,Hydro,1,18,1956
+,SR,Kerala,State Sector,KSEB,SHOLAYAR HPS,Hydro,2,18,1968
+,SR,Kerala,State Sector,KSEB,SHOLAYAR HPS,Hydro,3,18,1968
+,SR,Kerala,State Sector,KSEB,Thottiyar HEP,Hydro,1,10,2024
+,SR,Kerala,State Sector,KSEB,Thottiyar HEP,Hydro,2,30,2024
+,SR,Kerala Total,,,,,,1964.15,
+145,SR,Tamil Nadu,State Sector,TANGEDCO,ALIYAR HPS,Hydro,1,60,1970
+146,SR,Tamil Nadu,State Sector,TANGEDCO,BHAWANI BARRAGE-II HPS,Hydro,1,15,2013
+,SR,Tamil Nadu,State Sector,TANGEDCO,BHAWANI BARRAGE-II HPS,Hydro,2,15,2013
+147,SR,Tamil Nadu,State Sector,TANGEDCO,BHAWANI BARRAGE-III HPS,Hydro,1,15,2012
+,SR,Tamil Nadu,State Sector,TANGEDCO,BHAWANI BARRAGE-III HPS,Hydro,2,15,2013
+148,SR,Tamil Nadu,State Sector,TANGEDCO,BHAWANI KATTAL,Hydro,1,15,2006
+,SR,Tamil Nadu,State Sector,TANGEDCO,BHAWANI KATTAL,Hydro,2,15,2006
+149,SR,Tamil Nadu,State Sector,TANGEDCO,KADAMPARI HPS,Hydro,1,100,1987
+,SR,Tamil Nadu,State Sector,TANGEDCO,KADAMPARI HPS,Hydro,2,100,1988
+,SR,Tamil Nadu,State Sector,TANGEDCO,KADAMPARI HPS,Hydro,3,100,1989
+,SR,Tamil Nadu,State Sector,TANGEDCO,KADAMPARI HPS,Hydro,4,100,1988
+150,SR,Tamil Nadu,State Sector,TANGEDCO,KODAYAR-I HPS,Hydro,1,60,1970
+151,SR,Tamil Nadu,State Sector,TANGEDCO,KODAYAR-II HPS,Hydro,2,40,1971
+152,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-I HPS,Hydro,1,20,1960
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-I HPS,Hydro,2,20,1960
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-I HPS,Hydro,3,20,1964
+153,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-II HPS,Hydro,4,35,1960
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-II HPS,Hydro,5,35,1961
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-II HPS,Hydro,6,35,1961
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-II HPS,Hydro,7,35,1961
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-II HPS,Hydro,8,35,1964
+154,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-III HPS,Hydro,9,60,1965
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-III HPS,Hydro,10,60,1964
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-III HPS,Hydro,11,60,1978
+155,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-IV HPS,Hydro,12,50,1966
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-IV HPS,Hydro,13,50,1978
+156,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-V HPS,Hydro,14,20,1964
+,SR,Tamil Nadu,State Sector,TANGEDCO,KUNDAH-V HPS,Hydro,15,20,1988
+157,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-I HPS,Hydro,1,15,1988
+,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-I HPS,Hydro,2,15,1988
+158,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-II HPS,Hydro,3,15,1988
+,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-II HPS,Hydro,4,15,1988
+159,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-III HPS,Hydro,5,15,1988
+,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-III HPS,Hydro,6,15,1987
+160,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-IV HPS,Hydro,7,15,1989
+,SR,Tamil Nadu,State Sector,TANGEDCO,LOWER METTUR-IV HPS,Hydro,8,15,1988
+161,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR DAM HPS,Hydro,1,12.5,1937
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR DAM HPS,Hydro,2,12.5,1937
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR DAM HPS,Hydro,3,12.5,1938
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR DAM HPS,Hydro,4,12.5,1946
+162,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TUNNEL HPS,Hydro,1,50,1965
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TUNNEL HPS,Hydro,2,50,1966
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TUNNEL HPS,Hydro,3,50,1966
+,SR,Tamil Nadu,State Sector,TANGEDCO,METTUR TUNNEL HPS,Hydro,4,50,1966
+163,SR,Tamil Nadu,State Sector,TANGEDCO,MOYAR HPS,Hydro,1,12,1952
+,SR,Tamil Nadu,State Sector,TANGEDCO,MOYAR HPS,Hydro,2,12,1952
+,SR,Tamil Nadu,State Sector,TANGEDCO,MOYAR HPS,Hydro,3,12,1953
+164,SR,Tamil Nadu,State Sector,TANGEDCO,PAPANASAM HPS,Hydro,1,8,1944
+,SR,Tamil Nadu,State Sector,TANGEDCO,PAPANASAM HPS,Hydro,2,8,1944
+,SR,Tamil Nadu,State Sector,TANGEDCO,PAPANASAM HPS,Hydro,3,8,1945
+,SR,Tamil Nadu,State Sector,TANGEDCO,PAPANASAM HPS,Hydro,4,8,1951
+165,SR,Tamil Nadu,State Sector,TANGEDCO,PARSON`S VALLEY HPS,Hydro,1,30,2000
+166,SR,Tamil Nadu,State Sector,TANGEDCO,PERIYAR HPS,Hydro,1,42,1958
+,SR,Tamil Nadu,State Sector,TANGEDCO,PERIYAR HPS,Hydro,2,42,1959
+,SR,Tamil Nadu,State Sector,TANGEDCO,PERIYAR HPS,Hydro,3,42,1959
+,SR,Tamil Nadu,State Sector,TANGEDCO,PERIYAR HPS,Hydro,4,35,1965
+167,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA HPS,Hydro,1,7,1932
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA HPS,Hydro,2,7,1932
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA HPS,Hydro,3,7,1932
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA HPS,Hydro,4,13.6,1954
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA HPS,Hydro,5,13.6,1954
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA HPS,Hydro,7,11,1939
+168,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA ULTMATE HPS,Hydro,1,50,2005
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA ULTMATE HPS,Hydro,2,50,2005
+,SR,Tamil Nadu,State Sector,TANGEDCO,PYKARA ULTMATE HPS,Hydro,3,50,2005
+169,SR,Tamil Nadu,State Sector,TANGEDCO,SARKARPATHY HPS,Hydro,1,30,1966
+170,SR,Tamil Nadu,State Sector,TANGEDCO,SHOLAYAR HPS (TN),Hydro,1,35,1971
+,SR,Tamil Nadu,State Sector,TANGEDCO,SHOLAYAR HPS (TN),Hydro,2,35,1971
+171,SR,Tamil Nadu,State Sector,TANGEDCO,SURULIYAR HPS,Hydro,1,35,1978
+,SR,Tamil Nadu Total,,,,,,2178.2,
+172,SR,Telangana,State Sector,TSGENCO,LOWER JURALA HPS,Hydro,1,40,2015
+,SR,Telangana,State Sector,TSGENCO,LOWER JURALA HPS,Hydro,2,40,2015
+,SR,Telangana,State Sector,TSGENCO,LOWER JURALA HPS,Hydro,3,40,2016
+,SR,Telangana,State Sector,TSGENCO,LOWER JURALA HPS,Hydro,4,40,2016
+,SR,Telangana,State Sector,TSGENCO,LOWER JURALA HPS,Hydro,5,40,2016
+,SR,Telangana,State Sector,TSGENCO,LOWER JURALA HPS,Hydro,6,40,2016
+173,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,1,110,1978
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,2,100.8,1980
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,3,100.8,1981
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,4,100.8,1982
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,5,100.8,1983
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,6,100.8,1984
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,7,100.8,1985
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR HPS,Hydro,8,100.8,1985
+174,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR LBC HPS,Hydro,1,30,1983
+,SR,Telangana,State Sector,TSGENCO,NAGARJUN SGR LBC HPS,Hydro,2,30,1983
+175,SR,Telangana,State Sector,TSGENCO,POCHAMPAD HPS,Hydro,1,9,1987
+,SR,Telangana,State Sector,TSGENCO,POCHAMPAD HPS,Hydro,2,9,1987
+,SR,Telangana,State Sector,TSGENCO,POCHAMPAD HPS,Hydro,3,9,1988
+,SR,Telangana,State Sector,TSGENCO,POCHAMPAD HPS,Hydro,4,9,2010
+176,SR,Telangana,State Sector,TSGENCO,PRIYADARSHNI JURALA HPS,Hydro,1,39,2008
+,SR,Telangana,State Sector,TSGENCO,PRIYADARSHNI JURALA HPS,Hydro,2,39,2008
+,SR,Telangana,State Sector,TSGENCO,PRIYADARSHNI JURALA HPS,Hydro,3,39,2009
+,SR,Telangana,State Sector,TSGENCO,PRIYADARSHNI JURALA HPS,Hydro,4,39,2010
+,SR,Telangana,State Sector,TSGENCO,PRIYADARSHNI JURALA HPS,Hydro,5,39,2010
+,SR,Telangana,State Sector,TSGENCO,PRIYADARSHNI JURALA HPS,Hydro,6,39,2011
+177,SR,Telangana,State Sector,TSGENCO,PULICHINTALA HPS,Hydro,1,30,2016
+,SR,Telangana,State Sector,TSGENCO,PULICHINTALA HPS,Hydro,2,30,2017
+,SR,Telangana,State Sector,TSGENCO,PULICHINTALA HPS,Hydro,3,30,2017
+,SR,Telangana,State Sector,TSGENCO,PULICHINTALA HPS,Hydro,4,30,2018
+178,SR,Telangana,State Sector,TSGENCO,SRISAILAM LB HPS,Hydro,1,150,2001
+,SR,Telangana,State Sector,TSGENCO,SRISAILAM LB HPS,Hydro,2,150,2001
+,SR,Telangana,State Sector,TSGENCO,SRISAILAM LB HPS,Hydro,3,150,2002
+,SR,Telangana,State Sector,TSGENCO,SRISAILAM LB HPS,Hydro,4,150,2002
+,SR,Telangana,State Sector,TSGENCO,SRISAILAM LB HPS,Hydro,5,150,2003
+,SR,Telangana,State Sector,TSGENCO,SRISAILAM LB HPS,Hydro,6,150,2003
+,SR,Telangana Total,,,,,,2405.6,
+,SR Total,,,,,,,11847.15,
+179,ER,Jharkhand,State Sector,JUUNL,SUBERNREKHA-I HPS,Hydro,1,65,1977
+180,ER,Jharkhand,State Sector,JUUNL,SUBERNREKHA-II HPS,Hydro,2,65,1980
+181,ER,Jharkhand,Central Sector,DVC,PANCHET HPS,Hydro,1,40,1959
+,ER,Jharkhand,Central Sector,DVC,PANCHET HPS,Hydro,2,40,1990
+,ER,Jharkhand Total,,,,,,210,
+182,ER,Odisha,State Sector,APGENCO,MACHKUND HPS,Hydro,1,21.25,1959
+,ER,Odisha,State Sector,APGENCO,MACHKUND HPS,Hydro,2,21.25,1959
+,ER,Odisha,State Sector,APGENCO,MACHKUND HPS,Hydro,3,21.25,1959
+,ER,Odisha,State Sector,APGENCO,MACHKUND HPS,Hydro,4,17,1959
+,ER,Odisha,State Sector,APGENCO,MACHKUND HPS,Hydro,5,17,1959
+,ER,Odisha,State Sector,APGENCO,MACHKUND HPS,Hydro,6,17,1959
+183,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,1,60,1973
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,2,60,1974
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,3,60,1974
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,4,60,1975
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,5,60,1976
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,6,60,1970
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,7,75,2008
+,ER,Odisha,State Sector,OHPC,BALIMELA HPS,Hydro,8,75,2008
+184,ER,Odisha,State Sector,OHPC,CHIPLIMA HPS,Hydro,1,24,1962
+,ER,Odisha,State Sector,OHPC,CHIPLIMA HPS,Hydro,2,24,1962
+,ER,Odisha,State Sector,OHPC,CHIPLIMA HPS,Hydro,3,24,1964
+185,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,1,49.5,1956
+,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,2,49.5,1957
+,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,3,32,1956
+,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,4,32,1957
+,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,5,43.65,1962
+,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,6,43.65,1963
+,ER,Odisha,State Sector,OHPC,HIRAKUD HPS,Hydro,7,37.5,1990
+186,ER,Odisha,State Sector,OHPC,RENGALI HPS,Hydro,1,50,1985
+,ER,Odisha,State Sector,OHPC,RENGALI HPS,Hydro,2,50,1986
+,ER,Odisha,State Sector,OHPC,RENGALI HPS,Hydro,3,50,1989
+,ER,Odisha,State Sector,OHPC,RENGALI HPS,Hydro,4,50,1990
+,ER,Odisha,State Sector,OHPC,RENGALI HPS,Hydro,5,50,1992
+187,ER,Odisha,State Sector,OHPC,UPPER INDRAVATI HPS,Hydro,1,150,1999
+,ER,Odisha,State Sector,OHPC,UPPER INDRAVATI HPS,Hydro,2,150,1999
+,ER,Odisha,State Sector,OHPC,UPPER INDRAVATI HPS,Hydro,3,150,2000
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+,ER,Odisha,State Sector,OHPC,UPPER INDRAVATI HPS,Hydro,4,150,2001
+188,ER,Odisha,State Sector,OHPC,UPPER KOLAB HPS,Hydro,1,80,1988
+,ER,Odisha,State Sector,OHPC,UPPER KOLAB HPS,Hydro,2,80,1989
+,ER,Odisha,State Sector,OHPC,UPPER KOLAB HPS,Hydro,3,80,1990
+,ER,Odisha,State Sector,OHPC,UPPER KOLAB HPS,Hydro,4,80,1993
+,ER,Odisha Total,,,,,,2154.55,
+189,ER,Sikkim,State Sector,TUL,TEESTA-III HPS,Hydro,1,200,2017
+,ER,Sikkim,State Sector,TUL,TEESTA-III HPS,Hydro,2,200,2017
+,ER,Sikkim,State Sector,TUL,TEESTA-III HPS,Hydro,3,200,2017
+,ER,Sikkim,State Sector,TUL,TEESTA-III HPS,Hydro,4,200,2017
+,ER,Sikkim,State Sector,TUL,TEESTA-III HPS,Hydro,5,200,2017
+,ER,Sikkim,State Sector,TUL,TEESTA-III HPS,Hydro,6,200,2017
+190,ER,Sikkim,Private Sector,DEPL,JORETHANG LOOP,Hydro,1,48,2015
+,ER,Sikkim,Private Sector,DEPL,JORETHANG LOOP,Hydro,2,48,2015
+191,ER,Sikkim,Private Sector,GIPL,CHUZACHEN HPS,Hydro,1,55,2013
+,ER,Sikkim,Private Sector,GIPL,CHUZACHEN HPS,Hydro,2,55,2013
+192,ER,Sikkim,Private Sector,MBPCL,RONGNICHU HPS,Hydro,1,56.5,2021
+,ER,Sikkim,Private Sector,MBPCL,RONGNICHU HPS,Hydro,2,56.5,2021
+193,ER,Sikkim,Private Sector,SEPL,TASHIDING HPS,Hydro,1,48.5,2017
+,ER,Sikkim,Private Sector,SEPL,TASHIDING HPS,Hydro,2,48.5,2017
+194,ER,Sikkim,Private Sector,SKPPPL,DIKCHU HPS,Hydro,1,48,2017
+,ER,Sikkim,Private Sector,SKPPPL,DIKCHU HPS,Hydro,2,48,2017
+195,ER,Sikkim,Central Sector,NHPC,RANGIT HPS,Hydro,1,20,2000
+,ER,Sikkim,Central Sector,NHPC,RANGIT HPS,Hydro,2,20,2000
+,ER,Sikkim,Central Sector,NHPC,RANGIT HPS,Hydro,3,20,2000
+196,ER,Sikkim,Central Sector,NHPC,TEESTA V HPS,Hydro,1,170,2008
+,ER,Sikkim,Central Sector,NHPC,TEESTA V HPS,Hydro,2,170,2008
+,ER,Sikkim,Central Sector,NHPC,TEESTA V HPS,Hydro,3,170,2008
+,ER,Sikkim Total,,,,,,2282,
+197,ER,West Bengal,State Sector,WBSEDCL,JALDHAKA HPS ST-I,Hydro,1,9,1967
+,ER,West Bengal,State Sector,WBSEDCL,JALDHAKA HPS ST-I,Hydro,2,9,1967
+,ER,West Bengal,State Sector,WBSEDCL,JALDHAKA HPS ST-I,Hydro,3,9,1972
+,ER,West Bengal,State Sector,WBSEDCL,JALDHAKA HPS ST-I,Hydro,4,9,2012
+198,ER,West Bengal,State Sector,WBSEDCL,PURULIA PSS HPS,Hydro,1,225,2007
+,ER,West Bengal,State Sector,WBSEDCL,PURULIA PSS HPS,Hydro,2,225,2007
+,ER,West Bengal,State Sector,WBSEDCL,PURULIA PSS HPS,Hydro,3,225,2007
+,ER,West Bengal,State Sector,WBSEDCL,PURULIA PSS HPS,Hydro,4,225,2007
+199,ER,West Bengal,State Sector,WBSEDCL,RAMMAM HPS,Hydro,1,12.5,1995
+,ER,West Bengal,State Sector,WBSEDCL,RAMMAM HPS,Hydro,2,12.5,1995
+,ER,West Bengal,State Sector,WBSEDCL,RAMMAM HPS,Hydro,3,12.5,1996
+,ER,West Bengal,State Sector,WBSEDCL,RAMMAM HPS,Hydro,4,12.5,1996
+200,ER,West Bengal,Central Sector,DVC,MAITHON HPS,Hydro,1,20,1957
+,ER,West Bengal,Central Sector,DVC,MAITHON HPS,Hydro,2,23.2,1958
+,ER,West Bengal,Central Sector,DVC,MAITHON HPS,Hydro,3,20,1958
+201,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-III HPS,Hydro,1,33,2013
+,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-III HPS,Hydro,2,33,2013
+,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-III HPS,Hydro,3,33,2013
+,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-III HPS,Hydro,4,33,2013
+202,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-IV HPS,Hydro,1,40,2016
+,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-IV HPS,Hydro,2,40,2016
+,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-IV HPS,Hydro,3,40,2016
+,ER,West Bengal,Central Sector,NHPC,TEESTA LOW DAM-IV HPS,Hydro,4,40,2016
+,ER,West Bengal Total,,,,,,1341.2,
+,ER Total,,,,,,,5987.75,
+203,NER,Arunachal Pradesh,Central Sector,NEEPCO.,KAMENG HPS,Hydro,1,150,2020
+,NER,Arunachal Pradesh,Central Sector,NEEPCO.,KAMENG HPS,Hydro,2,150,2020
+,NER,Arunachal Pradesh,Central Sector,NEEPCO.,KAMENG HPS,Hydro,3,150,2021
+,NER,Arunachal Pradesh,Central Sector,NEEPCO.,KAMENG HPS,Hydro,4,150,2021
+204,NER,Arunachal Pradesh,Central Sector,NEEPCO.,PARE,Hydro,1,55,2018
+,NER,Arunachal Pradesh,Central Sector,NEEPCO.,PARE,Hydro,2,55,2018
+205,NER,Arunachal Pradesh,Central Sector,NEEPCO.,RANGANADI HPS,Hydro,1,135,2002
+,NER,Arunachal Pradesh,Central Sector,NEEPCO.,RANGANADI HPS,Hydro,2,135,2002
+,NER,Arunachal Pradesh,Central Sector,NEEPCO.,RANGANADI HPS,Hydro,3,135,2002
+,NER,Arunachal Pradesh Total,,,,,,1115,
+206,NER,Assam,State Sector,APGCL,KARBI LANGPI HPS,Hydro,1,50,2007
+,NER,Assam,State Sector,APGCL,KARBI LANGPI HPS,Hydro,2,50,2007
+207,NER,Assam,Central Sector,NEEPCO.,KHONDONG HPS,Hydro,1,25,1984
+,NER,Assam,Central Sector,NEEPCO.,KHONDONG HPS,Hydro,2,25,1984
+208,NER,Assam,Central Sector,NEEPCO.,KOPILI HPS,Hydro,1,50,1988
+,NER,Assam,Central Sector,NEEPCO.,KOPILI HPS,Hydro,2,50,1988
+,NER,Assam,Central Sector,NEEPCO.,KOPILI HPS,Hydro,3,50,1997
+,NER,Assam,Central Sector,NEEPCO.,KOPILI HPS,Hydro,4,50,1997
+,NER,Assam Total,,,,,,350,
+209,NER,Manipur,Central Sector,NHPC,LOKTAK HPS,Hydro,1,35,1983
+,NER,Manipur,Central Sector,NHPC,LOKTAK HPS,Hydro,2,35,1983
+,NER,Manipur,Central Sector,NHPC,LOKTAK HPS,Hydro,3,35,1983
+,NER,Manipur Total,,,,,,105,
+210,NER,Meghalaya,State Sector,MeECL,KYRDEMKULAI HPS,Hydro,1,30,1979
+,NER,Meghalaya,State Sector,MeECL,KYRDEMKULAI HPS,Hydro,2,30,1979
+211,NER,Meghalaya,State Sector,MeECL,MYNTDU(LESHKA) St-1 HPS,Hydro,1,42,2011
+,NER,Meghalaya,State Sector,MeECL,MYNTDU(LESHKA) St-1 HPS,Hydro,2,42,2012
+,NER,Meghalaya,State Sector,MeECL,MYNTDU(LESHKA) St-1 HPS,Hydro,3,42,2013
+212,NER,Meghalaya,State Sector,MeECL,NEW UMTRU HPS,Hydro,1,20,2017
+,NER,Meghalaya,State Sector,MeECL,NEW UMTRU HPS,Hydro,2,20,2017
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+213,NER,Meghalaya,State Sector,MeECL,UMIAM HPS ST-I,Hydro,1,9,1965
+,NER,Meghalaya,State Sector,MeECL,UMIAM HPS ST-I,Hydro,2,9,1965
+,NER,Meghalaya,State Sector,MeECL,UMIAM HPS ST-I,Hydro,3,9,1965
+,NER,Meghalaya,State Sector,MeECL,UMIAM HPS ST-I,Hydro,4,9,1965
+214,NER,Meghalaya,State Sector,MeECL,UMIAM HPS ST-IV,Hydro,1,30,1992
+,NER,Meghalaya,State Sector,MeECL,UMIAM HPS ST-IV,Hydro,2,30,1992
+,NER,Meghalaya Total,,,,,,322,
+215,NER,Mizoram,Central Sector,NEEPCO.,TUIRIAL HPS,Hydro,1,30,2017
+,NER,Mizoram,Central Sector,NEEPCO.,TUIRIAL HPS,Hydro,2,30,2017
+,NER,Mizoram Total,,,,,,60,
+216,NER,Nagaland,Central Sector,NEEPCO.,DOYANG HPS,Hydro,1,25,2000
+,NER,Nagaland,Central Sector,NEEPCO.,DOYANG HPS,Hydro,2,25,2000
+,NER,Nagaland,Central Sector,NEEPCO.,DOYANG HPS,Hydro,3,25,2000
+,NER,Nagaland Total,,,,,,75,
+,NER Total,,,,,,,2027,
+,Hydro Total,,,,,,,47728.16,
+S.No.,Region,State,Sector,Organisation,Name of Project,Prime Mover,Unit No,"Installed
+Capacity(MW)",Year of Comm.
+1,NR,Rajasthan,Central Sector,DAE,DAE (RAJASTHAN),Nuclear,1,100,1972
+2,NR,Rajasthan,Central Sector,NPCIL,RAJASTHAN A.P.S.,Nuclear,2,200,1980
+,NR,Rajasthan,Central Sector,NPCIL,RAJASTHAN A.P.S.,Nuclear,3,220,2000
+,NR,Rajasthan,Central Sector,NPCIL,RAJASTHAN A.P.S.,Nuclear,4,220,2000
+,NR,Rajasthan,Central Sector,NPCIL,RAJASTHAN A.P.S.,Nuclear,5,220,2010
+,NR,Rajasthan,Central Sector,NPCIL,RAJASTHAN A.P.S.,Nuclear,6,220,2010
+,NR,Rajasthan Total,,,,,,1180,
+3,NR,Uttar Pradesh,Central Sector,NPCIL,NARORA A.P.S.,Nuclear,1,220,1989
+,NR,Uttar Pradesh,Central Sector,NPCIL,NARORA A.P.S.,Nuclear,2,220,1992
+,NR,Uttar Pradesh Total,,,,,,440,
+,NR Total,,,,,,,1620,
+4,WR,Gujarat,Central Sector,NPCIL,KAKRAPARA,Nuclear,1,220,1992
+,WR,Gujarat,Central Sector,NPCIL,KAKRAPARA,Nuclear,2,220,1995
+,WR,Gujarat,Central Sector,NPCIL,KAKRAPARA,Nuclear,3,700,2023
+,WR,Gujarat,Central Sector,NPCIL,KAKRAPARA,Nuclear,4,700,2024
+,WR,Gujarat Total,,,,,,1840,
+5,WR,Maharashtra,Central Sector,NPCIL,TARAPUR,Nuclear,1,160,1960
+,WR,Maharashtra,Central Sector,NPCIL,TARAPUR,Nuclear,2,160,1969
+,WR,Maharashtra,Central Sector,NPCIL,TARAPUR,Nuclear,3,540,2005
+,WR,Maharashtra,Central Sector,NPCIL,TARAPUR,Nuclear,4,540,2006
+,WR,Maharashtra Total,,,,,,1400,
+,WR Total,,,,,,,3240,
+6,SR,Karnataka,Central Sector,NPCIL,KAIGA,Nuclear,1,220,2000
+,SR,Karnataka,Central Sector,NPCIL,KAIGA,Nuclear,2,220,1999
+,SR,Karnataka,Central Sector,NPCIL,KAIGA,Nuclear,3,220,2007
+,SR,Karnataka,Central Sector,NPCIL,KAIGA,Nuclear,4,220,2011
+,SR,Karnataka Total,,,,,,880,
+7,SR,Tamil Nadu,Central Sector,NPCIL,KUDANKULAM,Nuclear,1,1000,2014
+,SR,Tamil Nadu,Central Sector,NPCIL,KUDANKULAM,Nuclear,2,1000,2017
+8,SR,Tamil Nadu,Central Sector,NPCIL,MADRAS A.P.S.,Nuclear,1,220,1983
+,SR,Tamil Nadu,Central Sector,NPCIL,MADRAS A.P.S.,Nuclear,2,220,1985
+,SR,Tamil Nadu Total,,,,,,2440,
+,SR Total,,,,,,,3320,
+,Nuclear Total,,,,,,,8180,

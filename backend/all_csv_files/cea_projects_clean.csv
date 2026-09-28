@@ -1,0 +1,490 @@
+name_blob,state,total_capacity_mw,fuel_type,confidence
+ABAN POWR KARUPPUR CCPP,Tamil Nadu,119.8,GT-Gas,high
+ACB CHAKABURA TPP,Chhattisgarh,30.0,Steam,high
+ACB KASAIPALLI TPP,Chhattisgarh,270.0,Steam,high
+ACB SWASTIK KORBA TPP,Chhattisgarh,25.0,Steam,high
+ADHPL ALLAIN DUHANGAN HPS,Himachal Pradesh,192.0,Hydro,high
+ADHUNIK MAHADEV PRASAD STPP,Jharkhand,540.0,Steam,high
+AEML DAHANU TPS,MaharashtrParivate Sector,500.0,Steam,low
+AHPC (GVK) SHRINAGAR HPS,Uttarakhand,330.0,Hydro,high
+APCPL INDIRA GANDHI STPP,Haryana,1500.0,Steam,high
+APEPDCL JEGURUPADU CCPP PH I,Andhra PradSetashte Sector,235.39999999999998,GT-Gas,low
+APGCL KARBI LANGPI HPS,Assam,100.0,Hydro,high
+APGCL LAKWA GT,Assam,97.2,GT-Gas,high
+APGCL NAMRUP CCPP,Assam,139.4,GT-Gas,high
+APGENCO Dr. N.TATA RAO TPS,Andhra PradSetashte Sector,2560.0,Steam,low
+APGENCO HAMPI HPS,Karnataka,36.0,Hydro,high
+APGENCO LOWER SILERU HPS,Andhra Pradesh,460.0,Hydro,high
+APGENCO MACHKUND HPS,Odisha,114.75,Hydro,high
+APGENCO NAGARJUN SGR RBC HPS,Andhra Pradesh,90.0,Hydro,high
+APGENCO NAGARJUN SGR TPD,Andhra Pradesh,50.0,Hydro,high
+APGENCO RAYALASEEMA TPS,Andhra PradSetashte Sector,1650.0,Steam,low
+APGENCO SRISAILAM HPS,Andhra Pradesh,770.0,Hydro,high
+APGENCO T B DAM HPS,Karnataka,36.0,Hydro,high
+APGENCO UPPER SILERU HPS,Andhra Pradesh,240.0,Hydro,high
+APGPCL VIJJESWARAM CCPP,Andhra PradPerisvhate Sector,272.0,GT-Gas,low
+BALCO BALCO TPS,Chhattisgarh,600.0,Steam,high
+BBMB BHAKRA LEFT HPS,Himachal Pradesh,630.0,Hydro,high
+BBMB BHAKRA RIGHT HPS,Himachal Pradesh,785.0,Hydro,high
+BBMB DEHAR HPS,Himachal Pradesh,990.0,Hydro,high
+BBMB GANGUWAL HPS,Punjab,77.65,Hydro,high
+BBMB KOTLA HPS,Punjab,77.65,Hydro,high
+BBMB PONG HPS,Himachal Pradesh,396.0,Hydro,high
+BELLARY BELLARY DG,Karnataka,25.2,Diesel,high
+BEPL BARKHERA TPS,Uttar PradePshrivate Sector,90.0,Steam,low
+BEPL KHAMBARKHERA TPS,Uttar PradePshrivate Sector,90.0,Steam,low
+BEPL KUNDARKI TPS,Uttar PradePshrivate Sector,90.0,Steam,low
+BEPL MAQSOODPUR TPS,Uttar PradePshrivate Sector,90.0,Steam,low
+BEPL UTRAULA TPS,Uttar PradePshrivate Sector,90.0,Steam,low
+BLAPPL NIWARI TPP,Madhya PraPdreivsahte Sector,90.0,Steam,low
+BRBCL NABINAGAR TPP,Bihar,1000.0,Steam,high
+BSES AP PEDDAPURAM CCPP,Andhra PradPerisvhate Sector,220.0,GT-Gas,low
+BSES(C) COCHIN CCPP (Liq.),Kerala,174.0,GT-Gas,high
+BVPCL UHL-III HPS,Himachal Pradesh,99.99,Hydro,high
+CEPL MUTHIARA TPP,Tamil Nadu,1200.0,Steam,high
+CESC BUDGE BUDGE TPS,West BengaPlrivate Sector,750.0,Steam,low
+CESC SOUTHERN REPL. TPS,West BengaPlrivate Sector,135.0,Steam,low
+CESC TITAGARH TPS,West BengaPlrivate Sector,240.0,Steam,low
+CGPL MUNDRA UMTPP,Gujarat,4000.0,Steam,high
+CSPGCL DSPM TPS,Chhattisgarh,500.0,Steam,high
+CSPGCL HASDEOBANGO HPS,Chhattisgarh,120.0,Hydro,high
+CSPGCL KORBA-WEST TPS,Chhattisgarh,1340.0,Steam,high
+CSPGCL MARWA TPS,Chhattisgarh,1000.0,Steam,high
+DAE DAE (RAJASTHAN),Rajasthan,100.0,Nuclear,high
+DBPCL BARADARHA TPS,Chhattisgarh,1200.0,Steam,high
+DEPL JORETHANG LOOP,Sikkim,96.0,Hydro,high
+DIL DHARIWAL TPP,MaharashtrParivate Sector,600.0,Steam,low
+DLHP BHANDARDHARA HPS ST-II,Maharashtra,34.0,Hydro,high
+DPL D.P.L. TPS,West BengaSltate Sector,550.0,Steam,low
+DPSCLTD DISHERGARH TPP,West BengaPlrivate Sector,12.0,Steam,low
+DVC BOKARO TPS `A` EXP,Jharkhand,500.0,Steam,high
+DVC CHANDRAPURA(DVC) TPS,Jharkhand,500.0,Steam,high
+DVC DURGAPUR STEEL TPS,West BengaClentral Sector,1000.0,Steam,low
+DVC KODARMA TPP,Jharkhand,1000.0,Steam,high
+DVC MAITHON HPS,West Bengal,63.2,Hydro,high
+DVC MEJIA TPS,West BengaClentral Sector,2340.0,Steam,low
+DVC PANCHET HPS,Jharkhand,80.0,Hydro,high
+DVC RAGHUNATHPUR TPP,West BengaClentral Sector,1200.0,Steam,low
+E.P.P.L. MALANA-II HPS,Himachal Pradesh,100.0,Hydro,high
+"ED, Manipur LEIMAKHONG DG",Manipur,36.0,Diesel,high
+"ED, UT of Lakshdweep Lakshadweep DG",LakshadweeSptate Sector,26.83,Diesel,low
+EPGL SALAYA TPP,Gujarat,1200.0,Steam,high
+ESSAR ESSAR CCPP,Gujarat,515.0,GT-Gas,high
+ESSARPMPL MAHAN TPP,Madhya PraPdreivsahte Sector,1200.0,Steam,low
+GAUTAMI GAUTAMI CCPP,Andhra PradPerisvhate Sector,464.0,GT-Gas,low
+GBHHPPL BAJOLI HOLI HPS,Himachal Pradesh,180.0,Hydro,high
+GBHPPL BUDHIL HPS,Himachal Pradesh,70.0,Hydro,high
+GEPL GEPL TPP Ph-I,MaharashtrParivate Sector,120.0,Steam,low
+GIPCL BARODA CCPP,Gujarat,160.0,GT-Gas,high
+GIPCL SURAT LIG. TPS,Gujarat,500.0,Steam,high
+GIPL CHUZACHEN HPS,Sikkim,110.0,Hydro,high
+GIPL GAMA CCPP,Uttarakhand,225.0,GT-Gas,high
+GMDCL AKRIMOTA LIG TPS,Gujarat,250.0,Steam,high
+GMR ENERG GMR WARORA TPS,MaharashtrParivate Sector,600.0,Steam,low
+GMR ENERG KAMALANGA TPS,Odisha,1050.0,Steam,high
+GPPCL PIPAVAV CCPP,Gujarat,702.0,GT-Gas,high
+GREL GREL CCPP (Rajahmundry),Andhra PradPerisvhate Sector,768.0,GT-Gas,low
+GSECL BHAVNAGAR CFBC TPP,Gujarat,500.0,Steam,high
+GSECL DHUVARAN CCPP,Gujarat,594.72,GT-Gas,high
+GSECL GANDHI NAGAR TPS,Gujarat,630.0,Steam,high
+GSECL KADANA HPS,Gujarat,240.0,Hydro,high
+GSECL KUTCH LIG. TPS,Gujarat,150.0,Steam,high
+GSECL SIKKA REP. TPS,Gujarat,500.0,Steam,high
+GSECL UKAI HPS,Gujarat,300.0,Hydro,high
+GSECL UKAI TPS,Gujarat,1110.0,Steam,high
+GSECL UTRAN CCPP,Gujarat,374.0,GT-Gas,high
+GSECL WANAKBORI TPS,Gujarat,2270.0,Steam,high
+GSEGL HAZIRA CCPP,Gujarat,156.1,GT-Gas,high
+GSEGL HAZIRA CCPP EXT,Gujarat,351.0,GT-Gas,high
+GVKP&IL JEGURUPADU CCPP PH II,Andhra PradPerisvhate Sector,220.0,GT-Gas,low
+HBPCL BASPA HPS,Himachal Pradesh,300.0,Hydro,high
+HBPCL KARCHAM WANGTOO HPS,Himachal Pradesh,1045.0,Hydro,high
+HEL HALDIA TPP,West BengaPlrivate Sector,600.0,Steam,low
+HMEL HIRANMAYE TPP,West BengaPlrivate Sector,300.0,Steam,low
+HNPC VIZAG TPP,Andhra PradPerisvhate Sector,1040.0,Steam,low
+HPGCL PANIPAT TPS,Haryana,710.0,Steam,high
+HPGCL RAJIV GANDHI TPS,Haryana,1200.0,Steam,high
+HPGCL YAMUNA NAGAR TPS,Haryana,600.0,Steam,high
+HPPCL KASHANG INTEGRATED HEP,Himachal Pradesh,195.0,Hydro,high
+HPPCL SAINJ HPS,Himachal Pradesh,100.0,Hydro,high
+HPPCL SAWRA KUDDU HPS,Himachal Pradesh,111.0,Hydro,high
+HPSEB BASSI HPS,Himachal Pradesh,66.0,Hydro,high
+HPSEB GIRI BATA HPS,Himachal Pradesh,60.0,Hydro,high
+HPSEB LARJI HPS,Himachal Pradesh,126.0,Hydro,high
+HPSEB SANJAY HPS,Himachal Pradesh,120.0,Hydro,high
+HSPCL SORANG HPS,Himachal Pradesh,100.0,Hydro,high
+IAEPL CHANJU-I HPS,Himachal Pradesh,36.0,Hydro,high
+IBPIL TUTICORIN (P) TPP,Tamil Nadu,300.0,Steam,high
+IEPL BELA TPS,MaharashtrParivate Sector,270.0,Steam,low
+IPGCL I.P.CCPP,Delhi,270.0,GT-Gas,high
+ITPCL ITPCL TPP,Tamil Nadu,1200.0,Steam,high
+JHAPL SEIONI TPP,Madhya PraCdeensthral Sector,600.0,Steam,low
+JIPL DERANG TPP,Odisha,1200.0,Steam,high
+JKSPDC BAGLIHAR HPS,Jammu & Kashmir,450.0,Hydro,high
+JKSPDC BAGLIHAR II HPS,Jammu & Kashmir,450.0,Hydro,high
+JKSPDC LOWER JHELUM HPS,Jammu & Kashmir,105.0,Hydro,high
+JKSPDC PAMPORE GPS (Liq.),Jammu & KaSsthatmei rSector,175.0,GT-Gas,low
+JKSPDC UPPER SINDH-II HPS,Jammu & Kashmir,105.0,Hydro,high
+JPL OP JINDAL TPS,Chhattisgarh,1000.0,Steam,high
+JPL TAMNAR TPP,Chhattisgarh,2400.0,Steam,high
+JPPVL BINA TPS,Madhya PraPdreivsahte Sector,500.0,Steam,low
+JPPVL NIGRI TPP,Madhya PraPdreivsahte Sector,1320.0,Steam,low
+JPPVL VISHNU PRAYAG HPS,Uttarakhand,400.0,Hydro,high
+JSWBL JALIPA KAPURDI TPP,Rajasthan,1080.0,Steam,high
+JSWEL JSW RATNAGIRI TPP,MaharashtrParivate Sector,300.0,Steam,low
+JSWEL TORANGALLU TPS(SBU-I),Karnataka,260.0,Steam,high
+JSWEL TORANGALLU TPS(SBU-II),Karnataka,600.0,Steam,high
+JSWEL(Utkal) JSW Energy Utkal Limited,Odisha,350.0,Steam,high
+JUUNL SUBERNREKHA-I HPS,Jharkhand,65.0,Hydro,high
+JUUNL SUBERNREKHA-II HPS,Jharkhand,65.0,Hydro,high
+JhPL(HR) MAHATMA GANDHI TPS,Haryana,1320.0,Steam,high
+K.B.U.N.L MUZAFFARPUR TPS,Bihar,390.0,Steam,high
+KONA KONASEEMA CCPP,Andhra PradPerisvhate Sector,445.0,GT-Gas,low
+KONDAPALI KONDAPALLI CCPP,Andhra PradPerisvhate Sector,368.144,GT-Gas,low
+KONDAPALI KONDAPALLI EXTN CCPP,Andhra PradPerisvhate Sector,366.0,GT-Gas,low
+KONDAPALI KONDAPALLI ST-3 CCPP,Andhra PradPerisvhate Sector,742.0,GT-Gas,low
+KPCL ALMATTI DPH HPS,Karnataka,290.0,Hydro,high
+KPCL BELLARY TPS,Karnataka,1700.0,Steam,high
+KPCL BHADRA HPS,Karnataka,26.0,Hydro,high
+KPCL GERUSUPPA HPS,Karnataka,240.0,Hydro,high
+KPCL GHAT PRABHA HPS,Karnataka,32.0,Hydro,high
+KPCL JOG HPS,Karnataka,139.2,Hydro,high
+KPCL KADRA HPS,Karnataka,150.0,Hydro,high
+KPCL KALINADI HPS,Karnataka,900.0,Hydro,high
+KPCL KALINADI SUPA HPS,Karnataka,100.0,Hydro,high
+KPCL KODASALI HPS,Karnataka,120.0,Hydro,high
+KPCL LIGANAMAKKI HPS,Karnataka,55.0,Hydro,high
+KPCL MUNIRABAD HPS,Karnataka,28.0,Hydro,high
+KPCL RAICHUR TPS,Karnataka,1720.0,Steam,high
+KPCL SHARAVATHI HPS,Karnataka,1035.0,Hydro,high
+KPCL SIVASAMUNDRUM HPS,Karnataka,42.0,Hydro,high
+KPCL VARAHI HPS,Karnataka,460.0,Hydro,high
+KPCL YELAHANKA CCPP,Karnataka,370.04999999999995,GT-Gas,high
+KSEB BRAMHAPURAM DG,Kerala,63.96,Diesel,high
+KSEB IDAMALAYAR HPS,Kerala,75.0,Hydro,high
+KSEB IDUKKI HPS,Kerala,780.0,Hydro,high
+KSEB KAKKAD HPS,Kerala,50.0,Hydro,high
+KSEB KOZHIKODE DG,Kerala,96.0,Diesel,high
+KSEB KUTTIYADI ADDL EXTN,Kerala,100.0,Hydro,high
+KSEB KUTTIYADI EXTN HPS,Kerala,50.0,Hydro,high
+KSEB KUTTIYADI HPS,Kerala,75.0,Hydro,high
+KSEB LOWER PERIYAR HPS,Kerala,180.0,Hydro,high
+KSEB NARIAMANGLAM HPS,Kerala,52.650000000000006,Hydro,high
+KSEB PALLIVASAL EXTN HPS,Kerala,60.0,Hydro,high
+KSEB PALLIVASAL HPS,Kerala,37.5,Hydro,high
+KSEB PANNIAR HPS,Kerala,30.0,Hydro,high
+KSEB PORINGALKUTTU HPS,Kerala,32.0,Hydro,high
+KSEB SABARIGIRI HPS,Kerala,300.0,Hydro,high
+KSEB SENGULAM HPS,Kerala,48.0,Hydro,high
+KSEB SHOLAYAR HPS,Kerala,54.0,Hydro,high
+KSEB Thottiyar HEP,Kerala,40.0,Hydro,high
+L&T UHL SINGOLI BHATWARI HPS,Uttarakhand,99.0,Hydro,high
+LANCO PATHADI TPP,Chhattisgarh,600.0,Steam,high
+LAPPL ANPARA C TPS,Uttar PradePshrivate Sector,1200.0,Steam,low
+LPGCL LALITPUR TPS,Uttar PradePshrivate Sector,1980.0,Steam,low
+LVS POWER LVS POWER DG,Andhra PradPerisvhate Sector,36.8,Diesel,low
+MADURAI P SAMAYANALLUR DG,Tamil Nadu,106.001,Diesel,high
+MAHAGENCO BHIRA TAIL RACE HPS,Maharashtra,80.0,Hydro,high
+MAHAGENCO BHUSAWAL TPS,MaharashtrSatate Sector,1870.0,Steam,low
+MAHAGENCO GHATGHAR PSS HPS,Maharashtra,250.0,Hydro,high
+MAHAGENCO KHAPARKHEDA TPS,MaharashtrSatate Sector,1340.0,Steam,low
+MAHAGENCO KORADI TPS,MaharashtrSatate Sector,2190.0,Steam,low
+MAHAGENCO KOYNA DPH HPS,Maharashtra,36.0,Hydro,high
+MAHAGENCO KOYNA-I&II HPS,Maharashtra,600.0,Hydro,high
+MAHAGENCO KOYNA-III HPS,Maharashtra,320.0,Hydro,high
+MAHAGENCO KOYNA-IV HPS,Maharashtra,1000.0,Hydro,high
+MAHAGENCO NASIK TPS,MaharashtrSatate Sector,630.0,Steam,low
+MAHAGENCO PARAS TPS,MaharashtrSatate Sector,500.0,Steam,low
+MAHAGENCO PARLI TPS,MaharashtrSatate Sector,750.0,Steam,low
+MAHAGENCO TILLARI HPS,Maharashtra,60.0,Hydro,high
+MAHAGENCO URAN CCPP,MaharashtrSatate Sector,672.0,GT-Gas,low
+MAHAGENCO VAITARNA HPS,Maharashtra,60.0,Hydro,high
+MBPCL RONGNICHU HPS,Sikkim,113.0,Hydro,high
+MBPMPL ANUPPUR TPP,Madhya PraPdreivsahte Sector,1250.0,Steam,low
+MCCPL BANDAKHAR TPP,Chhattisgarh,300.0,Steam,high
+MEL THAMMINAPATNAM TPS,Andhra PradPerisvhate Sector,300.0,Steam,low
+MPCL MALANA HPS,Himachal Pradesh,86.0,Hydro,high
+MPL MAITHON RB TPP,Jharkhand,1050.0,Steam,high
+MPPGCL AMARKANTAK EXT TPS,Madhya PraSdteasthe Sector,210.0,Steam,low
+MPPGCL BANSAGAR TONS-I HPS,Madhya Pradesh,315.0,Hydro,high
+MPPGCL BANSAGAR-II HPS,Madhya Pradesh,30.0,Hydro,high
+MPPGCL BANSAGAR-III HPS,Madhya Pradesh,60.0,Hydro,high
+MPPGCL BARGI HPS,Madhya Pradesh,90.0,Hydro,high
+MPPGCL GANDHI SAGAR HPS,Madhya Pradesh,115.0,Hydro,high
+MPPGCL MADHIKHERA HPS,Madhya Pradesh,60.0,Hydro,high
+MPPGCL PENCH HPS,Maharashtra,160.0,Hydro,high
+MPPGCL RAJGHAT HPS,Madhya Pradesh,45.0,Hydro,high
+MPPGCL SANJAY GANDHI TPS,Madhya PraSdteasthe Sector,1340.0,Steam,low
+MPPGCL SATPURA TPS,Madhya PraSdteasthe Sector,1330.0,Steam,low
+MPPGCL SHREE SINGAJI TPP,Madhya PraSdteasthe Sector,2520.0,Steam,low
+MUNPL MEJA STPP,Uttar PradeCshentral Sector,1320.0,Steam,low
+MeECL KYRDEMKULAI HPS,Meghalaya,60.0,Hydro,high
+MeECL MYNTDU(LESHKA) St-1 HPS,Meghalaya,126.0,Hydro,high
+MeECL NEW UMTRU HPS,Meghalaya,40.0,Hydro,high
+MeECL UMIAM HPS ST-I,Meghalaya,36.0,Hydro,high
+MeECL UMIAM HPS ST-IV,Meghalaya,60.0,Hydro,high
+NEEPCO. AGARTALA GT,Tripura,135.0,GT-Gas,high
+NEEPCO. DOYANG HPS,Nagaland,75.0,Hydro,high
+NEEPCO. KAMENG HPS,Arunachal Pradesh,600.0,Hydro,high
+NEEPCO. KATHALGURI CCPP,Assam,291.0,GT-Gas,high
+NEEPCO. KHONDONG HPS,Assam,50.0,Hydro,high
+NEEPCO. KOPILI HPS,Assam,200.0,Hydro,high
+NEEPCO. MONARCHAK CCPP,Tripura,101.0,GT-Gas,high
+NEEPCO. PARE,Arunachal Pradesh,110.0,Hydro,high
+NEEPCO. RANGANADI HPS,Arunachal Pradesh,405.0,Hydro,high
+NEEPCO. TUIRIAL HPS,Mizoram,60.0,Hydro,high
+NHDC INDIRA SAGAR HPS,Madhya Pradesh,1000.0,Hydro,high
+NHDC OMKARESHWAR HPS,Madhya Pradesh,520.0,Hydro,high
+NHPC BAIRA SIUL HPS,Himachal Pradesh,180.0,Hydro,high
+NHPC CHAMERA-I HPS,Himachal Pradesh,540.0,Hydro,high
+NHPC CHAMERA-II HPS,Himachal Pradesh,300.0,Hydro,high
+NHPC CHAMERA-III HPS,Himachal Pradesh,231.0,Hydro,high
+NHPC CHUTAK HPS,Jammu & Kashmir,44.0,Hydro,high
+NHPC DHAULI GANGA HPS,Uttarakhand,280.0,Hydro,high
+NHPC DULHASTI HPS,Jammu & Kashmir,390.0,Hydro,high
+NHPC KISHANGANGA HPS,Jammu & Kashmir,330.0,Hydro,high
+NHPC LOKTAK HPS,Manipur,105.0,Hydro,high
+NHPC NIMMO BAZGO HPS,Jammu & Kashmir,45.0,Hydro,high
+NHPC PARBATI-II HPS,Himachal Pradesh,600.0,Hydro,high
+NHPC PARBATI-III HPS,Himachal Pradesh,520.0,Hydro,high
+NHPC RANGIT HPS,Sikkim,60.0,Hydro,high
+NHPC SALAL HPS,Jammu & Kashmir,690.0,Hydro,high
+NHPC SEWA-II HPS,Jammu & Kashmir,120.0,Hydro,high
+NHPC TANAKPUR HPS,Uttarakhand,94.19999999999999,Hydro,high
+NHPC TEESTA LOW DAM-III HPS,West Bengal,132.0,Hydro,high
+NHPC TEESTA LOW DAM-IV HPS,West Bengal,160.0,Hydro,high
+NHPC TEESTA V HPS,Sikkim,510.0,Hydro,high
+NHPC URI-I HPS,Jammu & Kashmir,480.0,Hydro,high
+NHPC URI-II HPS,Jammu & Kashmir,240.0,Hydro,high
+NLC BARSINGSAR LIGNITE,Rajasthan,250.0,Steam,high
+NLC NEYVELI ( EXT) TPS,Tamil Nadu,420.0,Steam,high
+NLC NEYVELI NEW TPP,Tamil Nadu,1000.0,Steam,high
+NLC NEYVELI TPS-II,Tamil Nadu,1470.0,Steam,high
+NLC NEYVELI TPS-II EXP,Tamil Nadu,500.0,Steam,high
+NPCIL KAIGA,Karnataka,880.0,Nuclear,high
+NPCIL KAKRAPARA,Gujarat,1840.0,Nuclear,high
+NPCIL KUDANKULAM,Tamil Nadu,2000.0,Nuclear,high
+NPCIL MADRAS A.P.S.,Tamil Nadu,440.0,Nuclear,high
+NPCIL NARORA A.P.S.,Uttar Pradesh,440.0,Nuclear,high
+NPCIL RAJASTHAN A.P.S.,Rajasthan,1080.0,Nuclear,high
+NPCIL TARAPUR,Maharashtra,1400.0,Nuclear,high
+NPGCL NABINAGAR STPP,Bihar,1980.0,Steam,high
+NPL RAJPURA TPP,Punjab,1400.0,Steam,high
+NSPCL BHILAI TPS,Chhattisgarh,500.0,Steam,high
+NTECL VALLUR TPP,Tamil Nadu,1500.0,Steam,high
+NTPC ANTA CCPP,Rajasthan,419.33,GT-Gas,high
+NTPC AURAIYA CCPP,Uttar PradeCshentral Sector,663.36,GT-Gas,low
+NTPC BARAUNI TPS,Bihar,710.0,Steam,high
+NTPC BARH I,Bihar,1320.0,Steam,high
+NTPC BARH II,Bihar,1320.0,Steam,high
+NTPC BONGAIGAON TPP,Assam,750.0,Steam,high
+NTPC DADRI (NCTPP),Uttar PradeCshentral Sector,1820.0,Steam,low
+NTPC DADRI CCPP,Uttar PradeCshentral Sector,829.78,GT-Gas,low
+NTPC DARLIPALI STPS,Odisha,1600.0,Steam,high
+NTPC FARAKKA STPS,West BengaClentral Sector,2100.0,Steam,low
+NTPC FARIDABAD CCPP,Haryana,431.59,GT-Gas,high
+NTPC GADARWARA TPP,Madhya PraCdeensthral Sector,1600.0,Steam,low
+NTPC GANDHAR CCPP,Gujarat,657.3900000000001,GT-Gas,high
+NTPC KAHALGAON TPS,Bihar,2340.0,Steam,high
+NTPC KAWAS CCPP,Gujarat,656.2,GT-Gas,high
+NTPC KHARGONE STPP,Madhya PraCdeensthral Sector,1320.0,Steam,low
+NTPC KOLDAM,Himachal Pradesh,800.0,Hydro,high
+NTPC KORBA STPS,Chhattisgarh,2600.0,Steam,high
+NTPC KUDGI STPP,Karnataka,2400.0,Steam,high
+NTPC LARA TPP,Chhattisgarh,1600.0,Steam,high
+NTPC MAUDA TPS,MaharashtrCaentral Sector,2320.0,Steam,low
+NTPC NORTH KARANPURA STPP,Jharkhand,1320.0,Steam,high
+NTPC R. GANDHI CCPP (Liq.),Kerala,359.58000000000004,GT-Gas,high
+NTPC RAMAGUNDEM STPS,Telangana,2600.0,Steam,high
+NTPC RIHAND STPS,Uttar PradeCshentral Sector,3000.0,Steam,low
+NTPC SIMHADRI,Andhra PradCeesnhtral Sector,2000.0,Steam,low
+NTPC SINGRAULI STPS,Uttar PradeCshentral Sector,2000.0,Steam,low
+NTPC SIPAT STPS,Chhattisgarh,2980.0,Steam,high
+NTPC SOLAPUR STPS,MaharashtrCaentral Sector,1320.0,Steam,low
+NTPC TALCHER STPS,Odisha,3000.0,Steam,high
+NTPC TANDA TPS,Uttar PradeCshentral Sector,1760.0,Steam,low
+NTPC TELANGANA STPP PH-1,Telangana,1600.0,Steam,high
+NTPC UNCHAHAR TPS,Uttar PradeCshentral Sector,1550.0,Steam,low
+NTPC VINDHYACHAL STPS,Madhya PraCdeensthral Sector,4760.0,Steam,low
+NTPL NTPL TUTICORIN TPP,Tamil Nadu,1000.0,Steam,high
+NUPPL GHATAMPUR TPP,Uttar PradeCshentral Sector,660.0,Steam,low
+OHPC BALIMELA HPS,Odisha,510.0,Hydro,high
+OHPC CHIPLIMA HPS,Odisha,72.0,Hydro,high
+OHPC HIRAKUD HPS,Odisha,287.8,Hydro,high
+OHPC RENGALI HPS,Odisha,250.0,Hydro,high
+OHPC UPPER INDRAVATI HPS,Odisha,600.0,Hydro,high
+OHPC UPPER KOLAB HPS,Odisha,320.0,Hydro,high
+ONGC TRIPURA CCPP,Tripura,726.6,GT-Gas,high
+OPGC IB VALLEY TPS,Odisha,1740.0,Steam,high
+"P&ED, Pudu. KARAIKAL CCPP",Puducherry,32.5,GT-Gas,high
+PENNA VALANTARVY CCPP,Tamil Nadu,52.8,GT-Gas,high
+PGPL MANGAON CCPP,MaharashtrParivate Sector,388.0,GT-Gas,low
+PPCL PRAGATI CCGT-III,Delhi,1500.0,GT-Gas,high
+PPCL PRAGATI CCPP,Delhi,330.4,GT-Gas,high
+PPGCL (Jaypee) PRAYAGRAJ TPP,Uttar PradePshrivate Sector,1980.0,Steam,low
+PPNPGCL P.NALLUR CCPP,Tamil Nadu,330.5,GT-Gas,high
+PSPCL ANANDPUR SAHIB-I HPS,Punjab,67.0,Hydro,high
+PSPCL ANANDPUR SAHIB-II HPS,Punjab,67.0,Hydro,high
+PSPCL GH TPS (LEH.MOH.),Punjab,920.0,Steam,high
+PSPCL GOINDWAL SAHIB TPP,Punjab,540.0,Steam,high
+PSPCL MUKERIAN-I HPS,Punjab,45.0,Hydro,high
+PSPCL MUKERIAN-II HPS,Punjab,45.0,Hydro,high
+PSPCL MUKERIAN-III HPS,Punjab,58.5,Hydro,high
+PSPCL MUKERIAN-IV HPS,Punjab,58.5,Hydro,high
+PSPCL RANJIT SAGAR HPS,Punjab,600.0,Hydro,high
+PSPCL ROPAR TPS,Punjab,840.0,Steam,high
+PSPCL SHANAN HPS,Himachal Pradesh,110.0,Hydro,high
+RATTANINDIA AMRAVATI TPS,MaharashtrParivate Sector,1350.0,Steam,low
+RELIANCE GOA CCPP (Liq.),Goa,48.0,GT-Gas,high
+RGPPL RATNAGIRI CCPP,MaharashtrCaentral Sector,1967.08,GT-Gas,low
+RKMPPL UCHPINDA TPP,Chhattisgarh,1440.0,Steam,high
+RPCL YERMARUS TPP,Karnataka,1600.0,Steam,high
+RPGPL MIHAN TPS,MaharashtrParivate Sector,246.0,Steam,low
+RPSCL ROSA TPP Ph-I,Uttar PradePshrivate Sector,1200.0,Steam,low
+RRVUNL CHHABRA-I PH-1 TPP,Rajasthan,500.0,Steam,high
+RRVUNL CHHABRA-I PH-2 TPP,Rajasthan,500.0,Steam,high
+RRVUNL CHHABRA-II TPP,Rajasthan,1320.0,Steam,high
+RRVUNL DHOLPUR CCPP,Rajasthan,330.0,GT-Gas,high
+RRVUNL GIRAL TPS,Rajasthan,250.0,Steam,high
+RRVUNL JAWAHAR SAGAR HPS,Rajasthan,99.0,Hydro,high
+RRVUNL KALISINDH TPS,Rajasthan,1200.0,Steam,high
+RRVUNL KOTA TPS,Rajasthan,1240.0,Steam,high
+RRVUNL MAHI BAJAJ-I HPS,Rajasthan,50.0,Hydro,high
+RRVUNL MAHI BAJAJ-II HPS,Rajasthan,90.0,Hydro,high
+RRVUNL R P SAGAR HPS,Rajasthan,172.0,Hydro,high
+RRVUNL RAMGARH CCPP,Rajasthan,273.5,GT-Gas,high
+RRVUNL SURATGARH STPS,Rajasthan,1320.0,Steam,high
+RRVUNL SURATGARH TPS,Rajasthan,1500.0,Steam,high
+SAMALPATI SAMALPATTI DG,Tamil Nadu,105.7,Diesel,high
+SCCL SINGARENI TPP,Telangana,1200.0,Steam,high
+SCL SHREE CEMENT LTD TPS,Rajasthan,300.0,Steam,high
+SCPL RATIJA TPS,Chhattisgarh,100.0,Steam,high
+SEIL PAINAMPURAM TPP,Andhra PradPerisvhate Sector,1320.0,Steam,low
+SEIL SGPL TPP,Andhra PradPerisvhate Sector,1320.0,Steam,low
+SEPL SIMHAPURI TPS,Andhra PradPerisvhate Sector,600.0,Steam,low
+SEPL SRAVANTHI CCPP,Uttarakhand,439.0,GT-Gas,high
+SEPL TASHIDING HPS,Sikkim,97.0,Hydro,high
+SJVNL NAITWAR MORI HEP,Uttarakhand,60.0,Hydro,high
+SJVNL NATHPA JHAKRI HPS,Himachal Pradesh,1500.0,Hydro,high
+SJVNL RAMPUR HPS,Himachal Pradesh,412.02,Hydro,high
+SKPPPL DIKCHU HPS,Sikkim,96.0,Hydro,high
+SKS BINJKOTE TPP,Chhattisgarh,600.0,Steam,high
+SPL SASAN UMTPP,Madhya PraPdreivsahte Sector,3960.0,Steam,low
+SPPL GODAVARI CCPP,Andhra PradPerisvhate Sector,208.0,GT-Gas,low
+SPPL SHIRPUR TPP,MaharashtrParivate Sector,300.0,Steam,low
+SPPL TUTICORIN TPP ST-IV,Tamil Nadu,525.0,Steam,high
+SSNNL S SAROVAR CHPH HPS,Gujarat,250.0,Hydro,high
+SSNNL S SAROVAR RBPH HPS,Gujarat,1200.0,Hydro,high
+ST-CMSECP NEYVELI TPS(Z),Tamil Nadu,250.0,Steam,high
+STPL NASIK (P) TPS,MaharashtrParivate Sector,1350.0,Steam,low
+SVPPL SVPL TPP,Chhattisgarh,63.0,Steam,high
+TANGEDCO ALIYAR HPS,Tamil Nadu,60.0,Hydro,high
+TANGEDCO BASIN BRIDGE GT (Liq.),Tamil Nadu,120.0,GT-Gas,high
+TANGEDCO BHAWANI BARRAGE-II HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO BHAWANI BARRAGE-III HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO BHAWANI KATTAL,Tamil Nadu,30.0,Hydro,high
+TANGEDCO KADAMPARI HPS,Tamil Nadu,400.0,Hydro,high
+TANGEDCO KODAYAR-I HPS,Tamil Nadu,60.0,Hydro,high
+TANGEDCO KODAYAR-II HPS,Tamil Nadu,40.0,Hydro,high
+TANGEDCO KOVIKALPAL CCPP,Tamil Nadu,107.88,GT-Gas,high
+TANGEDCO KUNDAH-I HPS,Tamil Nadu,60.0,Hydro,high
+TANGEDCO KUNDAH-II HPS,Tamil Nadu,175.0,Hydro,high
+TANGEDCO KUNDAH-III HPS,Tamil Nadu,180.0,Hydro,high
+TANGEDCO KUNDAH-IV HPS,Tamil Nadu,100.0,Hydro,high
+TANGEDCO KUNDAH-V HPS,Tamil Nadu,40.0,Hydro,high
+TANGEDCO KUTTALAM CCPP,Tamil Nadu,100.0,GT-Gas,high
+TANGEDCO LOWER METTUR-I HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO LOWER METTUR-II HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO LOWER METTUR-III HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO LOWER METTUR-IV HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO METTUR DAM HPS,Tamil Nadu,50.0,Hydro,high
+TANGEDCO METTUR TPS,Tamil Nadu,840.0,Steam,high
+TANGEDCO METTUR TPS-II,Tamil Nadu,600.0,Steam,high
+TANGEDCO METTUR TUNNEL HPS,Tamil Nadu,200.0,Hydro,high
+TANGEDCO MOYAR HPS,Tamil Nadu,36.0,Hydro,high
+TANGEDCO NARIMANAM GPS,Tamil Nadu,10.0,GT-Gas,high
+TANGEDCO NORTH CHENNAI TPS,Tamil Nadu,1830.0,Steam,high
+TANGEDCO PAPANASAM HPS,Tamil Nadu,32.0,Hydro,high
+TANGEDCO PARSON`S VALLEY HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO PERIYAR HPS,Tamil Nadu,161.0,Hydro,high
+TANGEDCO PYKARA HPS,Tamil Nadu,59.2,Hydro,high
+TANGEDCO PYKARA ULTMATE HPS,Tamil Nadu,150.0,Hydro,high
+TANGEDCO SARKARPATHY HPS,Tamil Nadu,30.0,Hydro,high
+TANGEDCO SHOLAYAR HPS (TN),Tamil Nadu,70.0,Hydro,high
+TANGEDCO SURULIYAR HPS,Tamil Nadu,35.0,Hydro,high
+TANGEDCO TUTICORIN TPS,Tamil Nadu,1050.0,Steam,high
+TANGEDCO VALUTHUR CCPP,Tamil Nadu,186.2,GT-Gas,high
+TATA MAH. BHIRA HPS,Maharashtra,150.0,Hydro,high
+TATA MAH. BHIRA PSS HPS,Maharashtra,150.0,Hydro,high
+TATA MAH. BHIVPURI HPS,Maharashtra,75.0,Hydro,high
+TATA MAH. KHOPOLI HPS,Maharashtra,72.0,Hydro,high
+TATA PCL JOJOBERA TPS,Jharkhand,240.0,Steam,high
+TATA PCL TROMBAY CCPP,MaharashtrParivate Sector,180.0,GT-Gas,low
+TATA PCL TROMBAY TPS,MaharashtrParivate Sector,750.0,Steam,low
+TCP Limited TCP Limited,Tamil Nadu,63.5,Steam,high
+THDC KHURJA STPP,Uttar PradeCshentral Sector,660.0,Steam,low
+THDC KOTESHWAR HPS,Uttarakhand,400.0,Hydro,high
+THDC TEHRI ST-1 HPS,Uttarakhand,1000.0,Hydro,high
+TOR. POW. (SUGEN) SUGEN CCPP,Gujarat,1147.5,GT-Gas,high
+TOR. POW. (UNOSUGEN)DGEN MEGA CCPP,Gujarat,1200.0,GT-Gas,high
+TOR. POW. (UNOSUGEN)SABARMATI (D-F STATIONS),Gujarat,362.0,Steam,high
+TOR. POW. (UNOSUGEN)UNOSUGEN CCPP,Gujarat,382.5,GT-Gas,high
+TPDDL RITHALA CCPP,Delhi,108.0,GT-Gas,high
+TRNE NAWAPARA TPP,Chhattisgarh,600.0,Steam,high
+TSECL BARAMURA GT,Tripura,42.0,GT-Gas,high
+TSECL ROKHIA GT,Tripura,63.0,GT-Gas,high
+TSGENCO BHADRADRI TPP,Telangana,1080.0,Steam,high
+TSGENCO KAKATIYA TPS,Telangana,1100.0,Steam,high
+TSGENCO KOTHAGUDEM TPS (NEW),Telangana,1000.0,Steam,high
+TSGENCO KOTHAGUDEM TPS (STAGE-7),Telangana,800.0,Steam,high
+TSGENCO LOWER JURALA HPS,Telangana,240.0,Hydro,high
+TSGENCO NAGARJUN SGR HPS,Telangana,815.6,Hydro,high
+TSGENCO NAGARJUN SGR LBC HPS,Telangana,60.0,Hydro,high
+TSGENCO POCHAMPAD HPS,Telangana,36.0,Hydro,high
+TSGENCO PRIYADARSHNI JURALA HPS,Telangana,234.0,Hydro,high
+TSGENCO PULICHINTALA HPS,Telangana,120.0,Hydro,high
+TSGENCO RAMAGUNDEM-B TPS,Telangana,62.5,Steam,high
+TSGENCO SRISAILAM LB HPS,Telangana,900.0,Hydro,high
+TSGENCO YADADRI TPS,Telangana,800.0,Steam,high
+TSPL TALWANDI SABO TPP,Punjab,1980.0,Steam,high
+TUL TEESTA-III HPS,Sikkim,1200.0,Hydro,high
+TVNL TENUGHAT TPS,Jharkhand,420.0,Steam,high
+UJVNL CHIBRO (YAMUNA) HPS,Uttarakhand,240.0,Hydro,high
+UJVNL CHILLA HPS,Uttarakhand,144.0,Hydro,high
+UJVNL DHAKRANI HPS,Uttarakhand,33.75,Hydro,high
+UJVNL DHALIPUR HPS,Uttarakhand,51.0,Hydro,high
+UJVNL KHATIMA HPS,Uttarakhand,41.400000000000006,Hydro,high
+UJVNL KHODRI HPS,Uttarakhand,120.0,Hydro,high
+UJVNL KULHAL HPS,Uttarakhand,30.0,Hydro,high
+UJVNL MANERI BHALI-I HPS,Uttarakhand,90.0,Hydro,high
+UJVNL MANERI BHALI-II HPS,Uttarakhand,304.0,Hydro,high
+UJVNL RAMGANGA HPS,Uttarakhand,198.0,Hydro,high
+UJVNL VYASI HPS,Uttarakhand,120.0,Hydro,high
+UPJVNL KHARA HPS,Uttar Pradesh,72.0,Hydro,high
+UPJVNL MATATILA HPS,Uttar Pradesh,30.599999999999998,Hydro,high
+UPJVNL OBRA HPS,Uttar Pradesh,99.0,Hydro,high
+UPJVNL RIHAND HPS,Uttar Pradesh,300.0,Hydro,high
+UPRVUNL ANPARA TPS,Uttar PradeSsthate Sector,2630.0,Steam,low
+UPRVUNL HARDUAGANJ TPS,Uttar PradeSsthate Sector,1265.0,Steam,low
+UPRVUNL JAWAHARPUR STPP,Uttar PradeSsthate Sector,1320.0,Steam,low
+UPRVUNL OBRA TPS,Uttar PradeSsthate Sector,1000.0,Steam,low
+UPRVUNL OBRA-C STPP,Uttar PradeSsthate Sector,660.0,Steam,low
+UPRVUNL PANKI TPS EXT,Uttar PradeSsthate Sector,660.0,Steam,low
+UPRVUNL PARICHHA TPS,Uttar PradeSsthate Sector,920.0,Steam,low
+VEDANTA VEDANTA TPP,Odisha,600.0,Steam,high
+VEMAGIRI VEMAGIRI CCPP,Andhra PradPerisvhate Sector,370.0,GT-Gas,low
+VESPL KATGHORA TPP,Chhattisgarh,35.0,Steam,high
+VIP BUTIBORI TPP,MaharashtrParivate Sector,600.0,Steam,low
+VVL SALORA TPP,Chhattisgarh,135.0,Steam,high
+WBPDC BAKRESWAR TPS,West BengaSltate Sector,1050.0,Steam,low
+WBPDC BANDEL TPS,West BengaSltate Sector,270.0,Steam,low
+WBPDC HALDIA GT (Liq.),West BengaSltate Sector,40.0,GT-Gas,low
+WBPDC KASBA GT (Liq.),West BengaSltate Sector,40.0,GT-Gas,low
+WBPDC KOLAGHAT TPS,West BengaSltate Sector,840.0,Steam,low
+WBPDC SAGARDIGHI TPS,West BengaSltate Sector,1600.0,Steam,low
+WBPDC SANTALDIH TPS,West BengaSltate Sector,500.0,Steam,low
+WBSEDCL JALDHAKA HPS ST-I,West Bengal,36.0,Hydro,high
+WBSEDCL PURULIA PSS HPS,West Bengal,900.0,Hydro,high
+WBSEDCL RAMMAM HPS,West Bengal,50.0,Hydro,high
+WPCL AKALTARA TPS,Chhattisgarh,1800.0,Steam,high
+WPCL WARDHA WARORA TPP,MaharashtrParivate Sector,540.0,Steam,low

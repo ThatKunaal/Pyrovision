@@ -1,0 +1,966 @@
+lat_rounded,long_rounded,days_active,total_detections,has_facility,facility_name,nearest_facility_name,nearest_facility_distance_km
+8.01,80.6,1,1,False,,Ihalagama Buiscut Factory,7.35116700875049
+8.01,81.3,1,1,False,,Unnamed Facility,8.016496242689497
+8.02,80.31,1,1,False,,Unnamed Facility,2.639721642811227
+8.02,80.36,1,1,False,,Unnamed Facility,5.009708435341985
+8.02,80.62,1,2,False,,Ihalagama Buiscut Factory,8.451496067526357
+8.02,80.63,1,1,False,,Muslim Vidyalaya,9.347144584410213
+8.02,81.31,1,1,False,,New Rathna Rice (Pvt) Ltd,8.724464062706026
+8.02,81.42,1,1,True,Children community sentre,Children community sentre,1.4626128227801278
+8.02,81.43,1,2,False,,Children community sentre,2.5725734199397627
+8.03,80.62,1,1,False,,Muslim Vidyalaya,7.9352453012259945
+8.03,80.63,1,1,False,,Muslim Vidyalaya,8.319276675365831
+8.03,81.17,1,2,False,,Unnamed Facility,7.783318412588776
+8.03,81.41,1,1,True,Children community sentre,Children community sentre,1.0544129621562364
+8.04,80.35,1,1,False,,Unnamed Facility,6.469416258836036
+8.04,80.61,1,1,False,,Ihalagama Buiscut Factory,6.543246370041095
+8.05,80.1,1,1,False,,Giribawa Divisional Secretariat Office,13.03826372517896
+8.05,80.25,1,1,False,,Unnamed Facility,3.363191772426647
+8.05,81.32,1,1,False,,Milk kalaking centre,8.795480395932069
+8.06,79.87,1,1,False,,Unnamed Facility,8.013799915146953
+8.06,80.1,1,1,False,,Giribawa Divisional Secretariat Office,12.450333324920074
+8.06,80.25,1,1,False,,Unnamed Facility,4.088798008343548
+8.06,80.64,1,1,False,,Muslim Vidyalaya,6.187600889381802
+8.06,80.65,1,1,False,,Unnamed Facility,6.391681063018108
+8.07,80.61,1,1,False,,Muslim Vidyalaya,3.3604117936491797
+8.07,80.64,1,1,False,,Muslim Vidyalaya,5.478969488406174
+8.08,80.18,1,1,False,,Giribawa Divisional Secretariat Office,4.3957837011260645
+8.08,80.78,1,1,False,,Unnamed Facility,8.257711191187536
+8.09,79.93,1,1,False,,Unnamed Facility,13.302120844198376
+8.09,80.78,1,1,False,,Unnamed Facility,8.551518645479485
+8.09,81.37,1,2,False,,Milk kalaking centre,6.677097029079121
+8.09,81.39,1,1,False,,Milk kalaking centre,5.973210451599454
+8.1,81.1,1,1,False,,Unnamed Facility,15.471963128834913
+8.11,80.6,1,1,True,Muslim Vidyalaya,Muslim Vidyalaya,1.2865755610272882
+8.11,80.81,1,2,False,,Unnamed Facility,12.470527502736005
+8.12,80.15,1,1,False,,Giribawa Divisional Secretariat Office,5.2698834045129574
+8.12,80.52,1,1,False,,Ihalagama Buiscut Factory,7.9245339335181795
+8.12,80.56,1,1,False,,Muslim Vidyalaya,5.029396265261805
+8.12,80.8,1,1,False,,Unnamed Facility,11.987573145445946
+8.12,80.81,2,6,False,,Unnamed Facility,12.956516516807563
+8.12,80.82,1,1,False,,Unnamed Facility,13.946813002456691
+8.13,80.03,1,1,False,,Giribawa Divisional Secretariat Office,18.659342770859464
+8.13,80.1,1,1,False,,Giribawa Divisional Secretariat Office,10.924847734684839
+8.13,80.55,2,2,False,,Muslim Vidyalaya,6.552289120669463
+8.13,80.81,1,1,False,,Unnamed Facility,13.516709904648467
+8.13,80.82,1,1,False,,Unnamed Facility,14.468715192497562
+8.15,80.06,1,1,False,,Giribawa Divisional Secretariat Office,15.726929997739866
+8.15,81.14,1,1,False,,Unnamed Facility,14.413997655331304
+8.16,80.46,1,1,False,,Unnamed Facility,4.702012499760697
+8.16,80.68,1,2,False,,Unnamed Facility,10.986807009325506
+8.17,80.63,1,1,False,,Muslim Vidyalaya,8.63935446745704
+8.17,81.08,1,1,False,,Unnamed Facility,14.011080883278005
+8.17,81.31,1,1,False,,Ice factory,14.131208826252653
+8.18,80.58,1,1,False,,Muslim Vidyalaya,9.33220363247126
+8.19,80.1,1,1,False,,Giribawa Divisional Secretariat Office,13.609904452148088
+8.21,80.58,1,1,False,,Muslim Vidyalaya,12.598800008466917
+8.21,80.69,2,2,False,,Muslim Vidyalaya,15.956063359610733
+8.22,80.98,2,2,False,,Unnamed Facility,8.880889499498503
+8.22,81.08,1,1,False,,Unnamed Facility,11.436105624066911
+8.23,80.33,1,2,False,,Unnamed Facility,4.206211889726049
+8.23,80.6,1,1,False,,Muslim Vidyalaya,14.629707941959419
+8.24,80.11,1,1,False,,Giribawa Divisional Secretariat Office,16.89183039956301
+8.24,80.16,1,1,False,,Giribawa Divisional Secretariat Office,14.437525215930032
+8.24,80.17,1,1,False,,Giribawa Divisional Secretariat Office,14.159179404545688
+8.24,80.64,1,2,False,,Unnamed Facility,14.270102997427749
+8.24,80.65,1,1,False,,Unnamed Facility,14.484043117177839
+8.25,80.26,1,1,False,,Unnamed Facility,10.377807727929325
+8.25,80.33,1,1,False,,Unnamed Facility,2.774642297187973
+8.25,80.78,1,2,False,,Unnamed Facility,22.01530720908473
+8.26,80.11,1,1,False,,Giribawa Divisional Secretariat Office,18.75645284870804
+8.26,80.12,1,1,False,,Giribawa Divisional Secretariat Office,18.20660426339343
+8.26,80.15,1,1,False,,Giribawa Divisional Secretariat Office,16.89216856628019
+8.26,80.25,1,1,False,,Unnamed Facility,11.427536799706637
+8.26,80.26,1,1,False,,Unnamed Facility,10.315590019933532
+8.26,80.32,1,1,False,,Unnamed Facility,3.6439412113836545
+8.27,80.15,1,1,False,,Giribawa Divisional Secretariat Office,17.952435684167604
+8.27,80.33,1,1,False,,Unnamed Facility,2.7561768199096592
+8.28,81.0,1,1,False,,Unnamed Facility,6.58561400038077
+8.29,80.18,1,1,False,,Giribawa Divisional Secretariat Office,19.486364243097096
+8.29,80.2,1,1,False,,Unnamed Facility,17.307288014235066
+8.29,80.58,1,1,False,,Unnamed Facility,9.633545089742794
+8.31,80.6,1,1,False,,Unnamed Facility,6.699012357403958
+8.31,81.01,1,1,False,,Unnamed Facility,4.097048346203192
+8.32,80.23,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,14.787172080815646
+8.32,80.29,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,8.147893772184453
+8.33,80.28,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,9.187969126896709
+8.33,80.77,1,1,False,,Unnamed Facility,17.16015438420774
+8.34,80.27,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,10.363160961571332
+8.35,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,20.432289808664507
+8.35,80.55,1,1,False,,Factory,5.125253170791052
+8.35,80.74,1,3,False,,Unnamed Facility,13.459720426178091
+8.35,80.75,1,1,False,,Unnamed Facility,14.561743124947366
+8.36,80.59,1,1,False,,Unnamed Facility,3.4334865403149846
+8.36,80.75,1,1,False,,Unnamed Facility,14.461326734550893
+8.37,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,20.79559073535908
+8.37,80.21,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,17.55276718199653
+8.37,80.22,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,16.480080127259416
+8.38,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,21.063118267475225
+8.39,80.21,1,2,False,,Design Studio Manufacturing (Pvt) Ltd,18.247443994210947
+8.39,80.29,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,10.495551436218205
+8.39,80.3,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,9.666069725810017
+8.39,80.79,1,1,False,,Unnamed Facility,19.06498749550758
+8.39,81.02,1,1,False,,Unnamed Facility,8.610050324267991
+8.39,81.03,1,1,False,,Unnamed Facility,8.300750994608332
+8.4,80.43,2,3,True,AgStar Grains (Pvt) Ltd,AgStar Grains (Pvt) Ltd,1.9725790978595799
+8.4,80.63,1,1,False,,Unnamed Facility,3.853112333104358
+8.4,80.68,1,1,False,,Unnamed Facility,7.613745049470147
+8.4,81.04,1,1,False,,Unnamed Facility,9.241429859950227
+8.4,81.06,2,3,False,,Unnamed Facility,9.343839603931618
+8.41,81.06,1,2,False,,Unnamed Facility,10.442193104794963
+8.42,80.34,1,1,False,,Unnamed Facility,8.475611483382105
+8.42,80.38,1,1,False,,Unnamed Facility,6.344999733923962
+8.42,80.42,1,1,False,,AgStar Grains (Pvt) Ltd,4.33527268435842
+8.42,80.45,1,1,False,,AgStar Grains (Pvt) Ltd,4.760132040624539
+8.43,80.35,2,2,False,,Unnamed Facility,8.675714737407356
+8.43,80.38,1,2,False,,Unnamed Facility,7.436033446872451
+8.43,80.46,1,2,False,,industrial ground area,5.065170711941783
+8.43,80.51,1,4,True,industrial ground area,industrial ground area,1.3716272123928819
+8.43,80.56,1,1,False,,open areas,6.1026715544223125
+8.43,80.84,1,1,False,,Unnamed Facility,25.439551460097906
+8.44,80.67,1,1,False,,Unnamed Facility,9.85067076061601
+8.44,81.09,1,1,False,,Unnamed Facility,14.507728367038013
+8.44,81.1,1,1,False,,Unnamed Facility,14.918234455051701
+8.45,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,24.3163236644368
+8.45,80.22,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,20.746567029800076
+8.45,80.24,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,19.100404211950927
+8.45,80.66,1,1,False,,Unnamed Facility,10.260589332662486
+8.45,81.1,1,1,False,,Unnamed Facility,15.727511975204065
+8.46,80.4,1,1,False,,AgStar Grains (Pvt) Ltd,9.257135965463048
+8.46,80.5,2,2,True,open areas,open areas,1.9639888505563106
+8.46,80.51,1,1,True,open areas,open areas,1.8431027628938497
+8.46,80.63,1,1,False,,Unnamed Facility,10.422999979556408
+8.46,80.79,1,1,False,,Unnamed Facility,21.546305009951197
+8.46,80.81,1,1,False,,Unnamed Facility,23.520317241039578
+8.46,81.1,1,1,False,,Unnamed Facility,14.937405948111824
+8.46,81.11,1,2,False,,Unnamed Facility,14.155769238392823
+8.46,81.12,1,1,False,,Unnamed Facility,13.420818579538977
+8.47,80.49,1,2,False,,open areas,3.471523762599113
+8.47,80.66,1,1,False,,Unnamed Facility,12.303699395497862
+8.47,80.83,1,1,False,,Kebitigollewa Bus Depot,25.9430903602339
+8.48,80.33,1,1,False,,Unnamed Facility,14.602011981331263
+8.48,80.46,2,2,False,,industrial ground area,6.564099959492086
+8.48,80.5,1,1,False,,open areas,4.105166391282812
+8.48,80.76,1,1,False,,Unnamed Facility,20.009839626764073
+8.48,80.79,1,1,False,,Kebitigollewa Bus Depot,22.304394592861197
+8.48,80.8,1,1,False,,Kebitigollewa Bus Depot,22.960934363705753
+8.48,80.83,2,3,False,,Kebitigollewa Bus Depot,25.123637216958468
+8.49,80.47,1,1,False,,open areas,6.578533373513607
+8.49,80.74,1,1,False,,Kebitigollewa Bus Depot,18.61753425400146
+8.49,80.75,1,1,False,,Kebitigollewa Bus Depot,19.077912849361564
+8.49,80.76,1,1,False,,Kebitigollewa Bus Depot,19.590655885371202
+8.49,80.82,1,1,False,,Kebitigollewa Bus Depot,23.551775797048542
+8.5,80.21,1,1,False,,Unnamed Facility,25.243556526393913
+8.5,80.25,1,1,False,,Unnamed Facility,21.841962730213172
+8.5,80.62,1,1,False,,open areas,14.050807842601618
+8.5,80.66,1,1,False,,Unnamed Facility,15.462195006655483
+8.5,80.74,1,1,False,,Kebitigollewa Bus Depot,17.598622558415947
+8.51,80.16,1,2,False,,Design Studio Manufacturing (Pvt) Ltd,30.158465103361685
+8.51,80.18,1,1,False,,Design Studio Manufacturing (Pvt) Ltd,28.535312628758465
+8.51,80.24,1,1,False,,Unnamed Facility,23.414140289166504
+8.51,80.54,1,1,False,,open areas,8.239407953339766
+8.51,80.55,1,1,False,,open areas,8.793126200631141
+8.51,80.6,1,1,False,,open areas,12.710945216938978
+8.51,80.76,1,1,False,,Kebitigollewa Bus Depot,17.676666226148832
+8.51,80.77,1,1,False,,Kebitigollewa Bus Depot,18.29656881888412
+8.51,80.79,1,1,False,,Kebitigollewa Bus Depot,19.666794881679998
+8.51,80.83,1,1,False,,Kebitigollewa Bus Depot,22.814336496452388
+8.52,80.28,1,1,False,,Unnamed Facility,21.33124085174764
+8.52,80.42,1,1,False,,industrial ground area,12.848162913648762
+8.52,80.6,1,1,False,,open areas,13.386320566005693
+8.52,80.82,1,1,False,,Kebitigollewa Bus Depot,21.24621220324585
+8.53,80.43,1,3,False,,open areas,12.848231231801302
+8.53,80.83,1,1,False,,Kebitigollewa Bus Depot,21.425595207466156
+8.54,80.43,1,1,False,,open areas,13.698475114343065
+8.54,80.52,1,1,False,,open areas,10.80457854437358
+8.54,80.77,1,1,False,,Kebitigollewa Bus Depot,15.694489300033329
+8.54,80.85,1,1,False,,Kebitigollewa Bus Depot,22.66581681959648
+8.54,80.88,1,1,False,,Kebitigollewa Bus Depot,25.589545275149018
+8.55,80.37,1,1,False,,industrial ground area,19.233727079476473
+8.55,80.64,1,1,False,,Kebitigollewa Bus Depot,11.169815634057677
+8.55,80.75,1,1,False,,Kebitigollewa Bus Depot,13.403480866936526
+8.56,80.63,1,1,False,,Kebitigollewa Bus Depot,10.608873568088091
+8.56,80.66,1,1,False,,Kebitigollewa Bus Depot,9.509198656113753
+8.56,80.72,1,1,False,,Kebitigollewa Bus Depot,10.627580332276768
+8.56,80.73,1,1,False,,Kebitigollewa Bus Depot,11.196156305772883
+8.56,80.74,1,1,False,,Kebitigollewa Bus Depot,11.842095704303219
+8.56,80.75,1,1,False,,Kebitigollewa Bus Depot,12.553461979023718
+8.56,80.87,1,1,False,,Kebitigollewa Bus Depot,23.637317830600377
+8.56,80.9,1,1,False,,Kebitigollewa Bus Depot,26.7328551331131
+8.57,80.4,1,2,False,,open areas,18.394207648142395
+8.57,80.59,1,1,False,,Kebitigollewa Bus Depot,12.53295765423804
+8.57,80.78,1,1,False,,Kebitigollewa Bus Depot,14.314261536315009
+8.57,80.84,1,1,False,,Kebitigollewa Bus Depot,20.136155954229714
+8.57,80.9,1,1,False,,Kebitigollewa Bus Depot,26.363886553745626
+8.58,80.36,1,1,False,,Vavunia Apparels,19.20115401719408
+8.58,80.37,1,2,False,,Vavunia Apparels,18.720259561845484
+8.58,80.78,1,1,False,,Kebitigollewa Bus Depot,13.70328122469506
+8.59,80.52,1,1,False,,open areas,16.33057641414422
+8.59,80.64,1,1,False,,Kebitigollewa Bus Depot,7.165639440166107
+8.6,77.97,1,1,False,,Unnamed Facility,5.770938781372742
+8.6,80.56,1,1,False,,Kebitigollewa Bus Depot,13.681833285765098
+8.6,80.84,1,1,False,,Kebitigollewa Bus Depot,19.013912343837017
+8.61,80.49,1,2,False,,Vavunia Apparels,14.886769197904552
+8.61,80.83,1,1,False,,Kebitigollewa Bus Depot,17.66972961223342
+8.61,80.97,1,1,False,,Eastern Salt Corporation,25.400786507485357
+8.61,80.98,1,1,False,,Unnamed Facility,24.31186082822462
+8.62,77.99,1,1,False,,Unnamed Facility,6.860050919883869
+8.62,80.37,1,1,False,,Vavunia Apparels,14.772238322831655
+8.62,80.41,1,1,False,,Vavunia Apparels,13.038514423543292
+8.62,80.69,1,1,False,,Kebitigollewa Bus Depot,3.1786852469028664
+8.62,80.7,1,1,False,,Kebitigollewa Bus Depot,3.8850875377901426
+8.63,80.37,1,1,False,,Vavunia Apparels,13.83271150834841
+8.63,80.42,1,1,False,,Vavunia Apparels,11.715624403417472
+8.63,80.51,1,1,False,,Vavunia Apparels,13.98884156056085
+8.63,80.52,1,2,False,,Globe Mill,14.408001932606238
+8.63,80.68,1,1,True,Kebitigollewa Bus Depot,Kebitigollewa Bus Depot,1.6832057712334292
+8.63,80.8,1,1,False,,Kebitigollewa Bus Depot,14.00878765208791
+8.63,80.99,1,1,False,,Eastern Salt Corporation,22.258832576962973
+8.63,81.0,2,2,False,,Eastern Salt Corporation,21.449136488596945
+8.63,81.01,2,4,False,,Eastern Salt Corporation,20.6675626735692
+8.63,81.02,1,2,False,,Eastern Salt Corporation,19.917422021128605
+8.64,78.06,1,2,False,,Unnamed Facility,4.024650900203379
+8.64,80.64,1,1,False,,Kebitigollewa Bus Depot,3.9003590088210958
+8.64,80.65,1,1,False,,Kebitigollewa Bus Depot,2.799706049499345
+8.64,81.0,1,2,False,,Eastern Salt Corporation,20.68821043399773
+8.64,81.01,2,2,False,,Eastern Salt Corporation,19.876738709376408
+8.65,80.33,1,1,False,,Vavunia Apparels,15.257595619354909
+8.65,80.63,1,1,False,,Kebitigollewa Bus Depot,5.025134681101511
+8.65,80.86,1,1,False,,Kebitigollewa Bus Depot,20.60092350618831
+8.65,80.87,1,2,False,,Kebitigollewa Bus Depot,21.712359945532167
+8.65,81.01,1,1,False,,Eastern Salt Corporation,19.117902576329527
+8.65,81.06,1,1,False,,Eastern Salt Corporation,15.427267672856248
+8.66,80.48,1,1,False,,Vavunia Apparels,9.389700278393224
+8.66,80.5,1,1,False,,Vavunia Apparels,10.654371629393179
+8.66,80.51,1,1,False,,Globe Mill,10.89595141549427
+8.66,80.83,1,1,False,,Kebitigollewa Bus Depot,17.344001262789526
+8.67,77.4,1,1,False,,Madura Coats,4.72821731829659
+8.67,80.26,1,1,False,,Vavunia Apparels,21.09923371048648
+8.67,80.84,1,3,False,,Kebitigollewa Bus Depot,18.589295628049076
+8.68,80.7,1,1,False,,Kebitigollewa Bus Depot,4.864535798821688
+8.68,80.81,1,1,False,,Kebitigollewa Bus Depot,15.548670077571098
+8.69,80.35,1,1,False,,Vavunia Apparels,10.998571266396096
+8.69,80.36,1,2,False,,Vavunia Apparels,10.012967094251099
+8.69,80.38,1,1,False,,Vavunia Apparels,8.140023176537682
+8.69,80.8,1,1,False,,Kebitigollewa Bus Depot,14.820698664260199
+8.69,81.02,1,2,False,,Eastern Salt Corporation,15.53757394935467
+8.7,77.8,1,1,False,,Unnamed Facility,7.326528085915746
+8.7,80.29,1,1,False,,Vavunia Apparels,16.958418479375283
+8.7,80.4,1,1,False,,Vavunia Apparels,5.708486048902047
+8.7,80.86,2,3,False,,Kebitigollewa Bus Depot,21.504658364828348
+8.7,80.87,1,1,False,,Kebitigollewa Bus Depot,22.571638320788978
+8.7,81.02,1,2,False,,Eastern Salt Corporation,14.972974759224106
+8.7,81.13,1,1,False,,Eastern Salt Corporation,7.246376463561468
+8.72,80.77,1,1,False,,Kebitigollewa Bus Depot,13.527873452665165
+8.73,77.86,1,1,False,,Unnamed Facility,11.507285766091515
+8.73,80.96,1,1,False,,Eastern Salt Corporation,20.17691925057014
+8.75,77.44,1,1,False,,Unnamed Facility,3.469391819715257
+8.75,80.53,2,4,False,,Globe Mill,5.105608718905022
+8.75,80.54,2,3,False,,Globe Mill,6.213037373373784
+8.75,81.0,1,1,False,,Eastern Salt Corporation,15.443882573920037
+8.76,78.1,1,1,True,Unnamed Facility,Unnamed Facility,1.8116291964700757
+8.77,80.1,1,1,False,,SEPTAGE TREATMENT PLANT,25.343792320069586
+8.79,80.33,1,1,False,,Vavunia Apparels,13.617388593361518
+8.79,80.34,1,1,False,,Vavunia Apparels,12.640351559453519
+8.79,80.56,1,1,False,,Unnamed Facility,4.462936288384465
+8.79,80.59,1,1,False,,Unnamed Facility,6.820728488220951
+8.8,80.39,1,2,False,,Vavunia Apparels,9.152105895726969
+8.8,80.56,1,1,False,,Unnamed Facility,3.56022568107491
+8.8,80.57,1,1,False,,Unnamed Facility,4.366981049860171
+8.8,80.59,1,1,False,,Unnamed Facility,6.267355398893161
+8.81,77.84,1,1,False,,Unnamed Facility,7.717142850001863
+8.81,80.57,1,1,False,,Unnamed Facility,3.7816388534793206
+8.81,80.58,1,1,False,,Unnamed Facility,4.813415767424872
+8.81,80.85,1,1,False,,Kebitigollewa Bus Depot,26.818306720081573
+8.81,81.0,1,3,False,,Eastern Salt Corporation,16.163913569009033
+8.82,81.0,1,1,False,,Eastern Salt Corporation,16.544492101078927
+8.83,80.47,1,1,False,,Unnamed Facility,7.713984496259495
+8.83,80.86,1,1,False,,Kebitigollewa Bus Depot,29.166953197844343
+8.83,80.99,1,1,False,,Eastern Salt Corporation,18.000871362910157
+8.84,80.45,1,1,False,,Unnamed Facility,10.064486513113861
+8.85,77.7,1,1,False,,Unnamed Facility,4.193739183972655
+8.85,80.33,1,1,False,,Vavunia Apparels,17.706141922830522
+8.85,80.74,1,2,False,,Unnamed Facility,22.517078228534654
+8.87,80.74,1,1,False,,Unnamed Facility,22.905912677119787
+8.88,80.66,1,1,False,,Unnamed Facility,14.798292983005965
+8.89,77.41,1,1,False,,Unnamed Facility,10.209281160122014
+8.89,80.59,1,1,False,,Unnamed Facility,9.239870582075826
+8.89,80.86,1,1,False,,Eastern Salt Corporation,33.92034874362798
+8.9,80.88,1,2,False,,Eastern Salt Corporation,32.407085227168096
+8.91,80.88,1,2,False,,Eastern Salt Corporation,32.93817012248691
+8.92,80.45,1,1,False,,Unnamed Facility,14.54330707703598
+8.92,80.54,1,1,False,,Unnamed Facility,10.643087074674252
+8.92,80.69,1,1,False,,Unnamed Facility,19.866296257636826
+8.92,80.79,1,1,False,,Unnamed Facility,29.855883889024824
+8.92,80.88,1,1,False,,Eastern Salt Corporation,33.49775800642684
+8.93,77.47,1,1,False,,Unnamed Facility,9.072395920926336
+8.93,80.78,1,1,False,,Unnamed Facility,29.248591961161676
+8.93,80.79,1,1,False,,Unnamed Facility,30.27009117645353
+8.94,77.83,1,1,True,Unnamed Facility,Unnamed Facility,0.6693553636340105
+8.94,80.38,1,1,False,,Unnamed Facility,21.878601576991436
+8.94,80.78,1,3,False,,Unnamed Facility,29.712919935420455
+8.94,80.89,2,3,False,,Eastern Salt Corporation,33.78283886848995
+8.95,80.46,1,1,False,,Unnamed Facility,16.517688993799958
+8.95,80.81,1,1,False,,Unnamed Facility,33.20423774455114
+8.95,80.87,1,1,False,,Eastern Salt Corporation,36.24267797112895
+8.96,80.58,1,1,False,,Unnamed Facility,15.759647405650258
+8.96,80.59,1,1,False,,Unnamed Facility,16.115443761332365
+8.96,80.77,1,1,False,,Unnamed Facility,29.77760452242687
+8.96,80.88,1,1,False,,Eastern Salt Corporation,35.993546319265384
+8.97,80.38,1,1,False,,Unnamed Facility,23.992557578404462
+8.97,80.59,1,1,False,,Unnamed Facility,17.161107016440823
+8.97,80.82,1,1,False,,Unnamed Facility,35.18319982337608
+8.97,80.89,1,1,False,,Eastern Salt Corporation,35.81179654024181
+8.98,80.59,1,2,False,,Unnamed Facility,18.214623871414588
+8.98,80.79,1,1,False,,Unnamed Facility,32.83130274821085
+8.98,80.83,1,2,False,,Unnamed Facility,36.68536787396811
+9.0,80.66,1,1,False,,Unnamed Facility,23.714054942223424
+9.0,80.78,1,1,False,,Unnamed Facility,33.15196218244138
+9.0,80.81,1,1,False,,Unnamed Facility,35.90078060340074
+9.04,80.45,1,1,False,,Unnamed Facility,25.953267612367448
+9.08,80.41,1,1,False,,Unnamed Facility,26.188432798930048
+9.08,80.47,1,1,False,,Unnamed Facility,27.288026750400125
+9.1,77.46,1,2,False,,Unnamed Facility,11.319253713129326
+9.1,80.49,1,1,False,,Unnamed Facility,25.934194372375533
+9.18,77.53,1,1,False,,Unnamed Facility,8.037602846893677
+9.18,78.23,1,2,False,,Unnamed Facility,11.690352201698946
+9.2,77.64,1,1,False,,Unnamed Facility,9.016630118056487
+9.21,80.63,1,1,False,,'Modern Rice Mill',18.818935413436183
+9.22,80.32,2,2,False,,Unnamed Facility,13.863817495934935
+9.22,80.67,1,1,False,,'Modern Rice Mill',19.847264397984627
+9.23,78.75,1,1,False,,Unnamed Facility,16.150909525314308
+9.24,77.46,1,1,False,,Unnamed Facility,6.916147695032019
+9.26,80.72,1,1,False,,Unnamed Facility,19.856662571960975
+9.31,78.8,1,1,False,,Unnamed Facility,6.751410647013158
+9.33,77.7,1,1,False,,Unnamed Facility,5.452561603418725
+9.34,76.6,1,1,False,,thappurackal chicken center,2.7455434482177665
+9.34,77.67,1,1,False,,Unnamed Facility,3.9193453422983193
+9.35,77.67,1,2,False,,Unnamed Facility,2.8548517937791287
+9.35,78.82,1,1,False,,Unnamed Facility,3.9709105018646245
+9.38,80.32,1,1,False,,Unnamed Facility,11.471089134449826
+9.38,80.43,1,1,False,,Unnamed Facility,7.034730559054858
+9.38,80.52,2,2,False,,Unnamed Facility,4.182196964279787
+9.39,78.89,1,1,False,,Unnamed Facility,2.7844663600053505
+9.39,80.47,1,1,False,,Unnamed Facility,4.144199975866307
+9.4,80.45,1,2,False,,Unnamed Facility,6.3884688327666845
+9.4,80.46,1,1,False,,Unnamed Facility,5.684331500745921
+9.41,80.43,1,1,False,,Unnamed Facility,8.764415914707934
+9.41,80.46,1,1,False,,Unnamed Facility,6.625229886464169
+9.41,80.58,1,2,False,,Unnamed Facility,3.1456066304630936
+9.42,80.46,1,2,False,,Unnamed Facility,7.612396457681611
+9.45,80.5,1,1,False,,Unnamed Facility,10.279857293730844
+9.46,80.48,1,1,False,,Unnamed Facility,11.37161407042759
+9.48,78.22,1,1,True,Unnamed Facility,Unnamed Facility,1.2416768318517335
+9.53,78.65,1,1,False,,Unnamed Facility,3.5697120165633365
+9.56,78.24,1,1,False,,Tiruchuli,4.43235296543055
+9.62,77.48,1,1,False,,Venniar Tea Factory,17.905643718105072
+9.62,78.12,1,1,False,,Unnamed Facility,7.458711761068133
+9.63,80.33,1,1,False,,Tokyo Cement Batching Plant,9.070774192139815
+9.69,77.82,1,1,True,Unnamed Facility,Unnamed Facility,0.21884870243221405
+9.76,79.02,1,1,False,,Unnamed Facility,14.353177245852239
+9.76,80.19,1,1,False,,Unnamed Facility,4.781873286843659
+9.78,77.52,1,1,False,,Unnamed Facility,19.98970185892853
+9.78,80.19,1,1,False,,Unnamed Facility,6.227952408865211
+9.84,77.44,1,2,False,,Unnamed Facility,11.62404709546903
+9.94,77.49,1,1,False,,Unnamed Facility,4.800895417624865
+9.95,77.49,1,1,False,,Unnamed Facility,4.8188819231292435
+9.96,79.1,1,1,False,,Unnamed Facility,29.405733799456307
+9.96,79.11,1,1,False,,Unnamed Facility,30.27526107185267
+10.13,79.13,1,1,False,,Unnamed Facility,22.98202961635054
+10.17,78.79,1,1,False,,Unnamed Facility,4.992653083629614
+10.17,78.8,1,1,False,,Unnamed Facility,5.7441050930875255
+10.27,77.25,1,3,False,,Unnamed Facility,17.235619086755342
+10.27,77.26,1,2,False,,Unnamed Facility,16.736498163600473
+10.28,78.88,1,1,False,,Unnamed Facility,9.78765955330781
+10.31,79.34,1,1,False,,Thasim Rice Mil,5.586421583858575
+10.42,79.25,1,2,False,,Thasim Rice Mil,17.295166518465553
+10.43,79.25,1,1,False,,Thasim Rice Mil,17.90876753412978
+10.44,77.51,1,1,True,Unnamed Facility,Unnamed Facility,1.479429189155644
+10.54,79.22,1,1,False,,Unnamed Facility,9.507473095470251
+10.62,77.42,3,3,True,Unnamed Facility,Unnamed Facility,1.6843706808241379
+10.62,77.5,1,1,False,,Unnamed Facility,6.566793010433493
+10.66,77.38,1,1,False,,Unnamed Facility,3.08920218051025
+10.71,79.43,1,1,False,,Unnamed Facility,4.650371443091779
+10.76,79.56,1,1,False,,Unnamed Facility,3.8531607068174885
+10.79,79.03,1,1,False,,Waste Water Treatment Plant,7.137362702350781
+10.83,78.83,1,1,False,,Unnamed Facility,4.142292041541675
+10.83,79.18,1,1,False,,Central Warehouse Corporation,10.217443669966942
+10.83,79.19,1,1,False,,Central Warehouse Corporation,10.983180283500731
+10.86,78.95,1,1,False,,Unnamed Facility,7.5815633790792
+10.88,79.25,1,1,False,,Welding Shop,9.005586440624809
+10.91,77.42,1,1,False,,Unnamed Facility,5.128644207783891
+10.93,77.07,1,1,False,,Unnamed Facility,2.0169585499871245
+10.99,78.22,1,1,False,,Unnamed Facility,5.073354223408787
+11.01,77.13,1,1,True,Unnamed Facility,Unnamed Facility,1.1974515675097486
+11.17,79.59,1,1,False,,Lanco Tanjore Power Plant,8.665225510943756
+11.19,79.82,1,1,False,,Pillaiperumalnallur Gas Power Plant,12.914268411044379
+11.27,80.0,1,1,False,,Unnamed Facility,27.29523403831348
+11.42,77.48,1,1,False,,Coirmedia,4.900449060113612
+11.45,79.55,1,1,True,Unnamed Facility,Unnamed Facility,0.25592795195546164
+11.48,77.62,1,2,False,,Unnamed Facility,5.304175255657665
+11.49,78.88,1,1,True,Unnamed Facility,Unnamed Facility,0.3367774358554398
+11.56,77.71,1,1,False,,Lower Mettur Barrage III Power House,3.936667414709528
+11.57,79.64,1,1,False,,Unnamed Facility,3.2778466869544993
+11.64,77.66,1,1,False,,Unnamed Facility,8.199090775503464
+11.72,76.97,1,1,False,,Unnamed Facility,21.904672461197112
+11.72,79.2,1,1,False,,IOCL Asanur,11.970135112247794
+11.72,79.21,1,1,False,,IOCL Asanur,12.144544213292546
+11.73,76.77,1,1,False,,Moyar Hydroelectric Power Station,15.525932237873029
+11.77,76.94,1,2,False,,Unnamed Facility,16.106285616855118
+11.81,79.63,1,1,False,,EID Parry & Company,6.0008184146656625
+11.82,77.92,1,1,True,JSW Steel Plant,JSW Steel Plant,0.6449436455612516
+11.86,78.73,1,1,False,,Chilling Plant,6.776129368412113
+11.89,78.72,1,1,False,,Chilling Plant,7.597731796288016
+11.91,78.92,1,1,False,,Kallakurichi Coop Sugar Mills,17.90459187868248
+11.96,78.8,1,2,False,,Chilling Plant,19.405793119481913
+12.05,78.37,1,1,False,,Unnamed Facility,14.433806623573398
+12.06,77.02,1,1,False,,T.N.Pura,6.616010481398137
+12.09,76.79,1,1,False,,Unnamed Facility,3.3168978608257764
+12.09,76.8,1,1,False,,Unnamed Facility,3.455618798454877
+12.09,79.03,1,1,False,,Kallakurichi Coop Sugar Mills,7.184672714121058
+12.1,76.79,1,1,False,,Bannari Amman,3.3394378032582446
+12.1,76.8,1,1,False,,Bannari Amman,4.439282759195401
+12.1,77.06,1,1,False,,T.N.Pura,12.1681011090893
+12.6,76.35,1,1,False,,Unnamed Facility,11.794715113721637
+12.63,79.35,1,1,False,,Unnamed Facility,7.213733823945134
+12.63,79.79,1,1,False,,Unnamed Facility,4.437705457902137
+12.69,79.23,1,1,False,,Unnamed Facility,7.852162154882681
+12.74,77.62,2,2,True,Unnamed Facility,Unnamed Facility,0.6365627667449818
+12.75,92.88,1,1,False,,Unnamed Facility,10.325851073461102
+12.81,77.76,1,1,False,,Unnamed Facility,2.153573793384796
+12.81,79.96,1,1,False,,Unnamed Facility,3.233080904333912
+12.84,79.94,1,1,True,Renault Nissan,Renault Nissan,0.527196156921601
+12.86,79.94,1,2,True,Unnamed Facility,Unnamed Facility,0.3228309811948297
+12.87,80.07,1,1,True,Unnamed Facility,Unnamed Facility,0.9977624974255889
+12.93,76.33,1,1,False,,Unnamed Facility,6.018699716783796
+13.14,79.26,1,1,False,,Unnamed Facility,8.562697797016202
+13.16,80.28,2,3,True,Unnamed Facility,Unnamed Facility,0.8378968505987712
+13.16,80.29,1,2,True,Unnamed Facility,Unnamed Facility,0.43219821543799647
+13.29,78.12,1,1,False,,Unnamed Facility,12.49303252909412
+13.3,80.07,1,2,True,Unnamed Facility,Unnamed Facility,1.2021529306561891
+13.34,77.91,1,1,False,,Unnamed Facility,2.337011803849985
+13.39,78.55,1,1,False,,"APSRTC Bus Depot , Punganur",3.1150136084004805
+13.39,78.56,1,1,False,,"APSRTC Bus Depot , Punganur",2.748597471991255
+13.39,80.08,1,1,True,Unnamed Facility,Unnamed Facility,0.501513256637879
+13.39,80.1,1,1,True,Unnamed Facility,Unnamed Facility,0.9731554087224712
+13.42,75.98,1,1,False,,Unnamed Facility,18.52037119340938
+13.67,78.36,1,1,False,,Unnamed Facility,9.84204725672759
+13.71,79.62,2,2,True,Unnamed Facility,Unnamed Facility,1.407101181962381
+13.77,76.63,1,1,False,,Unnamed Facility,9.368158692409553
+13.87,79.33,1,1,False,,Sri Varsha Food Products India ltd. (Maaza Juice Factory),8.724759325470515
+13.89,77.38,1,1,False,,Unnamed Facility,6.471775543191944
+13.9,76.56,2,2,True,Unnamed Facility,Unnamed Facility,0.658447329230921
+13.91,78.07,1,1,False,,Unnamed Facility,12.393895474764607
+13.93,78.32,1,2,False,,Ahalia Arkha Solar Power Private Limited,15.616010018336794
+13.98,78.95,1,1,False,,Unnamed Facility,11.626577185234435
+13.99,78.45,1,1,False,,Unnamed Facility,3.89221699889111
+14.04,80.13,1,1,True,Unnamed Facility,Unnamed Facility,1.606900961435475
+14.07,79.44,1,1,False,,Unnamed Facility,12.603660090857455
+14.15,77.59,1,2,False,,Unnamed Facility,2.4540791987486874
+14.21,79.23,1,1,False,,"APSRTC Bus Depot , Rajampeta",8.481760804983361
+14.28,76.64,1,1,False,,Unnamed Facility,9.05605579898903
+14.3,77.58,1,1,False,,Unnamed Facility,14.530067141671488
+14.3,79.05,1,1,False,,"APSRTC Bus Depot , Rajampeta",16.159015762833402
+14.36,78.78,1,2,False,,Gas storage,11.682723937240816
+14.47,77.34,1,1,False,,Kambadur,17.515632268108988
+14.48,77.53,1,1,False,,Unnamed Facility,6.803539565820397
+14.53,79.06,1,1,False,,Unnamed Facility,18.263555021836513
+14.55,77.49,1,1,False,,Unnamed Facility,6.6315912587782515
+14.57,79.94,1,3,False,,Unnamed Facility,3.836705840412377
+14.59,76.57,1,1,False,,Unnamed Facility,5.890088371638015
+14.59,78.58,1,1,True,Unnamed Facility,Unnamed Facility,0.29265913330107135
+14.61,78.52,1,1,True,Unnamed Facility,Unnamed Facility,0.5208596220862328
+14.65,75.44,1,1,False,,Unnamed Facility,8.494458039183355
+14.67,79.0,1,1,False,,"APSRTC Bus Depot , Badvel",10.134081431245225
+14.67,79.77,1,1,False,,"APSRTC Bus Depot , Atmakur (N)",17.36631959740643
+14.69,79.74,1,2,False,,"APSRTC Bus Depot , Atmakur (N)",15.134790491944301
+14.77,77.05,1,1,False,,Veerapuram,11.002724405001317
+14.78,79.66,1,1,False,,Unnamed Facility,16.650478068851147
+14.78,79.8,1,1,False,,BMR shrimp processing plant,21.79643012599087
+14.87,78.05,1,1,True,Arjas Steel Plant,Arjas Steel Plant,0.7783367648849236
+14.88,78.05,1,1,True,Arjas Steel Plant,Arjas Steel Plant,0.729056468875156
+14.89,79.23,2,2,False,,"APSRTC Bus Depot, Udayagiri",7.727015340318778
+14.9,77.5,1,1,False,,Unnamed Facility,20.642264881403825
+14.95,75.19,1,1,True,Jakkanakatti,Jakkanakatti,1.6748107687299139
+14.96,75.92,1,1,False,,KSRTC Depot,6.6989958885160625
+14.96,79.64,1,2,False,,Unnamed Facility,12.778047110675056
+15.02,78.01,1,1,True,Ultratech Cement Limited,Ultratech Cement Limited,0.5096075047960658
+15.02,78.02,1,1,True,Ultratech Cement Limited,Ultratech Cement Limited,0.6092831038038965
+15.05,77.11,1,1,False,,Unnamed Facility,13.00397242670596
+15.07,76.86,1,1,True,Unnamed Facility,Unnamed Facility,0.8046398741085554
+15.07,76.87,3,3,True,Unnamed Facility,Unnamed Facility,0.2377141591091587
+15.09,77.32,2,2,False,,"APSRTC Bus Depot , Guntakal",8.970509040038655
+15.12,94.78,1,2,False,,Unnamed Facility,85.23064775528798
+15.13,94.78,1,2,False,,Unnamed Facility,84.23655689331804
+15.14,76.71,1,1,True,Metallurgical Products India Pvt Ltd,Metallurgical Products India Pvt Ltd,0.16854036143462114
+15.16,78.87,1,1,False,,"APSRTC Bus Depot, Giddalur",25.14944712942283
+15.17,76.38,3,6,True,Danapuram BMM Captive Power Plant 1,Danapuram BMM Captive Power Plant 1,0.34613343777723676
+15.17,76.66,2,5,True,Jindal Steel Works,Jindal Steel Works,1.6767233453692179
+15.17,76.67,1,2,True,Jindal Steel Works,Jindal Steel Works,1.312290103263711
+15.17,76.68,1,1,True,Unnamed Facility,Unnamed Facility,1.597388938616586
+15.17,76.69,2,2,False,,Unnamed Facility,2.2624806450149246
+15.17,76.79,1,1,True,Agarwal Sponge Iron,Agarwal Sponge Iron,0.617494287604707
+15.18,76.64,1,1,False,,Vijayanagar Toranagallu Power Station,2.802759671687565
+15.18,76.65,2,2,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,1.7283266344459272
+15.18,76.66,3,10,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,0.7691725916396359
+15.18,76.67,3,8,True,Jindal Steel Works,Jindal Steel Works,0.20939873274966145
+15.18,76.68,2,3,True,Jindal Steel Works,Jindal Steel Works,1.1947444537622633
+15.18,77.1,4,5,True,Unnamed Facility,Unnamed Facility,0.5415408127744822
+15.19,76.32,1,2,False,,Danapuram BMM Captive Power Plant 1,6.6899158167524835
+15.19,76.65,1,1,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,1.722069936758326
+15.19,76.66,1,1,True,Vijayanagar Toranagallu Power Station,Vijayanagar Toranagallu Power Station,0.7550088658295835
+15.23,76.76,2,3,True,Shatavahana Kudatini Steels,Shatavahana Kudatini Steels,0.7668000098419461
+15.23,76.77,2,2,True,Shatavahana Kudatini Steels,Shatavahana Kudatini Steels,0.7878126469132357
+15.3,76.22,2,2,True,Unnamed Facility,Unnamed Facility,0.3129912792341891
+15.31,76.25,1,1,False,,Hospet Steels,2.863609755603092
+15.33,76.29,3,3,True,Unnamed Facility,Unnamed Facility,1.0644365500661341
+15.34,76.25,1,1,True,Hospet Steels,Hospet Steels,0.6626897029985552
+15.34,76.29,1,1,True,Unnamed Facility,Unnamed Facility,0.9180199275494637
+15.41,80.13,1,1,False,,Rise group of institutions,9.67678687480937
+15.45,79.13,1,1,False,,"APSRTC Bus Depot, Giddalur",23.30207912157149
+15.53,73.99,1,1,True,Unnamed Facility,Unnamed Facility,0.5819308764789861
+15.55,78.13,1,1,False,,Unnamed Facility,10.532983229075906
+15.57,78.94,1,1,False,,"APSRTC Bus Depot, Giddalur",21.465356922614767
+15.6,79.62,1,1,True,"APSRTC Bus Depot , Podili","APSRTC Bus Depot , Podili",1.4052552099619269
+15.66,73.99,2,3,True,Vedanta Limited,Vedanta Limited,0.09957468181280743
+15.69,80.02,1,1,False,,Unnamed Facility,9.05188267692419
+15.79,78.28,1,1,False,,Unnamed Facility,5.986842602785855
+15.83,79.52,1,1,False,,"APSRTC Bus Depot , Podili",27.110349545153287
+15.93,78.2,1,1,False,,"APSRTC Bus Depot , Nandikotkur",10.777969602671885
+15.98,78.41,1,1,False,,Ice factory,15.789674680379207
+16.12,79.98,1,1,False,,Unnamed Facility,10.637452250610956
+16.18,75.15,1,1,False,,Unnamed Facility,3.029448154178368
+16.27,78.4,1,1,False,,"TGSRTC Bus Depot , Kollapur",20.352139015646763
+16.28,80.32,1,1,False,,KALLAM spinning mills,3.1661138012108445
+16.36,81.29,1,1,False,,Machilipatnam Port,18.42468807027949
+16.43,79.46,1,1,False,,Cement Factory,5.117214448311777
+16.46,79.6,1,1,False,,Unnamed Facility,13.294047306040813
+16.49,79.95,1,1,False,,Unnamed Facility,4.33216808137342
+16.52,78.36,1,1,False,,Nagarkurnool Keerthi,2.5895825783516413
+16.55,79.76,1,1,False,,Unnamed Facility,7.640150444626738
+16.6,77.4,1,1,False,,Unnamed Facility,10.809786773163523
+16.84,76.58,1,1,False,,Unnamed Facility,13.417620880433333
+16.87,79.29,1,2,False,,"TGSRTC Bus Depot , Nalgonda",20.800898472978968
+16.88,79.99,1,1,False,,UltraTech Cement Ltd Factory,3.527103644214531
+16.88,80.85,1,1,False,,Unnamed Facility,10.037268868642922
+16.91,79.91,1,1,False,,Unnamed Facility,10.1468198732705
+17.01,79.93,1,1,True,Unnamed Facility,Unnamed Facility,1.2249153738589647
+17.05,75.64,1,2,False,,Unnamed Facility,7.600938964878581
+17.07,78.59,1,1,False,,Unnamed Facility,5.7767042039549485
+17.14,77.18,1,1,True,Unnamed Facility,Unnamed Facility,0.7498900893986705
+17.14,77.19,1,1,True,Unnamed Facility,Unnamed Facility,0.6261932635621024
+17.25,78.81,1,1,False,,Unnamed Facility,3.7198616989946482
+17.32,82.25,1,1,False,,Unnamed Facility,14.711360914850694
+17.42,82.34,1,2,False,,Unnamed Facility,5.658973324439259
+17.46,80.65,1,1,False,,Unnamed Facility,7.819081184551264
+17.59,80.32,1,1,True,"TGSRTC Bus Depot , Yallandu","TGSRTC Bus Depot , Yallandu",0.6849460431662053
+17.6,83.19,1,1,True,Unnamed Facility,Unnamed Facility,0.2938092409540043
+17.6,83.2,1,1,True,Unnamed Facility,Unnamed Facility,0.6972176389592005
+17.61,83.2,4,5,True,Unnamed Facility,Unnamed Facility,0.5760629196241915
+17.61,83.21,3,4,True,Unnamed Facility,Unnamed Facility,0.7780246357271924
+17.63,82.57,1,1,False,,"APSRTC Bus Depot , Narsipatnam",6.194893020541986
+17.69,83.24,1,1,True,Unnamed Facility,Unnamed Facility,0.09732221916424923
+17.69,83.25,1,1,True,Hindustan Petroleum Corporation Limited,Hindustan Petroleum Corporation Limited,0.7614099273295722
+17.76,75.82,1,1,True,Suresh Organics,Suresh Organics,0.05079218841526857
+17.91,83.45,1,1,False,,Divi’s Laboratories Limited,4.644186759278005
+17.96,80.79,4,7,False,,Unnamed Facility,4.1025659203991065
+17.96,80.8,2,2,False,,Unnamed Facility,2.9924129821588714
+17.97,83.15,1,1,True,Mahaamaaya Industries,Mahaamaaya Industries,0.43307085282229335
+18.04,74.86,1,1,False,,Unnamed Facility,7.2241356425096015
+18.27,74.2,1,1,True,Unnamed Facility,Unnamed Facility,0.23830111571007304
+18.31,82.38,1,1,False,,Machkund Hydro Electric (Joint) Scheme,23.080645601992856
+18.49,74.2,1,1,True,Unnamed Facility,Unnamed Facility,1.716558683815255
+18.68,73.04,1,1,True,Unnamed Facility,Unnamed Facility,0.769324103364858
+18.69,73.04,2,3,True,JSW Ispat Steel Plant,JSW Ispat Steel Plant,0.03059282638342178
+18.7,72.34,1,1,False,,Unnamed Facility,57.638645287808515
+18.72,79.51,1,1,False,,"TGSRTC Bus Depot , Godavarikhani",4.708603798899131
+18.72,79.54,4,7,False,,"TGSRTC Bus Depot , Godavarikhani",5.990373843390073
+19.02,72.89,1,1,True,Unnamed Facility,Unnamed Facility,0.5338442643245861
+19.09,82.17,2,3,True,NMDC I&S Plant Nagarnar,NMDC I&S Plant Nagarnar,0.20262645549394692
+19.1,82.16,2,2,True,Nagarnar Steel Plant,Nagarnar Steel Plant,1.1342953388255737
+19.1,82.17,5,16,True,Nagarnar Steel Plant,Nagarnar Steel Plant,1.0381322194230598
+19.28,71.43,1,1,False,,Unnamed Facility,150.53482937897664
+19.33,83.43,1,1,True,Indian Metals & Ferro Alloys Limited,Indian Metals & Ferro Alloys Limited,0.3529856675572532
+19.82,79.24,1,1,False,,Unnamed Facility,7.132385716910598
+19.92,79.11,1,1,True,Acc company limited,Acc company limited,0.37562735243534445
+19.93,79.12,2,2,True,Lloyd,Lloyd,0.07671265459925408
+19.94,73.71,2,2,True,Unnamed Facility,Unnamed Facility,0.02988534268234618
+19.96,79.34,1,1,True,Unnamed Facility,Unnamed Facility,0.9604749291889312
+20.53,85.91,1,2,True,UMSL Odisha,UMSL Odisha,0.5641903170222358
+20.66,78.5,1,1,True,Unnamed Facility,Unnamed Facility,0.21415852873771118
+20.7,78.64,2,2,True,Unnamed Facility,Unnamed Facility,0.6772213307441398
+20.76,85.29,4,6,False,,Unnamed Facility,5.301839133939346
+20.76,85.3,2,4,False,,Unnamed Facility,5.390021004357733
+20.79,85.25,3,4,True,Meramandali Power Station,Meramandali Power Station,1.8931472616821043
+20.79,85.26,4,9,True,Tata Steel Meramandali,Tata Steel Meramandali,1.5645637961568355
+20.79,85.27,1,1,True,Tata Steel Meramandali,Tata Steel Meramandali,1.8359486293921483
+20.8,85.25,2,2,True,Meramandali Power Station,Meramandali Power Station,0.8401587962024436
+20.8,85.26,1,3,True,Tata Steel Meramandali,Tata Steel Meramandali,0.4679952840407182
+20.81,85.25,1,2,True,Meramandali Power Station,Meramandali Power Station,0.5482603337439153
+20.81,85.26,3,4,True,Tata Steel Meramandali,Tata Steel Meramandali,0.6804716319014126
+20.82,71.07,1,1,False,,Unnamed Facility,2.3494728293239593
+20.86,84.98,1,1,True,Angul Steel Plant,Angul Steel Plant,1.8886200773877224
+20.86,84.99,4,10,True,Angul Steel Plant,Angul Steel Plant,1.7359104293236156
+20.86,85.0,1,1,False,,Angul Steel Plant,2.220978744350378
+20.87,84.99,4,9,True,Angul Steel Plant,Angul Steel Plant,0.6709796894061658
+20.87,85.0,1,3,True,Angul Steel Plant,Angul Steel Plant,1.5393424920456384
+20.87,96.39,1,1,True,Unnamed Facility,Unnamed Facility,0.4961208111808032
+20.88,84.98,1,2,True,Angul Steel Plant,Angul Steel Plant,0.9557225480925381
+20.89,84.98,4,8,True,Unnamed Facility,Unnamed Facility,0.7311517883791513
+20.89,84.99,1,1,True,Angul Steel Power Plant,Angul Steel Power Plant,0.3540333916128562
+20.91,71.46,3,4,True,Unnamed Facility,Unnamed Facility,0.2453765515457672
+20.95,86.04,2,3,True,Unnamed Facility,Unnamed Facility,1.391774985036351
+20.95,86.05,2,5,True,Unnamed Facility,Unnamed Facility,0.40526854773038795
+20.96,85.01,3,4,False,,Angul Monnet Power Company Limited,4.4956401072748555
+20.96,85.16,1,1,False,,Unnamed Facility,2.3405590286848676
+20.96,85.17,2,4,False,,Unnamed Facility,2.9482194497798084
+20.96,85.18,3,6,False,,Unnamed Facility,3.41625525931961
+20.96,85.19,3,8,False,,Unnamed Facility,2.304655901787566
+20.96,86.0,1,1,True,IEL Kalinganagar Tata Steel Power Station,IEL Kalinganagar Tata Steel Power Station,1.5087580713881494
+20.96,86.01,4,5,True,TATA Steel,TATA Steel,1.2288347424230146
+20.96,86.05,1,1,True,Duburi Steel Power Plant,Duburi Steel Power Plant,0.12961921772427462
+20.97,85.15,2,4,False,,Unnamed Facility,3.2846138961592963
+20.97,85.16,1,1,False,,Unnamed Facility,3.3955275675279055
+20.97,85.17,3,16,False,,Unnamed Facility,3.839712075031627
+20.97,85.18,3,7,False,,Unnamed Facility,3.61438284555538
+20.97,85.19,1,1,False,,Unnamed Facility,2.589286037320012
+20.97,86.0,3,4,True,IEL Kalinganagar Tata Steel Power Station,IEL Kalinganagar Tata Steel Power Station,0.3968983210188774
+20.97,86.01,4,11,True,TATA Steel,TATA Steel,0.11968306667035211
+20.97,86.02,2,2,True,Unnamed Facility,Unnamed Facility,1.092199783760377
+20.98,85.13,2,3,False,,Unnamed Facility,5.024907032087542
+20.98,85.14,2,2,False,,Unnamed Facility,4.587470437128344
+20.98,85.17,2,5,False,,Unnamed Facility,4.8236544296340265
+21.0,86.01,1,2,True,Unnamed Facility,Unnamed Facility,1.0930259804452855
+21.0,86.03,1,1,True,Unnamed Facility,Unnamed Facility,1.144288927400835
+21.07,85.04,1,1,False,,Unnamed Facility,3.7818761221319654
+21.07,85.05,1,1,False,,Unnamed Facility,2.984670896604661
+21.08,85.03,2,2,False,,Unnamed Facility,4.269925293087161
+21.08,85.04,2,5,False,,Unnamed Facility,3.2194833473920914
+21.1,72.63,2,2,True,Shell Energy India Private Limited,Shell Energy India Private Limited,0.9953267409835258
+21.1,72.64,4,6,True,ArcelorMittal Nippon Steel India,ArcelorMittal Nippon Steel India,1.1725936516859103
+21.1,72.65,2,3,True,Hazira Power Plant,Hazira Power Plant,1.295100306726884
+21.11,72.64,2,4,True,ArcelorMittal Nippon Steel India,ArcelorMittal Nippon Steel India,0.4154170033298988
+21.11,72.65,3,6,True,Hazira Power Plant,Hazira Power Plant,0.6531349153283484
+21.18,81.38,2,2,True,Unnamed Facility,Unnamed Facility,1.0542281641584859
+21.18,81.39,3,4,True,Bhilai Steel Plant,Bhilai Steel Plant,0.49852866720821776
+21.19,81.2,1,1,True,Unnamed Facility,Unnamed Facility,0.7732677167689798
+21.19,81.39,3,6,True,Bhilai Steel Plant,Bhilai Steel Plant,0.6340125711440744
+21.19,81.4,1,1,True,Bhilai Steel Plant,Bhilai Steel Plant,1.1836942045052543
+21.19,81.41,1,1,True,Bhilai 500 MW Expansion Power Project,Bhilai 500 MW Expansion Power Project,1.6052963683641845
+21.19,81.42,1,1,True,Bhilai 500 MW Expansion Power Project,Bhilai 500 MW Expansion Power Project,0.5207738438676974
+21.2,81.42,1,1,True,Bhilai 500 MW Expansion Power Project,Bhilai 500 MW Expansion Power Project,1.3972850777458605
+21.23,79.63,1,1,True,Sunflag Steel,Sunflag Steel,0.198409343045406
+21.24,79.22,1,1,False,,Unnamed Facility,2.4752087954212754
+21.24,94.85,1,2,True,Unnamed Facility,Unnamed Facility,1.8242163188546803
+21.25,79.21,1,1,False,,Unnamed Facility,4.034696069052207
+21.25,81.77,1,1,True,Unnamed Facility,Unnamed Facility,0.6302270668937137
+21.31,81.58,1,1,True,Unnamed Facility,Unnamed Facility,1.1407260344327466
+21.31,81.59,1,1,True,Unnamed Facility,Unnamed Facility,0.09394472945495386
+21.33,78.97,1,1,False,,Unnamed Facility,4.869762268470871
+21.34,78.97,3,5,False,,Unnamed Facility,4.652341289053007
+21.34,81.67,1,1,True,Jayaswal Neco,Jayaswal Neco,1.4254449750904838
+21.35,81.67,1,1,True,Jayaswal Neco,Jayaswal Neco,0.3713201473082228
+21.37,81.64,1,1,True,Unnamed Facility,Unnamed Facility,1.1186935663286168
+21.37,81.68,1,2,True,Unnamed Facility,Unnamed Facility,0.523070189042015
+21.38,81.68,2,3,True,Unnamed Facility,Unnamed Facility,0.6113787308513992
+21.43,72.98,1,1,True,Unnamed Facility,Unnamed Facility,1.8476529711097167
+21.49,81.77,2,2,True,Unnamed Facility,Unnamed Facility,0.44021051958642443
+21.54,81.95,1,1,True,Unnamed Facility,Unnamed Facility,0.4416664986245916
+21.56,81.75,1,1,True,Unnamed Facility,Unnamed Facility,0.7355039783882791
+21.58,82.02,2,2,True,Unnamed Facility,Unnamed Facility,0.4624995110115888
+21.62,81.79,3,3,False,,Unnamed Facility,5.031375579225203
+21.67,82.08,1,1,True,Unnamed Facility,Unnamed Facility,0.5598973729542064
+21.68,82.08,1,1,True,Unnamed Facility,Unnamed Facility,0.9621672329662859
+21.68,84.04,3,8,True,Shyam Metallic & Energy,Shyam Metallic & Energy,0.5161449849171692
+21.73,82.22,1,1,True,Unnamed Facility,Unnamed Facility,0.7010512550791562
+21.74,83.84,4,9,True,Unnamed Facility,Unnamed Facility,0.8350005091493488
+21.75,83.84,4,14,True,Unnamed Facility,Unnamed Facility,0.6240818309970466
+21.75,83.85,3,5,True,Unnamed Facility,Unnamed Facility,1.2330453505389534
+21.75,84.02,1,1,True,Bhushan Power & Steel,Bhushan Power & Steel,1.3914512049111865
+21.76,83.82,1,1,False,,Unnamed Facility,2.3318458635765498
+21.76,83.84,4,8,True,Unnamed Facility,Unnamed Facility,0.8267158718883825
+21.76,83.85,3,8,True,Unnamed Facility,Unnamed Facility,1.02342087322279
+21.76,84.02,2,4,True,Bhushan Power & Steel,Bhushan Power & Steel,0.3312921905172805
+21.77,84.02,2,5,True,Rengali Bhushan Power Plant,Rengali Bhushan Power Plant,0.20990919283760948
+21.79,80.02,1,2,False,,Unnamed Facility,24.102419184417986
+21.79,83.99,1,1,True,Unnamed Facility,Unnamed Facility,0.06321744521742213
+21.8,82.04,2,2,False,,Nova Iron & Steel,9.74649394855492
+21.8,83.88,1,1,True,Unnamed Facility,Unnamed Facility,1.7434721296047033
+21.8,83.89,2,3,True,Unnamed Facility,Unnamed Facility,1.6645988380020875
+21.82,83.99,1,1,True,Unnamed Facility,Unnamed Facility,0.6681560282182288
+21.83,83.9,1,1,False,,Unnamed Facility,3.0916134124731505
+21.86,83.97,2,2,True,MSP Steel,MSP Steel,0.5119592428109683
+21.87,83.5,1,1,True,Unnamed Facility,Unnamed Facility,0.43560379350661715
+21.88,83.5,2,2,True,Unnamed Facility,Unnamed Facility,0.4685600646994172
+21.88,83.55,1,1,True,Unnamed Facility,Unnamed Facility,0.3608359592359863
+21.88,83.56,3,3,True,Unnamed Facility,Unnamed Facility,0.5688253084655973
+21.9,83.98,1,1,True,Unnamed Facility,Unnamed Facility,0.48657032342916823
+21.92,83.34,1,1,True,Raigarh Jindal power station,Raigarh Jindal power station,0.8349083832630539
+21.92,83.35,4,7,True,Raigarh Jindal power station,Raigarh Jindal power station,0.8303941876734718
+21.92,85.22,2,2,True,Rungta Kamanda power station,Rungta Kamanda power station,1.0693894850879389
+21.93,85.22,1,2,True,Rungta Kamanda power station,Rungta Kamanda power station,0.4074275408412225
+21.94,81.98,1,1,False,,Unnamed Facility,7.734113440780026
+21.97,83.77,1,1,False,,Hemgir Coal Washery,10.004377045486102
+21.97,85.31,1,1,True,Unnamed Facility,Unnamed Facility,0.8019457168309654
+21.98,83.23,2,2,True,Unnamed Facility,Unnamed Facility,0.7318673796439852
+21.99,83.23,1,1,True,Monnet Raigarh Power Plant,Monnet Raigarh Power Plant,0.3771884908244236
+21.99,83.37,1,1,True,Unnamed Facility,Unnamed Facility,1.2746109333238467
+22.0,82.67,3,4,True,Prakash Champa Captive Power Station,Prakash Champa Captive Power Station,0.4080037770619083
+22.01,82.67,2,5,True,Prakash Industries Steel Plant,Prakash Industries Steel Plant,0.5893825490293447
+22.01,83.75,1,1,False,,Hemgir Coal Washery,13.33176774112814
+22.02,82.18,1,1,True,Silpahari Industrial Area,Silpahari Industrial Area,0.5199074217313883
+22.02,83.75,2,3,False,,Hemgir Coal Washery,14.417829018749773
+22.03,83.36,1,1,False,,Unnamed Facility,2.417621220233222
+22.03,83.37,1,1,True,Unnamed Facility,Unnamed Facility,1.4634402494862426
+22.03,83.74,1,1,False,,Hemgir Coal Washery,15.333190606920823
+22.04,83.35,2,3,False,,Unnamed Facility,2.4651219680942424
+22.04,83.73,1,3,False,,Hemgir Coal Washery,16.34886538714636
+22.05,88.12,1,1,True,Hindustan Fertilizer Corporation Limited,Hindustan Fertilizer Corporation Limited,0.458821183252702
+22.06,85.46,1,1,False,,Unnamed Facility,3.613228732141396
+22.06,85.47,1,1,False,,Unnamed Facility,3.3148615026261083
+22.06,88.12,1,2,True,Unnamed Facility,Unnamed Facility,0.5034219750335249
+22.06,88.13,1,1,True,Exide Industries Limited,Exide Industries Limited,0.5318218077455292
+22.07,83.71,1,1,False,,Unnamed Facility,19.570132324041083
+22.09,83.12,1,2,False,,Binjkote Power Station,12.650636193206445
+22.11,83.12,1,1,False,,Binjkote Power Station,14.235865350577363
+22.21,84.86,2,5,True,Unnamed Facility,Unnamed Facility,1.5188787616977324
+22.21,84.87,1,2,True,Rourkela Works II Power Plant,Rourkela Works II Power Plant,1.6276460119095337
+22.21,84.88,1,2,True,Rourkela Works II Power Plant,Rourkela Works II Power Plant,1.3172275877790558
+22.22,84.76,1,1,True,Unnamed Facility,Unnamed Facility,0.39796785118819444
+22.22,84.87,1,1,True,Rourkela Works II Power Plant,Rourkela Works II Power Plant,0.9869473806473823
+22.23,84.75,1,1,True,Unnamed Facility,Unnamed Facility,0.6511151210507933
+22.24,87.39,1,1,True,BEL,BEL,1.0149135991697802
+22.32,82.54,1,1,False,,S V Power Private Limited Renki,3.069781785978188
+22.32,82.55,1,1,False,,S V Power Private Limited Renki,3.7031718573316663
+22.32,82.56,2,2,False,,South Eastern Coalfields Ltd. (SECL) - Junadih Rapid Coal Loading System (JRGR),3.5545814362590056
+22.32,82.57,2,2,False,,South Eastern Coalfields Ltd. (SECL) - Junadih Rapid Coal Loading System (JRGR),3.3725710656938177
+22.32,82.59,2,2,False,,South Eastern Coalfields Ltd. (SECL) - Junadih Rapid Coal Loading System (JRGR),4.033756987271716
+22.33,82.53,1,1,False,,S V Power Private Limited Renki,3.8663774225887986
+22.33,82.61,2,2,False,,Unnamed Facility,4.766766811631531
+22.34,69.86,1,1,True,Unnamed Facility,Unnamed Facility,0.2524182425312064
+22.34,69.87,1,1,True,Reliance Refinery,Reliance Refinery,0.5216263999685629
+22.35,82.3,1,1,False,,Bhandhakhar Power Station,14.90351268028595
+22.36,82.3,3,10,False,,Bhandhakhar Power Station,15.011735777291905
+22.36,87.02,1,1,False,,RASHMI CEMENT LTD. (CEMENT DIVISION),3.582058266528033
+22.36,87.29,1,1,True,Unnamed Facility,Unnamed Facility,0.5269739717315364
+22.36,87.3,2,2,True,Unnamed Facility,Unnamed Facility,1.622630533287065
+22.37,87.02,1,2,False,,RASHMI CEMENT LTD. (CEMENT DIVISION),2.478365605619693
+22.37,87.3,2,5,True,Unnamed Facility,Unnamed Facility,1.5848499337409045
+22.38,87.28,2,7,True,Unnamed Facility,Unnamed Facility,0.39112387182348385
+22.42,69.04,1,1,True,Unnamed Facility,Unnamed Facility,0.46012810002674104
+22.57,85.89,2,3,True,Unnamed Facility,Unnamed Facility,0.27885041942127203
+22.57,85.9,3,7,True,Unnamed Facility,Unnamed Facility,0.8604854483973527
+22.59,85.9,1,1,True,Unnamed Facility,Unnamed Facility,0.8267949245996695
+22.61,85.91,1,1,False,,Unnamed Facility,2.401237217842833
+22.69,92.16,1,1,False,,Unnamed Facility,14.048907531071176
+22.79,86.2,2,4,True,Tata Steel,Tata Steel,0.5542914951500992
+22.79,86.21,1,1,True,Jojobera Tata Unit 6 Power Station,Jojobera Tata Unit 6 Power Station,0.5135024554097699
+22.8,86.09,1,1,True,Adityapur Works Power Station,Adityapur Works Power Station,0.4138260737242487
+22.8,86.21,1,2,True,Jojobera Tata Unit 6 Power Station,Jojobera Tata Unit 6 Power Station,0.5995281491351652
+22.83,69.53,1,1,True,Coastal Gujarat Power Ltd,Coastal Gujarat Power Ltd,1.6771821382223895
+22.87,86.06,1,3,True,Unnamed Facility,Unnamed Facility,0.7156795177568923
+22.93,69.7,1,4,True,Unnamed Facility,Unnamed Facility,0.32087131180609674
+22.93,69.82,1,1,True,Unnamed Facility,Unnamed Facility,0.43015687712095624
+22.93,70.11,1,1,True,Tuna-Tekra Container Terminal,Tuna-Tekra Container Terminal,1.361036873363361
+23.16,82.34,1,2,False,,JKD Mines,20.236465571515442
+23.17,82.34,1,2,False,,JKD Mines,20.041430159509094
+23.27,70.26,1,1,True,Unnamed Facility,Unnamed Facility,0.6597272144120973
+23.3,70.48,1,1,True,Unnamed Facility,Unnamed Facility,0.6055028466389729
+23.31,70.2,1,1,False,,Unnamed Facility,4.901257416750066
+23.32,70.49,1,1,True,Unnamed Facility,Unnamed Facility,0.4472078030823525
+23.41,72.42,1,1,True,Unnamed Facility,Unnamed Facility,0.4166727379210436
+23.51,72.42,1,1,False,,Unnamed Facility,2.0405326821923384
+23.51,94.01,1,1,False,,ရာဇဂြိုဟ်ရေအားလျှပ်စစ်စက်ရုံ,8.433489507163808
+23.54,72.41,1,1,False,,Radhe industroal park,3.325140728177857
+23.55,86.54,1,1,False,,Unnamed Facility,8.730765895922548
+23.55,87.24,1,1,True,Durgapur SAIL power station,Durgapur SAIL power station,0.9713803738063505
+23.56,87.24,1,1,True,Unnamed Facility,Unnamed Facility,0.955584499991176
+23.58,86.73,1,1,False,,Unnamed Facility,9.201267368560082
+23.61,86.79,1,1,False,,Unnamed Facility,5.6234803519673715
+23.63,70.44,1,1,False,,Unnamed Facility,3.2651173705687353
+23.63,96.6,1,1,False,,Gold Mines,39.435687456888374
+23.65,85.44,1,2,True,Unnamed Facility,Unnamed Facility,0.6753301481903863
+23.66,85.51,1,2,True,Unnamed Facility,Unnamed Facility,0.4248684702805148
+23.66,87.15,1,1,True,Belbaid,Belbaid,0.7596988965632138
+23.66,87.16,1,2,True,Parasea,Parasea,0.9688273211008266
+23.67,85.0,1,4,True,Unnamed Facility,Unnamed Facility,1.3080680980999595
+23.67,85.32,1,1,True,Unnamed Facility,Unnamed Facility,1.902337564792972
+23.67,86.09,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.9255938959981658
+23.68,86.08,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.583269938500557
+23.68,86.09,2,8,True,Bokaro Works Power Plant,Bokaro Works Power Plant,0.8367464710093752
+23.68,86.1,1,1,True,Bokaro Steel Plant,Bokaro Steel Plant,0.6324943160198738
+23.68,86.39,2,4,False,,Unnamed Facility,2.5415928024033585
+23.68,86.4,3,9,False,,Unnamed Facility,2.413981956525809
+23.69,85.37,1,2,False,,Unnamed Facility,2.685384235953354
+23.69,86.08,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.4042217933421812
+23.69,86.39,2,2,True,Unnamed Facility,Unnamed Facility,1.5368036354932286
+23.69,86.44,1,1,False,,SAIL Chasnalla ADM Building,2.873701480270232
+23.69,87.12,1,2,True,Unnamed Facility,Unnamed Facility,0.3499572018828322
+23.7,85.37,1,1,False,,Unnamed Facility,3.4588702947455627
+23.7,86.07,1,1,True,Unnamed Facility,Unnamed Facility,0.960397086830774
+23.7,86.08,1,1,True,Bokaro Works Power Plant,Bokaro Works Power Plant,1.977320493478918
+23.7,87.11,1,1,True,Unnamed Facility,Unnamed Facility,0.550407830796166
+23.7,87.12,1,1,True,Unnamed Facility,Unnamed Facility,0.5349070109041728
+23.71,86.42,1,1,False,,Unnamed Facility,2.6656944853335034
+23.71,86.45,3,5,False,,SAIL Chasnalla ADM Building,5.050956496854379
+23.72,86.42,1,1,False,,Unnamed Facility,3.2290223840766648
+23.74,86.43,3,5,False,,Unnamed Facility,4.976503018224265
+23.74,86.44,1,2,False,,Unnamed Facility,5.5199799203752535
+23.76,85.85,3,3,False,,Unnamed Facility,2.5338792567093993
+23.76,86.39,2,2,True,Unnamed Facility,Unnamed Facility,1.049803439248269
+23.76,86.4,3,9,True,Unnamed Facility,Unnamed Facility,1.8035020377300777
+23.76,86.41,1,1,False,,Unnamed Facility,2.001488817433184
+23.77,86.2,1,1,False,,Unnamed Facility,2.2279564416635065
+23.77,86.37,1,1,True,Unnamed Facility,Unnamed Facility,1.5460595621278466
+23.77,86.4,1,1,True,Unnamed Facility,Unnamed Facility,0.7366575314725422
+23.78,86.2,1,1,True,Unnamed Facility,Unnamed Facility,1.2614086854717868
+23.78,86.21,1,3,False,,Unnamed Facility,2.1554185825434105
+23.78,86.36,1,1,False,,Unnamed Facility,3.1159003812982573
+23.78,86.37,1,1,False,,Unnamed Facility,2.4182034498587117
+23.78,86.39,1,1,True,Unnamed Facility,Unnamed Facility,1.4230586198864437
+23.79,85.55,2,5,True,West Bokaro Coal Mine,West Bokaro Coal Mine,0.6061327976446204
+23.79,86.35,1,1,False,,Unnamed Facility,3.916253129114851
+23.8,86.33,2,3,False,,Unnamed Facility,3.119628727040166
+23.8,86.35,1,1,False,,Unnamed Facility,2.8250690189210097
+23.82,85.5,1,1,True,Unnamed Facility,Unnamed Facility,1.1569839840622285
+23.83,84.57,1,1,False,,Unnamed Facility,15.060270201986253
+23.84,85.47,1,1,True,Unnamed Facility,Unnamed Facility,1.5906387468282097
+24.01,96.12,1,1,False,,နမ်းခမ်း  သစ်ကွင်း,25.09476906738259
+24.07,72.25,1,1,False,,Unnamed Facility,7.170083003492823
+24.14,82.59,1,1,False,,Unnamed Facility,4.252662491790473
+24.15,82.66,1,1,True,Field WorkShop,Field WorkShop,1.3362291787022282
+24.16,82.56,2,2,False,,Unnamed Facility,4.745415581056109
+24.16,82.57,2,2,False,,Unnamed Facility,4.390957585021649
+24.18,82.64,1,1,True,Unnamed Facility,Unnamed Facility,1.7012792854587442
+24.18,82.66,2,2,True,Unnamed Facility,Unnamed Facility,1.2590936413199283
+24.2,82.71,2,3,True,Unnamed Facility,Unnamed Facility,0.4824605304080408
+24.2,82.72,1,1,True,Unnamed Facility,Unnamed Facility,1.3157597912755257
+24.21,82.71,2,2,True,Unnamed Facility,Unnamed Facility,1.584189434718247
+24.26,96.54,1,1,False,,Unnamed Facility,8.90459427404521
+24.31,85.42,1,1,False,,Unnamed Facility,5.842048061687203
+24.45,83.04,1,1,True,Cement Factory,Cement Factory,0.05189407661541508
+24.68,68.23,1,1,False,,Unnamed Facility,7.416404040830904
+24.69,73.0,1,1,True,Unnamed Facility,Unnamed Facility,0.3822738946369916
+24.72,96.31,1,1,False,,ကျောက်ခွဲစက်,11.390024571280456
+24.76,74.61,2,3,True,TPP Aditya Cement Works UltraTech Cement Works,TPP Aditya Cement Works UltraTech Cement Works,0.5763622375834261
+24.81,68.12,1,1,False,,Unnamed Facility,12.230734843986612
+24.82,73.09,1,2,True,Binani Cement,Binani Cement,0.42533453308837493
+24.89,68.01,1,1,False,,Unnamed Facility,16.855799131030047
+25.02,68.23,1,2,False,,Unnamed Facility,8.124296414990352
+25.3,68.12,1,1,False,,Unnamed Facility,5.019112026099984
+25.39,68.58,4,7,True,Kunnar LPG Plant & Oil Field,Kunnar LPG Plant & Oil Field,0.6293652211886176
+25.52,68.55,1,1,False,,Kausar Gas,6.1432413375318955
+25.58,68.63,1,1,False,,Kausar Gas,10.93546441713204
+25.71,73.58,1,1,False,,Unnamed Facility,26.704435697044563
+25.98,73.42,1,1,False,,Pali Industrial Area Phase 2,22.32875217543217
+25.98,93.57,1,1,False,,Unnamed Facility,13.711935686355629
+26.1,68.88,1,1,False,,Unnamed Facility,10.727784661334145
+26.11,68.95,1,2,False,,Unnamed Facility,7.229145191626961
+26.15,68.6,1,1,False,,NawabShah Railway Station,23.417052988640208
+26.62,68.16,1,1,False,,Pad Adan Railway Station,22.29397169073218
+26.64,72.26,1,1,False,,Godelai,30.917550416426565
+26.76,83.2,1,1,False,,Jute Mills,2.534496154717924
+26.77,94.51,1,1,False,,Unnamed Facility,7.477131188975223
+27.14,72.44,1,1,False,,Unnamed Facility,2.0647025717448164
+27.31,95.27,1,1,False,,Unnamed Facility,3.523472160993029
+27.32,95.27,3,3,False,,Unnamed Facility,2.7988625000080214
+27.32,95.28,1,1,True,Unnamed Facility,Unnamed Facility,1.9546724714753956
+27.38,95.33,1,2,True,Unnamed Facility,Unnamed Facility,0.44749857805696314
+27.38,95.34,2,2,True,Unnamed Facility,Unnamed Facility,0.7357223817374602
+27.46,95.48,1,1,False,,Unnamed Facility,4.485490572841189
+27.6,95.4,1,1,False,,Unnamed Facility,10.670228096597
+27.64,69.48,1,1,False,,Unnamed Facility,13.361521125667602
+27.65,68.46,1,1,False,,Larkana Railway Station,30.121800110752144
+27.86,95.18,1,2,False,,Unnamed Facility,35.08216262456433
+27.87,96.93,1,1,False,,Khangkio Tea Factory,87.33956501274454
+27.88,96.92,1,2,False,,Khangkio Tea Factory,86.35877343888956
+27.88,96.93,1,1,False,,Khangkio Tea Factory,87.46295510358604
+27.93,69.85,1,2,False,,Foundation Power Company,20.43633219610705
+27.94,69.72,1,1,False,,Foundation Power Company,6.871108658952429
+27.95,95.26,1,1,False,,Unnamed Facility,45.37320465729388
+27.96,96.95,1,1,False,,Khangkio Tea Factory,91.11872951626113
+27.96,96.96,1,1,False,,Khangkio Tea Factory,92.20613982412806
+27.97,68.93,1,1,False,,بکری پاکستان آئل ڈپو,12.073204220418233
+28.04,69.67,2,2,True,Unnamed Facility,Unnamed Facility,0.36237718644294703
+28.35,77.23,2,2,False,,Unnamed Facility,2.516710931211976
+28.37,77.23,1,1,True,Unnamed Facility,Unnamed Facility,0.4851898334142303
+28.42,69.7,2,2,True,Guddu Thermal Power Station,Guddu Thermal Power Station,0.9998898199547962
+28.43,69.7,1,1,True,Guddu Thermal Power Station,Guddu Thermal Power Station,0.28314590619765617
+28.45,68.15,1,1,False,,Dera Murad Jamali Railway Station,13.45005143410666
+28.57,96.95,1,2,False,,Unnamed Facility,115.76515330513567
+28.66,77.57,1,1,True,Unnamed Facility,Unnamed Facility,0.5256488458932217
+28.66,77.58,1,1,True,Unnamed Facility,Unnamed Facility,0.4047211352785953
+28.85,77.15,1,1,False,,Unnamed Facility,2.3729092316072653
+29.19,88.53,1,1,False,,Unnamed Facility,18.89849085371333
+29.24,91.86,1,1,False,,Unnamed Facility,3.851648448115402
+29.25,91.86,1,1,False,,Unnamed Facility,3.205053679481209
+29.29,88.91,1,1,False,,Unnamed Facility,2.2802541698957253
+29.33,69.01,1,1,False,,Unnamed Facility,41.55223002786567
+29.34,69.02,1,1,False,,Unnamed Facility,42.53905261350817
+29.47,76.86,1,1,True,Unnamed Facility,Unnamed Facility,0.38928920776540255
+29.48,76.86,2,3,True,Unnamed Facility,Unnamed Facility,1.4788370705478975
+29.8,72.78,1,1,False,,Gulabka Cotton Factory,25.621101605213997
+29.82,72.85,1,1,False,,Unnamed Facility,24.5332317814396
+29.9,74.95,1,1,False,,Guru Gobind Singh Refinery,2.0356451966729487
+29.91,74.94,1,1,True,Guru Gobind Singh Refinery,Guru Gobind Singh Refinery,1.636221696514197
+29.91,74.95,3,10,True,Guru Gobind Singh Refinery,Guru Gobind Singh Refinery,0.9419079447711518
+29.91,74.96,1,2,True,Guru Gobind Singh Refinery,Guru Gobind Singh Refinery,1.2530052094868138
+29.94,69.95,1,1,False,,Unnamed Facility,16.752253996940706
+30.07,96.98,1,1,False,,Unnamed Facility,21.48188631720289
+30.33,71.98,1,1,True,Unnamed Facility,Unnamed Facility,1.20067641954887
+30.47,71.74,1,1,False,,Unnamed Facility,13.726485628000594
+30.6,73.65,1,1,True,Unnamed Facility,Unnamed Facility,1.0129144051336663
+30.68,73.86,1,1,False,,Unnamed Facility,5.641395729076919
+30.84,72.17,1,1,False,,Unnamed Facility,8.250151609726965
+31.2,72.16,1,1,False,,Trimmu Hydropower Project,6.340329338825303
+31.21,73.73,1,3,False,,Unnamed Facility,12.02539537673995
+31.21,75.97,1,1,False,,Unnamed Facility,4.752176692363714
+31.23,75.08,1,1,False,,Unnamed Facility,8.79359140638211
+31.25,76.93,1,1,True,Ambuja Cements Limited,Ambuja Cements Limited,0.2905322058313584
+31.26,74.14,1,1,True,Unnamed Facility,Unnamed Facility,0.6073920309244367
+31.26,74.15,1,1,True,Unnamed Facility,Unnamed Facility,0.06447238146934278
+31.26,76.93,1,2,True,Ambuja Cements Limited,Ambuja Cements Limited,0.8468267364266875
+31.32,72.16,1,1,False,,Unnamed Facility,19.1016984260554
+31.33,72.16,1,1,False,,Unnamed Facility,18.51747414873183
+31.34,72.16,1,1,False,,Unnamed Facility,17.983094207622386
+31.37,76.35,1,1,True,Unnamed Facility,Unnamed Facility,0.417116029231673
+31.37,76.36,1,1,True,National Fertilizers Limited,National Fertilizers Limited,0.5047442557748497
+31.46,72.14,1,1,False,,Unnamed Facility,14.697155970961978
+31.58,72.38,1,1,False,,Shakarganj Limited (SML) II Bhone,25.506129233013375
+31.68,72.21,1,1,False,,Shakarganj Limited (SML) II Bhone,12.182122587092355
+31.73,74.49,1,1,False,,Unnamed Facility,11.681517047900673
+32.09,74.16,1,1,True,Unnamed Facility,Unnamed Facility,1.883300817826011
+32.1,74.18,1,1,True,Unnamed Facility,Unnamed Facility,1.4738829311405512
+32.13,74.18,1,1,True,Unnamed Facility,Unnamed Facility,0.7117227308069759
+32.25,73.93,1,1,False,,Unnamed Facility,6.161908092188842
+32.29,70.74,2,2,True,Lucky Cement Pezu,Lucky Cement Pezu,0.28760063257177926
+32.3,74.32,1,1,True,Daska | Punjab Small Industries Corporation,Daska | Punjab Small Industries Corporation,1.1957619178365868
+32.43,71.37,1,1,True,Chashma Barrage Hydro,Chashma Barrage Hydro,0.618810651296178
+32.57,72.56,1,1,True,Zaman Cement Factory,Zaman Cement Factory,0.6127671941968548
+32.58,72.56,1,1,True,Zaman Cement Factory,Zaman Cement Factory,0.7717307708970519
+32.65,70.47,1,1,False,,Unnamed Facility,40.31949562942183
+32.65,70.48,2,2,False,,Unnamed Facility,39.95331008305525
+32.66,70.47,1,1,False,,Unnamed Facility,39.21255116144453
+32.72,72.93,2,2,True,بیسٹ وے سیمنٹ فیکٹری,بیسٹ وے سیمنٹ فیکٹری,0.35918422674833034
+33.2,70.48,1,1,True,KAITU WEIR PROJECT,KAITU WEIR PROJECT,0.936754426110329
+33.21,70.47,1,1,True,KAITU WEIR PROJECT,KAITU WEIR PROJECT,0.7876424496464007
+33.3,71.18,1,1,True,Banda Dawood Shah Oil Facility,Banda Dawood Shah Oil Facility,1.1266304078898004
+33.3,71.19,3,3,True,Banda Dawood Shah Oil Facility,Banda Dawood Shah Oil Facility,0.3156456685558036
+33.37,70.31,1,1,False,,Unnamed Facility,7.427004646385598
+33.55,71.55,1,1,True,کوہاٹ سیمنٹ فیکٹری,کوہاٹ سیمنٹ فیکٹری,0.22858246708374158
+33.69,72.71,2,2,True,فوجی سیمنٹ,فوجی سیمنٹ,0.2825671878429174
+33.8,72.1,1,1,True,Unnamed Facility,Unnamed Facility,0.5295362844520513
+34.09,72.01,1,1,True,رسالپور ایکسپورٹ پراسیسنگ زون,رسالپور ایکسپورٹ پراسیسنگ زون,1.7194258793955886
+34.1,72.01,1,1,True,رسالپور ایکسپورٹ پراسیسنگ زون,رسالپور ایکسپورٹ پراسیسنگ زون,1.7433704222203832
+35.82,68.37,1,1,False,,Unnamed Facility,28.366415972907994
+35.83,68.37,1,1,False,,Unnamed Facility,29.461006317211037
+35.97,68.68,1,1,True,Unnamed Facility,Unnamed Facility,0.8209862442934767
+35.97,68.69,1,3,True,Unnamed Facility,Unnamed Facility,0.4255907555999164
+36.35,95.23,1,1,True,Unnamed Facility,Unnamed Facility,0.9352830179060675
+36.35,95.24,1,1,True,Unnamed Facility,Unnamed Facility,0.7570445025875842
+36.36,95.23,1,2,True,Unnamed Facility,Unnamed Facility,0.9345244177623163
+36.36,95.24,1,1,True,Unnamed Facility,Unnamed Facility,0.39285766026706576
+36.38,95.11,1,1,True,Unnamed Facility,Unnamed Facility,0.31668727577241074
+36.96,81.34,1,1,False,,Unnamed Facility,6.565715520132842
+36.96,81.35,1,1,False,,Unnamed Facility,7.040328705632777
+36.97,81.35,1,3,False,,Unnamed Facility,8.02737438643575
