@@ -38,16 +38,17 @@
 
 ---
 
-## 📌 Problem Statement
+# 👥 Team Blaze Core
 
-| | |
+| Member | Role |
 |---|---|
-| **Problem Statement ID** | SIH26162 |
-| **Problem Statement** | AI-Based Detection and Classification of Industrial Fires and Persistent Thermal Sources Using NASA FIRMS, OSM & Satellite Data |
-| **Organization** | NTRO |
-| **Theme** | Disaster Management |
-| **Category** | Software |
-| **Team Name** | Blaze Core |
+| **Kunal Kumar Vishwakarma** | Team Leader | Backend, Frontend & PPT | kunalvishwa123@gmail.com
+| **Sanjeet** | Team Member | Dataset Researcher | codersanjeet07@gmail.com
+| **Harsh Goyal** | Team Member | Frontend | harshgoyal89200@gmail.com
+| **Anjali Rout** | Team Member | Context Research & PPT | anjalirout782@gmail.com
+| **Yash Kumar** | Team Member | Technical Contributor | kumaryash8731@gmail.com
+| **Yashika Chandra** | Team Member | Context Research |	yashikachandra06@gmail.com
+
 
 ---
 
