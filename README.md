@@ -12,16 +12,8 @@
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Pyrovision-brightgreen?style=for-the-badge" alt="Live Demo">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🤖%20ML-Random%20Forest-orange?style=for-the-badge" alt="Random Forest">
-</a>
-
-<a href="#">
+<a href="https://supabase.com/">
 <img src="https://img.shields.io/badge/🗄️%20DATABASE-Supabase-3ECF8E?style=for-the-badge&logo=supabase" alt="Supabase">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/🗺️%20GIS-React%20%2B%20Leaflet-blue?style=for-the-badge" alt="GIS">
 </a>
 
 <br><br>
